@@ -30,7 +30,7 @@ Als wir sehen erst Zeile endet ohne ; weil ein description habe, aber die rest e
 
 Um JSON und ttl zu generieren mit python, sollte die 
 ```bash
-python ../python/app.py steuerdatei.csv
+python3 app.py ../props/steuerdatei.csv
 ```
 
        
