@@ -1,35 +1,35 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/bb6ba81a-1687-4d17-ad00-bf475f12b5a1> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/1df21af5-f80d-4b10-a05c-99caf5a44072> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
     skos:notation "1" ;
     skos:prefLabel "Sprache/Fachsprache"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/f1f78505-6c60-448a-9f60-a455f1db0752> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Adressatenbezug/Sachbezug"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/fcf8f847-7740-413d-8dca-f80d80bfdd1d> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/40bb2c04-c3e3-4edb-9c07-08d8e9c79088> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
     skos:notation "2" ;
     skos:prefLabel "Darstellungsformen"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/0982c8f4-3c02-4471-87c9-2614eb443979> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Adressatenbezug/Sachbezug"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Aspekte2"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/bb6ba81a-1687-4d17-ad00-bf475f12b5a1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/f1f78505-6c60-448a-9f60-a455f1db0752>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/fcf8f847-7740-413d-8dca-f80d80bfdd1d> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/bb6ba81a-1687-4d17-ad00-bf475f12b5a1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/f1f78505-6c60-448a-9f60-a455f1db0752>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/fcf8f847-7740-413d-8dca-f80d80bfdd1d> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/0982c8f4-3c02-4471-87c9-2614eb443979>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/1df21af5-f80d-4b10-a05c-99caf5a44072>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/40bb2c04-c3e3-4edb-9c07-08d8e9c79088> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/0982c8f4-3c02-4471-87c9-2614eb443979>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/1df21af5-f80d-4b10-a05c-99caf5a44072>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/40bb2c04-c3e3-4edb-9c07-08d8e9c79088> ;
     skos:prefLabel "Aspekte2"@de .
 

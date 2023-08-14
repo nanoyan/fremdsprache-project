@@ -1,45 +1,45 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/28aaa328-944b-4871-bdbe-07d6b70bdfef> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/89cbfa43-c23e-48ba-a779-5e02a56948a3> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
     skos:notation "1" ;
     skos:prefLabel "CD"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/6be6e531-c529-454f-b3e5-0e8f1ab355e0> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
-    skos:notation "4" ;
-    skos:prefLabel "keine (Daten liegen vor)"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/8e1e99e4-105f-4c8e-be44-155a4a365064> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/a300fc1a-d471-4781-98ce-8795fb0c87ea> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
     skos:notation "2" ;
     skos:prefLabel "Gastrechnen"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/bda24bf9-b1b0-4821-a93c-db93fdd6fe0f> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/912bf3ec-0e46-4512-bc28-bff3fefc3b32> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
     skos:notation "3" ;
     skos:prefLabel "Fernrechnen"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/02f4e56a-c1fb-4c42-899e-243ac0bd5cb3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
+    skos:notation "4" ;
+    skos:prefLabel "keine (Daten liegen vor)"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:description "beschreibt, inwiefern Daten besonderen Vertraulichkeitsanforderungen unterliegen"@de ;
     dct:title "IQB Item and Properties Database_Auslieferung"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/28aaa328-944b-4871-bdbe-07d6b70bdfef>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/6be6e531-c529-454f-b3e5-0e8f1ab355e0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/8e1e99e4-105f-4c8e-be44-155a4a365064>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/bda24bf9-b1b0-4821-a93c-db93fdd6fe0f> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/28aaa328-944b-4871-bdbe-07d6b70bdfef>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/6be6e531-c529-454f-b3e5-0e8f1ab355e0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/8e1e99e4-105f-4c8e-be44-155a4a365064>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/bda24bf9-b1b0-4821-a93c-db93fdd6fe0f> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/02f4e56a-c1fb-4c42-899e-243ac0bd5cb3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/89cbfa43-c23e-48ba-a779-5e02a56948a3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/912bf3ec-0e46-4512-bc28-bff3fefc3b32>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/a300fc1a-d471-4781-98ce-8795fb0c87ea> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/02f4e56a-c1fb-4c42-899e-243ac0bd5cb3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/89cbfa43-c23e-48ba-a779-5e02a56948a3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/912bf3ec-0e46-4512-bc28-bff3fefc3b32>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/a300fc1a-d471-4781-98ce-8795fb0c87ea> ;
     skos:prefLabel "Auslieferung"@de .
 

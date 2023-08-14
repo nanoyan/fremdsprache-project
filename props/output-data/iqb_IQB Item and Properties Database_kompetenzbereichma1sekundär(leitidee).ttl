@@ -1,35 +1,35 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/543eca04-28b1-4069-b577-3d4e9fa3f7a2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
-    skos:notation "4" ;
-    skos:prefLabel "4. Funktionaler Zusammenhang"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/7c055156-53e0-4741-9210-8c24ef25e72f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
-    skos:notation "3" ;
-    skos:prefLabel "3. Raum und Form"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/97255b16-f49c-4eab-8aee-908f6eccfaba> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/9a433d40-8697-45db-a592-2b1a560f54e4> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
     skos:notation "1" ;
     skos:prefLabel "1. Zahl"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/a0ca2290-b8a7-49c5-b0ba-dcd8ee2a1df1> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/4fbf7388-ae31-4686-a96f-b912e138f6f9> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
     skos:notation "2" ;
     skos:prefLabel "2. Messen"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/b46c07ba-8772-4a32-a66f-bfc0962a9b7d> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/bf9434a1-6980-4228-9a55-01e9191a0d85> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
+    skos:notation "3" ;
+    skos:prefLabel "3. Raum und Form"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/aa8babf3-6ed6-4359-9e46-d20112a5545a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
+    skos:notation "4" ;
+    skos:prefLabel "4. Funktionaler Zusammenhang"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/70061496-9a2f-40c0-8c28-857dd0c2d26b> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/> ;
     skos:notation "5" ;
@@ -40,15 +40,15 @@
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:description "Angabe, ob und inwieweit eine Textvorgabe (Stimulus) für die Aufgabe geändert wurde"@de ;
     dct:title "IQB Item and Properties Database_Kompetenzbereich Ma1 sekundär (Leitidee)"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/543eca04-28b1-4069-b577-3d4e9fa3f7a2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/7c055156-53e0-4741-9210-8c24ef25e72f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/97255b16-f49c-4eab-8aee-908f6eccfaba>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/a0ca2290-b8a7-49c5-b0ba-dcd8ee2a1df1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/b46c07ba-8772-4a32-a66f-bfc0962a9b7d> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/543eca04-28b1-4069-b577-3d4e9fa3f7a2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/7c055156-53e0-4741-9210-8c24ef25e72f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/97255b16-f49c-4eab-8aee-908f6eccfaba>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/a0ca2290-b8a7-49c5-b0ba-dcd8ee2a1df1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/b46c07ba-8772-4a32-a66f-bfc0962a9b7d> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/4fbf7388-ae31-4686-a96f-b912e138f6f9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/70061496-9a2f-40c0-8c28-857dd0c2d26b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/9a433d40-8697-45db-a592-2b1a560f54e4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/aa8babf3-6ed6-4359-9e46-d20112a5545a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/bf9434a1-6980-4228-9a55-01e9191a0d85> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/4fbf7388-ae31-4686-a96f-b912e138f6f9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/70061496-9a2f-40c0-8c28-857dd0c2d26b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/9a433d40-8697-45db-a592-2b1a560f54e4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/aa8babf3-6ed6-4359-9e46-d20112a5545a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1sekundär(leitidee)/bf9434a1-6980-4228-9a55-01e9191a0d85> ;
     skos:prefLabel "Kompetenzbereich Ma1 sekundär (Leitidee)"@de .
 

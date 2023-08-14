@@ -1,71 +1,71 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/0353f3ca-cc3d-420d-b0b1-21a559ae3607> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:notation "5" ;
-    skos:prefLabel "organisieren"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/4323e1e6-8c0e-4a10-aab3-8979b04f8e59> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:notation "2" ;
-    skos:prefLabel "erschließen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/4e050fca-3289-4320-9741-8b8fc7b37d53> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/1707d77d-7650-4a6f-a11d-846ddd3b8d76> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
     skos:notation "1" ;
     skos:prefLabel "erkennen"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/838ee497-14dc-4e00-bf0a-69488557fc61> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/0a4cbe43-cd74-4fc5-8045-32ed5ab79770> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:notation "6" ;
-    skos:prefLabel "integrieren"@de ;
+    skos:notation "2" ;
+    skos:prefLabel "erschließen"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/9b325d07-9f46-4c09-b632-7267a354fbbe> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/53dc7cea-cf1f-4306-b4ba-2d798f4bfd11> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
     skos:notation "3" ;
     skos:prefLabel "reproduzieren"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/c9e9a16c-4f9b-449a-90a4-a6a49072623a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:notation "7" ;
-    skos:prefLabel "bewerten"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/d0547dae-0f26-456d-8902-d32d6c26af31> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/c6cea626-1d3c-4af7-9e53-2712a42d1c1d> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
     skos:notation "4" ;
     skos:prefLabel "selegieren"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/045c2b09-3cf3-4b1a-a446-ecc1ee81c182> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
+    skos:notation "5" ;
+    skos:prefLabel "organisieren"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/2e0adb5d-f323-4bbb-9c78-1837f651dbce> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
+    skos:notation "6" ;
+    skos:prefLabel "integrieren"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/475204ed-b19e-4f5a-bdca-1882ffa16cd6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
+    skos:notation "7" ;
+    skos:prefLabel "bewerten"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Kognitiver Prozess"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/0353f3ca-cc3d-420d-b0b1-21a559ae3607>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/4323e1e6-8c0e-4a10-aab3-8979b04f8e59>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/4e050fca-3289-4320-9741-8b8fc7b37d53>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/838ee497-14dc-4e00-bf0a-69488557fc61>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/9b325d07-9f46-4c09-b632-7267a354fbbe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/c9e9a16c-4f9b-449a-90a4-a6a49072623a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/d0547dae-0f26-456d-8902-d32d6c26af31> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/0353f3ca-cc3d-420d-b0b1-21a559ae3607>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/4323e1e6-8c0e-4a10-aab3-8979b04f8e59>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/4e050fca-3289-4320-9741-8b8fc7b37d53>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/838ee497-14dc-4e00-bf0a-69488557fc61>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/9b325d07-9f46-4c09-b632-7267a354fbbe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/c9e9a16c-4f9b-449a-90a4-a6a49072623a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/d0547dae-0f26-456d-8902-d32d6c26af31> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/045c2b09-3cf3-4b1a-a446-ecc1ee81c182>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/0a4cbe43-cd74-4fc5-8045-32ed5ab79770>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/1707d77d-7650-4a6f-a11d-846ddd3b8d76>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/2e0adb5d-f323-4bbb-9c78-1837f651dbce>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/475204ed-b19e-4f5a-bdca-1882ffa16cd6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/53dc7cea-cf1f-4306-b4ba-2d798f4bfd11>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/c6cea626-1d3c-4af7-9e53-2712a42d1c1d> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/045c2b09-3cf3-4b1a-a446-ecc1ee81c182>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/0a4cbe43-cd74-4fc5-8045-32ed5ab79770>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/1707d77d-7650-4a6f-a11d-846ddd3b8d76>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/2e0adb5d-f323-4bbb-9c78-1837f651dbce>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/475204ed-b19e-4f5a-bdca-1882ffa16cd6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/53dc7cea-cf1f-4306-b4ba-2d798f4bfd11>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/c6cea626-1d3c-4af7-9e53-2712a42d1c1d> ;
     skos:prefLabel "Kognitiver Prozess"@de .
 

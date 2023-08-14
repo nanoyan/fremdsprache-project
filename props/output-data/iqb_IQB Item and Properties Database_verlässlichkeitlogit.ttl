@@ -1,21 +1,21 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/6f9105ce-7a48-47ab-a607-2f3b30530259> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
-    skos:notation "2" ;
-    skos:prefLabel "mittel"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/97435b95-b66a-40d4-a5ce-3f53791a1862> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/26b32697-6f21-4436-aa90-43ce68da1373> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
     skos:notation "1" ;
     skos:prefLabel "gering"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/e049c6ca-28d1-4abe-be6b-5d060cc7f223> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/67150b62-5153-4dc2-a6a7-04ce5bb68070> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
+    skos:notation "2" ;
+    skos:prefLabel "mittel"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/7d376285-1a35-4b48-82fc-fd5091853e6d> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
     skos:notation "3" ;
@@ -25,11 +25,11 @@
 <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Verlässlichkeit Logit"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/6f9105ce-7a48-47ab-a607-2f3b30530259>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/97435b95-b66a-40d4-a5ce-3f53791a1862>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/e049c6ca-28d1-4abe-be6b-5d060cc7f223> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/6f9105ce-7a48-47ab-a607-2f3b30530259>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/97435b95-b66a-40d4-a5ce-3f53791a1862>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/e049c6ca-28d1-4abe-be6b-5d060cc7f223> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/26b32697-6f21-4436-aa90-43ce68da1373>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/67150b62-5153-4dc2-a6a7-04ce5bb68070>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/7d376285-1a35-4b48-82fc-fd5091853e6d> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/26b32697-6f21-4436-aa90-43ce68da1373>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/67150b62-5153-4dc2-a6a7-04ce5bb68070>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/7d376285-1a35-4b48-82fc-fd5091853e6d> ;
     skos:prefLabel "Verlässlichkeit Logit"@de .
 

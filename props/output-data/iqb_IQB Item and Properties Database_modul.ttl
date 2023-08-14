@@ -1,36 +1,36 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/modul/13124114-85ce-4d95-9632-3ec30055e7c2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
-    skos:notation "3" ;
-    skos:prefLabel "C"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/modul/53863ed7-bb27-47d2-a257-8c7b592562ee> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/modul/73f478f6-67b6-4d70-ad02-60084e3f1d75> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
     skos:notation "1" ;
     skos:prefLabel "A"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/modul/83f392de-d690-488f-9e9a-83a09918f7cd> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/modul/a6ab86a1-6cf4-4445-a165-5ac0dbedfcef> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
     skos:notation "2" ;
     skos:prefLabel "B"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/modul/29326fa5-53eb-4d62-a6b6-fa801d8d39b0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
+    skos:notation "3" ;
+    skos:prefLabel "C"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:description "Verwendbarkeit der Aufgabe im Rahmen VERA"@de ;
     dct:title "IQB Item and Properties Database_Modul"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/modul/13124114-85ce-4d95-9632-3ec30055e7c2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/modul/53863ed7-bb27-47d2-a257-8c7b592562ee>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/modul/83f392de-d690-488f-9e9a-83a09918f7cd> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/modul/13124114-85ce-4d95-9632-3ec30055e7c2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/modul/53863ed7-bb27-47d2-a257-8c7b592562ee>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/modul/83f392de-d690-488f-9e9a-83a09918f7cd> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/modul/29326fa5-53eb-4d62-a6b6-fa801d8d39b0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/modul/73f478f6-67b6-4d70-ad02-60084e3f1d75>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/modul/a6ab86a1-6cf4-4445-a165-5ac0dbedfcef> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/modul/29326fa5-53eb-4d62-a6b6-fa801d8d39b0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/modul/73f478f6-67b6-4d70-ad02-60084e3f1d75>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/modul/a6ab86a1-6cf4-4445-a165-5ac0dbedfcef> ;
     skos:prefLabel "Modul"@de .
 

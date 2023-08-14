@@ -1,44 +1,44 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/56bd099a-5b28-4a54-aa17-a058e630aec2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Person"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/5a8aacc6-9053-4ec0-8b9f-b9ce4265bd5e> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/f53b789a-4a49-4368-bde8-e5980dfc0ccf> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
     skos:notation "1" ;
     skos:prefLabel "Schule"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/5f66a64b-eb42-4cd9-983f-6f68744424d7> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/52ab80a7-2d85-43dd-97d9-d0ea28d4aedf> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
     skos:notation "2" ;
     skos:prefLabel "Bezirk"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/6116934d-1c2e-47a2-a7a8-a67b4b9f88ce> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/22c16c65-40a8-41e3-a09b-98318aab9c02> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
     skos:notation "3" ;
     skos:prefLabel "Bundesland"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/7eb6c62c-a299-402b-b30e-f9011d8b845a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
+    skos:notation "4" ;
+    skos:prefLabel "Person"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Datenvertraulichkeit"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/56bd099a-5b28-4a54-aa17-a058e630aec2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/5a8aacc6-9053-4ec0-8b9f-b9ce4265bd5e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/5f66a64b-eb42-4cd9-983f-6f68744424d7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/6116934d-1c2e-47a2-a7a8-a67b4b9f88ce> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/56bd099a-5b28-4a54-aa17-a058e630aec2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/5a8aacc6-9053-4ec0-8b9f-b9ce4265bd5e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/5f66a64b-eb42-4cd9-983f-6f68744424d7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/6116934d-1c2e-47a2-a7a8-a67b4b9f88ce> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/22c16c65-40a8-41e3-a09b-98318aab9c02>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/52ab80a7-2d85-43dd-97d9-d0ea28d4aedf>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/7eb6c62c-a299-402b-b30e-f9011d8b845a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/f53b789a-4a49-4368-bde8-e5980dfc0ccf> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/22c16c65-40a8-41e3-a09b-98318aab9c02>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/52ab80a7-2d85-43dd-97d9-d0ea28d4aedf>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/7eb6c62c-a299-402b-b30e-f9011d8b845a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/f53b789a-4a49-4368-bde8-e5980dfc0ccf> ;
     skos:prefLabel "Datenvertraulichkeit"@de .
 

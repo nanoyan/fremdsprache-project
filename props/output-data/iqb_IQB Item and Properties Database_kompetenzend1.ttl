@@ -1,1268 +1,1268 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/005e73a0-830d-4abb-a63e-c81ae8c6938f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "48" ;
-    skos:prefLabel "2.3.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/00d26468-3b5a-4624-a554-74136466c3b5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "61" ;
-    skos:prefLabel "2.4.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/01eb3948-2790-4bcb-bce8-fdba588e3429> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "80" ;
-    skos:prefLabel "3.2.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/022a1be3-4310-41d9-aea8-5f0a6c0b667d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "75" ;
-    skos:prefLabel "3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/025a81ab-2e70-4071-b609-e12425ea7e04> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "81" ;
-    skos:prefLabel "3.2.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/025eb066-28d3-4294-a037-a9eafb2f8ce5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "90" ;
-    skos:prefLabel "3.3.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/02a2803f-7e1a-4dd4-8d16-d684f97c8f91> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "126" ;
-    skos:prefLabel "4.1.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/03fcc2a2-2c94-44ed-ba0c-1eea12ce3007> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "58" ;
-    skos:prefLabel "2.3.13"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/04c03c07-cbf4-4686-8432-f39135f0c0ad> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "57" ;
-    skos:prefLabel "2.3.12"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/090e2c63-30c5-40d6-bbe3-e4f513a8f2cf> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "17" ;
-    skos:prefLabel "1.3.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/096d5803-c7c7-432d-b816-456a15a8e853> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "47" ;
-    skos:prefLabel "2.3.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0b06a3e4-cf32-4981-880d-85aa9a9657dc> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "5" ;
-    skos:prefLabel "1.1.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0c4025b0-94a2-4bf6-a540-49fa1b6d5ee4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "117" ;
-    skos:prefLabel "3.M.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0d722724-e09c-4bb9-84b9-177f61738a37> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "138" ;
-    skos:prefLabel "4.4.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0e1a20fc-f570-49db-b468-86f7878d8068> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "56" ;
-    skos:prefLabel "2.3.11"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/11abda41-bdda-4122-b741-8ab139dea1de> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "12" ;
-    skos:prefLabel "1.2.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/14b596cc-b0a9-4909-a11b-b89598eca2fc> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "4" ;
-    skos:prefLabel "1.1.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1854d58f-2492-42a0-b657-45eaa595657a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "21" ;
-    skos:prefLabel "1.4.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1a7a7fee-fdd8-4554-84a9-ec04136b76e8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "98" ;
-    skos:prefLabel "3.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1aa6f060-4323-49eb-ab36-c4a8e8b29c6d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "82" ;
-    skos:prefLabel "3.2.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1b8bf36c-7099-4e03-bbaa-4f698cb0c922> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "130" ;
-    skos:prefLabel "4.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/211f9706-cab4-4c07-9f2c-17c9eefc4b83> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "38" ;
-    skos:prefLabel "2.1.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2220a652-3854-49bd-9ee4-32a8bf6207c6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "113" ;
-    skos:prefLabel "3.5.7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/29551707-0d7c-4f2f-bbf9-981d9eb8fa04> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "63" ;
-    skos:prefLabel "2.M.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/29f028a5-fb12-4008-b019-ee039502c369> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "6" ;
-    skos:prefLabel "1.1.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2af9a530-6128-4f2d-ba2a-395d7ae0c560> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "78" ;
-    skos:prefLabel "3.1.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2b3f4eb5-76b6-4034-9a04-689002d830d2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "128" ;
-    skos:prefLabel "4.1.7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2cc78fca-686a-4651-9ee3-d988817bfacb> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "44" ;
-    skos:prefLabel "2.2.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2e929a03-a8ce-4060-9d2f-4317db0df3ec> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "20" ;
-    skos:prefLabel "1.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/33cd4fe6-1963-4bfc-8726-f31dc57aa85a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "28" ;
-    skos:prefLabel "1.M.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/37952752-7cdc-4f5b-81ed-2c137ad4c9c9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "84" ;
-    skos:prefLabel "3.2.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3826ec8d-50c2-4613-aa69-07366c1ace27> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "71" ;
-    skos:prefLabel "2.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/39309004-83e0-4531-ae6c-6c031ad31730> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "121" ;
-    skos:prefLabel "4.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/40eef600-151f-42fa-b528-a186ca7d75fe> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "53" ;
-    skos:prefLabel "2.3.8"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4673dcda-2893-4d5c-a785-b7af6e0fa6a6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "86" ;
-    skos:prefLabel "3.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/46d5edde-c117-483c-84fa-4acc21d3f519> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "100" ;
-    skos:prefLabel "3.4.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4779f8ca-3ee4-41b9-8a04-879ebefc3f93> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "60" ;
-    skos:prefLabel "2.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/478de15d-3311-4804-9a6a-89d9fefb10bb> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "10" ;
-    skos:prefLabel "1.2.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/47c186db-ffb5-4089-ab5e-41e5bc3ca50d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "129" ;
-    skos:prefLabel "4.1.8"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/499dfb22-48e8-47ff-acee-f5515f557944> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "139" ;
-    skos:prefLabel "4.M.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4b2871da-b845-4fb4-b844-a12914de486a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "83" ;
-    skos:prefLabel "3.2.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4bb86c21-af2f-4522-a2e1-2a7b169f32e6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "95" ;
-    skos:prefLabel "3.3.9"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4bbfee48-ac35-4058-b054-888da6887ddd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "42" ;
-    skos:prefLabel "2.2.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4e167e86-5a09-43a9-829f-8c24b3f054fa> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "112" ;
-    skos:prefLabel "3.5.6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4e2ff320-4ec1-4b3c-9c94-955621ee85e3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "27" ;
-    skos:prefLabel "1.M.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/51eecdc7-142a-4225-9336-facb67526e40> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "137" ;
-    skos:prefLabel "4.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5255af18-1a91-4f0c-9803-9c542e7ff87a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "67" ;
-    skos:prefLabel "2.M.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/54177a59-978b-4941-9ce0-1242df595e23> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "66" ;
-    skos:prefLabel "2.M.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/59426c34-0c4c-495a-a9a4-265f6f83029d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "94" ;
-    skos:prefLabel "3.3.8"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5aac7cde-894e-4f22-a1d7-805c947009fa> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "111" ;
-    skos:prefLabel "3.5.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5e42c137-6f44-4ade-860c-34a853042eeb> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "106" ;
-    skos:prefLabel "3.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5e930810-98bc-44b8-9522-4a784fd6856f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "136" ;
-    skos:prefLabel "4.3.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/62db5886-ea5e-40b6-94fd-fcc0da7bb629> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "13" ;
-    skos:prefLabel "1.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/62f88e4e-9c50-4473-a6fe-0b281cb6ea6c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "88" ;
-    skos:prefLabel "3.3.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/65cc264c-492e-41ee-8b78-2dd102e477fa> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "25" ;
-    skos:prefLabel "1.5.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/664cebd3-9678-4317-9e10-59ee72cefc04> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "135" ;
-    skos:prefLabel "4.3.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/69170e39-4ac9-4c32-a70d-da034b5f6159> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "115" ;
-    skos:prefLabel "3.M.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6b158dc7-a30f-48e0-8e47-e792621ac4be> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "37" ;
-    skos:prefLabel "2.1.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6b92f51f-7299-4147-a072-076cc157c344> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "102" ;
-    skos:prefLabel "3.4.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6cc107ad-4e63-4410-8a57-7b04a2e2faf3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "132" ;
-    skos:prefLabel "4.2.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6db0a078-2f64-4fc5-9fda-1d9363b3829c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "64" ;
-    skos:prefLabel "2.M.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/71c67e10-1d10-4b2f-be97-cd0e781fabbd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "99" ;
-    skos:prefLabel "3.4.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7491742f-4e65-4124-8ac1-a48536ed8097> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "24" ;
-    skos:prefLabel "1.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/74ddb2e3-8e46-4379-903f-08c54e94d13d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "35" ;
-    skos:prefLabel "2.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/75ccda98-84a6-4887-b5f4-0fc0224f2025> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "89" ;
-    skos:prefLabel "3.3.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/76dfff97-e545-4fd7-ab16-e9dd263a30b1> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "116" ;
-    skos:prefLabel "3.M.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/78cf7ad4-abaa-45a8-b3c6-5d96f7724a72> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "36" ;
-    skos:prefLabel "2.1.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7b0a6e66-8c85-4fc4-b7c5-b81e49d80deb> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "97" ;
-    skos:prefLabel "3.3.11"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7ef1fa13-d4f3-41e2-b1c2-a6a5ceb0361d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "70" ;
-    skos:prefLabel "2.M.8"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7f9dce69-5461-478a-8c1d-703c4b7b5f7b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "29" ;
-    skos:prefLabel "1.M.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7f9fe9a3-928d-488e-9fe3-66d591a19ee1> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "124" ;
-    skos:prefLabel "4.1.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/81d51050-4ccf-4556-bbb3-529b53e43e37> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "68" ;
-    skos:prefLabel "2.M.6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/82ca8e5b-6390-4f3d-b8ed-73f8aeca13af> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "62" ;
-    skos:prefLabel "2.4.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/84eac84e-4894-4350-b377-91ba5cb58084> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "93" ;
-    skos:prefLabel "3.3.7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/86cbc27e-499c-46fc-9622-b9a4f9fc3dd3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "79" ;
-    skos:prefLabel "3.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/87b318ff-20a5-48f0-a2aa-29d8d6e14444> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "74" ;
-    skos:prefLabel "2.5.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/899dcc44-6daa-4405-8988-7ee2e20d1dc6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "33" ;
-    skos:prefLabel "1.M.7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/89aa9f31-ae15-41d5-9c0f-36aa2fecabf6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "76" ;
-    skos:prefLabel "3.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8cabc138-8424-4975-9f91-e9c88925c5df> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "49" ;
-    skos:prefLabel "2.3.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8dda3e38-9b3b-42ac-9e7a-b7b0e84d9349> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "39" ;
-    skos:prefLabel "2.1.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9822f2d2-0d52-4192-927e-c2339ffc19e9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "26" ;
-    skos:prefLabel "1.5.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/99e15e52-793d-462e-b357-dc29a79fbd27> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "72" ;
-    skos:prefLabel "2.5.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9a67058b-ed76-4e60-a2f2-8a9b5e7413cf> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "18" ;
-    skos:prefLabel "1.3.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9b6afebc-b705-4e84-ba87-fa64094f5323> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "104" ;
-    skos:prefLabel "3.4.6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9c01a435-42d6-4cd1-b725-f1e4399e55da> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "14" ;
-    skos:prefLabel "1.3.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9ef8f10e-1d4e-4a45-9e7e-dc1f4a72b9ac> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "51" ;
-    skos:prefLabel "2.3.6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a472408d-66fe-4303-819c-a1a01338f269> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "108" ;
-    skos:prefLabel "3.5.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a62570ad-d133-4a3f-a530-91d0869161a2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "19" ;
-    skos:prefLabel "1.3.6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a83729b4-8cde-4897-9ba7-8e8907efac65> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "110" ;
-    skos:prefLabel "3.5.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/adf3a3e1-a34b-44e9-893a-ba219a183375> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "8" ;
-    skos:prefLabel "1.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/af02f466-9e1b-48a6-94f9-b5882a5978ea> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "125" ;
-    skos:prefLabel "4.1.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b0b5d681-c322-4c81-9942-70494fafb0d4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "9" ;
-    skos:prefLabel "1.2.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b2020de1-687e-42c0-bf2e-1a3b8ab6ef9a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "118" ;
-    skos:prefLabel "3.M.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b2337056-0a76-47ae-bbaf-8154e81a7ef9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "31" ;
-    skos:prefLabel "1.M.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b2a3a170-bae2-44ca-86cd-5016a6b762b7> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "101" ;
-    skos:prefLabel "3.4.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b73a8e9a-beca-4d76-9ac8-b8a6e67bfb36> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "15" ;
-    skos:prefLabel "1.3.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b9105778-d64c-4c0b-9e3f-60aaa0d137ca> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "123" ;
-    skos:prefLabel "4.1.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bc7d92b4-6fd4-4f97-9adc-fac974d26e9b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "127" ;
-    skos:prefLabel "4.1.6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bfc5a49b-1954-4406-8e9c-66382c86675b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "7" ;
-    skos:prefLabel "1.1.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c0dd9377-4488-464b-93a5-3ed754a42ec1> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "69" ;
-    skos:prefLabel "2.M.7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c2424d86-31dd-4df0-894c-687f021c9c4e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "91" ;
-    skos:prefLabel "3.3.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c27aecc0-37f4-4510-a665-8f7f7eb2aa08> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "41" ;
-    skos:prefLabel "2.2.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c3c52ee5-5b26-46fd-818c-5d35e3c4b57f> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7c8cb54c-a9c2-4532-bb70-ba113fd761c6> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
     skos:notation "1" ;
     skos:prefLabel "1"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c6c2c4db-bbfd-4dd1-9933-9267f98f27e9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "114" ;
-    skos:prefLabel "3.M.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c999308c-adea-4e1c-9de6-93154f13cf4f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "107" ;
-    skos:prefLabel "3.5.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ca8a8249-017e-4759-a726-a2d1b63e23b1> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "55" ;
-    skos:prefLabel "2.3.10"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cb15e2aa-7796-47ec-bab2-cf7a344d27c7> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "11" ;
-    skos:prefLabel "1.2.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cd0fb9b9-7827-4d08-b075-bc7cce414ff1> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "16" ;
-    skos:prefLabel "1.3.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cf294d69-1685-40ce-9dd9-b4907de67565> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "45" ;
-    skos:prefLabel "2.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d05354e0-69dc-4b10-8d45-77026cb30f0e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "77" ;
-    skos:prefLabel "3.1.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d1d5c373-b4bf-43b7-9d8c-2b53e2d8e12a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "103" ;
-    skos:prefLabel "3.4.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d37007a9-98a7-4659-ba0b-fc459ee68147> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "92" ;
-    skos:prefLabel "3.3.6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d4163888-a00d-4917-9423-816f9c3fff28> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "46" ;
-    skos:prefLabel "2.3.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/df1b42ee-d1cf-4d65-85f4-151d8fbff5c8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "32" ;
-    skos:prefLabel "1.M.6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/dfee015a-0bc8-47fb-9e4f-63d51fc3c7f7> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "133" ;
-    skos:prefLabel "4.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e02b2496-2195-4ea5-9d84-e198529e9aeb> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "85" ;
-    skos:prefLabel "3.2.6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e18a700b-daf5-4122-80e8-13f7a06ac68d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "50" ;
-    skos:prefLabel "2.3.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e1a807a3-b5ac-46b8-8da4-a5abb75ee82e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "54" ;
-    skos:prefLabel "2.3.9"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e1fafa4c-ef6b-4b97-b26f-ac165689d235> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "22" ;
-    skos:prefLabel "1.4.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e295098d-d20b-474f-8cbb-f04c2265c420> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "30" ;
-    skos:prefLabel "1.M.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e383bc1a-a1fb-484c-9a3c-318a10b34644> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "140" ;
-    skos:prefLabel "4.M.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e4a26a9a-8989-4211-ab0b-357e1f5dba74> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "87" ;
-    skos:prefLabel "3.3.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e709e450-4221-4ff9-a899-41f09f1440bf> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "65" ;
-    skos:prefLabel "2.M.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e83ec0da-82bc-4088-a94d-381abde6b829> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "43" ;
-    skos:prefLabel "2.2.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e9871452-8600-4250-91c6-56510d1015e2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "23" ;
-    skos:prefLabel "1.4.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/eb18fc10-4b9f-4dda-9c38-23f1474e3ac8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "119" ;
-    skos:prefLabel "3.M.6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/eb66d1f0-1497-47f4-8c9d-c8d40934a86c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "105" ;
-    skos:prefLabel "3.4.7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ebd2ad33-d7e6-4d64-b5a9-02b2232b9303> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "134" ;
-    skos:prefLabel "4.3.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ef2497b2-abaf-4baf-9c42-ec107aa8b4c2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "73" ;
-    skos:prefLabel "2.5.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/efbeb27b-4768-487d-8853-fb822f2f2de8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "120" ;
-    skos:prefLabel "4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f3e8cdfc-1b31-4df2-b34e-a333b5692449> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "3" ;
-    skos:prefLabel "1.1.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f45c0b85-2290-4425-80c4-b113236c7984> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "40" ;
-    skos:prefLabel "2.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f69d09ea-5a50-4594-a843-0cb4476efab6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "109" ;
-    skos:prefLabel "3.5.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f85f5d49-b979-4f20-96e1-9fba34915ba9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "131" ;
-    skos:prefLabel "4.2.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f8a235f9-c611-4a0a-9ec2-4011200610cb> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "96" ;
-    skos:prefLabel "3.3.10"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fad1f2ef-1012-413f-83c3-8d3a51f974c6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "59" ;
-    skos:prefLabel "2.3.14"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fb17240d-e723-4aef-9275-0feafbe39293> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "34" ;
-    skos:prefLabel "2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fb5cc073-5fc1-4e25-b7b4-6c5ac7803eb8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
-    skos:notation "52" ;
-    skos:prefLabel "2.3.7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fb9b2cc1-aee8-47c6-84e3-003b878cca6a> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/41a98e45-f659-45c8-bc22-0827bda6d94c> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
     skos:notation "2" ;
     skos:prefLabel "1.1"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fc209fad-6013-447d-818b-b242746f067f> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/892965ef-597b-4458-b757-609131e45126> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "3" ;
+    skos:prefLabel "1.1.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e00e74c0-585e-47b8-97c1-364ea8ab9415> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "4" ;
+    skos:prefLabel "1.1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4f3b6c0d-2399-4c4d-a468-3a1128472338> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "5" ;
+    skos:prefLabel "1.1.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/42f88d03-8c46-46fc-8bd3-0e4200f4e7b8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "6" ;
+    skos:prefLabel "1.1.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b584812a-be23-4fb8-933a-87033fa3ce9c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "7" ;
+    skos:prefLabel "1.1.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f59e9bda-850c-434a-98e9-0237b696bff5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "8" ;
+    skos:prefLabel "1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1cc5ae6e-30af-4384-b9ba-b486905c8214> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "9" ;
+    skos:prefLabel "1.2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/37133ae1-0c8c-4737-9791-b07d7213012d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "10" ;
+    skos:prefLabel "1.2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cf31f489-7186-4770-bba3-e4e984d3644a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "11" ;
+    skos:prefLabel "1.2.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/eb4f50eb-32c9-4e89-b3fb-85fe6542fed3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "12" ;
+    skos:prefLabel "1.2.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3f97a6c1-f2bc-4b40-ba65-4df710bc04c7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "13" ;
+    skos:prefLabel "1.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3ebf54c9-d695-4795-be95-e171944e0d6b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "14" ;
+    skos:prefLabel "1.3.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/68a653a2-7367-47c9-8205-642f196f1045> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "15" ;
+    skos:prefLabel "1.3.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f1549038-8ea8-4140-b63d-0c87067e9ab5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "16" ;
+    skos:prefLabel "1.3.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0d16ae0e-c93c-44f3-813b-ea4af8455710> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "17" ;
+    skos:prefLabel "1.3.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/88523ff6-8f17-4cbd-b67a-5ce69332b6fc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "18" ;
+    skos:prefLabel "1.3.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6ba44d88-7a29-4fd3-a2ea-cbf20c1669e6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "19" ;
+    skos:prefLabel "1.3.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/14ae5e2b-e54d-413f-85ff-dc3f203533d6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "20" ;
+    skos:prefLabel "1.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c0bbab2a-6c52-4bfb-b701-eb84468cff92> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "21" ;
+    skos:prefLabel "1.4.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ecdb3f52-ea9d-4f0e-a1f8-5657dd5c3daa> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "22" ;
+    skos:prefLabel "1.4.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/66501da8-d778-40a8-b2dc-937bef320d8d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "23" ;
+    skos:prefLabel "1.4.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/44b3e460-8f88-440d-a597-b3ba321088f7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "24" ;
+    skos:prefLabel "1.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/baf9a92f-19ba-4bc4-bafa-c090cba78ba6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "25" ;
+    skos:prefLabel "1.5.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/76efae51-c42f-4b5f-8aff-b9360bd6a8f8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "26" ;
+    skos:prefLabel "1.5.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e4dfb1aa-6b0c-4721-83cb-7c95900d3168> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "27" ;
+    skos:prefLabel "1.M.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f9a8ea47-afd6-44e6-a1b8-f404cf5f47df> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "28" ;
+    skos:prefLabel "1.M.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/922d0c6d-6dc0-4e6f-8793-0bdbc47c2ca7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "29" ;
+    skos:prefLabel "1.M.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e8afa0d1-3ede-478c-953e-7fee16080cbb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "30" ;
+    skos:prefLabel "1.M.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5c32360f-41b3-4d37-a646-3cdd1213eb3f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "31" ;
+    skos:prefLabel "1.M.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/07a54a3b-a0ae-418d-8d8c-3a60a1582e2a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "32" ;
+    skos:prefLabel "1.M.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/71ebc386-ef8d-45f8-b798-fe1b0ce2db67> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "33" ;
+    skos:prefLabel "1.M.7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0db9697d-db75-4ff8-b169-a61222149da0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "34" ;
+    skos:prefLabel "2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7b977f05-4f1d-4d74-805d-d88ad03b285c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "35" ;
+    skos:prefLabel "2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/72a1df8b-3677-4fc9-8ab4-4937a0b11915> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "36" ;
+    skos:prefLabel "2.1.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f2692cb2-6f57-48e3-ac8d-fb913fc6e4a7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "37" ;
+    skos:prefLabel "2.1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7bd5d497-03ca-4679-ab41-3810e19ada74> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "38" ;
+    skos:prefLabel "2.1.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/51c11a0b-8d11-4f92-a5ee-d1d35ce5e43e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "39" ;
+    skos:prefLabel "2.1.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b285237c-7040-4f10-887a-a0a5f26ebe16> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "40" ;
+    skos:prefLabel "2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/299dab9b-1d41-410c-81dc-4311b90847ba> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "41" ;
+    skos:prefLabel "2.2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/04d27a34-228b-4f1a-b705-112ae547b910> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "42" ;
+    skos:prefLabel "2.2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a688d2d0-4559-4735-abab-2041c4cae5a7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "43" ;
+    skos:prefLabel "2.2.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d582541c-e476-4353-b764-78a9e07d54ce> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "44" ;
+    skos:prefLabel "2.2.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0c402e06-eb51-420d-ac10-d4aa6f7c9750> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "45" ;
+    skos:prefLabel "2.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e53cf77f-aff3-46b2-984a-daf4e8d156c8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "46" ;
+    skos:prefLabel "2.3.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/be64859e-f432-4e02-9036-56b8e46f92bb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "47" ;
+    skos:prefLabel "2.3.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8cfc6e5d-f87e-45a7-a9e0-8ba9f86eba79> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "48" ;
+    skos:prefLabel "2.3.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/84e8841b-e18c-4c1b-aeed-d6381113c115> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "49" ;
+    skos:prefLabel "2.3.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cf0a1885-55db-478e-9833-d60480b5199a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "50" ;
+    skos:prefLabel "2.3.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9498a1cb-ccf7-4005-b441-de4b0a2ad31c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "51" ;
+    skos:prefLabel "2.3.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8f7dd608-30e4-4471-9f86-0b206bb4882c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "52" ;
+    skos:prefLabel "2.3.7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1713e881-7d86-4165-92b7-f3315b170b82> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "53" ;
+    skos:prefLabel "2.3.8"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4e05b8ed-f953-4aae-a898-c4187111082e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "54" ;
+    skos:prefLabel "2.3.9"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/22260851-3e85-4dd9-b029-2d3f8c2f10ab> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "55" ;
+    skos:prefLabel "2.3.10"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/437ecab3-4960-47a6-90c0-1ff9bbcbe52b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "56" ;
+    skos:prefLabel "2.3.11"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/53928805-b625-499b-804b-ce8dcfe08451> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "57" ;
+    skos:prefLabel "2.3.12"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/838d4c7e-a5cd-432c-8a2b-e3d3f686b90f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "58" ;
+    skos:prefLabel "2.3.13"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ef0eea1b-f431-4919-81b4-d5c246ba4772> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "59" ;
+    skos:prefLabel "2.3.14"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d8f6eb20-de70-4f33-bbd8-084c6cb5f821> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "60" ;
+    skos:prefLabel "2.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/58aae4a3-4ae3-4350-bcea-043499f1437e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "61" ;
+    skos:prefLabel "2.4.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ac529537-9d15-462c-a85d-f9ff0aaa9890> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "62" ;
+    skos:prefLabel "2.4.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/05e4c1cf-5904-40dc-8cfe-153567cc85c6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "63" ;
+    skos:prefLabel "2.M.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/06bbd1fa-a370-4056-8596-e7617f8eca9f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "64" ;
+    skos:prefLabel "2.M.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/73d27edd-2c91-49b9-b515-44f9da8912ee> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "65" ;
+    skos:prefLabel "2.M.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4c289d66-de2c-4a63-85cf-78eadacf12ec> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "66" ;
+    skos:prefLabel "2.M.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ff66f3c1-24dc-4ca4-9f01-2136c5ef84b7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "67" ;
+    skos:prefLabel "2.M.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/154ef887-995d-4e3f-9cb5-2610c307bb88> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "68" ;
+    skos:prefLabel "2.M.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/42f9904d-af18-474d-8f0d-ebc033409a66> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "69" ;
+    skos:prefLabel "2.M.7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8ac72107-1b74-4c4d-832a-2dc6d81b4cd4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "70" ;
+    skos:prefLabel "2.M.8"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1653972a-9a28-48d3-8d65-0693b0325d56> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "71" ;
+    skos:prefLabel "2.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c46c0738-99e0-4f5a-ae23-a88cfada0040> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "72" ;
+    skos:prefLabel "2.5.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bbb2d055-cd72-4651-9b4d-f48d2a2b2bf9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "73" ;
+    skos:prefLabel "2.5.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e5705ac7-8a80-4332-9a66-e2c8023faaa8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "74" ;
+    skos:prefLabel "2.5.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/939fc98c-739e-4094-9a4d-dcff77e175bb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "75" ;
+    skos:prefLabel "3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6b2b7645-115c-4ca1-8a9e-4e609834d028> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "76" ;
+    skos:prefLabel "3.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9f93276c-94dd-4b41-b80e-1ffb60c9a44f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "77" ;
+    skos:prefLabel "3.1.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/db032ba5-cba9-479e-bf36-64ecc47a64fc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "78" ;
+    skos:prefLabel "3.1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bc73e5d2-caac-4d09-8996-b05a277f6e71> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "79" ;
+    skos:prefLabel "3.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8274c43a-de0f-46d6-969f-2fa659b10ae1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "80" ;
+    skos:prefLabel "3.2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4c865105-9ad9-4940-ad15-339563e48fc8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "81" ;
+    skos:prefLabel "3.2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/58a756d6-4f41-463c-8581-f92386591672> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "82" ;
+    skos:prefLabel "3.2.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/28e8c16e-f515-4a1e-a3ae-fc986a0552e1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "83" ;
+    skos:prefLabel "3.2.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a0fecb4d-a701-4574-a129-28a8cef7fe40> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "84" ;
+    skos:prefLabel "3.2.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e737ff78-0271-4f37-8414-aba427ac5a1f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "85" ;
+    skos:prefLabel "3.2.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2de2d870-ce7a-4974-b267-083dc181e4bb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "86" ;
+    skos:prefLabel "3.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/038a1765-6724-4bab-99bb-44bcb1eb628f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "87" ;
+    skos:prefLabel "3.3.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/98e30e15-5eea-404c-b737-d267ef09656c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "88" ;
+    skos:prefLabel "3.3.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/343ecc29-a69c-4c69-b3e9-448022dc4fd3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "89" ;
+    skos:prefLabel "3.3.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5237cd40-0c20-4fd5-a430-9ae0e539c811> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "90" ;
+    skos:prefLabel "3.3.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1b3e9684-c5b3-4242-93f0-862bbfd32900> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "91" ;
+    skos:prefLabel "3.3.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/16f82bf7-9a5b-474c-a587-bc032845891c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "92" ;
+    skos:prefLabel "3.3.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2f40f4cc-4e87-4f80-b422-2e18fc3f6be7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "93" ;
+    skos:prefLabel "3.3.7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e330487d-e837-46cc-b703-4578c2707c56> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "94" ;
+    skos:prefLabel "3.3.8"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5dd40ca6-0347-4111-ba14-d66a5da1dddd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "95" ;
+    skos:prefLabel "3.3.9"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3090c388-3d0a-46ea-9d86-7976feee81c1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "96" ;
+    skos:prefLabel "3.3.10"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5797e0d6-73f7-4b9a-b885-65df3c790ff6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "97" ;
+    skos:prefLabel "3.3.11"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8330ef5d-c763-4d30-ab60-0b6bde6f4de4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "98" ;
+    skos:prefLabel "3.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7fbf5115-4381-4728-be76-c6959fedda98> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "99" ;
+    skos:prefLabel "3.4.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fc59faa0-9715-4c8b-a20e-a9368b36648f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "100" ;
+    skos:prefLabel "3.4.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fcc93680-dcc0-453c-b7a8-13ab27273a51> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "101" ;
+    skos:prefLabel "3.4.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0204965b-1524-4130-aea6-12096bc222a3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "102" ;
+    skos:prefLabel "3.4.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b7accf74-74cb-45c5-b908-0f1f7d64bd0f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "103" ;
+    skos:prefLabel "3.4.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1b5569a0-4191-4927-8873-6b648e6b589a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "104" ;
+    skos:prefLabel "3.4.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/71152f20-b0fa-4fc4-8624-6f430e6d766a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "105" ;
+    skos:prefLabel "3.4.7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/916f9d9c-a3b6-4db7-b033-de9ecbdee81c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "106" ;
+    skos:prefLabel "3.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/214e2772-e12b-41cf-a90b-d967292dc146> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "107" ;
+    skos:prefLabel "3.5.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bcb25cbd-9917-45a7-9d98-d2a77b8f289f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "108" ;
+    skos:prefLabel "3.5.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fd95b589-0c55-4a08-a800-9fcf1c7dbe20> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "109" ;
+    skos:prefLabel "3.5.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/51a2435b-019e-4bdc-bc5f-e667156bd8c4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "110" ;
+    skos:prefLabel "3.5.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3908f0e0-a965-435e-b0c8-6ea245f95e1c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "111" ;
+    skos:prefLabel "3.5.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0428b32e-d286-4d9c-adc2-d1915a9f6978> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "112" ;
+    skos:prefLabel "3.5.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d9b428fd-e310-429c-8625-fd8779c754fa> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "113" ;
+    skos:prefLabel "3.5.7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d7430d8d-bd64-418e-b1a4-8b4be6f5f11e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "114" ;
+    skos:prefLabel "3.M.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/eacfb29e-7b26-4d6f-a9ba-8b5a60330e0e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "115" ;
+    skos:prefLabel "3.M.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/41654660-3ffa-472e-972d-9546acb26fb1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "116" ;
+    skos:prefLabel "3.M.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7dba0f84-bbf1-4ea7-91ef-fe68d572ef35> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "117" ;
+    skos:prefLabel "3.M.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f6e9941b-09ba-402d-b514-5a9f38d2296c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "118" ;
+    skos:prefLabel "3.M.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b462670a-a0d2-43d0-a0b3-eb8d2d202d3f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "119" ;
+    skos:prefLabel "3.M.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/079e4123-372a-44fd-9cd6-51c1612f9645> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "120" ;
+    skos:prefLabel "4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/36da8d70-016c-4881-9ff4-eecb5d1902ae> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "121" ;
+    skos:prefLabel "4.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2ba0640b-6ca2-4c3c-a874-bf9314d1b53f> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
     skos:notation "122" ;
     skos:prefLabel "4.1.1"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/faf1cb7e-b0c0-4f4e-aa9d-b35f934da51c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "123" ;
+    skos:prefLabel "4.1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/652bf892-39e6-4be7-aa3c-c7eb136fa70b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "124" ;
+    skos:prefLabel "4.1.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b0ee4f7a-2dbc-4d2c-bc45-3d80fbf3c4dc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "125" ;
+    skos:prefLabel "4.1.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/813ab71d-0719-4974-82f9-0b31004432d3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "126" ;
+    skos:prefLabel "4.1.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/94f1d62a-04d5-4da0-926c-0151ba307b0f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "127" ;
+    skos:prefLabel "4.1.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/518dc097-3d84-4049-8bf8-c53d4ea36e53> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "128" ;
+    skos:prefLabel "4.1.7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/59c09d9a-e7d7-485e-9180-eba6a37bb03f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "129" ;
+    skos:prefLabel "4.1.8"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/874e2b61-cb30-4404-ba6e-fcb193d6d1f9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "130" ;
+    skos:prefLabel "4.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c07ff485-84ae-498a-8cf7-9bd4dca80be0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "131" ;
+    skos:prefLabel "4.2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/58988018-6fc5-4db2-bb4d-9872ebf3b27e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "132" ;
+    skos:prefLabel "4.2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/443705b8-d647-4f95-bbd0-6e2307d198a4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "133" ;
+    skos:prefLabel "4.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/526cb164-39a6-4018-b585-76dd6e58818e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "134" ;
+    skos:prefLabel "4.3.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fced2bdc-f7b5-456a-8e49-efb4c7f0d506> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "135" ;
+    skos:prefLabel "4.3.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/38f6f55b-87e5-42b7-9c0a-42de5df17e89> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "136" ;
+    skos:prefLabel "4.3.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/aa0822ed-ac67-4694-b536-ab18836dfa50> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "137" ;
+    skos:prefLabel "4.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a5a4b7bd-61de-4727-8dcc-f2d1644db2c5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "138" ;
+    skos:prefLabel "4.4.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2b557836-c234-4f37-aa18-7c0b8ea10158> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "139" ;
+    skos:prefLabel "4.M.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/28b941e7-d9e2-4708-be89-876b551768e5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> ;
+    skos:notation "140" ;
+    skos:prefLabel "4.M.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Kompetenzen D1"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/005e73a0-830d-4abb-a63e-c81ae8c6938f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/00d26468-3b5a-4624-a554-74136466c3b5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/01eb3948-2790-4bcb-bce8-fdba588e3429>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/022a1be3-4310-41d9-aea8-5f0a6c0b667d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/025a81ab-2e70-4071-b609-e12425ea7e04>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/025eb066-28d3-4294-a037-a9eafb2f8ce5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/02a2803f-7e1a-4dd4-8d16-d684f97c8f91>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/03fcc2a2-2c94-44ed-ba0c-1eea12ce3007>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/04c03c07-cbf4-4686-8432-f39135f0c0ad>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/090e2c63-30c5-40d6-bbe3-e4f513a8f2cf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/096d5803-c7c7-432d-b816-456a15a8e853>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0b06a3e4-cf32-4981-880d-85aa9a9657dc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0c4025b0-94a2-4bf6-a540-49fa1b6d5ee4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0d722724-e09c-4bb9-84b9-177f61738a37>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0e1a20fc-f570-49db-b468-86f7878d8068>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/11abda41-bdda-4122-b741-8ab139dea1de>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/14b596cc-b0a9-4909-a11b-b89598eca2fc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1854d58f-2492-42a0-b657-45eaa595657a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1a7a7fee-fdd8-4554-84a9-ec04136b76e8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1aa6f060-4323-49eb-ab36-c4a8e8b29c6d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1b8bf36c-7099-4e03-bbaa-4f698cb0c922>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/211f9706-cab4-4c07-9f2c-17c9eefc4b83>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2220a652-3854-49bd-9ee4-32a8bf6207c6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/29551707-0d7c-4f2f-bbf9-981d9eb8fa04>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/29f028a5-fb12-4008-b019-ee039502c369>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2af9a530-6128-4f2d-ba2a-395d7ae0c560>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2b3f4eb5-76b6-4034-9a04-689002d830d2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2cc78fca-686a-4651-9ee3-d988817bfacb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2e929a03-a8ce-4060-9d2f-4317db0df3ec>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/33cd4fe6-1963-4bfc-8726-f31dc57aa85a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/37952752-7cdc-4f5b-81ed-2c137ad4c9c9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3826ec8d-50c2-4613-aa69-07366c1ace27>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/39309004-83e0-4531-ae6c-6c031ad31730>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/40eef600-151f-42fa-b528-a186ca7d75fe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4673dcda-2893-4d5c-a785-b7af6e0fa6a6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/46d5edde-c117-483c-84fa-4acc21d3f519>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4779f8ca-3ee4-41b9-8a04-879ebefc3f93>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/478de15d-3311-4804-9a6a-89d9fefb10bb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/47c186db-ffb5-4089-ab5e-41e5bc3ca50d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/499dfb22-48e8-47ff-acee-f5515f557944>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4b2871da-b845-4fb4-b844-a12914de486a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4bb86c21-af2f-4522-a2e1-2a7b169f32e6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4bbfee48-ac35-4058-b054-888da6887ddd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4e167e86-5a09-43a9-829f-8c24b3f054fa>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4e2ff320-4ec1-4b3c-9c94-955621ee85e3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/51eecdc7-142a-4225-9336-facb67526e40>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5255af18-1a91-4f0c-9803-9c542e7ff87a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/54177a59-978b-4941-9ce0-1242df595e23>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/59426c34-0c4c-495a-a9a4-265f6f83029d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5aac7cde-894e-4f22-a1d7-805c947009fa>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5e42c137-6f44-4ade-860c-34a853042eeb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5e930810-98bc-44b8-9522-4a784fd6856f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/62db5886-ea5e-40b6-94fd-fcc0da7bb629>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/62f88e4e-9c50-4473-a6fe-0b281cb6ea6c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/65cc264c-492e-41ee-8b78-2dd102e477fa>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/664cebd3-9678-4317-9e10-59ee72cefc04>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/69170e39-4ac9-4c32-a70d-da034b5f6159>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6b158dc7-a30f-48e0-8e47-e792621ac4be>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6b92f51f-7299-4147-a072-076cc157c344>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6cc107ad-4e63-4410-8a57-7b04a2e2faf3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6db0a078-2f64-4fc5-9fda-1d9363b3829c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/71c67e10-1d10-4b2f-be97-cd0e781fabbd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7491742f-4e65-4124-8ac1-a48536ed8097>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/74ddb2e3-8e46-4379-903f-08c54e94d13d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/75ccda98-84a6-4887-b5f4-0fc0224f2025>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/76dfff97-e545-4fd7-ab16-e9dd263a30b1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/78cf7ad4-abaa-45a8-b3c6-5d96f7724a72>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7b0a6e66-8c85-4fc4-b7c5-b81e49d80deb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7ef1fa13-d4f3-41e2-b1c2-a6a5ceb0361d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7f9dce69-5461-478a-8c1d-703c4b7b5f7b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7f9fe9a3-928d-488e-9fe3-66d591a19ee1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/81d51050-4ccf-4556-bbb3-529b53e43e37>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/82ca8e5b-6390-4f3d-b8ed-73f8aeca13af>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/84eac84e-4894-4350-b377-91ba5cb58084>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/86cbc27e-499c-46fc-9622-b9a4f9fc3dd3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/87b318ff-20a5-48f0-a2aa-29d8d6e14444>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/899dcc44-6daa-4405-8988-7ee2e20d1dc6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/89aa9f31-ae15-41d5-9c0f-36aa2fecabf6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8cabc138-8424-4975-9f91-e9c88925c5df>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8dda3e38-9b3b-42ac-9e7a-b7b0e84d9349>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9822f2d2-0d52-4192-927e-c2339ffc19e9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/99e15e52-793d-462e-b357-dc29a79fbd27>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9a67058b-ed76-4e60-a2f2-8a9b5e7413cf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9b6afebc-b705-4e84-ba87-fa64094f5323>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9c01a435-42d6-4cd1-b725-f1e4399e55da>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9ef8f10e-1d4e-4a45-9e7e-dc1f4a72b9ac>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a472408d-66fe-4303-819c-a1a01338f269>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a62570ad-d133-4a3f-a530-91d0869161a2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a83729b4-8cde-4897-9ba7-8e8907efac65>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/adf3a3e1-a34b-44e9-893a-ba219a183375>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/af02f466-9e1b-48a6-94f9-b5882a5978ea>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b0b5d681-c322-4c81-9942-70494fafb0d4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b2020de1-687e-42c0-bf2e-1a3b8ab6ef9a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b2337056-0a76-47ae-bbaf-8154e81a7ef9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b2a3a170-bae2-44ca-86cd-5016a6b762b7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b73a8e9a-beca-4d76-9ac8-b8a6e67bfb36>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b9105778-d64c-4c0b-9e3f-60aaa0d137ca>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bc7d92b4-6fd4-4f97-9adc-fac974d26e9b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bfc5a49b-1954-4406-8e9c-66382c86675b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c0dd9377-4488-464b-93a5-3ed754a42ec1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c2424d86-31dd-4df0-894c-687f021c9c4e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c27aecc0-37f4-4510-a665-8f7f7eb2aa08>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c3c52ee5-5b26-46fd-818c-5d35e3c4b57f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c6c2c4db-bbfd-4dd1-9933-9267f98f27e9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c999308c-adea-4e1c-9de6-93154f13cf4f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ca8a8249-017e-4759-a726-a2d1b63e23b1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cb15e2aa-7796-47ec-bab2-cf7a344d27c7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cd0fb9b9-7827-4d08-b075-bc7cce414ff1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cf294d69-1685-40ce-9dd9-b4907de67565>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d05354e0-69dc-4b10-8d45-77026cb30f0e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d1d5c373-b4bf-43b7-9d8c-2b53e2d8e12a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d37007a9-98a7-4659-ba0b-fc459ee68147>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d4163888-a00d-4917-9423-816f9c3fff28>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/df1b42ee-d1cf-4d65-85f4-151d8fbff5c8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/dfee015a-0bc8-47fb-9e4f-63d51fc3c7f7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e02b2496-2195-4ea5-9d84-e198529e9aeb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e18a700b-daf5-4122-80e8-13f7a06ac68d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e1a807a3-b5ac-46b8-8da4-a5abb75ee82e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e1fafa4c-ef6b-4b97-b26f-ac165689d235>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e295098d-d20b-474f-8cbb-f04c2265c420>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e383bc1a-a1fb-484c-9a3c-318a10b34644>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e4a26a9a-8989-4211-ab0b-357e1f5dba74>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e709e450-4221-4ff9-a899-41f09f1440bf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e83ec0da-82bc-4088-a94d-381abde6b829>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e9871452-8600-4250-91c6-56510d1015e2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/eb18fc10-4b9f-4dda-9c38-23f1474e3ac8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/eb66d1f0-1497-47f4-8c9d-c8d40934a86c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ebd2ad33-d7e6-4d64-b5a9-02b2232b9303>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ef2497b2-abaf-4baf-9c42-ec107aa8b4c2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/efbeb27b-4768-487d-8853-fb822f2f2de8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f3e8cdfc-1b31-4df2-b34e-a333b5692449>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f45c0b85-2290-4425-80c4-b113236c7984>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f69d09ea-5a50-4594-a843-0cb4476efab6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f85f5d49-b979-4f20-96e1-9fba34915ba9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f8a235f9-c611-4a0a-9ec2-4011200610cb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fad1f2ef-1012-413f-83c3-8d3a51f974c6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fb17240d-e723-4aef-9275-0feafbe39293>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fb5cc073-5fc1-4e25-b7b4-6c5ac7803eb8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fb9b2cc1-aee8-47c6-84e3-003b878cca6a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fc209fad-6013-447d-818b-b242746f067f> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/005e73a0-830d-4abb-a63e-c81ae8c6938f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/00d26468-3b5a-4624-a554-74136466c3b5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/01eb3948-2790-4bcb-bce8-fdba588e3429>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/022a1be3-4310-41d9-aea8-5f0a6c0b667d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/025a81ab-2e70-4071-b609-e12425ea7e04>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/025eb066-28d3-4294-a037-a9eafb2f8ce5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/02a2803f-7e1a-4dd4-8d16-d684f97c8f91>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/03fcc2a2-2c94-44ed-ba0c-1eea12ce3007>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/04c03c07-cbf4-4686-8432-f39135f0c0ad>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/090e2c63-30c5-40d6-bbe3-e4f513a8f2cf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/096d5803-c7c7-432d-b816-456a15a8e853>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0b06a3e4-cf32-4981-880d-85aa9a9657dc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0c4025b0-94a2-4bf6-a540-49fa1b6d5ee4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0d722724-e09c-4bb9-84b9-177f61738a37>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0e1a20fc-f570-49db-b468-86f7878d8068>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/11abda41-bdda-4122-b741-8ab139dea1de>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/14b596cc-b0a9-4909-a11b-b89598eca2fc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1854d58f-2492-42a0-b657-45eaa595657a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1a7a7fee-fdd8-4554-84a9-ec04136b76e8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1aa6f060-4323-49eb-ab36-c4a8e8b29c6d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1b8bf36c-7099-4e03-bbaa-4f698cb0c922>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/211f9706-cab4-4c07-9f2c-17c9eefc4b83>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2220a652-3854-49bd-9ee4-32a8bf6207c6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/29551707-0d7c-4f2f-bbf9-981d9eb8fa04>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/29f028a5-fb12-4008-b019-ee039502c369>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2af9a530-6128-4f2d-ba2a-395d7ae0c560>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2b3f4eb5-76b6-4034-9a04-689002d830d2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2cc78fca-686a-4651-9ee3-d988817bfacb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2e929a03-a8ce-4060-9d2f-4317db0df3ec>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/33cd4fe6-1963-4bfc-8726-f31dc57aa85a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/37952752-7cdc-4f5b-81ed-2c137ad4c9c9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3826ec8d-50c2-4613-aa69-07366c1ace27>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/39309004-83e0-4531-ae6c-6c031ad31730>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/40eef600-151f-42fa-b528-a186ca7d75fe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4673dcda-2893-4d5c-a785-b7af6e0fa6a6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/46d5edde-c117-483c-84fa-4acc21d3f519>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4779f8ca-3ee4-41b9-8a04-879ebefc3f93>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/478de15d-3311-4804-9a6a-89d9fefb10bb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/47c186db-ffb5-4089-ab5e-41e5bc3ca50d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/499dfb22-48e8-47ff-acee-f5515f557944>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4b2871da-b845-4fb4-b844-a12914de486a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4bb86c21-af2f-4522-a2e1-2a7b169f32e6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4bbfee48-ac35-4058-b054-888da6887ddd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4e167e86-5a09-43a9-829f-8c24b3f054fa>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4e2ff320-4ec1-4b3c-9c94-955621ee85e3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/51eecdc7-142a-4225-9336-facb67526e40>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5255af18-1a91-4f0c-9803-9c542e7ff87a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/54177a59-978b-4941-9ce0-1242df595e23>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/59426c34-0c4c-495a-a9a4-265f6f83029d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5aac7cde-894e-4f22-a1d7-805c947009fa>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5e42c137-6f44-4ade-860c-34a853042eeb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5e930810-98bc-44b8-9522-4a784fd6856f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/62db5886-ea5e-40b6-94fd-fcc0da7bb629>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/62f88e4e-9c50-4473-a6fe-0b281cb6ea6c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/65cc264c-492e-41ee-8b78-2dd102e477fa>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/664cebd3-9678-4317-9e10-59ee72cefc04>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/69170e39-4ac9-4c32-a70d-da034b5f6159>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6b158dc7-a30f-48e0-8e47-e792621ac4be>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6b92f51f-7299-4147-a072-076cc157c344>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6cc107ad-4e63-4410-8a57-7b04a2e2faf3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6db0a078-2f64-4fc5-9fda-1d9363b3829c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/71c67e10-1d10-4b2f-be97-cd0e781fabbd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7491742f-4e65-4124-8ac1-a48536ed8097>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/74ddb2e3-8e46-4379-903f-08c54e94d13d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/75ccda98-84a6-4887-b5f4-0fc0224f2025>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/76dfff97-e545-4fd7-ab16-e9dd263a30b1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/78cf7ad4-abaa-45a8-b3c6-5d96f7724a72>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7b0a6e66-8c85-4fc4-b7c5-b81e49d80deb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7ef1fa13-d4f3-41e2-b1c2-a6a5ceb0361d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7f9dce69-5461-478a-8c1d-703c4b7b5f7b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7f9fe9a3-928d-488e-9fe3-66d591a19ee1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/81d51050-4ccf-4556-bbb3-529b53e43e37>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/82ca8e5b-6390-4f3d-b8ed-73f8aeca13af>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/84eac84e-4894-4350-b377-91ba5cb58084>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/86cbc27e-499c-46fc-9622-b9a4f9fc3dd3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/87b318ff-20a5-48f0-a2aa-29d8d6e14444>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/899dcc44-6daa-4405-8988-7ee2e20d1dc6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/89aa9f31-ae15-41d5-9c0f-36aa2fecabf6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8cabc138-8424-4975-9f91-e9c88925c5df>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8dda3e38-9b3b-42ac-9e7a-b7b0e84d9349>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9822f2d2-0d52-4192-927e-c2339ffc19e9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/99e15e52-793d-462e-b357-dc29a79fbd27>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9a67058b-ed76-4e60-a2f2-8a9b5e7413cf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9b6afebc-b705-4e84-ba87-fa64094f5323>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9c01a435-42d6-4cd1-b725-f1e4399e55da>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9ef8f10e-1d4e-4a45-9e7e-dc1f4a72b9ac>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a472408d-66fe-4303-819c-a1a01338f269>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a62570ad-d133-4a3f-a530-91d0869161a2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a83729b4-8cde-4897-9ba7-8e8907efac65>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/adf3a3e1-a34b-44e9-893a-ba219a183375>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/af02f466-9e1b-48a6-94f9-b5882a5978ea>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b0b5d681-c322-4c81-9942-70494fafb0d4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b2020de1-687e-42c0-bf2e-1a3b8ab6ef9a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b2337056-0a76-47ae-bbaf-8154e81a7ef9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b2a3a170-bae2-44ca-86cd-5016a6b762b7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b73a8e9a-beca-4d76-9ac8-b8a6e67bfb36>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b9105778-d64c-4c0b-9e3f-60aaa0d137ca>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bc7d92b4-6fd4-4f97-9adc-fac974d26e9b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bfc5a49b-1954-4406-8e9c-66382c86675b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c0dd9377-4488-464b-93a5-3ed754a42ec1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c2424d86-31dd-4df0-894c-687f021c9c4e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c27aecc0-37f4-4510-a665-8f7f7eb2aa08>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c3c52ee5-5b26-46fd-818c-5d35e3c4b57f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c6c2c4db-bbfd-4dd1-9933-9267f98f27e9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c999308c-adea-4e1c-9de6-93154f13cf4f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ca8a8249-017e-4759-a726-a2d1b63e23b1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cb15e2aa-7796-47ec-bab2-cf7a344d27c7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cd0fb9b9-7827-4d08-b075-bc7cce414ff1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cf294d69-1685-40ce-9dd9-b4907de67565>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d05354e0-69dc-4b10-8d45-77026cb30f0e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d1d5c373-b4bf-43b7-9d8c-2b53e2d8e12a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d37007a9-98a7-4659-ba0b-fc459ee68147>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d4163888-a00d-4917-9423-816f9c3fff28>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/df1b42ee-d1cf-4d65-85f4-151d8fbff5c8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/dfee015a-0bc8-47fb-9e4f-63d51fc3c7f7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e02b2496-2195-4ea5-9d84-e198529e9aeb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e18a700b-daf5-4122-80e8-13f7a06ac68d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e1a807a3-b5ac-46b8-8da4-a5abb75ee82e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e1fafa4c-ef6b-4b97-b26f-ac165689d235>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e295098d-d20b-474f-8cbb-f04c2265c420>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e383bc1a-a1fb-484c-9a3c-318a10b34644>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e4a26a9a-8989-4211-ab0b-357e1f5dba74>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e709e450-4221-4ff9-a899-41f09f1440bf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e83ec0da-82bc-4088-a94d-381abde6b829>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e9871452-8600-4250-91c6-56510d1015e2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/eb18fc10-4b9f-4dda-9c38-23f1474e3ac8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/eb66d1f0-1497-47f4-8c9d-c8d40934a86c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ebd2ad33-d7e6-4d64-b5a9-02b2232b9303>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ef2497b2-abaf-4baf-9c42-ec107aa8b4c2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/efbeb27b-4768-487d-8853-fb822f2f2de8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f3e8cdfc-1b31-4df2-b34e-a333b5692449>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f45c0b85-2290-4425-80c4-b113236c7984>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f69d09ea-5a50-4594-a843-0cb4476efab6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f85f5d49-b979-4f20-96e1-9fba34915ba9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f8a235f9-c611-4a0a-9ec2-4011200610cb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fad1f2ef-1012-413f-83c3-8d3a51f974c6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fb17240d-e723-4aef-9275-0feafbe39293>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fb5cc073-5fc1-4e25-b7b4-6c5ac7803eb8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fb9b2cc1-aee8-47c6-84e3-003b878cca6a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fc209fad-6013-447d-818b-b242746f067f> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0204965b-1524-4130-aea6-12096bc222a3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/038a1765-6724-4bab-99bb-44bcb1eb628f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0428b32e-d286-4d9c-adc2-d1915a9f6978>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/04d27a34-228b-4f1a-b705-112ae547b910>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/05e4c1cf-5904-40dc-8cfe-153567cc85c6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/06bbd1fa-a370-4056-8596-e7617f8eca9f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/079e4123-372a-44fd-9cd6-51c1612f9645>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/07a54a3b-a0ae-418d-8d8c-3a60a1582e2a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0c402e06-eb51-420d-ac10-d4aa6f7c9750>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0d16ae0e-c93c-44f3-813b-ea4af8455710>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0db9697d-db75-4ff8-b169-a61222149da0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/14ae5e2b-e54d-413f-85ff-dc3f203533d6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/154ef887-995d-4e3f-9cb5-2610c307bb88>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1653972a-9a28-48d3-8d65-0693b0325d56>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/16f82bf7-9a5b-474c-a587-bc032845891c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1713e881-7d86-4165-92b7-f3315b170b82>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1b3e9684-c5b3-4242-93f0-862bbfd32900>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1b5569a0-4191-4927-8873-6b648e6b589a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1cc5ae6e-30af-4384-b9ba-b486905c8214>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/214e2772-e12b-41cf-a90b-d967292dc146>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/22260851-3e85-4dd9-b029-2d3f8c2f10ab>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/28b941e7-d9e2-4708-be89-876b551768e5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/28e8c16e-f515-4a1e-a3ae-fc986a0552e1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/299dab9b-1d41-410c-81dc-4311b90847ba>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2b557836-c234-4f37-aa18-7c0b8ea10158>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2ba0640b-6ca2-4c3c-a874-bf9314d1b53f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2de2d870-ce7a-4974-b267-083dc181e4bb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2f40f4cc-4e87-4f80-b422-2e18fc3f6be7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3090c388-3d0a-46ea-9d86-7976feee81c1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/343ecc29-a69c-4c69-b3e9-448022dc4fd3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/36da8d70-016c-4881-9ff4-eecb5d1902ae>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/37133ae1-0c8c-4737-9791-b07d7213012d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/38f6f55b-87e5-42b7-9c0a-42de5df17e89>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3908f0e0-a965-435e-b0c8-6ea245f95e1c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3ebf54c9-d695-4795-be95-e171944e0d6b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3f97a6c1-f2bc-4b40-ba65-4df710bc04c7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/41654660-3ffa-472e-972d-9546acb26fb1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/41a98e45-f659-45c8-bc22-0827bda6d94c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/42f88d03-8c46-46fc-8bd3-0e4200f4e7b8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/42f9904d-af18-474d-8f0d-ebc033409a66>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/437ecab3-4960-47a6-90c0-1ff9bbcbe52b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/443705b8-d647-4f95-bbd0-6e2307d198a4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/44b3e460-8f88-440d-a597-b3ba321088f7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4c289d66-de2c-4a63-85cf-78eadacf12ec>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4c865105-9ad9-4940-ad15-339563e48fc8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4e05b8ed-f953-4aae-a898-c4187111082e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4f3b6c0d-2399-4c4d-a468-3a1128472338>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/518dc097-3d84-4049-8bf8-c53d4ea36e53>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/51a2435b-019e-4bdc-bc5f-e667156bd8c4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/51c11a0b-8d11-4f92-a5ee-d1d35ce5e43e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5237cd40-0c20-4fd5-a430-9ae0e539c811>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/526cb164-39a6-4018-b585-76dd6e58818e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/53928805-b625-499b-804b-ce8dcfe08451>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5797e0d6-73f7-4b9a-b885-65df3c790ff6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/58988018-6fc5-4db2-bb4d-9872ebf3b27e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/58a756d6-4f41-463c-8581-f92386591672>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/58aae4a3-4ae3-4350-bcea-043499f1437e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/59c09d9a-e7d7-485e-9180-eba6a37bb03f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5c32360f-41b3-4d37-a646-3cdd1213eb3f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5dd40ca6-0347-4111-ba14-d66a5da1dddd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/652bf892-39e6-4be7-aa3c-c7eb136fa70b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/66501da8-d778-40a8-b2dc-937bef320d8d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/68a653a2-7367-47c9-8205-642f196f1045>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6b2b7645-115c-4ca1-8a9e-4e609834d028>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6ba44d88-7a29-4fd3-a2ea-cbf20c1669e6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/71152f20-b0fa-4fc4-8624-6f430e6d766a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/71ebc386-ef8d-45f8-b798-fe1b0ce2db67>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/72a1df8b-3677-4fc9-8ab4-4937a0b11915>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/73d27edd-2c91-49b9-b515-44f9da8912ee>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/76efae51-c42f-4b5f-8aff-b9360bd6a8f8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7b977f05-4f1d-4d74-805d-d88ad03b285c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7bd5d497-03ca-4679-ab41-3810e19ada74>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7c8cb54c-a9c2-4532-bb70-ba113fd761c6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7dba0f84-bbf1-4ea7-91ef-fe68d572ef35>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7fbf5115-4381-4728-be76-c6959fedda98>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/813ab71d-0719-4974-82f9-0b31004432d3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8274c43a-de0f-46d6-969f-2fa659b10ae1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8330ef5d-c763-4d30-ab60-0b6bde6f4de4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/838d4c7e-a5cd-432c-8a2b-e3d3f686b90f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/84e8841b-e18c-4c1b-aeed-d6381113c115>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/874e2b61-cb30-4404-ba6e-fcb193d6d1f9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/88523ff6-8f17-4cbd-b67a-5ce69332b6fc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/892965ef-597b-4458-b757-609131e45126>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8ac72107-1b74-4c4d-832a-2dc6d81b4cd4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8cfc6e5d-f87e-45a7-a9e0-8ba9f86eba79>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8f7dd608-30e4-4471-9f86-0b206bb4882c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/916f9d9c-a3b6-4db7-b033-de9ecbdee81c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/922d0c6d-6dc0-4e6f-8793-0bdbc47c2ca7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/939fc98c-739e-4094-9a4d-dcff77e175bb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9498a1cb-ccf7-4005-b441-de4b0a2ad31c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/94f1d62a-04d5-4da0-926c-0151ba307b0f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/98e30e15-5eea-404c-b737-d267ef09656c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9f93276c-94dd-4b41-b80e-1ffb60c9a44f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a0fecb4d-a701-4574-a129-28a8cef7fe40>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a5a4b7bd-61de-4727-8dcc-f2d1644db2c5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a688d2d0-4559-4735-abab-2041c4cae5a7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/aa0822ed-ac67-4694-b536-ab18836dfa50>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ac529537-9d15-462c-a85d-f9ff0aaa9890>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b0ee4f7a-2dbc-4d2c-bc45-3d80fbf3c4dc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b285237c-7040-4f10-887a-a0a5f26ebe16>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b462670a-a0d2-43d0-a0b3-eb8d2d202d3f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b584812a-be23-4fb8-933a-87033fa3ce9c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b7accf74-74cb-45c5-b908-0f1f7d64bd0f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/baf9a92f-19ba-4bc4-bafa-c090cba78ba6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bbb2d055-cd72-4651-9b4d-f48d2a2b2bf9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bc73e5d2-caac-4d09-8996-b05a277f6e71>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bcb25cbd-9917-45a7-9d98-d2a77b8f289f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/be64859e-f432-4e02-9036-56b8e46f92bb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c07ff485-84ae-498a-8cf7-9bd4dca80be0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c0bbab2a-6c52-4bfb-b701-eb84468cff92>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c46c0738-99e0-4f5a-ae23-a88cfada0040>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cf0a1885-55db-478e-9833-d60480b5199a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cf31f489-7186-4770-bba3-e4e984d3644a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d582541c-e476-4353-b764-78a9e07d54ce>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d7430d8d-bd64-418e-b1a4-8b4be6f5f11e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d8f6eb20-de70-4f33-bbd8-084c6cb5f821>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d9b428fd-e310-429c-8625-fd8779c754fa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/db032ba5-cba9-479e-bf36-64ecc47a64fc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e00e74c0-585e-47b8-97c1-364ea8ab9415>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e330487d-e837-46cc-b703-4578c2707c56>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e4dfb1aa-6b0c-4721-83cb-7c95900d3168>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e53cf77f-aff3-46b2-984a-daf4e8d156c8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e5705ac7-8a80-4332-9a66-e2c8023faaa8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e737ff78-0271-4f37-8414-aba427ac5a1f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e8afa0d1-3ede-478c-953e-7fee16080cbb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/eacfb29e-7b26-4d6f-a9ba-8b5a60330e0e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/eb4f50eb-32c9-4e89-b3fb-85fe6542fed3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ecdb3f52-ea9d-4f0e-a1f8-5657dd5c3daa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ef0eea1b-f431-4919-81b4-d5c246ba4772>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f1549038-8ea8-4140-b63d-0c87067e9ab5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f2692cb2-6f57-48e3-ac8d-fb913fc6e4a7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f59e9bda-850c-434a-98e9-0237b696bff5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f6e9941b-09ba-402d-b514-5a9f38d2296c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f9a8ea47-afd6-44e6-a1b8-f404cf5f47df>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/faf1cb7e-b0c0-4f4e-aa9d-b35f934da51c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fc59faa0-9715-4c8b-a20e-a9368b36648f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fcc93680-dcc0-453c-b7a8-13ab27273a51>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fced2bdc-f7b5-456a-8e49-efb4c7f0d506>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fd95b589-0c55-4a08-a800-9fcf1c7dbe20>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ff66f3c1-24dc-4ca4-9f01-2136c5ef84b7> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0204965b-1524-4130-aea6-12096bc222a3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/038a1765-6724-4bab-99bb-44bcb1eb628f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0428b32e-d286-4d9c-adc2-d1915a9f6978>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/04d27a34-228b-4f1a-b705-112ae547b910>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/05e4c1cf-5904-40dc-8cfe-153567cc85c6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/06bbd1fa-a370-4056-8596-e7617f8eca9f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/079e4123-372a-44fd-9cd6-51c1612f9645>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/07a54a3b-a0ae-418d-8d8c-3a60a1582e2a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0c402e06-eb51-420d-ac10-d4aa6f7c9750>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0d16ae0e-c93c-44f3-813b-ea4af8455710>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/0db9697d-db75-4ff8-b169-a61222149da0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/14ae5e2b-e54d-413f-85ff-dc3f203533d6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/154ef887-995d-4e3f-9cb5-2610c307bb88>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1653972a-9a28-48d3-8d65-0693b0325d56>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/16f82bf7-9a5b-474c-a587-bc032845891c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1713e881-7d86-4165-92b7-f3315b170b82>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1b3e9684-c5b3-4242-93f0-862bbfd32900>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1b5569a0-4191-4927-8873-6b648e6b589a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/1cc5ae6e-30af-4384-b9ba-b486905c8214>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/214e2772-e12b-41cf-a90b-d967292dc146>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/22260851-3e85-4dd9-b029-2d3f8c2f10ab>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/28b941e7-d9e2-4708-be89-876b551768e5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/28e8c16e-f515-4a1e-a3ae-fc986a0552e1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/299dab9b-1d41-410c-81dc-4311b90847ba>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2b557836-c234-4f37-aa18-7c0b8ea10158>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2ba0640b-6ca2-4c3c-a874-bf9314d1b53f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2de2d870-ce7a-4974-b267-083dc181e4bb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/2f40f4cc-4e87-4f80-b422-2e18fc3f6be7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3090c388-3d0a-46ea-9d86-7976feee81c1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/343ecc29-a69c-4c69-b3e9-448022dc4fd3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/36da8d70-016c-4881-9ff4-eecb5d1902ae>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/37133ae1-0c8c-4737-9791-b07d7213012d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/38f6f55b-87e5-42b7-9c0a-42de5df17e89>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3908f0e0-a965-435e-b0c8-6ea245f95e1c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3ebf54c9-d695-4795-be95-e171944e0d6b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/3f97a6c1-f2bc-4b40-ba65-4df710bc04c7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/41654660-3ffa-472e-972d-9546acb26fb1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/41a98e45-f659-45c8-bc22-0827bda6d94c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/42f88d03-8c46-46fc-8bd3-0e4200f4e7b8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/42f9904d-af18-474d-8f0d-ebc033409a66>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/437ecab3-4960-47a6-90c0-1ff9bbcbe52b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/443705b8-d647-4f95-bbd0-6e2307d198a4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/44b3e460-8f88-440d-a597-b3ba321088f7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4c289d66-de2c-4a63-85cf-78eadacf12ec>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4c865105-9ad9-4940-ad15-339563e48fc8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4e05b8ed-f953-4aae-a898-c4187111082e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/4f3b6c0d-2399-4c4d-a468-3a1128472338>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/518dc097-3d84-4049-8bf8-c53d4ea36e53>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/51a2435b-019e-4bdc-bc5f-e667156bd8c4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/51c11a0b-8d11-4f92-a5ee-d1d35ce5e43e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5237cd40-0c20-4fd5-a430-9ae0e539c811>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/526cb164-39a6-4018-b585-76dd6e58818e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/53928805-b625-499b-804b-ce8dcfe08451>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5797e0d6-73f7-4b9a-b885-65df3c790ff6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/58988018-6fc5-4db2-bb4d-9872ebf3b27e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/58a756d6-4f41-463c-8581-f92386591672>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/58aae4a3-4ae3-4350-bcea-043499f1437e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/59c09d9a-e7d7-485e-9180-eba6a37bb03f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5c32360f-41b3-4d37-a646-3cdd1213eb3f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/5dd40ca6-0347-4111-ba14-d66a5da1dddd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/652bf892-39e6-4be7-aa3c-c7eb136fa70b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/66501da8-d778-40a8-b2dc-937bef320d8d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/68a653a2-7367-47c9-8205-642f196f1045>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6b2b7645-115c-4ca1-8a9e-4e609834d028>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/6ba44d88-7a29-4fd3-a2ea-cbf20c1669e6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/71152f20-b0fa-4fc4-8624-6f430e6d766a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/71ebc386-ef8d-45f8-b798-fe1b0ce2db67>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/72a1df8b-3677-4fc9-8ab4-4937a0b11915>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/73d27edd-2c91-49b9-b515-44f9da8912ee>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/76efae51-c42f-4b5f-8aff-b9360bd6a8f8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7b977f05-4f1d-4d74-805d-d88ad03b285c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7bd5d497-03ca-4679-ab41-3810e19ada74>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7c8cb54c-a9c2-4532-bb70-ba113fd761c6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7dba0f84-bbf1-4ea7-91ef-fe68d572ef35>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/7fbf5115-4381-4728-be76-c6959fedda98>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/813ab71d-0719-4974-82f9-0b31004432d3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8274c43a-de0f-46d6-969f-2fa659b10ae1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8330ef5d-c763-4d30-ab60-0b6bde6f4de4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/838d4c7e-a5cd-432c-8a2b-e3d3f686b90f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/84e8841b-e18c-4c1b-aeed-d6381113c115>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/874e2b61-cb30-4404-ba6e-fcb193d6d1f9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/88523ff6-8f17-4cbd-b67a-5ce69332b6fc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/892965ef-597b-4458-b757-609131e45126>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8ac72107-1b74-4c4d-832a-2dc6d81b4cd4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8cfc6e5d-f87e-45a7-a9e0-8ba9f86eba79>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/8f7dd608-30e4-4471-9f86-0b206bb4882c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/916f9d9c-a3b6-4db7-b033-de9ecbdee81c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/922d0c6d-6dc0-4e6f-8793-0bdbc47c2ca7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/939fc98c-739e-4094-9a4d-dcff77e175bb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9498a1cb-ccf7-4005-b441-de4b0a2ad31c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/94f1d62a-04d5-4da0-926c-0151ba307b0f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/98e30e15-5eea-404c-b737-d267ef09656c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/9f93276c-94dd-4b41-b80e-1ffb60c9a44f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a0fecb4d-a701-4574-a129-28a8cef7fe40>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a5a4b7bd-61de-4727-8dcc-f2d1644db2c5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/a688d2d0-4559-4735-abab-2041c4cae5a7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/aa0822ed-ac67-4694-b536-ab18836dfa50>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ac529537-9d15-462c-a85d-f9ff0aaa9890>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b0ee4f7a-2dbc-4d2c-bc45-3d80fbf3c4dc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b285237c-7040-4f10-887a-a0a5f26ebe16>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b462670a-a0d2-43d0-a0b3-eb8d2d202d3f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b584812a-be23-4fb8-933a-87033fa3ce9c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/b7accf74-74cb-45c5-b908-0f1f7d64bd0f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/baf9a92f-19ba-4bc4-bafa-c090cba78ba6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bbb2d055-cd72-4651-9b4d-f48d2a2b2bf9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bc73e5d2-caac-4d09-8996-b05a277f6e71>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/bcb25cbd-9917-45a7-9d98-d2a77b8f289f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/be64859e-f432-4e02-9036-56b8e46f92bb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c07ff485-84ae-498a-8cf7-9bd4dca80be0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c0bbab2a-6c52-4bfb-b701-eb84468cff92>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/c46c0738-99e0-4f5a-ae23-a88cfada0040>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cf0a1885-55db-478e-9833-d60480b5199a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/cf31f489-7186-4770-bba3-e4e984d3644a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d582541c-e476-4353-b764-78a9e07d54ce>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d7430d8d-bd64-418e-b1a4-8b4be6f5f11e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d8f6eb20-de70-4f33-bbd8-084c6cb5f821>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/d9b428fd-e310-429c-8625-fd8779c754fa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/db032ba5-cba9-479e-bf36-64ecc47a64fc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e00e74c0-585e-47b8-97c1-364ea8ab9415>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e330487d-e837-46cc-b703-4578c2707c56>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e4dfb1aa-6b0c-4721-83cb-7c95900d3168>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e53cf77f-aff3-46b2-984a-daf4e8d156c8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e5705ac7-8a80-4332-9a66-e2c8023faaa8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e737ff78-0271-4f37-8414-aba427ac5a1f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/e8afa0d1-3ede-478c-953e-7fee16080cbb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/eacfb29e-7b26-4d6f-a9ba-8b5a60330e0e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/eb4f50eb-32c9-4e89-b3fb-85fe6542fed3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ecdb3f52-ea9d-4f0e-a1f8-5657dd5c3daa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ef0eea1b-f431-4919-81b4-d5c246ba4772>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f1549038-8ea8-4140-b63d-0c87067e9ab5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f2692cb2-6f57-48e3-ac8d-fb913fc6e4a7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f59e9bda-850c-434a-98e9-0237b696bff5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f6e9941b-09ba-402d-b514-5a9f38d2296c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/f9a8ea47-afd6-44e6-a1b8-f404cf5f47df>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/faf1cb7e-b0c0-4f4e-aa9d-b35f934da51c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fc59faa0-9715-4c8b-a20e-a9368b36648f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fcc93680-dcc0-453c-b7a8-13ab27273a51>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fced2bdc-f7b5-456a-8e49-efb4c7f0d506>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/fd95b589-0c55-4a08-a800-9fcf1c7dbe20>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzend1/ff66f3c1-24dc-4ca4-9f01-2136c5ef84b7> ;
     skos:prefLabel "Kompetenzen D1"@de .
 

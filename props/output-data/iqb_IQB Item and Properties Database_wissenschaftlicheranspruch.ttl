@@ -1,53 +1,53 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/1c545189-66a7-44be-a6d4-d61941af4911> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
-    skos:notation "5" ;
-    skos:prefLabel "sehr gering"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/3991335f-d6ee-4ddb-8e54-d6e2d0b10c5c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
-    skos:notation "2" ;
-    skos:prefLabel "hoch"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/39e1b57a-bc54-4279-a94b-fb27e6ba49ee> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
-    skos:notation "4" ;
-    skos:prefLabel "gering"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/48a7d38c-fa18-4a3d-be5d-8b16c52a2914> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
-    skos:notation "3" ;
-    skos:prefLabel "mittel"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/ca3a25fc-5fdc-4342-862e-fbe63d14dd6c> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/0132d902-b89f-4389-bab5-8b9b05c3e472> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
     skos:notation "1" ;
     skos:prefLabel "sehr hoch"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/808f0c9c-000e-4b5b-9140-9d0c263f2307> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
+    skos:notation "2" ;
+    skos:prefLabel "hoch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/7639cbda-3d0f-4405-ba68-917e8459e633> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
+    skos:notation "3" ;
+    skos:prefLabel "mittel"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/7b2e58c3-d309-4fb3-8071-dd7e5b357f5e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
+    skos:notation "4" ;
+    skos:prefLabel "gering"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/9e9f96dc-dc8b-4c8d-bbcb-95bbfb464ac0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> ;
+    skos:notation "5" ;
+    skos:prefLabel "sehr gering"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Wissenschaftlicher Anspruch"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/1c545189-66a7-44be-a6d4-d61941af4911>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/3991335f-d6ee-4ddb-8e54-d6e2d0b10c5c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/39e1b57a-bc54-4279-a94b-fb27e6ba49ee>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/48a7d38c-fa18-4a3d-be5d-8b16c52a2914>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/ca3a25fc-5fdc-4342-862e-fbe63d14dd6c> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/1c545189-66a7-44be-a6d4-d61941af4911>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/3991335f-d6ee-4ddb-8e54-d6e2d0b10c5c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/39e1b57a-bc54-4279-a94b-fb27e6ba49ee>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/48a7d38c-fa18-4a3d-be5d-8b16c52a2914>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/ca3a25fc-5fdc-4342-862e-fbe63d14dd6c> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/0132d902-b89f-4389-bab5-8b9b05c3e472>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/7639cbda-3d0f-4405-ba68-917e8459e633>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/7b2e58c3-d309-4fb3-8071-dd7e5b357f5e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/808f0c9c-000e-4b5b-9140-9d0c263f2307>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/9e9f96dc-dc8b-4c8d-bbcb-95bbfb464ac0> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/0132d902-b89f-4389-bab5-8b9b05c3e472>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/7639cbda-3d0f-4405-ba68-917e8459e633>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/7b2e58c3-d309-4fb3-8071-dd7e5b357f5e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/808f0c9c-000e-4b5b-9140-9d0c263f2307>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wissenschaftlicheranspruch/9e9f96dc-dc8b-4c8d-bbcb-95bbfb464ac0> ;
     skos:prefLabel "Wissenschaftlicher Anspruch"@de .
 

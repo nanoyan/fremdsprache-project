@@ -1,21 +1,21 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/4f224ef2-fb4d-41cf-ace8-05cb4e268a9d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Weitergeben von Informationen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/93d14f24-a427-4d79-916f-267505362191> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/f4383537-4ead-4b88-9e3e-aebeb74c63dd> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
     skos:notation "1" ;
     skos:prefLabel "Erschließen von Informationen"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/ac47187d-04dd-4c9b-8acb-05cc08976509> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/074e9494-761f-4784-9eec-4764a9d5033f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Weitergeben von Informationen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/dc937507-c94d-4eeb-b678-fb149117819e> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
     skos:notation "3" ;
@@ -25,11 +25,11 @@
 <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Teilbereich3"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/4f224ef2-fb4d-41cf-ace8-05cb4e268a9d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/93d14f24-a427-4d79-916f-267505362191>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/ac47187d-04dd-4c9b-8acb-05cc08976509> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/4f224ef2-fb4d-41cf-ace8-05cb4e268a9d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/93d14f24-a427-4d79-916f-267505362191>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/ac47187d-04dd-4c9b-8acb-05cc08976509> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/074e9494-761f-4784-9eec-4764a9d5033f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/dc937507-c94d-4eeb-b678-fb149117819e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/f4383537-4ead-4b88-9e3e-aebeb74c63dd> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/074e9494-761f-4784-9eec-4764a9d5033f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/dc937507-c94d-4eeb-b678-fb149117819e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/f4383537-4ead-4b88-9e3e-aebeb74c63dd> ;
     skos:prefLabel "Teilbereich3"@de .
 

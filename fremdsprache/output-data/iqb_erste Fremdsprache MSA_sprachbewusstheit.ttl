@@ -1,18 +1,11 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/47bbaeb2-a2b9-4f9f-8612-f79d08c66032> a skos:Concept ;
+<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/c2f44e82-0d9f-4304-b36d-da2df55e4f22> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Mitteilungsabsichten in vertrauten mündlichen und schriftlichen Kommunikationsformen in der Regel selbständig situations-, adressaten- und zweckangemessen umsetzen."@de ;
-    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
-
-<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/4e19bb7d-d701-4bc2-a883-5eb0bc80711c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Gemeinsamkeiten, Unterschiede und Beziehungen zwischen Sprachen in der Regel selbständig erkennen und reflektieren."@de ;
+    skos:notation "1" ;
+    skos:prefLabel "Hypothesen zu Regelmäßigkeiten des Gebrauchs sprachlicher Mittel formulieren."@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
 
 <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/5ca642d1-cea0-4230-a76e-ceede50d0519> a skos:Concept ;
@@ -22,18 +15,11 @@
     skos:prefLabel "einige sozial und regional geprägte Varietäten der Fremdsprache wahrnehmen und reflektieren."@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
 
-<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/a601c252-8d98-4616-934d-ced6f17fee0b> a skos:Concept ;
+<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/47bbaeb2-a2b9-4f9f-8612-f79d08c66032> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
-    skos:notation "6" ;
-    skos:prefLabel "über die Erfordernisse einer kommunikativen Situation nachdenken und die so gewonnenen Erkenntnisse in der Regel selbständig in ihrem adressaten-, situations- und zweckangemessenen Sprachhandeln berücksichtigen."@de ;
-    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
-
-<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/c2f44e82-0d9f-4304-b36d-da2df55e4f22> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Hypothesen zu Regelmäßigkeiten des Gebrauchs sprachlicher Mittel formulieren."@de ;
+    skos:notation "3" ;
+    skos:prefLabel "Mitteilungsabsichten in vertrauten mündlichen und schriftlichen Kommunikationsformen in der Regel selbständig situations-, adressaten- und zweckangemessen umsetzen."@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
 
 <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/cbc03656-18b0-4618-9906-89686d95fb51> a skos:Concept ;
@@ -41,6 +27,20 @@
     skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
     skos:notation "4" ;
     skos:prefLabel "sprachliche Fehler im Bereich vertrauter morphologisch-syntaktischer und syntaktischer Regelungen in der Regel selbständig erkennen und korrigieren."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/4e19bb7d-d701-4bc2-a883-5eb0bc80711c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:notation "5" ;
+    skos:prefLabel "Gemeinsamkeiten, Unterschiede und Beziehungen zwischen Sprachen in der Regel selbständig erkennen und reflektieren."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
+
+<https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/a601c252-8d98-4616-934d-ced6f17fee0b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> ;
+    skos:notation "6" ;
+    skos:prefLabel "über die Erfordernisse einer kommunikativen Situation nachdenken und die so gewonnenen Erkenntnisse in der Regel selbständig in ihrem adressaten-, situations- und zweckangemessenen Sprachhandeln berücksichtigen."@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> .
 
 <https://w3id.org/iqb/bista23FrMSA/sprachbewusstheit/> a skos:ConceptScheme ;

@@ -1,305 +1,305 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/0f977264-adb1-4e27-9831-9f01f9025107> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Familienalltag"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/173a6bd6-0ec5-45f4-b873-077d31e46bb3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "6" ;
-    skos:prefLabel "Dienstleistungen: Arztbesuch, Behörden, Bank u.ä."@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/1efa846a-79fa-4f9f-81db-5d9e723c3448> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "18" ;
-    skos:prefLabel "Sprache und Sprachenlernen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/2eedb7d9-1fa9-4918-a907-d25c8f62d201> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "19" ;
-    skos:prefLabel "Regionale Identität"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/3515dff4-5a22-40ed-ac25-6b6aa73a0c68> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "20" ;
-    skos:prefLabel "Geografische Gegebenheiten"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/3932ab61-8020-4075-90bd-6bf573926855> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "28" ;
-    skos:prefLabel "Darstellende Kunst"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/3b0d4188-9855-456d-be96-5987ac76efe5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "32" ;
-    skos:prefLabel "Presse, Rundfunk, Fernsehen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/3f03d63e-09d9-41d2-94ec-b507abfe3f74> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "23" ;
-    skos:prefLabel "Geschichte, Philosophie, Religion"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/45d8efdf-dc8b-4909-a63b-49e7e67128fc> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "15" ;
-    skos:prefLabel "Schule und Unterricht"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/4660fc33-8834-4cb3-9b20-035852e36b11> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "8" ;
-    skos:prefLabel "Haustiere, Tiere"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/4af1f27d-b71c-436a-b44e-e61000575629> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "21" ;
-    skos:prefLabel "Reisen, Tourismus"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/4cdd65cd-6853-4d71-a611-7f24cf2d4bd5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "33" ;
-    skos:prefLabel "elektronische Medien"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/4e25080a-6e03-4ca6-a01a-9aa5bd01e598> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "12" ;
-    skos:prefLabel "Identität"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/53d54794-f38c-4425-b733-19eed7326dcd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "11" ;
-    skos:prefLabel "Zwischenmenschliche Beziehungen: Liebe, Freundschaft, Familie"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/63c79a4b-61a7-4960-819a-b0f77eca6e02> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "14" ;
-    skos:prefLabel "Kommunikation"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/6d5b4baa-3378-4a06-a019-ca5ff6a57cf5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "30" ;
-    skos:prefLabel "Musik"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/77a991dd-304d-4c7b-9696-5b1fc29d0e48> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "13" ;
-    skos:prefLabel "Erziehung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/788b174f-c55a-4242-9871-fe34bdd3e801> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "25" ;
-    skos:prefLabel "Menschenrechte, moralische Verantwortung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/8b0003b1-d628-4a8a-aabe-b11561464f5f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "22" ;
-    skos:prefLabel "Politik und Wirtschaft"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/95e16249-ecbd-4abe-9fd9-265480357f8f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Einkaufen, Kleidung, Konsum"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/9605d62d-425d-4fcc-86a8-3aa97b49ba41> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "17" ;
-    skos:prefLabel "Berufe"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/a4fcc19c-756d-4238-aef4-824ea83d3f06> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "26" ;
-    skos:prefLabel "Natur, Wissenschaft und Technik"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/b07ea15b-371e-4c6f-9b97-2dbfd053590f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "27" ;
-    skos:prefLabel "Bildende Kunst"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/b3dd6585-83d4-4f86-8e5a-050dc111ab3b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "29" ;
-    skos:prefLabel "Literatur"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/b5bd490a-9d69-4387-a953-a42ce2aeeaf9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "16" ;
-    skos:prefLabel "Ausbildung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/bb85dffc-f86c-4dc5-818a-42aa1609507a> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/b12525d0-6f92-4360-88af-6e04befa901a> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
     skos:notation "1" ;
     skos:prefLabel "Schulalltag"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/bfcf8442-2dc9-4eb9-8e80-87d7c0feaccd> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/a25d7170-bd18-45fb-be09-8d9cdabaf744> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Essen und Trinken"@de ;
+    skos:notation "2" ;
+    skos:prefLabel "Familienalltag"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/ca3cab1d-dc28-4fa4-9fcb-876720a04164> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "10" ;
-    skos:prefLabel "Verkehrsmittel"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/d311b5c4-38e2-4d96-99db-6c5411a6dfbf> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/38ca8846-0159-4961-9fa6-4b0c641f0ff8> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
     skos:notation "3" ;
     skos:prefLabel "Wohnen und Umwelt"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/e39db32c-2746-45ae-a324-bd0d445c7528> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/efbe9676-1394-417b-91c4-5d30179bf235> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "31" ;
-    skos:prefLabel "Architektur und Design"@de ;
+    skos:notation "4" ;
+    skos:prefLabel "Essen und Trinken"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/e721aea7-1539-4798-9129-9c7e36e22c20> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/232a94b6-8207-4ddf-8f06-4ae276c99fad> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "24" ;
-    skos:prefLabel "Globale Herausforderungen"@de ;
+    skos:notation "5" ;
+    skos:prefLabel "Einkaufen, Kleidung, Konsum"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/e8c433d2-9ec0-42ff-b93e-c34b6662e353> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/f8e2a317-365d-4687-84c8-1ce00235ac13> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
-    skos:notation "9" ;
-    skos:prefLabel "Wetter"@de ;
+    skos:notation "6" ;
+    skos:prefLabel "Dienstleistungen: Arztbesuch, Behörden, Bank u.ä."@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/thema/fd4cdad0-253e-4a04-a59a-6442bd244845> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/04f354e6-248a-45c8-bde4-d9620dc045fe> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
     skos:notation "7" ;
     skos:prefLabel "Freizeit und Sport"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/5bd7cc25-f43c-4a1c-a244-c015a3314354> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "8" ;
+    skos:prefLabel "Haustiere, Tiere"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/321d0463-03fd-404c-97be-43ed1a5c3c29> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "9" ;
+    skos:prefLabel "Wetter"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/fe6e0ada-304b-4f78-88eb-c2c9b0316a9d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "10" ;
+    skos:prefLabel "Verkehrsmittel"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/1d450b75-818f-4d43-832b-e1e17cd41cf7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "11" ;
+    skos:prefLabel "Zwischenmenschliche Beziehungen: Liebe, Freundschaft, Familie"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/539ff74a-ca88-4c36-b2be-9bd6d99314be> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "12" ;
+    skos:prefLabel "Identität"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/0739f3be-2895-408b-bee2-1240045be1ad> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "13" ;
+    skos:prefLabel "Erziehung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/dff83f62-bbd9-49f7-a7df-f0ad8c2d1376> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "14" ;
+    skos:prefLabel "Kommunikation"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/df32b765-f443-4cb7-8fd0-743029c27d5a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "15" ;
+    skos:prefLabel "Schule und Unterricht"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/14ca3ed3-307c-4e80-ae74-30b3cd0b2ea9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "16" ;
+    skos:prefLabel "Ausbildung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/c3a55381-959e-471c-ad83-ddccc16916e0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "17" ;
+    skos:prefLabel "Berufe"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/909baa7a-62eb-4836-a78c-8470252f3c85> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "18" ;
+    skos:prefLabel "Sprache und Sprachenlernen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/a803c634-0437-42bd-95ae-fa2a64fab73e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "19" ;
+    skos:prefLabel "Regionale Identität"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/94725b88-de35-4db0-a8b4-e9db3ae1ca99> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "20" ;
+    skos:prefLabel "Geografische Gegebenheiten"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/1d82ee8b-2913-42cf-b31b-6274cf288937> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "21" ;
+    skos:prefLabel "Reisen, Tourismus"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/50ed138c-989c-482f-af85-b2a02f301b62> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "22" ;
+    skos:prefLabel "Politik und Wirtschaft"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/0a307571-d0da-4df2-b209-aaa6a31990af> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "23" ;
+    skos:prefLabel "Geschichte, Philosophie, Religion"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/6f49dc85-4934-407c-8e98-6c0cd7ca8541> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "24" ;
+    skos:prefLabel "Globale Herausforderungen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/1479825f-dce8-4092-ab22-b757bc79bebf> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "25" ;
+    skos:prefLabel "Menschenrechte, moralische Verantwortung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/7843c629-66b8-436f-8b47-f68ef032b59e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "26" ;
+    skos:prefLabel "Natur, Wissenschaft und Technik"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/ddcd0f7e-55a2-46a6-ad92-ebf2520e4553> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "27" ;
+    skos:prefLabel "Bildende Kunst"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/325a7b5e-f38b-4d89-bdda-1ad39a022ca8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "28" ;
+    skos:prefLabel "Darstellende Kunst"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/0bb2ae2a-7044-48ef-8dda-19af4bec79e7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "29" ;
+    skos:prefLabel "Literatur"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/0e349818-fd93-4350-bcfa-d5be90ab1d48> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "30" ;
+    skos:prefLabel "Musik"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/174529b0-a614-47ea-9d02-931c238f5431> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "31" ;
+    skos:prefLabel "Architektur und Design"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/5ab6b6cb-1ccd-497f-80cf-817fe94dc8cc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "32" ;
+    skos:prefLabel "Presse, Rundfunk, Fernsehen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/thema/1dc16e11-35fa-4117-a3b0-57d3038e5753> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> ;
+    skos:notation "33" ;
+    skos:prefLabel "elektronische Medien"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/thema/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Thema"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/thema/0f977264-adb1-4e27-9831-9f01f9025107>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/173a6bd6-0ec5-45f4-b873-077d31e46bb3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/1efa846a-79fa-4f9f-81db-5d9e723c3448>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/2eedb7d9-1fa9-4918-a907-d25c8f62d201>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/3515dff4-5a22-40ed-ac25-6b6aa73a0c68>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/3932ab61-8020-4075-90bd-6bf573926855>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/3b0d4188-9855-456d-be96-5987ac76efe5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/3f03d63e-09d9-41d2-94ec-b507abfe3f74>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/45d8efdf-dc8b-4909-a63b-49e7e67128fc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/4660fc33-8834-4cb3-9b20-035852e36b11>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/4af1f27d-b71c-436a-b44e-e61000575629>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/4cdd65cd-6853-4d71-a611-7f24cf2d4bd5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/4e25080a-6e03-4ca6-a01a-9aa5bd01e598>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/53d54794-f38c-4425-b733-19eed7326dcd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/63c79a4b-61a7-4960-819a-b0f77eca6e02>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/6d5b4baa-3378-4a06-a019-ca5ff6a57cf5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/77a991dd-304d-4c7b-9696-5b1fc29d0e48>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/788b174f-c55a-4242-9871-fe34bdd3e801>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/8b0003b1-d628-4a8a-aabe-b11561464f5f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/95e16249-ecbd-4abe-9fd9-265480357f8f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/9605d62d-425d-4fcc-86a8-3aa97b49ba41>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/a4fcc19c-756d-4238-aef4-824ea83d3f06>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/b07ea15b-371e-4c6f-9b97-2dbfd053590f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/b3dd6585-83d4-4f86-8e5a-050dc111ab3b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/b5bd490a-9d69-4387-a953-a42ce2aeeaf9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/bb85dffc-f86c-4dc5-818a-42aa1609507a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/bfcf8442-2dc9-4eb9-8e80-87d7c0feaccd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/ca3cab1d-dc28-4fa4-9fcb-876720a04164>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/d311b5c4-38e2-4d96-99db-6c5411a6dfbf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/e39db32c-2746-45ae-a324-bd0d445c7528>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/e721aea7-1539-4798-9129-9c7e36e22c20>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/e8c433d2-9ec0-42ff-b93e-c34b6662e353>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/fd4cdad0-253e-4a04-a59a-6442bd244845> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/thema/0f977264-adb1-4e27-9831-9f01f9025107>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/173a6bd6-0ec5-45f4-b873-077d31e46bb3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/1efa846a-79fa-4f9f-81db-5d9e723c3448>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/2eedb7d9-1fa9-4918-a907-d25c8f62d201>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/3515dff4-5a22-40ed-ac25-6b6aa73a0c68>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/3932ab61-8020-4075-90bd-6bf573926855>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/3b0d4188-9855-456d-be96-5987ac76efe5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/3f03d63e-09d9-41d2-94ec-b507abfe3f74>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/45d8efdf-dc8b-4909-a63b-49e7e67128fc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/4660fc33-8834-4cb3-9b20-035852e36b11>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/4af1f27d-b71c-436a-b44e-e61000575629>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/4cdd65cd-6853-4d71-a611-7f24cf2d4bd5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/4e25080a-6e03-4ca6-a01a-9aa5bd01e598>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/53d54794-f38c-4425-b733-19eed7326dcd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/63c79a4b-61a7-4960-819a-b0f77eca6e02>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/6d5b4baa-3378-4a06-a019-ca5ff6a57cf5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/77a991dd-304d-4c7b-9696-5b1fc29d0e48>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/788b174f-c55a-4242-9871-fe34bdd3e801>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/8b0003b1-d628-4a8a-aabe-b11561464f5f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/95e16249-ecbd-4abe-9fd9-265480357f8f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/9605d62d-425d-4fcc-86a8-3aa97b49ba41>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/a4fcc19c-756d-4238-aef4-824ea83d3f06>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/b07ea15b-371e-4c6f-9b97-2dbfd053590f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/b3dd6585-83d4-4f86-8e5a-050dc111ab3b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/b5bd490a-9d69-4387-a953-a42ce2aeeaf9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/bb85dffc-f86c-4dc5-818a-42aa1609507a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/bfcf8442-2dc9-4eb9-8e80-87d7c0feaccd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/ca3cab1d-dc28-4fa4-9fcb-876720a04164>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/d311b5c4-38e2-4d96-99db-6c5411a6dfbf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/e39db32c-2746-45ae-a324-bd0d445c7528>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/e721aea7-1539-4798-9129-9c7e36e22c20>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/e8c433d2-9ec0-42ff-b93e-c34b6662e353>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/fd4cdad0-253e-4a04-a59a-6442bd244845> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/thema/04f354e6-248a-45c8-bde4-d9620dc045fe>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/0739f3be-2895-408b-bee2-1240045be1ad>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/0a307571-d0da-4df2-b209-aaa6a31990af>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/0bb2ae2a-7044-48ef-8dda-19af4bec79e7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/0e349818-fd93-4350-bcfa-d5be90ab1d48>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/1479825f-dce8-4092-ab22-b757bc79bebf>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/14ca3ed3-307c-4e80-ae74-30b3cd0b2ea9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/174529b0-a614-47ea-9d02-931c238f5431>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/1d450b75-818f-4d43-832b-e1e17cd41cf7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/1d82ee8b-2913-42cf-b31b-6274cf288937>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/1dc16e11-35fa-4117-a3b0-57d3038e5753>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/232a94b6-8207-4ddf-8f06-4ae276c99fad>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/321d0463-03fd-404c-97be-43ed1a5c3c29>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/325a7b5e-f38b-4d89-bdda-1ad39a022ca8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/38ca8846-0159-4961-9fa6-4b0c641f0ff8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/50ed138c-989c-482f-af85-b2a02f301b62>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/539ff74a-ca88-4c36-b2be-9bd6d99314be>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/5ab6b6cb-1ccd-497f-80cf-817fe94dc8cc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/5bd7cc25-f43c-4a1c-a244-c015a3314354>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/6f49dc85-4934-407c-8e98-6c0cd7ca8541>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/7843c629-66b8-436f-8b47-f68ef032b59e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/909baa7a-62eb-4836-a78c-8470252f3c85>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/94725b88-de35-4db0-a8b4-e9db3ae1ca99>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/a25d7170-bd18-45fb-be09-8d9cdabaf744>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/a803c634-0437-42bd-95ae-fa2a64fab73e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/b12525d0-6f92-4360-88af-6e04befa901a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/c3a55381-959e-471c-ad83-ddccc16916e0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/ddcd0f7e-55a2-46a6-ad92-ebf2520e4553>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/df32b765-f443-4cb7-8fd0-743029c27d5a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/dff83f62-bbd9-49f7-a7df-f0ad8c2d1376>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/efbe9676-1394-417b-91c4-5d30179bf235>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/f8e2a317-365d-4687-84c8-1ce00235ac13>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/fe6e0ada-304b-4f78-88eb-c2c9b0316a9d> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/thema/04f354e6-248a-45c8-bde4-d9620dc045fe>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/0739f3be-2895-408b-bee2-1240045be1ad>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/0a307571-d0da-4df2-b209-aaa6a31990af>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/0bb2ae2a-7044-48ef-8dda-19af4bec79e7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/0e349818-fd93-4350-bcfa-d5be90ab1d48>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/1479825f-dce8-4092-ab22-b757bc79bebf>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/14ca3ed3-307c-4e80-ae74-30b3cd0b2ea9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/174529b0-a614-47ea-9d02-931c238f5431>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/1d450b75-818f-4d43-832b-e1e17cd41cf7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/1d82ee8b-2913-42cf-b31b-6274cf288937>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/1dc16e11-35fa-4117-a3b0-57d3038e5753>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/232a94b6-8207-4ddf-8f06-4ae276c99fad>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/321d0463-03fd-404c-97be-43ed1a5c3c29>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/325a7b5e-f38b-4d89-bdda-1ad39a022ca8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/38ca8846-0159-4961-9fa6-4b0c641f0ff8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/50ed138c-989c-482f-af85-b2a02f301b62>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/539ff74a-ca88-4c36-b2be-9bd6d99314be>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/5ab6b6cb-1ccd-497f-80cf-817fe94dc8cc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/5bd7cc25-f43c-4a1c-a244-c015a3314354>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/6f49dc85-4934-407c-8e98-6c0cd7ca8541>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/7843c629-66b8-436f-8b47-f68ef032b59e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/909baa7a-62eb-4836-a78c-8470252f3c85>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/94725b88-de35-4db0-a8b4-e9db3ae1ca99>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/a25d7170-bd18-45fb-be09-8d9cdabaf744>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/a803c634-0437-42bd-95ae-fa2a64fab73e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/b12525d0-6f92-4360-88af-6e04befa901a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/c3a55381-959e-471c-ad83-ddccc16916e0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/ddcd0f7e-55a2-46a6-ad92-ebf2520e4553>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/df32b765-f443-4cb7-8fd0-743029c27d5a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/dff83f62-bbd9-49f7-a7df-f0ad8c2d1376>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/efbe9676-1394-417b-91c4-5d30179bf235>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/f8e2a317-365d-4687-84c8-1ce00235ac13>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/thema/fe6e0ada-304b-4f78-88eb-c2c9b0316a9d> ;
     skos:prefLabel "Thema"@de .
 

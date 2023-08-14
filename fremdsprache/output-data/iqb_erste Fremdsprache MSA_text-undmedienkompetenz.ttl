@@ -1,11 +1,18 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/0bf85f64-b1f0-4ea3-bdef-3c2d02941e84> a skos:Concept ;
+<https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/6762c556-567c-4b41-b37a-c65789799428> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> ;
-    skos:notation "6" ;
-    skos:prefLabel "auf ihnen vertraute (digitale) Werkzeuge beim sprachlichen, inhaltlichen und textuellen Verstehen sowie beim Produzieren eigener Texte in der Regel selbstständig zurückgreifen."@de ;
+    skos:notation "1" ;
+    skos:prefLabel "strukturell unkomplizierte (literarisch-ästhetische) Texte zu vertrauten Themen mithilfe sprachlichen, inhaltlichen sowie genre- und medienspezifischen Wissens aufgabenbezogen bzw. zweckgerichtet verstehen, analysieren, deuten und die gewonnenen Aussagen am Text belegen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> .
+
+<https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/ce34af0b-669e-4095-8b42-289804325cdd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> ;
+    skos:notation "2" ;
+    skos:prefLabel "gängige (nicht-)sprachliche Gestaltungsmittel ihnen vertrauter Kommunikations- und Interaktionsformen in der Regel selbstständig erkennen und deuten."@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> .
 
 <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/16042370-2789-480a-848e-a4a0a28f19da> a skos:Concept ;
@@ -29,18 +36,11 @@
     skos:prefLabel "ihr Erstverstehen auf der Grundlage von knappen Rückmeldungen in der Regel selbstständig kritisch reflektieren, relativieren und ggf. revidieren."@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> .
 
-<https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/6762c556-567c-4b41-b37a-c65789799428> a skos:Concept ;
+<https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/0bf85f64-b1f0-4ea3-bdef-3c2d02941e84> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> ;
-    skos:notation "1" ;
-    skos:prefLabel "strukturell unkomplizierte (literarisch-ästhetische) Texte zu vertrauten Themen mithilfe sprachlichen, inhaltlichen sowie genre- und medienspezifischen Wissens aufgabenbezogen bzw. zweckgerichtet verstehen, analysieren, deuten und die gewonnenen Aussagen am Text belegen."@de ;
-    skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> .
-
-<https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/ce34af0b-669e-4095-8b42-289804325cdd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> ;
-    skos:notation "2" ;
-    skos:prefLabel "gängige (nicht-)sprachliche Gestaltungsmittel ihnen vertrauter Kommunikations- und Interaktionsformen in der Regel selbstständig erkennen und deuten."@de ;
+    skos:notation "6" ;
+    skos:prefLabel "auf ihnen vertraute (digitale) Werkzeuge beim sprachlichen, inhaltlichen und textuellen Verstehen sowie beim Produzieren eigener Texte in der Regel selbstständig zurückgreifen."@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> .
 
 <https://w3id.org/iqb/bista23FrMSA/text-undmedienkompetenz/> a skos:ConceptScheme ;

@@ -1,28 +1,28 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/0754100f-5c69-4631-af3e-23397434aa61> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/500f5af7-b369-4bd1-b6aa-501cfe6d902d> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
     skos:notation "1" ;
     skos:prefLabel "Fachwissen"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/24950bd4-f9b2-42c7-8d2a-7cf52ab6a559> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Bewertung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/cd83be82-3ddf-41fe-bc33-63593f5fc504> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/d0bc5f54-4c08-4d70-a461-692f622658f2> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
     skos:notation "2" ;
     skos:prefLabel "Erkenntnisgewinnung"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/d48c9bc9-3735-4c84-be2b-7f54307c4c1f> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/54f038fc-49ef-47b8-8ddf-dae722746152> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Bewertung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/93b12e6c-d754-49b0-b0b0-820da5d2ca8d> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
     skos:notation "4" ;
@@ -32,13 +32,13 @@
 <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Nawi-Kompetenzbereich"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/0754100f-5c69-4631-af3e-23397434aa61>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/24950bd4-f9b2-42c7-8d2a-7cf52ab6a559>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/cd83be82-3ddf-41fe-bc33-63593f5fc504>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/d48c9bc9-3735-4c84-be2b-7f54307c4c1f> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/0754100f-5c69-4631-af3e-23397434aa61>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/24950bd4-f9b2-42c7-8d2a-7cf52ab6a559>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/cd83be82-3ddf-41fe-bc33-63593f5fc504>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/d48c9bc9-3735-4c84-be2b-7f54307c4c1f> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/500f5af7-b369-4bd1-b6aa-501cfe6d902d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/54f038fc-49ef-47b8-8ddf-dae722746152>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/93b12e6c-d754-49b0-b0b0-820da5d2ca8d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/d0bc5f54-4c08-4d70-a461-692f622658f2> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/500f5af7-b369-4bd1-b6aa-501cfe6d902d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/54f038fc-49ef-47b8-8ddf-dae722746152>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/93b12e6c-d754-49b0-b0b0-820da5d2ca8d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/d0bc5f54-4c08-4d70-a461-692f622658f2> ;
     skos:prefLabel "Nawi-Kompetenzbereich"@de .
 

@@ -1,48 +1,6 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/3cd546e3-5b20-42df-a2ad-53826be30c1b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
-    skos:notation "6" ;
-    skos:prefLabel "in einfachen Begriffen diskutieren, wie die kulturell bedingten Handlungen verschiedener gesellschaftlicher (einschließlich der eigenen) Gruppen unterschiedlich wahrgenommen werden können."@de ;
-    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
-
-<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/4394935d-7251-4c40-bb91-07da92e1f9ee> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
-    skos:notation "3" ;
-    skos:prefLabel "in interkulturellen Situationen im Rahmen der ihnen zur Verfügung stehenden Mittel mit dem Kommunikationspartner sprachlich angemessen in Bezug auf Situation und Beteiligte agieren."@de ;
-    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
-
-<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/5ebe2004-b955-4107-afea-2fba39e52245> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
-    skos:notation "5" ;
-    skos:prefLabel "(als kulturelle Mittler) die Parteien bei einer Meinungsverschiedenheit bitten, ihr Problem zu erläutern, und kurz darauf reagieren, vorausgesetzt es handelt sich um ein vertrautes Thema und die Beteiligten drücken sich deutlich aus."@de ;
-    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
-
-<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/7f22adfc-23b3-4a91-a395-ff7633ae98d7> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
-    skos:notation "7" ;
-    skos:prefLabel "die in einer Sprache/in anderen Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien für Sprachhandlungen in interkulturellen (Alltags-) Situationen in der Regel selbstständig nutzen."@de ;
-    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
-
-<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/9695cc1e-89e5-46e2-82af-462fbf0724b2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
-    skos:notation "4" ;
-    skos:prefLabel "einen interkulturellen Austausch unterstützen, indem sie Offenheit, Interesse und Empathie durch Fragen und die Reaktion auf Fragen zeigen. Dabei sind sie sich der Tatsache bewusst, dass manche Themen und Fragen in den betroffenen Kulturen unterschiedlich wahrgenommen werden können."@de ;
-    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
-
-<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/98195bcd-5255-4fae-b199-92be3f0b55fc> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
-    skos:notation "8" ;
-    skos:prefLabel "ihre zur Verfügung stehende interkulturelle Bewusstheit in Alltagskontexten in der Regel selbstständig reflektieren, um mit einer unerwarteten Situation adressaten-, situations- und zweckangemessen umgehen zu können."@de ;
-    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
-
 <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/d5d87274-95a5-421f-9065-45101c08ff9d> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
@@ -55,6 +13,48 @@
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
     skos:notation "2" ;
     skos:prefLabel "sich in interkulturellen Situationen der Ähnlichkeiten und Unterschiede von Konventionen (z.B. in Bezug auf Körperhaltung, Blickkontakt und Abstand zu anderen) bewusst und können angemessen damit umgehen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/4394935d-7251-4c40-bb91-07da92e1f9ee> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:notation "3" ;
+    skos:prefLabel "in interkulturellen Situationen im Rahmen der ihnen zur Verfügung stehenden Mittel mit dem Kommunikationspartner sprachlich angemessen in Bezug auf Situation und Beteiligte agieren."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/9695cc1e-89e5-46e2-82af-462fbf0724b2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:notation "4" ;
+    skos:prefLabel "einen interkulturellen Austausch unterstützen, indem sie Offenheit, Interesse und Empathie durch Fragen und die Reaktion auf Fragen zeigen. Dabei sind sie sich der Tatsache bewusst, dass manche Themen und Fragen in den betroffenen Kulturen unterschiedlich wahrgenommen werden können."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/5ebe2004-b955-4107-afea-2fba39e52245> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:notation "5" ;
+    skos:prefLabel "(als kulturelle Mittler) die Parteien bei einer Meinungsverschiedenheit bitten, ihr Problem zu erläutern, und kurz darauf reagieren, vorausgesetzt es handelt sich um ein vertrautes Thema und die Beteiligten drücken sich deutlich aus."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/3cd546e3-5b20-42df-a2ad-53826be30c1b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:notation "6" ;
+    skos:prefLabel "in einfachen Begriffen diskutieren, wie die kulturell bedingten Handlungen verschiedener gesellschaftlicher (einschließlich der eigenen) Gruppen unterschiedlich wahrgenommen werden können."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/7f22adfc-23b3-4a91-a395-ff7633ae98d7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:notation "7" ;
+    skos:prefLabel "die in einer Sprache/in anderen Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien für Sprachhandlungen in interkulturellen (Alltags-) Situationen in der Regel selbstständig nutzen."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
+
+<https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/98195bcd-5255-4fae-b199-92be3f0b55fc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> ;
+    skos:notation "8" ;
+    skos:prefLabel "ihre zur Verfügung stehende interkulturelle Bewusstheit in Alltagskontexten in der Regel selbstständig reflektieren, um mit einer unerwarteten Situation adressaten-, situations- und zweckangemessen umgehen zu können."@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> .
 
 <https://w3id.org/iqb/bista23FrESA/interkulturellekompetenz/> a skos:ConceptScheme ;

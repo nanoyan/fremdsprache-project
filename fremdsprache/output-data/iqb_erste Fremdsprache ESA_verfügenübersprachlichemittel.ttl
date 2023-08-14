@@ -1,56 +1,6 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/3eab7d69-bdaf-4ba5-b295-83fd9f7d47ca> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
-    skos:notation "1.7" ;
-    skos:prefLabel "ihnen vertraute (digitale) Hilfsmittel situations- und zweckangemessen zur Sicherstellung weitgehender orthographischer Korrektheit in der Regel selbstständig nutzen."@de .
-
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/5e126bb8-cfcf-4b95-ba16-0ec4f721125b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
-    skos:notation "1.2" ;
-    skos:prefLabel "ein breites Spektrum einfacher sprachlicher Mittel flexibel einsetzen, um ihre Mitteilungsabsichten grundlegend zu realisieren, die wichtigsten Aspekte eines Gedankens oder eines Problems zu erklären und eigene Überlegungen zu Themen von allgemeinem Interesse auszudrücken."@de .
-
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/67b15277-c0b9-48b2-b6a5-9716ef48326a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
-    skos:notation "1.5" ;
-    skos:prefLabel "grammatische Strukturen in vertrauten Kommunikationssituationen hinreichend korrekt und sicher anwenden. Mitunter zeigen sich erkennbare Einflüssen anderer Sprachen, ohne dass dies jedoch das Verständnis beeinträchtigt."@de .
-
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/71c9f470-c8be-42e9-b1d5-092f9fd2163c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
-    skos:notation "1.3" ;
-    skos:prefLabel "ihre Ausdrucksweise auch weniger routinemäßigen, sogar schwierigen Situationen anpassen."@de .
-
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/9a0fcebf-90bb-4b94-9704-64dd230a672f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
-    skos:notation "1.6" ;
-    skos:prefLabel "die Orthographie und Zeichensetzung so exakt anwenden, dass die von ihnen produzierten zusammenhängenden Texte verständlich sind."@de .
-
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/cf5895e4-ddf5-4e47-95d5-1b1377569b97> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
-    skos:notation "1.1" ;
-    skos:prefLabel "sich zu vertrauten Themen (insbesondere solchen des eigenen Interessensbereichs) äußern, mitunter zögernd und mithilfe von Umschreibungen."@de .
-
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/ed7c70a8-6528-4fc6-b83e-23dcef5a0bd9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
-    skos:notation "1.4" ;
-    skos:prefLabel "ein Repertoire von häufig gebrauchten Wendungen, Konstruktionen und Phrasen, die an eher vorhersehbare Situationen gebunden sind, hinreichend korrekt verwenden."@de .
-
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/16d238bb-f559-4af0-9801-b1fc6b1f1166> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
-    skos:definition "Die Aussprache der Schülerinnen und Schüler ist im Allgemeinen durchgängig verständlich, auch wenn der Einfluss von anderen Sprachen, die sie sprechen, auf die Betonung, die Intonation und/oder den Rhythmus bemerkbar ist und obwohl sie wiederholt einzelne weniger vertraute Laute und Wörter falsch aussprechen."@de ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Aussprache und Prosodie"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> .
-
 <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
     skos:definition "Die Schülerinnen und Schüler verfügen über ein hinreichend breites Spektrum sprachlicher Mittel, um auch in unvorhersehbaren Situationen zurechtzukommen."@de ;
@@ -64,6 +14,56 @@
         <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/ed7c70a8-6528-4fc6-b83e-23dcef5a0bd9> ;
     skos:notation "1" ;
     skos:prefLabel "Lexiko-Grammatik"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> .
+
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/cf5895e4-ddf5-4e47-95d5-1b1377569b97> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
+    skos:notation "1.1" ;
+    skos:prefLabel "sich zu vertrauten Themen (insbesondere solchen des eigenen Interessensbereichs) äußern, mitunter zögernd und mithilfe von Umschreibungen."@de .
+
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/5e126bb8-cfcf-4b95-ba16-0ec4f721125b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
+    skos:notation "1.2" ;
+    skos:prefLabel "ein breites Spektrum einfacher sprachlicher Mittel flexibel einsetzen, um ihre Mitteilungsabsichten grundlegend zu realisieren, die wichtigsten Aspekte eines Gedankens oder eines Problems zu erklären und eigene Überlegungen zu Themen von allgemeinem Interesse auszudrücken."@de .
+
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/71c9f470-c8be-42e9-b1d5-092f9fd2163c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
+    skos:notation "1.3" ;
+    skos:prefLabel "ihre Ausdrucksweise auch weniger routinemäßigen, sogar schwierigen Situationen anpassen."@de .
+
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/ed7c70a8-6528-4fc6-b83e-23dcef5a0bd9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
+    skos:notation "1.4" ;
+    skos:prefLabel "ein Repertoire von häufig gebrauchten Wendungen, Konstruktionen und Phrasen, die an eher vorhersehbare Situationen gebunden sind, hinreichend korrekt verwenden."@de .
+
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/67b15277-c0b9-48b2-b6a5-9716ef48326a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
+    skos:notation "1.5" ;
+    skos:prefLabel "grammatische Strukturen in vertrauten Kommunikationssituationen hinreichend korrekt und sicher anwenden. Mitunter zeigen sich erkennbare Einflüssen anderer Sprachen, ohne dass dies jedoch das Verständnis beeinträchtigt."@de .
+
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/9a0fcebf-90bb-4b94-9704-64dd230a672f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
+    skos:notation "1.6" ;
+    skos:prefLabel "die Orthographie und Zeichensetzung so exakt anwenden, dass die von ihnen produzierten zusammenhängenden Texte verständlich sind."@de .
+
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/3eab7d69-bdaf-4ba5-b295-83fd9f7d47ca> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
+    skos:notation "1.7" ;
+    skos:prefLabel "ihnen vertraute (digitale) Hilfsmittel situations- und zweckangemessen zur Sicherstellung weitgehender orthographischer Korrektheit in der Regel selbstständig nutzen."@de .
+
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/16d238bb-f559-4af0-9801-b1fc6b1f1166> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
+    skos:definition "Die Aussprache der Schülerinnen und Schüler ist im Allgemeinen durchgängig verständlich, auch wenn der Einfluss von anderen Sprachen, die sie sprechen, auf die Betonung, die Intonation und/oder den Rhythmus bemerkbar ist und obwohl sie wiederholt einzelne weniger vertraute Laute und Wörter falsch aussprechen."@de ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Aussprache und Prosodie"@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> .
 
 <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> a skos:ConceptScheme ;

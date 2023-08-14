@@ -1,18 +1,18 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/4f703f01-0f00-490e-a05c-61dd2280b2ef> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Gemeinsamkeiten, Unterschiede und Beziehungen zwischen Sprachen in der Regel selbständig erkennen und reflektieren."@de ;
-    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> .
-
 <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/7a0cf38b-15a1-4255-a66a-9d3e239e16f5> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> ;
     skos:notation "1" ;
     skos:prefLabel "Hypothesen zu Regelmäßigkeiten des Gebrauchs sprachlicher Mittel formulieren."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> .
+
+<https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/e25e1605-2714-4f4d-8d9f-b0c52d8c0c9e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> ;
+    skos:notation "2" ;
+    skos:prefLabel "einige sozial und regional geprägte Varietäten der Fremdsprache wahrnehmen und reflektieren."@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> .
 
 <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/8fcb0812-49e9-472c-9312-fc6608465f60> a skos:Concept ;
@@ -29,18 +29,18 @@
     skos:prefLabel "sprachliche Fehler im Bereich vertrauter morphologisch-syntaktischer und syntaktischer Regelungen in der Regel selbständig erkennen und korrigieren."@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> .
 
+<https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/4f703f01-0f00-490e-a05c-61dd2280b2ef> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> ;
+    skos:inScheme <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> ;
+    skos:notation "5" ;
+    skos:prefLabel "Gemeinsamkeiten, Unterschiede und Beziehungen zwischen Sprachen in der Regel selbständig erkennen und reflektieren."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> .
+
 <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/c271b139-6839-4003-958e-7ce423f7c34e> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> ;
     skos:notation "6" ;
     skos:prefLabel "über die Erfordernisse einer kommunikativen Situation nachdenken und die so gewonnenen Erkenntnisse in der Regel selbständig in ihrem adressaten-, situations- und zweckangemessenen Sprachhandeln berücksichtigen."@de ;
-    skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> .
-
-<https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/e25e1605-2714-4f4d-8d9f-b0c52d8c0c9e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> ;
-    skos:inScheme <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> ;
-    skos:notation "2" ;
-    skos:prefLabel "einige sozial und regional geprägte Varietäten der Fremdsprache wahrnehmen und reflektieren."@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> .
 
 <https://w3id.org/iqb/bista23FrESA/sprachbewusstheit/> a skos:ConceptScheme ;

@@ -1,98 +1,98 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/24dda244-e9aa-4d71-a450-9c8883d7c21c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:notation "10" ;
-    skos:prefLabel "C1.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/31daec8b-4c37-437d-9f4d-6fdc0452f1ee> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:notation "6" ;
-    skos:prefLabel "B1.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/5043d12e-7203-41a6-a2d6-423e5c3f8f80> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:notation "7" ;
-    skos:prefLabel "B2.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/59f63405-04d9-4d6f-ad4b-2cece4b0529c> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/6ad2e98a-311a-4bb6-94ed-9a93f547ba93> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
     skos:notation "1" ;
     skos:prefLabel "A1.1"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/5b78ead7-0f14-4a4f-b916-cc750cdd0802> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:notation "3" ;
-    skos:prefLabel "A2.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/ace20e1c-4b79-486d-aaf2-cdbd94efc019> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:notation "8" ;
-    skos:prefLabel "B2.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/bbdd5de1-5cfa-4b13-a614-4135b9290c1a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:notation "9" ;
-    skos:prefLabel "C1.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/bbe4a3c7-8b84-4ad0-acc2-f93eaab49362> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
-    skos:notation "4" ;
-    skos:prefLabel "A2.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/bdde859d-0fc0-4820-8a5e-fd915ac69b87> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/f2238666-2e78-4dd1-80ee-e04082fac097> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
     skos:notation "2" ;
     skos:prefLabel "A1.2"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/e27a5b48-c44d-43e4-b336-a20e0740126a> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/6f6ee975-4df8-489c-b582-30e1473a406a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:notation "3" ;
+    skos:prefLabel "A2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/5cb3d675-58a7-4e27-a2a0-b700c1939a64> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:notation "4" ;
+    skos:prefLabel "A2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/abc6b059-c378-4541-a40a-edf40f0ac3a5> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
     skos:notation "5" ;
     skos:prefLabel "B1.1"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/355f8029-13d6-4a05-8b98-0bce9276552c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:notation "6" ;
+    skos:prefLabel "B1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/f48bacb9-5ef5-48c2-99f3-0cad00fb4667> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:notation "7" ;
+    skos:prefLabel "B2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/579c7d97-73e8-4a6d-bb04-6b944b8b9c1e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:notation "8" ;
+    skos:prefLabel "B2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/847a5767-e6bb-48cc-8030-1250a5818f6e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:notation "9" ;
+    skos:prefLabel "C1.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/8cd92d66-84ac-4ad3-a051-1af31b6560d7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> ;
+    skos:notation "10" ;
+    skos:prefLabel "C1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Niveaustufe empirisch"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/24dda244-e9aa-4d71-a450-9c8883d7c21c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/31daec8b-4c37-437d-9f4d-6fdc0452f1ee>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/5043d12e-7203-41a6-a2d6-423e5c3f8f80>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/59f63405-04d9-4d6f-ad4b-2cece4b0529c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/5b78ead7-0f14-4a4f-b916-cc750cdd0802>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/ace20e1c-4b79-486d-aaf2-cdbd94efc019>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/bbdd5de1-5cfa-4b13-a614-4135b9290c1a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/bbe4a3c7-8b84-4ad0-acc2-f93eaab49362>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/bdde859d-0fc0-4820-8a5e-fd915ac69b87>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/e27a5b48-c44d-43e4-b336-a20e0740126a> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/24dda244-e9aa-4d71-a450-9c8883d7c21c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/31daec8b-4c37-437d-9f4d-6fdc0452f1ee>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/5043d12e-7203-41a6-a2d6-423e5c3f8f80>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/59f63405-04d9-4d6f-ad4b-2cece4b0529c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/5b78ead7-0f14-4a4f-b916-cc750cdd0802>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/ace20e1c-4b79-486d-aaf2-cdbd94efc019>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/bbdd5de1-5cfa-4b13-a614-4135b9290c1a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/bbe4a3c7-8b84-4ad0-acc2-f93eaab49362>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/bdde859d-0fc0-4820-8a5e-fd915ac69b87>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/e27a5b48-c44d-43e4-b336-a20e0740126a> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/355f8029-13d6-4a05-8b98-0bce9276552c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/579c7d97-73e8-4a6d-bb04-6b944b8b9c1e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/5cb3d675-58a7-4e27-a2a0-b700c1939a64>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/6ad2e98a-311a-4bb6-94ed-9a93f547ba93>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/6f6ee975-4df8-489c-b582-30e1473a406a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/847a5767-e6bb-48cc-8030-1250a5818f6e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/8cd92d66-84ac-4ad3-a051-1af31b6560d7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/abc6b059-c378-4541-a40a-edf40f0ac3a5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/f2238666-2e78-4dd1-80ee-e04082fac097>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/f48bacb9-5ef5-48c2-99f3-0cad00fb4667> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/355f8029-13d6-4a05-8b98-0bce9276552c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/579c7d97-73e8-4a6d-bb04-6b944b8b9c1e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/5cb3d675-58a7-4e27-a2a0-b700c1939a64>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/6ad2e98a-311a-4bb6-94ed-9a93f547ba93>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/6f6ee975-4df8-489c-b582-30e1473a406a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/847a5767-e6bb-48cc-8030-1250a5818f6e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/8cd92d66-84ac-4ad3-a051-1af31b6560d7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/abc6b059-c378-4541-a40a-edf40f0ac3a5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/f2238666-2e78-4dd1-80ee-e04082fac097>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeempirisch/f48bacb9-5ef5-48c2-99f3-0cad00fb4667> ;
     skos:prefLabel "Niveaustufe empirisch"@de .
 

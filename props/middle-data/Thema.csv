@@ -1,34 +1,34 @@
 notation;title;description
-1;Schulalltag;;bb85dffc-f86c-4dc5-818a-42aa1609507a
-2;Familienalltag;;0f977264-adb1-4e27-9831-9f01f9025107
-3;Wohnen und Umwelt;;d311b5c4-38e2-4d96-99db-6c5411a6dfbf
-4;Essen und Trinken;;bfcf8442-2dc9-4eb9-8e80-87d7c0feaccd
-5;Einkaufen, Kleidung, Konsum;;95e16249-ecbd-4abe-9fd9-265480357f8f
-6;Dienstleistungen: Arztbesuch, Behörden, Bank u.ä.;;173a6bd6-0ec5-45f4-b873-077d31e46bb3
-7;Freizeit und Sport;;fd4cdad0-253e-4a04-a59a-6442bd244845
-8;Haustiere, Tiere;;4660fc33-8834-4cb3-9b20-035852e36b11
-9;Wetter;;e8c433d2-9ec0-42ff-b93e-c34b6662e353
-10;Verkehrsmittel;;ca3cab1d-dc28-4fa4-9fcb-876720a04164
-11;Zwischenmenschliche Beziehungen: Liebe, Freundschaft, Familie;;53d54794-f38c-4425-b733-19eed7326dcd
-12;Identität;;4e25080a-6e03-4ca6-a01a-9aa5bd01e598
-13;Erziehung;;77a991dd-304d-4c7b-9696-5b1fc29d0e48
-14;Kommunikation;;63c79a4b-61a7-4960-819a-b0f77eca6e02
-15;Schule und Unterricht;;45d8efdf-dc8b-4909-a63b-49e7e67128fc
-16;Ausbildung;;b5bd490a-9d69-4387-a953-a42ce2aeeaf9
-17;Berufe;;9605d62d-425d-4fcc-86a8-3aa97b49ba41
-18;Sprache und Sprachenlernen;;1efa846a-79fa-4f9f-81db-5d9e723c3448
-19;Regionale Identität;;2eedb7d9-1fa9-4918-a907-d25c8f62d201
-20;Geografische Gegebenheiten;;3515dff4-5a22-40ed-ac25-6b6aa73a0c68
-21;Reisen, Tourismus;;4af1f27d-b71c-436a-b44e-e61000575629
-22;Politik und Wirtschaft;;8b0003b1-d628-4a8a-aabe-b11561464f5f
-23;Geschichte, Philosophie, Religion;;3f03d63e-09d9-41d2-94ec-b507abfe3f74
-24;Globale Herausforderungen;;e721aea7-1539-4798-9129-9c7e36e22c20
-25;Menschenrechte, moralische Verantwortung;;788b174f-c55a-4242-9871-fe34bdd3e801
-26;Natur, Wissenschaft und Technik;;a4fcc19c-756d-4238-aef4-824ea83d3f06
-27;Bildende Kunst;;b07ea15b-371e-4c6f-9b97-2dbfd053590f
-28;Darstellende Kunst;;3932ab61-8020-4075-90bd-6bf573926855
-29;Literatur;;b3dd6585-83d4-4f86-8e5a-050dc111ab3b
-30;Musik;;6d5b4baa-3378-4a06-a019-ca5ff6a57cf5
-31;Architektur und Design;;e39db32c-2746-45ae-a324-bd0d445c7528
-32;Presse, Rundfunk, Fernsehen;;3b0d4188-9855-456d-be96-5987ac76efe5
-33;elektronische Medien;;4cdd65cd-6853-4d71-a611-7f24cf2d4bd5
+1;Schulalltag;;b12525d0-6f92-4360-88af-6e04befa901a
+2;Familienalltag;;a25d7170-bd18-45fb-be09-8d9cdabaf744
+3;Wohnen und Umwelt;;38ca8846-0159-4961-9fa6-4b0c641f0ff8
+4;Essen und Trinken;;efbe9676-1394-417b-91c4-5d30179bf235
+5;Einkaufen, Kleidung, Konsum;;232a94b6-8207-4ddf-8f06-4ae276c99fad
+6;Dienstleistungen: Arztbesuch, Behörden, Bank u.ä.;;f8e2a317-365d-4687-84c8-1ce00235ac13
+7;Freizeit und Sport;;04f354e6-248a-45c8-bde4-d9620dc045fe
+8;Haustiere, Tiere;;5bd7cc25-f43c-4a1c-a244-c015a3314354
+9;Wetter;;321d0463-03fd-404c-97be-43ed1a5c3c29
+10;Verkehrsmittel;;fe6e0ada-304b-4f78-88eb-c2c9b0316a9d
+11;Zwischenmenschliche Beziehungen: Liebe, Freundschaft, Familie;;1d450b75-818f-4d43-832b-e1e17cd41cf7
+12;Identität;;539ff74a-ca88-4c36-b2be-9bd6d99314be
+13;Erziehung;;0739f3be-2895-408b-bee2-1240045be1ad
+14;Kommunikation;;dff83f62-bbd9-49f7-a7df-f0ad8c2d1376
+15;Schule und Unterricht;;df32b765-f443-4cb7-8fd0-743029c27d5a
+16;Ausbildung;;14ca3ed3-307c-4e80-ae74-30b3cd0b2ea9
+17;Berufe;;c3a55381-959e-471c-ad83-ddccc16916e0
+18;Sprache und Sprachenlernen;;909baa7a-62eb-4836-a78c-8470252f3c85
+19;Regionale Identität;;a803c634-0437-42bd-95ae-fa2a64fab73e
+20;Geografische Gegebenheiten;;94725b88-de35-4db0-a8b4-e9db3ae1ca99
+21;Reisen, Tourismus;;1d82ee8b-2913-42cf-b31b-6274cf288937
+22;Politik und Wirtschaft;;50ed138c-989c-482f-af85-b2a02f301b62
+23;Geschichte, Philosophie, Religion;;0a307571-d0da-4df2-b209-aaa6a31990af
+24;Globale Herausforderungen;;6f49dc85-4934-407c-8e98-6c0cd7ca8541
+25;Menschenrechte, moralische Verantwortung;;1479825f-dce8-4092-ab22-b757bc79bebf
+26;Natur, Wissenschaft und Technik;;7843c629-66b8-436f-8b47-f68ef032b59e
+27;Bildende Kunst;;ddcd0f7e-55a2-46a6-ad92-ebf2520e4553
+28;Darstellende Kunst;;325a7b5e-f38b-4d89-bdda-1ad39a022ca8
+29;Literatur;;0bb2ae2a-7044-48ef-8dda-19af4bec79e7
+30;Musik;;0e349818-fd93-4350-bcfa-d5be90ab1d48
+31;Architektur und Design;;174529b0-a614-47ea-9d02-931c238f5431
+32;Presse, Rundfunk, Fernsehen;;5ab6b6cb-1ccd-497f-80cf-817fe94dc8cc
+33;elektronische Medien;;1dc16e11-35fa-4117-a3b0-57d3038e5753

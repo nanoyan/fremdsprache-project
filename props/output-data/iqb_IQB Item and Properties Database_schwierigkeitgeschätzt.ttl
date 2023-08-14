@@ -1,54 +1,54 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/2efadefe-edc2-4471-a4d4-84eaf4ba3f06> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
-    skos:notation "5" ;
-    skos:prefLabel "sehr hoch"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/67f3b271-fb9e-4bb3-b73b-f18b78210e1e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
-    skos:notation "2" ;
-    skos:prefLabel "gering"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/7982bede-8799-4c0d-8d5a-23876bfe8847> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/65e48138-3b37-4d84-8cc1-c898bf17e2d8> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
     skos:notation "1" ;
     skos:prefLabel "sehr gering"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/dc622ae7-9cc7-47f9-ac39-eac0865f14e0> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/986f0da1-b417-4cb1-8c60-309a1bc513d8> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
-    skos:notation "4" ;
-    skos:prefLabel "hoch"@de ;
+    skos:notation "2" ;
+    skos:prefLabel "gering"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/f098d6db-348b-498e-aca7-8173699b6b18> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/c3c436d1-8bc4-4728-a09d-1cc99addc0b9> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
     skos:notation "3" ;
     skos:prefLabel "mittel"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/82ef59dc-9803-4702-9aa6-098617c5d940> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
+    skos:notation "4" ;
+    skos:prefLabel "hoch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/9dc59dcf-af02-4466-9f39-60c15faaa64b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> ;
+    skos:notation "5" ;
+    skos:prefLabel "sehr hoch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:description "Anforderungsbereich lt. Bildungsstandards für Mathematik Primarstufe"@de ;
     dct:title "IQB Item and Properties Database_Schwierigkeit geschätzt"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/2efadefe-edc2-4471-a4d4-84eaf4ba3f06>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/67f3b271-fb9e-4bb3-b73b-f18b78210e1e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/7982bede-8799-4c0d-8d5a-23876bfe8847>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/dc622ae7-9cc7-47f9-ac39-eac0865f14e0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/f098d6db-348b-498e-aca7-8173699b6b18> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/2efadefe-edc2-4471-a4d4-84eaf4ba3f06>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/67f3b271-fb9e-4bb3-b73b-f18b78210e1e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/7982bede-8799-4c0d-8d5a-23876bfe8847>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/dc622ae7-9cc7-47f9-ac39-eac0865f14e0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/f098d6db-348b-498e-aca7-8173699b6b18> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/65e48138-3b37-4d84-8cc1-c898bf17e2d8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/82ef59dc-9803-4702-9aa6-098617c5d940>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/986f0da1-b417-4cb1-8c60-309a1bc513d8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/9dc59dcf-af02-4466-9f39-60c15faaa64b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/c3c436d1-8bc4-4728-a09d-1cc99addc0b9> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/65e48138-3b37-4d84-8cc1-c898bf17e2d8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/82ef59dc-9803-4702-9aa6-098617c5d940>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/986f0da1-b417-4cb1-8c60-309a1bc513d8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/9dc59dcf-af02-4466-9f39-60c15faaa64b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schwierigkeitgeschätzt/c3c436d1-8bc4-4728-a09d-1cc99addc0b9> ;
     skos:prefLabel "Schwierigkeit geschätzt"@de .
 

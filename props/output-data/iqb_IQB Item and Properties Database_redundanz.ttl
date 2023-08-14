@@ -1,35 +1,35 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/1ad1e40a-6a0b-449d-8324-81f686558a7c> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/e583b0d7-20bd-4a2f-9d6c-31acdb90a38b> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
     skos:notation "1" ;
     skos:prefLabel "keine"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/2abeb864-5835-490f-afa3-78357fc5fe86> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
-    skos:notation "3" ;
-    skos:prefLabel "viel"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/6a489c3d-1f04-4523-8d8f-fb4aab69383a> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/587d8ab5-8036-420c-a71e-2a652fd4dd6f> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
     skos:notation "2" ;
     skos:prefLabel "wenig"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/50aff697-0c57-4cd8-8f59-b8e9b48b86b6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
+    skos:notation "3" ;
+    skos:prefLabel "viel"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Redundanz"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/1ad1e40a-6a0b-449d-8324-81f686558a7c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/2abeb864-5835-490f-afa3-78357fc5fe86>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/6a489c3d-1f04-4523-8d8f-fb4aab69383a> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/1ad1e40a-6a0b-449d-8324-81f686558a7c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/2abeb864-5835-490f-afa3-78357fc5fe86>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/6a489c3d-1f04-4523-8d8f-fb4aab69383a> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/50aff697-0c57-4cd8-8f59-b8e9b48b86b6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/587d8ab5-8036-420c-a71e-2a652fd4dd6f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/e583b0d7-20bd-4a2f-9d6c-31acdb90a38b> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/50aff697-0c57-4cd8-8f59-b8e9b48b86b6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/587d8ab5-8036-420c-a71e-2a652fd4dd6f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/e583b0d7-20bd-4a2f-9d6c-31acdb90a38b> ;
     skos:prefLabel "Redundanz"@de .
 

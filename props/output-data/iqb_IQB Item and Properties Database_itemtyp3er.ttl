@@ -1,21 +1,21 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/1535b389-f1ef-4e57-bb1e-9deab09d98ac> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
-    skos:notation "2" ;
-    skos:prefLabel "halboffen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/a50dbfc6-2b79-4438-9083-300afacf089b> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/3e44df4b-5766-4b11-9462-9a2d719ff775> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
     skos:notation "1" ;
     skos:prefLabel "geschlossen"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/c8149969-2bc4-4805-8ace-f08ee871eef1> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/9c55bbae-f1a9-40e8-9cae-843476d895e6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
+    skos:notation "2" ;
+    skos:prefLabel "halboffen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/12beea1f-a5b8-48e1-a71a-c41e4307ba10> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
     skos:notation "3" ;
@@ -25,11 +25,11 @@
 <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Itemtyp 3er"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/1535b389-f1ef-4e57-bb1e-9deab09d98ac>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/a50dbfc6-2b79-4438-9083-300afacf089b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/c8149969-2bc4-4805-8ace-f08ee871eef1> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/1535b389-f1ef-4e57-bb1e-9deab09d98ac>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/a50dbfc6-2b79-4438-9083-300afacf089b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/c8149969-2bc4-4805-8ace-f08ee871eef1> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/12beea1f-a5b8-48e1-a71a-c41e4307ba10>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/3e44df4b-5766-4b11-9462-9a2d719ff775>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/9c55bbae-f1a9-40e8-9cae-843476d895e6> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/12beea1f-a5b8-48e1-a71a-c41e4307ba10>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/3e44df4b-5766-4b11-9462-9a2d719ff775>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/9c55bbae-f1a9-40e8-9cae-843476d895e6> ;
     skos:prefLabel "Itemtyp 3er"@de .
 

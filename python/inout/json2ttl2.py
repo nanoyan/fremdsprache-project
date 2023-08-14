@@ -1,6 +1,7 @@
 import json
 from rdflib import Graph, Literal, Namespace, URIRef
 from rdflib.namespace import DCTERMS, RDF, SKOS, XSD, NamespaceManager
+from otsrdflib import OrderedTurtleSerializer
 from pathlib import Path
 import os.path
 
@@ -154,4 +155,13 @@ def buildGraph(input_file, output_folder):
                                         g.add((cccc_url, SKOS.definition, Literal('description', lang="de")))
             #outfile_path = output_folder / ("iqb_" + data['title'] + '_' + c['id'] + ".ttl")
             outfile_path = os.path.join(output_folder, ("iqb_" + data['title'] + '_' + c['id'] + ".ttl"))
-            g.serialize(str(outfile_path), format="turtle", base=base_url, encoding="utf-8")                   
+            serializer = OrderedTurtleSerializer(g)
+            
+            serializer.sorters = {
+                ('.*?/[A-Za-z]+([0-9.]+)$', lambda x: float(x[0])),
+                ('.', lambda x: 0.0),  # default
+            }
+
+            with open (outfile_path,'wb') as fp:
+                serializer.serialize(fp)
+            #g.serialize(str(outfile_path), format="turtle", base=base_url, encoding="utf-8")                   

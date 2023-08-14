@@ -1,503 +1,503 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0080198c-3576-419b-b6f3-6b0c55eaebaa> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "10" ;
-    skos:prefLabel "E10"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0b9373a6-e5c0-43d4-aebe-70c93bbac430> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "55" ;
-    skos:prefLabel "F3.8"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0bc6bd64-fd0b-4892-ba85-a16df17765f9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "12" ;
-    skos:prefLabel "E12"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0bd9f714-854a-40a1-b68c-46af04e1d09f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "8" ;
-    skos:prefLabel "E8"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0e721d9b-c87b-4b93-9ec3-eaa97d2fd4a9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "9" ;
-    skos:prefLabel "E9"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/14f83491-a44b-4a76-be5c-90a091cb228d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "25" ;
-    skos:prefLabel "B2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/18ebbc5f-1261-4a28-be80-e66bcf78f594> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "36" ;
-    skos:prefLabel "F1.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/19964c32-b174-4d66-91a9-6aafda2cb621> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "15" ;
-    skos:prefLabel "K2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/199a004a-d127-45aa-afef-6211dd16c699> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "35" ;
-    skos:prefLabel "F1.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1a6da766-bd3c-47f9-a36f-e193e14aa312> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "7" ;
-    skos:prefLabel "E7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1abb4981-74ed-4ab4-a42e-04288bd800fe> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "11" ;
-    skos:prefLabel "E11"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1bf606f3-7a24-4dea-8c40-3f04621949b2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "20" ;
-    skos:prefLabel "K7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1e57a09c-843e-4340-94a2-15cf766f0842> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "45" ;
-    skos:prefLabel "F2.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/21db9da6-9192-47ee-b32e-94c9e5157eae> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "6" ;
-    skos:prefLabel "E6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/23a9197d-227c-48f2-9f97-fa66db560fff> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "52" ;
-    skos:prefLabel "F3.5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/27db4267-cb33-470f-8dbb-48e5ee42b770> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "32" ;
-    skos:prefLabel "F1.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/2a80896a-2d63-4a31-b8ab-eae6bb19da94> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "47" ;
-    skos:prefLabel "F3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/2d68b0cc-76e6-4c23-9860-efd3e4e0a8c0> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "21" ;
-    skos:prefLabel "K8"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/3728790d-0549-435b-bcea-87e558beb6dd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "48" ;
-    skos:prefLabel "F3.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/37b2c707-f701-4fd6-82bf-fbdff242b4e7> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "54" ;
-    skos:prefLabel "F3.7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/3a75e91a-f217-4ef7-9a40-088805b75b8c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "37" ;
-    skos:prefLabel "F1.6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/40aea91d-7c84-4bc6-84b8-6ec0660ad8dc> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "23" ;
-    skos:prefLabel "K10"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/4ad18f1a-051f-4faa-8804-1580843dc3ed> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "38" ;
-    skos:prefLabel "F1.7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/4f9edc70-2a15-4448-a5a2-7631f2edd5c3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "5" ;
-    skos:prefLabel "E5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/52bd5c81-663e-4a31-80e5-73c6a4cc4c72> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "40" ;
-    skos:prefLabel "F2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/57a8be8c-e0a8-400c-a39a-ae986fa344bb> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "41" ;
-    skos:prefLabel "F2.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/5969ad80-a18b-4a90-8a09-c4cd2280185d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "43" ;
-    skos:prefLabel "F2.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/5c27cec8-7dda-419b-ac77-edc33744f295> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "27" ;
-    skos:prefLabel "B4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/5dbf2e41-5388-4bc8-bccc-512a95a10b14> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "34" ;
-    skos:prefLabel "F1.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/63fb4f02-b944-486e-ae91-f0f16bb57309> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "22" ;
-    skos:prefLabel "K9"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/67dde9da-a2ed-4211-b008-55200b477240> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "14" ;
-    skos:prefLabel "K1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/6afb2940-b49d-45be-b6d5-fdfdff21e6af> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "49" ;
-    skos:prefLabel "F3.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/72e9ad33-ea43-4f5f-b5ed-8d9f281acfda> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "17" ;
-    skos:prefLabel "K4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/7d00c248-e044-4661-9523-512a01ee1cc8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "30" ;
-    skos:prefLabel "B7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8236bda2-795d-4890-8408-32fe647f0a95> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "44" ;
-    skos:prefLabel "F2.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/88e126bc-4bbf-4970-bc0f-7e65f12b2be2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "13" ;
-    skos:prefLabel "E13"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8fe831e9-5b5b-4423-bb16-cb9ec2e123c3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "50" ;
-    skos:prefLabel "F3.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/922f04d7-79db-460a-9e78-128c7962f4fe> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "4" ;
-    skos:prefLabel "E4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/97b04d4c-90d3-4b93-9466-9e211c5a0a8e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "24" ;
-    skos:prefLabel "B1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/98a8b90b-008e-4a41-9853-d633b357cc95> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "53" ;
-    skos:prefLabel "F3.6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/994dbe24-b559-4035-b4ab-53e74cdfd69f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "51" ;
-    skos:prefLabel "F3.4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/a0b2ffbc-746e-48ef-a5f3-b3683ee474df> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "16" ;
-    skos:prefLabel "K3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/a87a2ed2-9c64-4b12-a615-d90d93a106d1> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "39" ;
-    skos:prefLabel "F1.8"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/aa4b0da3-0ce7-4538-835b-5aeaad18f537> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "19" ;
-    skos:prefLabel "K6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ab4a9086-5457-439f-a05b-15aeb0ad86f0> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "29" ;
-    skos:prefLabel "B6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ba14dd8b-eaa0-48a0-ae06-0a759a41559d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "28" ;
-    skos:prefLabel "B5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ccd72e1a-9106-4702-aa6c-af6d8c200304> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "26" ;
-    skos:prefLabel "B3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/d0f154c0-9a1b-4fff-a6c8-aaeb051cf842> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "2" ;
-    skos:prefLabel "E2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/db16ec6b-c45f-4f0e-9740-0c50aab6802e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "31" ;
-    skos:prefLabel "F1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/eda15fb7-48a9-4ad9-8a15-0251e3298ea9> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f8cb50e6-cf01-4404-8578-ce9065e20262> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
     skos:notation "1" ;
     skos:prefLabel "E1"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ee782380-23a4-4e54-8d64-272819c5fe49> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/46edaa5c-2a68-4310-9290-0303b0246827> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "46" ;
-    skos:prefLabel "F2.6"@de ;
+    skos:notation "2" ;
+    skos:prefLabel "E2"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f4e1d5a3-0415-41cf-91b2-ac6121f352db> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "18" ;
-    skos:prefLabel "K5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f63455bc-5b42-4785-848b-7c6453f3c0a9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "42" ;
-    skos:prefLabel "F2.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f7886d41-062a-4328-968e-ece37adebb23> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
-    skos:notation "33" ;
-    skos:prefLabel "F1.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/fa3e8ce7-42f7-443d-8fca-b8af97c1ace4> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/236e8ea8-42c7-4891-9d68-921aa9f17ef2> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
     skos:notation "3" ;
     skos:prefLabel "E3"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/e2b7be39-07ce-4346-810a-128f74192f40> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "4" ;
+    skos:prefLabel "E4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/9242fa89-5ff1-4cfd-91df-e83ca6794b9d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "5" ;
+    skos:prefLabel "E5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1e7f7c1d-9ca1-4696-b616-9f65fa76bee7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "6" ;
+    skos:prefLabel "E6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/bf45db08-9369-4d13-b6bb-791fc9f64ed7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "7" ;
+    skos:prefLabel "E7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f2ac8947-01a1-4115-a14f-efe72f5c6b97> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "8" ;
+    skos:prefLabel "E8"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f7c3382c-be63-4a72-b1d9-9694ba56ae33> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "9" ;
+    skos:prefLabel "E9"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/d92e7daf-3992-41cf-92ad-89b67b028f0a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "10" ;
+    skos:prefLabel "E10"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/dd05e29a-b9da-46e1-a3d7-1a3f07a8060e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "11" ;
+    skos:prefLabel "E11"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/2c0249b1-497f-454c-93a1-5cc7cbe521a0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "12" ;
+    skos:prefLabel "E12"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ada27adb-9956-40f2-8f86-d172d8902ed7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "13" ;
+    skos:prefLabel "E13"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/396232fc-20fc-47e1-8758-d7c7eedcf580> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "14" ;
+    skos:prefLabel "K1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f72a8695-061d-4fb0-8d29-fe90f647e06d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "15" ;
+    skos:prefLabel "K2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/c7ee169f-1039-424a-a920-82da94628231> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "16" ;
+    skos:prefLabel "K3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/246519bf-21e9-455e-8a02-8231acce9340> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "17" ;
+    skos:prefLabel "K4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/744bcec1-858b-451a-ab26-49e360c0aa63> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "18" ;
+    skos:prefLabel "K5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/c4a59cd0-24e7-4362-9932-bf37719863e4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "19" ;
+    skos:prefLabel "K6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/951567f3-0be3-4280-a5fd-b85bfe02ea74> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "20" ;
+    skos:prefLabel "K7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0222ec65-775c-437e-a193-f544d4520afd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "21" ;
+    skos:prefLabel "K8"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/2b67bda3-fe3b-470f-9850-f91b2dd38b03> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "22" ;
+    skos:prefLabel "K9"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0689f656-8687-4bf0-a034-16ad93318c4f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "23" ;
+    skos:prefLabel "K10"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8d84becc-900f-4aa4-8033-2d54e65ff931> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "24" ;
+    skos:prefLabel "B1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/18d758d5-c9cf-40bf-95f8-5fb40c9cb6ca> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "25" ;
+    skos:prefLabel "B2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/7717596e-c6ec-4736-8c83-6da276ae7759> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "26" ;
+    skos:prefLabel "B3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/c635a443-00ba-4d73-a2c5-29c30d7252bb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "27" ;
+    skos:prefLabel "B4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/01c963f9-d508-4d52-8013-ac6ac6b515b4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "28" ;
+    skos:prefLabel "B5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/35ede9ce-b92d-42c3-8a5e-bce68fb32f2b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "29" ;
+    skos:prefLabel "B6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/287e026c-f541-4c3e-8c9d-2ef1825d91da> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "30" ;
+    skos:prefLabel "B7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/4de49f27-7242-4a5d-bd6c-c1a97488a592> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "31" ;
+    skos:prefLabel "F1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/dd2c875d-5787-47e3-85dd-557517780368> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "32" ;
+    skos:prefLabel "F1.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/12b4e24d-4f59-4060-9268-77295d63bda2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "33" ;
+    skos:prefLabel "F1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/a66ce010-94ee-48c4-ad59-78213917aa42> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "34" ;
+    skos:prefLabel "F1.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/fdf88f2a-aea0-4630-a19c-83e76c7fcdbb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "35" ;
+    skos:prefLabel "F1.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/b0682b1a-1b1e-41b7-b064-4192c367b857> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "36" ;
+    skos:prefLabel "F1.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/6df07819-9481-467f-a220-95b722148c50> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "37" ;
+    skos:prefLabel "F1.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/79dbb898-e435-4e77-904f-1a176e5a858a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "38" ;
+    skos:prefLabel "F1.7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1fa1edd3-7cd1-4f6c-ad78-27f860ed5d10> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "39" ;
+    skos:prefLabel "F1.8"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/94f6b912-d27b-43d5-a0e9-4c35908c3f23> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "40" ;
+    skos:prefLabel "F2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/e5d6ad0d-2df4-43a5-85ca-e14596bda19e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "41" ;
+    skos:prefLabel "F2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1d68cedb-f66c-4cac-9b45-3e15d995f01b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "42" ;
+    skos:prefLabel "F2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8ac4f9bf-a7fc-4afd-b6cf-5ab001a73459> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "43" ;
+    skos:prefLabel "F2.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/64d7b1c5-96ca-43b3-927e-8c7a0976ddd9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "44" ;
+    skos:prefLabel "F2.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f66a6956-6049-4170-ac19-46f8480a2fec> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "45" ;
+    skos:prefLabel "F2.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ecca133d-a826-4f93-b59c-00b62beab9d9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "46" ;
+    skos:prefLabel "F2.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0d9c4d75-1cf1-4888-8287-77ab6e86921c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "47" ;
+    skos:prefLabel "F3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/488bf1a7-0121-4af8-9b13-65447ffebd47> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "48" ;
+    skos:prefLabel "F3.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f9c995f3-c497-46c8-96e3-3aaa8e5ce3fc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "49" ;
+    skos:prefLabel "F3.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/3ea927d4-da9d-4228-8abb-70d431d2c400> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "50" ;
+    skos:prefLabel "F3.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/64ff190f-410e-4b52-9a58-2d107a7a0e51> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "51" ;
+    skos:prefLabel "F3.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f9e34f37-88eb-4ef0-9931-99bec45f5ffd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "52" ;
+    skos:prefLabel "F3.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/320af41f-5f6b-49eb-8228-91e0e63d9a9b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "53" ;
+    skos:prefLabel "F3.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8a775ca5-c35c-4a84-bd25-02616afa298d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "54" ;
+    skos:prefLabel "F3.7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/e8597855-b41a-446b-be9f-c99f67aa3398> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> ;
+    skos:notation "55" ;
+    skos:prefLabel "F3.8"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_KompBiologie1"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0080198c-3576-419b-b6f3-6b0c55eaebaa>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0b9373a6-e5c0-43d4-aebe-70c93bbac430>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0bc6bd64-fd0b-4892-ba85-a16df17765f9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0bd9f714-854a-40a1-b68c-46af04e1d09f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0e721d9b-c87b-4b93-9ec3-eaa97d2fd4a9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/14f83491-a44b-4a76-be5c-90a091cb228d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/18ebbc5f-1261-4a28-be80-e66bcf78f594>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/19964c32-b174-4d66-91a9-6aafda2cb621>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/199a004a-d127-45aa-afef-6211dd16c699>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1a6da766-bd3c-47f9-a36f-e193e14aa312>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1abb4981-74ed-4ab4-a42e-04288bd800fe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1bf606f3-7a24-4dea-8c40-3f04621949b2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1e57a09c-843e-4340-94a2-15cf766f0842>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/21db9da6-9192-47ee-b32e-94c9e5157eae>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/23a9197d-227c-48f2-9f97-fa66db560fff>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/27db4267-cb33-470f-8dbb-48e5ee42b770>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/2a80896a-2d63-4a31-b8ab-eae6bb19da94>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/2d68b0cc-76e6-4c23-9860-efd3e4e0a8c0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/3728790d-0549-435b-bcea-87e558beb6dd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/37b2c707-f701-4fd6-82bf-fbdff242b4e7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/3a75e91a-f217-4ef7-9a40-088805b75b8c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/40aea91d-7c84-4bc6-84b8-6ec0660ad8dc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/4ad18f1a-051f-4faa-8804-1580843dc3ed>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/4f9edc70-2a15-4448-a5a2-7631f2edd5c3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/52bd5c81-663e-4a31-80e5-73c6a4cc4c72>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/57a8be8c-e0a8-400c-a39a-ae986fa344bb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/5969ad80-a18b-4a90-8a09-c4cd2280185d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/5c27cec8-7dda-419b-ac77-edc33744f295>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/5dbf2e41-5388-4bc8-bccc-512a95a10b14>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/63fb4f02-b944-486e-ae91-f0f16bb57309>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/67dde9da-a2ed-4211-b008-55200b477240>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/6afb2940-b49d-45be-b6d5-fdfdff21e6af>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/72e9ad33-ea43-4f5f-b5ed-8d9f281acfda>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/7d00c248-e044-4661-9523-512a01ee1cc8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8236bda2-795d-4890-8408-32fe647f0a95>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/88e126bc-4bbf-4970-bc0f-7e65f12b2be2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8fe831e9-5b5b-4423-bb16-cb9ec2e123c3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/922f04d7-79db-460a-9e78-128c7962f4fe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/97b04d4c-90d3-4b93-9466-9e211c5a0a8e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/98a8b90b-008e-4a41-9853-d633b357cc95>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/994dbe24-b559-4035-b4ab-53e74cdfd69f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/a0b2ffbc-746e-48ef-a5f3-b3683ee474df>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/a87a2ed2-9c64-4b12-a615-d90d93a106d1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/aa4b0da3-0ce7-4538-835b-5aeaad18f537>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ab4a9086-5457-439f-a05b-15aeb0ad86f0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ba14dd8b-eaa0-48a0-ae06-0a759a41559d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ccd72e1a-9106-4702-aa6c-af6d8c200304>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/d0f154c0-9a1b-4fff-a6c8-aaeb051cf842>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/db16ec6b-c45f-4f0e-9740-0c50aab6802e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/eda15fb7-48a9-4ad9-8a15-0251e3298ea9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ee782380-23a4-4e54-8d64-272819c5fe49>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f4e1d5a3-0415-41cf-91b2-ac6121f352db>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f63455bc-5b42-4785-848b-7c6453f3c0a9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f7886d41-062a-4328-968e-ece37adebb23>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/fa3e8ce7-42f7-443d-8fca-b8af97c1ace4> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0080198c-3576-419b-b6f3-6b0c55eaebaa>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0b9373a6-e5c0-43d4-aebe-70c93bbac430>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0bc6bd64-fd0b-4892-ba85-a16df17765f9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0bd9f714-854a-40a1-b68c-46af04e1d09f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0e721d9b-c87b-4b93-9ec3-eaa97d2fd4a9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/14f83491-a44b-4a76-be5c-90a091cb228d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/18ebbc5f-1261-4a28-be80-e66bcf78f594>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/19964c32-b174-4d66-91a9-6aafda2cb621>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/199a004a-d127-45aa-afef-6211dd16c699>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1a6da766-bd3c-47f9-a36f-e193e14aa312>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1abb4981-74ed-4ab4-a42e-04288bd800fe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1bf606f3-7a24-4dea-8c40-3f04621949b2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1e57a09c-843e-4340-94a2-15cf766f0842>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/21db9da6-9192-47ee-b32e-94c9e5157eae>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/23a9197d-227c-48f2-9f97-fa66db560fff>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/27db4267-cb33-470f-8dbb-48e5ee42b770>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/2a80896a-2d63-4a31-b8ab-eae6bb19da94>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/2d68b0cc-76e6-4c23-9860-efd3e4e0a8c0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/3728790d-0549-435b-bcea-87e558beb6dd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/37b2c707-f701-4fd6-82bf-fbdff242b4e7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/3a75e91a-f217-4ef7-9a40-088805b75b8c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/40aea91d-7c84-4bc6-84b8-6ec0660ad8dc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/4ad18f1a-051f-4faa-8804-1580843dc3ed>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/4f9edc70-2a15-4448-a5a2-7631f2edd5c3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/52bd5c81-663e-4a31-80e5-73c6a4cc4c72>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/57a8be8c-e0a8-400c-a39a-ae986fa344bb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/5969ad80-a18b-4a90-8a09-c4cd2280185d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/5c27cec8-7dda-419b-ac77-edc33744f295>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/5dbf2e41-5388-4bc8-bccc-512a95a10b14>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/63fb4f02-b944-486e-ae91-f0f16bb57309>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/67dde9da-a2ed-4211-b008-55200b477240>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/6afb2940-b49d-45be-b6d5-fdfdff21e6af>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/72e9ad33-ea43-4f5f-b5ed-8d9f281acfda>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/7d00c248-e044-4661-9523-512a01ee1cc8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8236bda2-795d-4890-8408-32fe647f0a95>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/88e126bc-4bbf-4970-bc0f-7e65f12b2be2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8fe831e9-5b5b-4423-bb16-cb9ec2e123c3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/922f04d7-79db-460a-9e78-128c7962f4fe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/97b04d4c-90d3-4b93-9466-9e211c5a0a8e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/98a8b90b-008e-4a41-9853-d633b357cc95>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/994dbe24-b559-4035-b4ab-53e74cdfd69f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/a0b2ffbc-746e-48ef-a5f3-b3683ee474df>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/a87a2ed2-9c64-4b12-a615-d90d93a106d1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/aa4b0da3-0ce7-4538-835b-5aeaad18f537>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ab4a9086-5457-439f-a05b-15aeb0ad86f0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ba14dd8b-eaa0-48a0-ae06-0a759a41559d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ccd72e1a-9106-4702-aa6c-af6d8c200304>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/d0f154c0-9a1b-4fff-a6c8-aaeb051cf842>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/db16ec6b-c45f-4f0e-9740-0c50aab6802e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/eda15fb7-48a9-4ad9-8a15-0251e3298ea9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ee782380-23a4-4e54-8d64-272819c5fe49>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f4e1d5a3-0415-41cf-91b2-ac6121f352db>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f63455bc-5b42-4785-848b-7c6453f3c0a9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f7886d41-062a-4328-968e-ece37adebb23>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/fa3e8ce7-42f7-443d-8fca-b8af97c1ace4> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/01c963f9-d508-4d52-8013-ac6ac6b515b4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0222ec65-775c-437e-a193-f544d4520afd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0689f656-8687-4bf0-a034-16ad93318c4f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0d9c4d75-1cf1-4888-8287-77ab6e86921c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/12b4e24d-4f59-4060-9268-77295d63bda2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/18d758d5-c9cf-40bf-95f8-5fb40c9cb6ca>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1d68cedb-f66c-4cac-9b45-3e15d995f01b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1e7f7c1d-9ca1-4696-b616-9f65fa76bee7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1fa1edd3-7cd1-4f6c-ad78-27f860ed5d10>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/236e8ea8-42c7-4891-9d68-921aa9f17ef2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/246519bf-21e9-455e-8a02-8231acce9340>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/287e026c-f541-4c3e-8c9d-2ef1825d91da>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/2b67bda3-fe3b-470f-9850-f91b2dd38b03>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/2c0249b1-497f-454c-93a1-5cc7cbe521a0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/320af41f-5f6b-49eb-8228-91e0e63d9a9b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/35ede9ce-b92d-42c3-8a5e-bce68fb32f2b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/396232fc-20fc-47e1-8758-d7c7eedcf580>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/3ea927d4-da9d-4228-8abb-70d431d2c400>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/46edaa5c-2a68-4310-9290-0303b0246827>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/488bf1a7-0121-4af8-9b13-65447ffebd47>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/4de49f27-7242-4a5d-bd6c-c1a97488a592>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/64d7b1c5-96ca-43b3-927e-8c7a0976ddd9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/64ff190f-410e-4b52-9a58-2d107a7a0e51>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/6df07819-9481-467f-a220-95b722148c50>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/744bcec1-858b-451a-ab26-49e360c0aa63>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/7717596e-c6ec-4736-8c83-6da276ae7759>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/79dbb898-e435-4e77-904f-1a176e5a858a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8a775ca5-c35c-4a84-bd25-02616afa298d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8ac4f9bf-a7fc-4afd-b6cf-5ab001a73459>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8d84becc-900f-4aa4-8033-2d54e65ff931>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/9242fa89-5ff1-4cfd-91df-e83ca6794b9d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/94f6b912-d27b-43d5-a0e9-4c35908c3f23>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/951567f3-0be3-4280-a5fd-b85bfe02ea74>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/a66ce010-94ee-48c4-ad59-78213917aa42>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ada27adb-9956-40f2-8f86-d172d8902ed7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/b0682b1a-1b1e-41b7-b064-4192c367b857>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/bf45db08-9369-4d13-b6bb-791fc9f64ed7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/c4a59cd0-24e7-4362-9932-bf37719863e4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/c635a443-00ba-4d73-a2c5-29c30d7252bb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/c7ee169f-1039-424a-a920-82da94628231>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/d92e7daf-3992-41cf-92ad-89b67b028f0a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/dd05e29a-b9da-46e1-a3d7-1a3f07a8060e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/dd2c875d-5787-47e3-85dd-557517780368>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/e2b7be39-07ce-4346-810a-128f74192f40>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/e5d6ad0d-2df4-43a5-85ca-e14596bda19e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/e8597855-b41a-446b-be9f-c99f67aa3398>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ecca133d-a826-4f93-b59c-00b62beab9d9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f2ac8947-01a1-4115-a14f-efe72f5c6b97>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f66a6956-6049-4170-ac19-46f8480a2fec>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f72a8695-061d-4fb0-8d29-fe90f647e06d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f7c3382c-be63-4a72-b1d9-9694ba56ae33>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f8cb50e6-cf01-4404-8578-ce9065e20262>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f9c995f3-c497-46c8-96e3-3aaa8e5ce3fc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f9e34f37-88eb-4ef0-9931-99bec45f5ffd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/fdf88f2a-aea0-4630-a19c-83e76c7fcdbb> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/01c963f9-d508-4d52-8013-ac6ac6b515b4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0222ec65-775c-437e-a193-f544d4520afd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0689f656-8687-4bf0-a034-16ad93318c4f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/0d9c4d75-1cf1-4888-8287-77ab6e86921c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/12b4e24d-4f59-4060-9268-77295d63bda2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/18d758d5-c9cf-40bf-95f8-5fb40c9cb6ca>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1d68cedb-f66c-4cac-9b45-3e15d995f01b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1e7f7c1d-9ca1-4696-b616-9f65fa76bee7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/1fa1edd3-7cd1-4f6c-ad78-27f860ed5d10>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/236e8ea8-42c7-4891-9d68-921aa9f17ef2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/246519bf-21e9-455e-8a02-8231acce9340>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/287e026c-f541-4c3e-8c9d-2ef1825d91da>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/2b67bda3-fe3b-470f-9850-f91b2dd38b03>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/2c0249b1-497f-454c-93a1-5cc7cbe521a0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/320af41f-5f6b-49eb-8228-91e0e63d9a9b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/35ede9ce-b92d-42c3-8a5e-bce68fb32f2b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/396232fc-20fc-47e1-8758-d7c7eedcf580>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/3ea927d4-da9d-4228-8abb-70d431d2c400>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/46edaa5c-2a68-4310-9290-0303b0246827>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/488bf1a7-0121-4af8-9b13-65447ffebd47>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/4de49f27-7242-4a5d-bd6c-c1a97488a592>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/64d7b1c5-96ca-43b3-927e-8c7a0976ddd9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/64ff190f-410e-4b52-9a58-2d107a7a0e51>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/6df07819-9481-467f-a220-95b722148c50>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/744bcec1-858b-451a-ab26-49e360c0aa63>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/7717596e-c6ec-4736-8c83-6da276ae7759>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/79dbb898-e435-4e77-904f-1a176e5a858a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8a775ca5-c35c-4a84-bd25-02616afa298d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8ac4f9bf-a7fc-4afd-b6cf-5ab001a73459>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/8d84becc-900f-4aa4-8033-2d54e65ff931>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/9242fa89-5ff1-4cfd-91df-e83ca6794b9d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/94f6b912-d27b-43d5-a0e9-4c35908c3f23>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/951567f3-0be3-4280-a5fd-b85bfe02ea74>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/a66ce010-94ee-48c4-ad59-78213917aa42>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ada27adb-9956-40f2-8f86-d172d8902ed7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/b0682b1a-1b1e-41b7-b064-4192c367b857>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/bf45db08-9369-4d13-b6bb-791fc9f64ed7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/c4a59cd0-24e7-4362-9932-bf37719863e4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/c635a443-00ba-4d73-a2c5-29c30d7252bb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/c7ee169f-1039-424a-a920-82da94628231>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/d92e7daf-3992-41cf-92ad-89b67b028f0a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/dd05e29a-b9da-46e1-a3d7-1a3f07a8060e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/dd2c875d-5787-47e3-85dd-557517780368>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/e2b7be39-07ce-4346-810a-128f74192f40>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/e5d6ad0d-2df4-43a5-85ca-e14596bda19e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/e8597855-b41a-446b-be9f-c99f67aa3398>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/ecca133d-a826-4f93-b59c-00b62beab9d9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f2ac8947-01a1-4115-a14f-efe72f5c6b97>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f66a6956-6049-4170-ac19-46f8480a2fec>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f72a8695-061d-4fb0-8d29-fe90f647e06d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f7c3382c-be63-4a72-b1d9-9694ba56ae33>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f8cb50e6-cf01-4404-8578-ce9065e20262>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f9c995f3-c497-46c8-96e3-3aaa8e5ce3fc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/f9e34f37-88eb-4ef0-9931-99bec45f5ffd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompbiologie1/fdf88f2a-aea0-4630-a19c-83e76c7fcdbb> ;
     skos:prefLabel "KompBiologie1"@de .
 

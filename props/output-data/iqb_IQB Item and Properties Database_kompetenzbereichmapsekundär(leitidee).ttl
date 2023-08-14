@@ -1,53 +1,53 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/064c586b-b612-444b-bfe5-d3a2fc52a457> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/61bb2a27-ce4a-4c80-a6fc-d613b3308d4f> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
     skos:notation "1" ;
     skos:prefLabel "1. Zahlen und Operationen"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/0bb5cf9b-54dc-4c1d-9740-c0a802248944> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
-    skos:notation "3" ;
-    skos:prefLabel "3. Muster und Strukturen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/290f11de-a09d-4ac1-b362-da50628a1d12> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
-    skos:notation "5" ;
-    skos:prefLabel "5. Daten, Häufigkeit und Wahrscheinlichkeit"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/b1db4bd9-105a-4ea5-85b6-efe39488a13f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
-    skos:notation "4" ;
-    skos:prefLabel "4. Größen und Messen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/f9e844bd-2af9-4ab2-9726-7dd9c31a3aad> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/9f337337-796d-4200-9aa0-464d654faccd> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
     skos:notation "2" ;
     skos:prefLabel "2. Raum und Form"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/501ce8bd-e7d9-4467-99bd-2cb60d39e7f2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
+    skos:notation "3" ;
+    skos:prefLabel "3. Muster und Strukturen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/95e92aef-004d-424a-ac5e-f770437545c7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
+    skos:notation "4" ;
+    skos:prefLabel "4. Größen und Messen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/712922ef-2e09-44a7-8bfd-b48dfae187c8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> ;
+    skos:notation "5" ;
+    skos:prefLabel "5. Daten, Häufigkeit und Wahrscheinlichkeit"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Kompetenzbereich MaP sekundär (Leitidee)"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/064c586b-b612-444b-bfe5-d3a2fc52a457>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/0bb5cf9b-54dc-4c1d-9740-c0a802248944>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/290f11de-a09d-4ac1-b362-da50628a1d12>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/b1db4bd9-105a-4ea5-85b6-efe39488a13f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/f9e844bd-2af9-4ab2-9726-7dd9c31a3aad> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/064c586b-b612-444b-bfe5-d3a2fc52a457>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/0bb5cf9b-54dc-4c1d-9740-c0a802248944>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/290f11de-a09d-4ac1-b362-da50628a1d12>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/b1db4bd9-105a-4ea5-85b6-efe39488a13f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/f9e844bd-2af9-4ab2-9726-7dd9c31a3aad> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/501ce8bd-e7d9-4467-99bd-2cb60d39e7f2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/61bb2a27-ce4a-4c80-a6fc-d613b3308d4f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/712922ef-2e09-44a7-8bfd-b48dfae187c8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/95e92aef-004d-424a-ac5e-f770437545c7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/9f337337-796d-4200-9aa0-464d654faccd> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/501ce8bd-e7d9-4467-99bd-2cb60d39e7f2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/61bb2a27-ce4a-4c80-a6fc-d613b3308d4f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/712922ef-2e09-44a7-8bfd-b48dfae187c8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/95e92aef-004d-424a-ac5e-f770437545c7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmapsekundär(leitidee)/9f337337-796d-4200-9aa0-464d654faccd> ;
     skos:prefLabel "Kompetenzbereich MaP sekundär (Leitidee)"@de .
 

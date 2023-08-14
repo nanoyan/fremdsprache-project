@@ -1,53 +1,53 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/04924ad5-ed0c-4360-ace7-fa3b55f40f5f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:notation "3" ;
-    skos:prefLabel "beschreiben"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/1fd40248-7d08-4f42-9045-90fcc5c64b68> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/b0c3865d-ddec-4db7-8206-d5386308a924> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
     skos:notation "1" ;
     skos:prefLabel "erzählen"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/54dbfffd-19b1-4e34-a399-228247869401> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:notation "4" ;
-    skos:prefLabel "argumentieren"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/cd255618-003c-4f74-8a18-f47987d3b69f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Texte zus.fassen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
-
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/e0f3b254-399b-49a0-b8b9-6be1e1864f8e> a skos:Concept ;
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/a03a62f7-14cb-45b3-8695-9e4d5792eee9> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
     skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
     skos:notation "2" ;
     skos:prefLabel "berichten"@de ;
     skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
 
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/0a0b6c82-af3b-4f8b-8bd6-86cbf3baecd8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:notation "3" ;
+    skos:prefLabel "beschreiben"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/d43af5c6-febc-474d-8a66-2010213457cd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:notation "4" ;
+    skos:prefLabel "argumentieren"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/37bc183d-9b83-4826-9418-b7262f9ff1d0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:notation "5" ;
+    skos:prefLabel "Texte zus.fassen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+
 <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> a skos:ConceptScheme ;
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:title "IQB Item and Properties Database_Schreibform"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/04924ad5-ed0c-4360-ace7-fa3b55f40f5f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/1fd40248-7d08-4f42-9045-90fcc5c64b68>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/54dbfffd-19b1-4e34-a399-228247869401>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/cd255618-003c-4f74-8a18-f47987d3b69f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/e0f3b254-399b-49a0-b8b9-6be1e1864f8e> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/04924ad5-ed0c-4360-ace7-fa3b55f40f5f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/1fd40248-7d08-4f42-9045-90fcc5c64b68>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/54dbfffd-19b1-4e34-a399-228247869401>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/cd255618-003c-4f74-8a18-f47987d3b69f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/e0f3b254-399b-49a0-b8b9-6be1e1864f8e> ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/0a0b6c82-af3b-4f8b-8bd6-86cbf3baecd8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/37bc183d-9b83-4826-9418-b7262f9ff1d0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/a03a62f7-14cb-45b3-8695-9e4d5792eee9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/b0c3865d-ddec-4db7-8206-d5386308a924>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/d43af5c6-febc-474d-8a66-2010213457cd> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/0a0b6c82-af3b-4f8b-8bd6-86cbf3baecd8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/37bc183d-9b83-4826-9418-b7262f9ff1d0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/a03a62f7-14cb-45b3-8695-9e4d5792eee9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/b0c3865d-ddec-4db7-8206-d5386308a924>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/d43af5c6-febc-474d-8a66-2010213457cd> ;
     skos:prefLabel "Schreibform"@de .
 
