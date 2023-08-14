@@ -1,64 +1,64 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> a skos:Concept ;
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/0abda17f-7946-4d47-9d35-90de6f4eff48> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
     skos:definition "Die Schülerinnen und Schüler verfügen über ein hinreichend breites Spektrum sprachlicher Mittel, um auch in unvorhersehbaren Situationen zurechtzukommen."@de ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
-    skos:narrower <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/3eab7d69-bdaf-4ba5-b295-83fd9f7d47ca>,
-        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/5e126bb8-cfcf-4b95-ba16-0ec4f721125b>,
-        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/67b15277-c0b9-48b2-b6a5-9716ef48326a>,
-        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/71c9f470-c8be-42e9-b1d5-092f9fd2163c>,
-        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/9a0fcebf-90bb-4b94-9704-64dd230a672f>,
-        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/cf5895e4-ddf5-4e47-95d5-1b1377569b97>,
-        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/ed7c70a8-6528-4fc6-b83e-23dcef5a0bd9> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/3cadaaf3-428a-47a0-980c-f5b29a01f7a6>,
+        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/5c157c86-0789-4de0-a5e5-5b1ab994fcbf>,
+        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/606bc25f-d6e9-434c-837e-5dfefe1fb144>,
+        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/62a16fc2-a646-41e6-8c61-9b5839b3e98b>,
+        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/65ab8dfe-921e-4756-bbc2-8800b2029d1b>,
+        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/d61d6410-c29a-46d7-99f4-34eb1b677612>,
+        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/eedf244a-e223-43a6-b312-d81e7f6fc668> ;
     skos:notation "1" ;
     skos:prefLabel "Lexiko-Grammatik"@de ;
     skos:topConceptOf <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> .
 
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/cf5895e4-ddf5-4e47-95d5-1b1377569b97> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/5c157c86-0789-4de0-a5e5-5b1ab994fcbf> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/0abda17f-7946-4d47-9d35-90de6f4eff48> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
     skos:notation "1.1" ;
     skos:prefLabel "sich zu vertrauten Themen (insbesondere solchen des eigenen Interessensbereichs) äußern, mitunter zögernd und mithilfe von Umschreibungen."@de .
 
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/5e126bb8-cfcf-4b95-ba16-0ec4f721125b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/62a16fc2-a646-41e6-8c61-9b5839b3e98b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/0abda17f-7946-4d47-9d35-90de6f4eff48> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
     skos:notation "1.2" ;
     skos:prefLabel "ein breites Spektrum einfacher sprachlicher Mittel flexibel einsetzen, um ihre Mitteilungsabsichten grundlegend zu realisieren, die wichtigsten Aspekte eines Gedankens oder eines Problems zu erklären und eigene Überlegungen zu Themen von allgemeinem Interesse auszudrücken."@de .
 
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/71c9f470-c8be-42e9-b1d5-092f9fd2163c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/606bc25f-d6e9-434c-837e-5dfefe1fb144> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/0abda17f-7946-4d47-9d35-90de6f4eff48> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
     skos:notation "1.3" ;
     skos:prefLabel "ihre Ausdrucksweise auch weniger routinemäßigen, sogar schwierigen Situationen anpassen."@de .
 
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/ed7c70a8-6528-4fc6-b83e-23dcef5a0bd9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/3cadaaf3-428a-47a0-980c-f5b29a01f7a6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/0abda17f-7946-4d47-9d35-90de6f4eff48> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
     skos:notation "1.4" ;
     skos:prefLabel "ein Repertoire von häufig gebrauchten Wendungen, Konstruktionen und Phrasen, die an eher vorhersehbare Situationen gebunden sind, hinreichend korrekt verwenden."@de .
 
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/67b15277-c0b9-48b2-b6a5-9716ef48326a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/eedf244a-e223-43a6-b312-d81e7f6fc668> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/0abda17f-7946-4d47-9d35-90de6f4eff48> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
     skos:notation "1.5" ;
     skos:prefLabel "grammatische Strukturen in vertrauten Kommunikationssituationen hinreichend korrekt und sicher anwenden. Mitunter zeigen sich erkennbare Einflüssen anderer Sprachen, ohne dass dies jedoch das Verständnis beeinträchtigt."@de .
 
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/9a0fcebf-90bb-4b94-9704-64dd230a672f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/d61d6410-c29a-46d7-99f4-34eb1b677612> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/0abda17f-7946-4d47-9d35-90de6f4eff48> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
     skos:notation "1.6" ;
     skos:prefLabel "die Orthographie und Zeichensetzung so exakt anwenden, dass die von ihnen produzierten zusammenhängenden Texte verständlich sind."@de .
 
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/3eab7d69-bdaf-4ba5-b295-83fd9f7d47ca> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/65ab8dfe-921e-4756-bbc2-8800b2029d1b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/0abda17f-7946-4d47-9d35-90de6f4eff48> ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
     skos:notation "1.7" ;
     skos:prefLabel "ihnen vertraute (digitale) Hilfsmittel situations- und zweckangemessen zur Sicherstellung weitgehender orthographischer Korrektheit in der Regel selbstständig nutzen."@de .
 
-<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/16d238bb-f559-4af0-9801-b1fc6b1f1166> a skos:Concept ;
+<https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/1f27d043-3e91-47e7-b62b-914835af094b> a skos:Concept ;
     skos:broader <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
     skos:definition "Die Aussprache der Schülerinnen und Schüler ist im Allgemeinen durchgängig verständlich, auch wenn der Einfluss von anderen Sprachen, die sie sprechen, auf die Betonung, die Intonation und/oder den Rhythmus bemerkbar ist und obwohl sie wiederholt einzelne weniger vertraute Laute und Wörter falsch aussprechen."@de ;
     skos:inScheme <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/> ;
@@ -70,9 +70,9 @@
     dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dct:description "Die sprachlichen Mittel – Wortschatz, Grammatik, Aussprache, Prosodie und Orthographie – sind Kompetenz bildende, funktionale Bestandteile des sprachlichen Systems und der Kommunikation. In der Vermittlung und bei der Aneignung der funktionalen kommunikativen Kompetenz haben die sprachlichen Mittel allerdings grundsätzlich dienende Funktion, da die gelingende Kommunikation im Vordergrund steht. Die kommunikativen Ziele können – u.a. abhängig vom erreichten Kompetenzniveau und der Kooperationsbereitschaft der Kommunikationspartnerinnen und -partner – mit unterschiedlichen sprachlichen Mitteln erreicht werden. Bei der Auswahl der zu vermittelnden sprachlichen Mittel sollte daher von einer kommunikativen Progression ausgegangen wer den, während die sprachstrukturelle Progression eine nachgeordnete, dienende Funktion hat. Die Vermittlung und die Aneignung von Wortschatz im Sinne komplexer lexiko-grammatischer Einheiten sind mit Blick auf die funktionale kommunikative Kompetenz zentral."@de ;
     dct:title "erste Fremdsprache ESA_Verfügen über sprachliche Mittel"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/16d238bb-f559-4af0-9801-b1fc6b1f1166>,
-        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
-    skos:narrower <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/16d238bb-f559-4af0-9801-b1fc6b1f1166>,
-        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/995066d7-cc8f-45f6-8b64-8fe48b552721> ;
+    skos:hasTopConcept <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/0abda17f-7946-4d47-9d35-90de6f4eff48>,
+        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/1f27d043-3e91-47e7-b62b-914835af094b> ;
+    skos:narrower <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/0abda17f-7946-4d47-9d35-90de6f4eff48>,
+        <https://w3id.org/iqb/bista23FrESA/verfügenübersprachlichemittel/1f27d043-3e91-47e7-b62b-914835af094b> ;
     skos:prefLabel "Verfügen über sprachliche Mittel"@de .
 

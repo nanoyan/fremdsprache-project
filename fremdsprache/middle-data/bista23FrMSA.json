@@ -8,216 +8,216 @@
             "description": "Bis zum Mittleren Schulabschluss erreichen die Schülerinnen und Schüler im Wesentlichen das Niveau B1 des Gemeinsamen europäischen Referenzrahmens.",
             "children": [
                 {
-                    "id": "3b19114a-513d-470c-8128-0af1f64841f8",
+                    "id": "d7257f67-d18f-4ef6-981b-ef25b2891486",
                     "notation": "1",
                     "title": "Hörverstehen und audiovisuelles Verstehen",
                     "description": "Bis zum Mittleren Schulabschluss erreichen die Schülerinnen und Schüler im Wesentlichen das Niveau B1 des Gemeinsamen europäischen Referenzrahmens.",
                     "children": [
                         {
-                            "id": "243b5adb-ee3f-4491-8b3e-628f898b9fe2",
+                            "id": "1ef71d98-8334-4fe8-8617-9086b0d75f52",
                             "notation": "1.1",
                             "title": "in strukturell unkomplizierten Hörtexten zu vertrauten Themen das Thema erfassen und die Hauptaussagen und Einzelinformationen verstehen, wenn in deutlich artikulierter Standardsprache oder in einer vertrauten Varietät gesprochen wird."
                         },
                         {
-                            "id": "2f99b162-cf1a-4139-b20e-f4551683315c",
+                            "id": "0290ba31-aeb1-4dfa-8e24-2bd9a613b233",
                             "notation": "1.2",
                             "title": "auch in längeren Hörtexten Mitteilungen zu konkreten Themen verstehen."
                         },
                         {
-                            "id": "9367ae03-2960-493f-bd9f-a8cab6c90f0d",
+                            "id": "95c34a58-bc1c-4221-aa19-4bfa49965126",
                             "notation": "1.3",
                             "title": "das Thema und die Hauptaussagen von längeren Gesprächen zwischen Anderen verstehen."
                         },
                         {
-                            "id": "ecd1345c-f055-4b7f-a486-84fb4757ed46",
+                            "id": "312bd39e-eb24-4a1b-9d07-4cbbeeb89308",
                             "notation": "1.4",
                             "title": "Vorträge und Präsentationen verstehen und dabei zwischen Hauptaussagen und unterstützenden Details unterscheiden, wenn die Thematik vertraut und die Darstellung unkompliziert und klar strukturiert ist."
                         },
                         {
-                            "id": "dc5b1b8f-c596-44b3-8500-6ef5c989258b",
+                            "id": "4643b9db-dea1-49d2-8923-8a0b853d008d",
                             "notation": "1.5",
                             "title": "bei längeren Hörtexten und audiovisuellen Texten anhand des erfassten Themas Vorhersagen über den weiteren Inhalt treffen und diese während des Hörens anpassen."
                         },
                         {
-                            "id": "2369c267-61ff-4581-8b32-48da2078abef",
+                            "id": "0511c509-df86-4001-b4c0-7593d1382583",
                             "notation": "1.6",
                             "title": "das Thema und die Hauptaussagen in audiovisuellen Texten zu vertrauten Themen verstehen, wenn relativ langsam und deutlich gesprochen wird."
                         },
                         {
-                            "id": "6fbec2ef-a892-4a91-8a18-be549d4ed228",
+                            "id": "e2bebb55-8501-4f5f-9b2e-ad9dbb11052a",
                             "notation": "1.7",
                             "title": "in strukturell unkomplizierten, literarisch-ästhetischen Hörtexten und audiovisuellen Texten zentrale Themen, Ereignisse, Figuren sowie deren Verbindung zueinander erfassen und erschließen."
                         },
                         {
-                            "id": "6b1c369d-1be0-4617-a2cc-1a46d6c98cf3",
+                            "id": "16b98e69-bd82-495b-bd23-4f331331ef6a",
                             "notation": "1.8",
                             "title": "auf ihnen vertraute (digitale) Werkzeuge bei der Rezeption von Hörtexten und audiovisuellen Texten in der Regel selbstständig zurückgreifen."
                         }
                     ]
                 },
                 {
-                    "id": "8f367080-5db6-4526-bfdf-f0ce3e1b0316",
+                    "id": "1232e999-86c7-4e70-a610-909c591d472d",
                     "notation": "2",
                     "title": "Leseverstehen",
                     "description": "Das Leseverstehen ermöglicht die Teilhabe an Kommunikationssituationen, in denen die Rezeption schriftlich vermittelter Texte im Mittel punkt steht. Die Anforderungen in den rezeptiven Anteilen solcher Kommunikationssituationen werden durch Merkmale der Texte (z. B. Länge, sprachliche Komplexität, Struktur oder Genre) und durch spezifische Verstehensabsichten (z. B. das Thema erfassen, eine bestimmte Information auffinden) geprägt.",
                     "children": [
                         {
-                            "id": "b33a7e2a-afe3-4410-9aba-2e5b14c3787d",
+                            "id": "409bb4d9-e2d7-4d8e-8f83-580359eb8d63",
                             "notation": "2.1",
                             "title": "strukturell unkomplizierte Korrespondenz zu vertrauten Themen einschließlich der verwendeten Umgangsformen verstehen."
                         },
                         {
-                            "id": "ad4e920f-e348-4762-8b5a-0a0c2f79fbbb",
+                            "id": "4032f042-e896-4b65-8848-56b225ed8ef8",
                             "notation": "2.2",
                             "title": "in strukturell unkomplizierten Gebrauchstexten wichtige Informationen auffinden und verstehen sowie zum Lösen einer Aufgabe Informationen aus verschiedenen Texten zusammentragen."
                         },
                         {
-                            "id": "c7eb8daa-fef8-4702-986a-1c1544961889",
+                            "id": "bdf8316e-1517-45b9-a6a7-ea402c43300a",
                             "notation": "2.3",
                             "title": "klar formulierte Anleitungen, Hinweise oder Vorschriften verstehen."
                         },
                         {
-                            "id": "2c0e6b22-e2e9-4b83-a2e0-eaa0c5e13909",
+                            "id": "98f307a1-f31f-4d79-a518-d095ef66f318",
                             "notation": "2.4",
                             "title": "strukturell unkomplizierte Sachtexten zu vertrauten Themen verstehen und dabei die Hauptaussagen erkennen und Einzelinformationen erfassen."
                         },
                         {
-                            "id": "1b6af21c-a575-4c97-b862-c5004dc03918",
+                            "id": "d313fb2a-e24e-4187-8d9b-726bbae5a02e",
                             "notation": "2.5",
                             "title": "in strukturell unkomplizierten literarisch-ästhetischen Texten zentrale Themen, Ereignisse, Figuren sowie deren Verbindung zueinander erfassen."
                         },
                         {
-                            "id": "1db23d64-5e95-45b4-87bc-87a3a9446db5",
+                            "id": "81bef887-b440-422f-a97c-64292b980aa0",
                             "notation": "2.6",
                             "title": "das eigene emotionale Erleben eines strukturell unkomplizierten literarisch-ästhetischen Texts sowie die Eigenschaften und Gefühle einer literarischen Figur erfassen."
                         },
                         {
-                            "id": "4f76a077-f202-4a10-b517-28fa7a36ebde",
+                            "id": "7077736e-d293-451b-b509-c433fe13949b",
                             "notation": "2.7",
                             "title": "beim Lesen auf ihnen vertraute (digitale) Werkzeuge in der Regel selbstständig zurückgreifen."
                         },
                         {
-                            "id": "6afc8857-8765-4293-bfb2-056cccb3619d",
+                            "id": "cf9eeed4-7b5e-4b1c-8e9e-f8d7a176be55",
                             "notation": "2.8",
                             "title": "die Bedeutung unbekannter Wörter in einem Text aus ihren Bestandteilen und dem Kontext ableiten."
                         },
                         {
-                            "id": "aeeebc4b-6a52-45a9-b154-839a26d01c64",
+                            "id": "ad5feb42-523e-4967-aaed-dab2f28de7c5",
                             "notation": "2.9",
                             "title": "mit Hilfe von Hinweisen in Texten und der Aufgabe Vorhersagen über den weiteren Inhalt treffen und diese während des Lesens anpassen."
                         },
                         {
-                            "id": "e6465cfb-ca47-467d-8d20-95e2e57e9a9a",
+                            "id": "0c673f37-678c-45b2-a51b-5c1a813222cd",
                             "notation": "2.10",
                             "title": "die in einer Sprache/weiteren Sprachen verfügbaren Kenntnisse und erlernten Strategien in der Regel selbstständig aktivieren, um zielsprachige Texte zu verstehen."
                         }
                     ]
                 },
                 {
-                    "id": "2e1c0986-7a05-45fb-93a5-3fb1d0e5bc02",
+                    "id": "2a91bd70-2456-45da-ba87-36f1c634080b",
                     "notation": "3",
                     "title": "Sprechen",
                     "description": "Sprechen ist auf die Produktion mündlicher Texte ausgerichtet. Dabei ist Sprechen stets – selbst in der Form eines Vortrags – ein interaktiver Vorgang, da die Reaktionen eines Publikums u.a. eingeplant, antizipiert, aufgegriffen werden. Im Folgenden wird jedoch unterschieden zwischen mündlicher Interaktion als Form dialogischen Sprechens und mündlicher Produktion als Form monologischen Sprechens, da diese jeweils unterschiedliche Teilkompetenzen und Strategien erfordern. Beide Formen mündlicher Kommunikation umfassen narrative, expositorische und argumentative Genres, die für die Alltagskommunikation der Schülerinnen und Schüler relevant sind. Diese Kommunikation findet sowohl face-to-face als auch im digitalen Raum statt. So sind durch den Einsatz digitaler Medien neue Formen der Mündlichkeit entstanden.",
                     "children": [
                         {
-                            "id": "bdb19884-0f60-4081-952e-8671aa7563d1",
+                            "id": "6d16156a-314b-49a6-8150-ff631c0dc945",
                             "notation": "3.1",
                             "title": "Mündliche Interaktion",
                             "children": [
                                 {
-                                    "id": "a611d8cb-3a62-42c7-9877-4005381867c3",
+                                    "id": "02d98385-e6bd-44d3-ae84-b6f6d297eb0f",
                                     "notation": "3.1.1",
                                     "title": "spontan und flüssig an Gesprächen zu vertrauten und gesellschaftlich relevanten Themen teilnehmen, persönliche Meinungen ausdrücken und Argumente austauschen über Themen, die vertraut sind."
                                 },
                                 {
-                                    "id": "3b47e542-e3f6-42b2-bd19-0654603ea3a0",
+                                    "id": "6e4c90ad-7315-48c5-8ecb-0a7f82fc63e6",
                                     "notation": "3.1.2",
                                     "title": "an mündlichen Interaktionsformen teilnehmen, die eine inhaltliche, sprachliche oder strategische Vorbereitung voraussetzen."
                                 },
                                 {
-                                    "id": "6340b082-4802-49d8-9b95-0b58ccca1805",
+                                    "id": "d6214689-28a3-41e5-b94d-0280ce9583be",
                                     "notation": "3.1.3",
                                     "title": "ein strukturell unkompliziertes Gespräch auch ohne Vorbereitung unter Berücksichtigung der wichtigsten Höflichkeitskonventionen spontan führen."
                                 },
                                 {
-                                    "id": "6b69e6c5-6627-412b-9a48-7f2590184241",
+                                    "id": "a7c6fb18-d12c-4f76-bcda-8d7302426c72",
                                     "notation": "3.1.4",
                                     "title": "in einem Alltagsgespräch klar artikulierte Standardsprache verstehen, sie müssen aber manchmal um Wiederholung oder Klärung bestimmter Wörter und Wendungen bitten."
                                 },
                                 {
-                                    "id": "aff272ec-8dab-4077-bd45-2a4bf2245f53",
+                                    "id": "52c3efa4-e8f1-46b0-a94f-32c668613875",
                                     "notation": "3.1.5",
                                     "title": "an routinemäßigen formellen Diskussionen über vertraute Themen teilnehmen, sofern die Punkte in überwiegend einfacher Sprache vorgebracht und/oder wiederholt werden und Gelegenheit zur Klärung besteht."
                                 },
                                 {
-                                    "id": "80a5ce02-c27e-44b4-bb50-250f964a0172",
+                                    "id": "93319808-6b8b-4f27-bc02-1c32cea21378",
                                     "notation": "3.1.6",
                                     "title": "unkomplizierte Sachinformationen über vertraute Themen adressaten-, situations- und zweckangemessen weitergeben und Informationsfragen dazu detailliert beantworten."
                                 },
                                 {
-                                    "id": "352a5f0a-cbac-49f1-ae4a-834a4d0d0ee7",
+                                    "id": "1350e352-405b-463c-b31c-f15f245e61aa",
                                     "notation": "3.1.7",
                                     "title": "(digitale) Hilfsmittel nutzen, um relativ einfache, aber ausführliche Gespräche mit persönlich bekannten Personen zu führen oder grundlegende Dienstleistungen zu erhalten."
                                 },
                                 {
-                                    "id": "d44faf95-7865-40ca-8fbc-49f2bfcb3b4d",
+                                    "id": "cad22044-04a4-4e50-b093-f805c2ab3bc8",
                                     "notation": "3.1.8",
                                     "title": "neue Ausdrücke und Kombinationen von Ausdrücken einüben und ausprobieren und um Rückmeldung dazu bitten."
                                 },
                                 {
-                                    "id": "70d98a55-dc7e-4854-8932-dd1c2ddc9c04",
+                                    "id": "5e5954aa-cdbb-49d2-9763-a6399aaabaea",
                                     "notation": "3.1.9",
                                     "title": "sprachlich oder inhaltlich ähnliche Wörter verwenden, im Versuch ein fehlendes Wort zu paraphrasieren."
                                 },
                                 {
-                                    "id": "cdd1b8f4-2e32-4c4e-a407-1556b8cf512d",
+                                    "id": "0dd6715a-d9d6-48b8-9b8a-2791d1703981",
                                     "notation": "3.1.10",
                                     "title": "ein strukturell unkompliziertes Gespräch adressaten-, situations- und zweckangemessen beginnen, in Gang haltenund beenden."
                                 },
                                 {
-                                    "id": "1759b8c5-cf71-41ce-8a14-439fbf8c683f",
+                                    "id": "9b178945-b780-46f4-88ea-9f217331720a",
                                     "notation": "3.1.11",
                                     "title": "die in einer Sprache/weiteren Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien in der Regel selbstständig für die spontane Alltagskommunikation in der Zielsprache nutzen."
                                 }
                             ]
                         },
                         {
-                            "id": "0314b7ca-ac53-4b83-9857-64848b7e867b",
+                            "id": "2b29002e-7596-4058-94e2-6c5f76b6ce8a",
                             "notation": "3.2",
                             "title": "Mündliche Produktion",
                             "children": [
                                 {
-                                    "id": "053f4515-a5a8-4e01-8b11-6a46d44e1c7d",
+                                    "id": "20ca2abf-2652-4a0e-92a0-44894d2d5be0",
                                     "notation": "3.2.1",
                                     "title": "weitgehend flüssig strukturell unkomplizierte, aber zusammenhängende Beschreibungen und Darstellungen zu vertrauten Themen geben, wobei die einzelnen Punkte linear aneinandergereiht werden."
                                 },
                                 {
-                                    "id": "3f57417a-4f7c-4930-baad-a5f08e0f1706",
+                                    "id": "ae1bae6e-4626-4f8d-8598-44cacdf76af9",
                                     "notation": "3.2.2",
                                     "title": "zu verschiedenen vertrauten Themen des eigenen Interessenbereichs strukturell unkomplizierte Beschreibungen oder Berichte geben."
                                 },
                                 {
-                                    "id": "a11ff770-1b16-4031-8b24-527a55d4cf6b",
+                                    "id": "36618dd3-9ee4-469a-91a4-4bdde2be2bd4",
                                     "notation": "3.2.3",
                                     "title": "die Hauptaspekte einer Idee oder eines Problems hinreichend genau erklären."
                                 },
                                 {
-                                    "id": "d02a074d-f3d0-4e12-a69f-658e3ba16a21",
+                                    "id": "bf78ed09-8a6e-4469-aac9-9a374c42d9f5",
                                     "notation": "3.2.4",
                                     "title": "für Ansichten, Pläne oder Handlungen, kurze Begründungen oder Erklärungen geben."
                                 },
                                 {
-                                    "id": "2570ca18-e12c-4c26-8485-593d6a290c3d",
+                                    "id": "8f57814c-e998-4f34-be97-1a710343b9b4",
                                     "notation": "3.2.5",
                                     "title": "vorbereitete Präsentationen zu vertrauten Themen in verschiedenen Kommunikationsformen so klar und präzise vortragen, dass man dieser meist mühelos folgen kann."
                                 },
                                 {
-                                    "id": "6d8de335-642f-4c31-954a-3db31c028e61",
+                                    "id": "3e61616a-c7a2-4666-9eff-3809146b34b1",
                                     "notation": "3.2.6",
                                     "title": "(digitale) Hilfsmittel in der Regel selbstständig nutzen, um zusammenhängende mündliche Äußerungen zu vertrauten Themen zu verfassen."
                                 },
                                 {
-                                    "id": "5f1fd916-16ed-498b-ba7c-aac1dc17e41f",
+                                    "id": "a93ad774-e7d6-455e-a4b8-77a9d408a5fa",
                                     "notation": "3.2.7",
                                     "title": "ihre begrenzten Kompetenzen in den verschiedenen ihnen eventuell zur Verfügung stehenden Sprachen in der Regel selbstständig für zusammenhängende Beschreibungen und Berichte in der Zielsprache nutzen."
                                 }
@@ -226,105 +226,105 @@
                     ]
                 },
                 {
-                    "id": "ea35c74d-687d-43ca-af28-e7a7b8f243de",
+                    "id": "0a69a348-784f-474c-8924-1e2485f141d7",
                     "notation": "4",
                     "title": "Schreiben",
                     "description": "Schreiben ist auf die Produktion schriftlicher Texte ausgerichtet. Dabei ist es in der Regel eine auf die zwischenmenschliche Kommunikation zielende Aktivität, die allerdings auch individuellen Lern-, Erkenntnis- und Reflexionsprozessen dienen kann. Es wird jedoch im Folgenden zwischen schriftlicher Interaktion (Kommunikation zwischen zwei oder mehreren Partnern) und schriftlicher Produktion (Verfassen von Texten, die keine direkte Reaktion beabsichtigen) unterschieden, da sie unterschiedliche Teilkompetenzen und Strategien erfordern. Die schriftliche Kommunikation umfasst unterschiedliche Genres, d.h. diskurse Textformen, die für die Alltagskommunikation der Schülerinnen und Schüler relevant sind. Durch die digitale Transformation hat die schriftliche Kommunikation an Bedeutung gewonnen und neue (multimodale) Textsorten sind entstanden.",
                     "children": [
                         {
-                            "id": "e75d5a27-6961-4e7a-89c1-063798fffa93",
+                            "id": "477417ea-6557-43b6-8faf-7e8b56cdebfc",
                             "notation": "4.1",
                             "title": "Schriftliche Interaktion",
                             "children": [
                                 {
-                                    "id": "62fc939a-b381-4fb7-8b3a-c04e9da39f51",
+                                    "id": "e4e86bd0-ae7f-415d-a79e-eb2f4b99769e",
                                     "notation": "4.1.1",
                                     "title": "adressaten-, situations- und zweckangemessen in einfachen Texten zu vertrauten Themen schriftlich interagieren."
                                 },
                                 {
-                                    "id": "e77466a1-1e1f-4ccc-9ffd-717891bb2735",
+                                    "id": "1de49d0e-428d-4fe2-a458-02aa92306731",
                                     "notation": "4.1.2",
                                     "title": "in persönlichen Korrespondenzen einfache Informationen von unmittelbarer Bedeutung geben oder erfragen und dabei deutlich machen, was sie für wichtig halten."
                                 },
                                 {
-                                    "id": "5dcf1b4b-aec0-4b86-922e-e4a84fed3106",
+                                    "id": "4fbc7b65-8c7c-4b0e-9ed9-fe795a174011",
                                     "notation": "4.1.3",
                                     "title": "persönliche Korrespondenzen verfassen und darin detailliert über Erfahrungen, Gefühle, Ereignisse, Meinungen berichten."
                                 },
                                 {
-                                    "id": "bb55d839-3899-4f8b-b0ed-f6d4f0bd828d",
+                                    "id": "b86e45eb-ee4c-4478-9eee-9015f81a0f55",
                                     "notation": "4.1.4",
                                     "title": "adressaten-, situations- und zweckangemessen Notizen mit einfachen, unmittelbar relevanten Informationen formulieren."
                                 },
                                 {
-                                    "id": "ef486b90-ecc7-4c42-a7c7-a7fb259877c8",
+                                    "id": "0448bbcf-30f4-4980-9d1d-facd01c591fb",
                                     "notation": "4.1.5",
                                     "title": "formelle Schreiben, die inhaltlich, sprachlich und formal korrekt gestaltet sein sollen, verfassen und bei Bedarf notwendige (digitale) Hilfen nutzen."
                                 },
                                 {
-                                    "id": "dbba893f-2805-47cc-b0db-d101f6ce0a92",
+                                    "id": "e6675bca-ff43-4886-874d-1f44dec7c171",
                                     "notation": "4.1.6",
                                     "title": "Beitrag zu einer Online-Diskussion über ein vertrautes Thema formulieren und individuell und weitgehend detailliert auf die Kommentare anderer eingehen."
                                 },
                                 {
-                                    "id": "39dcd6d2-a6a8-4056-8f24-d627f50feaca",
+                                    "id": "b9886fc7-87e8-4fff-8ec6-53e007b27d4f",
                                     "notation": "4.1.7",
                                     "title": "in der Regel selbständig erklären, warum bestimmte Teile oder Aspekte eines literarisch-ästhetischen Textes für sie von besonderem Interesse sind."
                                 },
                                 {
-                                    "id": "70fe18be-3934-460a-aba0-48c7aa04cc64",
+                                    "id": "11520b6e-29db-45bb-8537-2b4cac343146",
                                     "notation": "4.1.8",
                                     "title": "(digitale) Hilfsmittel in der Regel selbstständig nutzen, um in einfachen Texten schriftlich zu interagieren."
                                 },
                                 {
-                                    "id": "6f337ebb-8c5e-4639-ac4f-aeb6c5bfe6a6",
+                                    "id": "2630782e-4a04-466d-bb90-af8a60b4e5e4",
                                     "notation": "4.1.9",
                                     "title": "sprachlich oder inhaltlich ähnliche Wörter verwenden, im Versuch ein fehlendes Wort zu paraphrasieren."
                                 },
                                 {
-                                    "id": "f7b9d981-1c42-4532-a889-b4ac7ea89148",
+                                    "id": "440f4855-5975-4bcf-8332-ef22158956e4",
                                     "notation": "4.1.10",
                                     "title": "andere um Erklärung, mehr Details oder Wiederholung in digitalen Kommunikationsformen bitten."
                                 },
                                 {
-                                    "id": "b4011b9f-e9c0-4fdb-ab98-8ca12a1acf5e",
+                                    "id": "a8210ce9-25fc-4606-96ae-3d61501acd1f",
                                     "notation": "4.1.11",
                                     "title": "die in einer Sprache/weiteren Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien in der Regel selbstständig für schriftliche Interaktion in der Zielsprache nutzen."
                                 }
                             ]
                         },
                         {
-                            "id": "97ebc787-151b-4c77-acbc-bba7a7bed6ff",
+                            "id": "9aea676a-5ff9-48c5-99cc-f03a28f37264",
                             "notation": "4.2",
                             "title": "Schriftliche Produktion",
                             "children": [
                                 {
-                                    "id": "1387e8b0-d924-49f7-b899-da2298c77e27",
+                                    "id": "31d136a7-6f55-4f15-896e-5e5eeafd748f",
                                     "notation": "4.2.1",
                                     "title": "strukturell unkomplizierte, zusammenhängende Texte zu vertrauten und gesellschaftlich relevanten Themen verfassen, wobei einzelne kürzere Teile in linearer Abfolge verbunden werden."
                                 },
                                 {
-                                    "id": "1ebea831-c801-4474-8c22-1a652eb1e867",
+                                    "id": "4e2d977f-db05-4440-bbbb-9522a529dca1",
                                     "notation": "4.2.2",
                                     "title": "Beschreibungen eines realen oder fiktiven Ereignisses verfassen."
                                 },
                                 {
-                                    "id": "04f229b4-9024-4017-b41c-034fc6a3dc88",
+                                    "id": "06aa30b3-dba0-46e2-ad7b-13aa17ef5ed5",
                                     "notation": "4.2.3",
                                     "title": "in einem üblichen Standardformat kurze Berichte verfassen, in denen Sachinformationen weitergegeben und Gründe für Handlungen angegeben werden."
                                 },
                                 {
-                                    "id": "1b6500e8-f2bd-4d5d-bcdf-b787fd449f49",
+                                    "id": "de0b9271-6cb8-4201-a870-3dd4710beb04",
                                     "notation": "4.2.4",
                                     "title": "(digitale) Hilfsmittel in der Regel selbstständig nutzen, um relativ einfache zusammenhängende Texte zu vertrauten Themen zu verfassen und zu revidieren/korrigieren."
                                 },
                                 {
-                                    "id": "c253feb2-9871-4865-994c-6b423f19501c",
+                                    "id": "7ca7e87d-0eda-4f4e-8665-b14efecd1ff6",
                                     "notation": "4.2.5",
                                     "title": "das eigene Repertoire an sprachlichen Mitteln mit Hilfe (digitaler) Werkzeuge in der Regel selbstständig erweitern."
                                 },
                                 {
-                                    "id": "7068021c-3740-490a-a41a-07cbf23732d3",
+                                    "id": "8d008675-ed4f-45a0-b86f-cd9a152044c1",
                                     "notation": "4.2.6",
                                     "title": "die in einer Sprache/weiteren Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien in der Regel selbstständig für das Verfassen von zielsprachigen Texten nutzen."
                                 }
@@ -333,33 +333,33 @@
                     ]
                 },
                 {
-                    "id": "a96833d0-97f9-4a09-90a0-a823e98dc47f",
+                    "id": "290a8dc8-3459-48aa-b4d9-ed44a9fa84d6",
                     "notation": "5",
                     "title": "Mediation / Sprachmittlung",
                     "description": "Mediation ist ein interaktiver Prozess, mit dem Kommunikation, Verständnis und Kooperation zwischen Personen ermöglicht und aufrechterhalten werden. Dieser Prozess vollzieht sich zum Beispiel beim Mitteln von Textinhalten und Konzepten sowie beim Ermöglichen und Gestalten von Kommunikation zwischen Menschen, die aufgrund ihrer Herkunft und Erfahrungen unterschiedliche individuelle, soziale, kulturelle oder sprachliche Grundlagen und Kompetenzen haben. Diese können zu verschiedenen kommunikativ-interaktiven Voraussetzungen und folglich unterschiedlichen Verstehensmöglichkeiten führen und eine Verständigung beeinträchtigen. Sprachmittlung umfasst die sprachlichen Prozesse der Mediation. Sprachmittlung besteht in der adressaten-, situations- und zweckangemessenen Übertragung von Informationen aus einer Sprache A in eine Sprache B für andere Personen, die anderenfalls keinen Zugang zu diesen Informationen hätten. Damit ist die Sprachmittlung eine interaktive kommunikative Kompetenz, die auf andere (fremdsprachliche) Kompetenzbereiche zurückgreift. Die Anforderungen ergeben sich aus der Vertrautheit mit den zu mittelnden Informationen, der Richtung, in der die Sprachmittlung erfolgt sowie ggf. dem Wechsel zwischen verschiedenen sprachlichen Repräsentationsformen (z. B. vom Hören zum Schreiben, vom Lesen zum Sprechen).",
                     "children": [
                         {
-                            "id": "a77b73d4-94d2-426b-8b43-cb4ed35f730c",
+                            "id": "5a44d8c9-3060-4966-a203-60e7a44e7df7",
                             "notation": "5.1",
                             "title": "in beide Richtungen zwischen Deutsch und der ersten Fremdsprache sprachlich und kulturell mündlich, schriftlich sowie im Wechsel der sprachlichen Repräsentationsformen auch längere Texte mitteln, wenn diese in strukturell unkomplizierter Sprache formuliert sind. Dabei sind ihnen die Kommunikations- und Interaktionsformen sowie die Themen vertraut."
                         },
                         {
-                            "id": "a35e83ac-5f0b-4263-9cf1-e04c6628b00e",
+                            "id": "54218635-80f0-46c5-8f29-0f2b20b20d4f",
                             "notation": "5.2",
                             "title": "Interaktionen voranbringen, indem sie andere Menschen einladen, ihr Wissen, ihre eigenen Erfahrungen und Sichtweisen einzubringen."
                         },
                         {
-                            "id": "98a3918a-6fc7-44d2-b917-ceaa3faa16ae",
+                            "id": "e2fe907e-d0bc-46ae-80d2-feabde61a2b3",
                             "notation": "5.3",
                             "title": "einfache Gespräche für Menschen verschiedener Herkunft durch Sprachmittlung sicherstellen. Sie sind sich dabei der eventuellen herkunftsbedingten Unterschiede und Verständnisschwierigkeiten zwischen den Menschen bewusst."
                         },
                         {
-                            "id": "377b51cc-2b9e-4895-a023-42cb0d7236a2",
+                            "id": "d9642d60-2043-484d-a046-3b6dbed2d403",
                             "notation": "5.4",
                             "title": "in Sprachmittlungs- bzw. Mediationssituationen ihre Kompetenzen im eigenen Repertoire strategisch und zielführend in der Regel selbstständig nutzen."
                         },
                         {
-                            "id": "6b61dea5-5ec4-4940-8364-eb3bfaa9c91b",
+                            "id": "75cbba2b-36aa-4e11-bb2b-6e126873f3fe",
                             "notation": "5.5",
                             "title": "strategisch und zielführend in Sprachmittlungs- bzw. Mediationssituationen auf personale und mediale (digitale) Hilfen in der Regel selbstständig zurückgreifen."
                         }
@@ -373,42 +373,42 @@
             "description": "Interkulturelle Kompetenz umfasst soziokulturelles und soziolinguistisches Wissen, Einstellungen und Empathiefähigkeit sowie kommunikatives Können. Interkulturelle Kompetenz ist primär auf die Handlungsfähigkeit (savoir-faire) ausgerichtet. Sie zeigt sich in der Fähigkeit und Bereitschaft, in direkten und medial vermittelten Begegnungen kommunikativ und kulturell angemessen zu handeln sowie beim Verstehen, Deuten und Produzieren fremdsprachiger Texte. Interkulturelle Kompetenz impliziert die Fähigkeit und Bereitschaft, unterschiedlich kulturell geprägte Perspektiven wahrzunehmen und über diese zu reflektieren – im Sinne von kultureller Bewusstheit (cultural awareness). Von zentraler Bedeutung für die interkulturelle Kompetenz ist auch die Bereitschaft, als kultureller Mittler zu handeln. Dabei berücksichtigt interkulturelle Kompetenz die sprachliche und kulturelle Heterogenität von Gesellschaft und damit auch von Schulgemeinschaft. Die sprachspezifische Ausprägung der interkulturellen Kompetenz ist u.a. abhängig von den jeweils erreichten rezeptiven, produktiven, interaktiven und mittelnden Kompetenzniveaus. Je nach individueller Sprachbiographie können die Schülerinnen und Schüler auf weitere kulturelle und sprachliche Ressourcen zurückgreifen und diese in interkulturellen Situationen adressaten-, situations- und zweckangemessen nutzen.",
             "children": [
                 {
-                    "id": "54870b3b-e170-4357-aa5d-3b533ac4c6c0",
+                    "id": "02043f66-4d50-4d00-8248-42591139f074",
                     "notation": "1",
                     "title": "sich der Vielfalt der Sitten und Gebräuche, der Einstellungen, Werte und Überzeugungen verschiedener gesellschaftlicher (einschließlich der eigenen) Gruppen bewusst, können auf entsprechende Signale achten sowie entsprechend wertebezogen und kommunikativ handeln."
                 },
                 {
-                    "id": "6dd1287c-646c-42ff-aa4c-e314a78b587d",
+                    "id": "0c62cd4c-984b-42f8-a1a1-b43d43050999",
                     "notation": "2",
                     "title": "sich in interkulturellen Situationen der Ähnlichkeiten und Unterschiede von Konventionen (z.B. in Bezug auf Körperhaltung, Blickkontakt und Abstand zu anderen) bewusst und können angemessen damit umgehen."
                 },
                 {
-                    "id": "79fb170e-8938-4a15-ae56-e48bc2256525",
+                    "id": "3ab4da4c-766d-44c2-a5f9-9f36f3f52282",
                     "notation": "3",
                     "title": "in interkulturellen Situationen im Rahmen der ihnen zur Verfügung stehenden Mittel mit dem Kommunikationspartner sprachlich angemessen in Bezug auf Situation und Beteiligte agieren."
                 },
                 {
-                    "id": "8eb7157c-587c-4a71-94c8-b6e96bc90f9f",
+                    "id": "fdf5da3f-e4db-44a9-b138-d3090c994bc6",
                     "notation": "4",
                     "title": "einen interkulturellen Austausch unterstützen, indem sie Offenheit, Interesse und Empathie durch Fragen und die Reaktion auf Fragen zeigen. Dabei sind sie sich der Tatsache bewusst, dass manche Themen und Fragen in den betroffenen Kulturen unterschiedlich wahrgenommen werden können."
                 },
                 {
-                    "id": "06fa665d-5074-481c-bf21-0132bcc44852",
+                    "id": "85e805d3-a4ee-46fa-9b52-1beb6b45915a",
                     "notation": "5",
                     "title": "(als kulturelle Mittler) die Parteien bei einer Meinungsverschiedenheit bitten, ihr Problem zu erläutern, und kurz darauf reagieren, vorausgesetzt es handelt sich um ein vertrautes Thema und die Beteiligten drücken sich deutlich aus."
                 },
                 {
-                    "id": "522c64e3-dd95-4cb1-917c-d0ad59b7632b",
+                    "id": "a0ce0bb2-2a2c-4ced-b041-b95c683bf25e",
                     "notation": "6",
                     "title": "in einfachen Begriffen diskutieren, wie die kulturell bedingten Handlungen verschiedener gesellschaftlicher (einschließlich der eigenen) Gruppen unterschiedlich wahrgenommen werden können."
                 },
                 {
-                    "id": "3b100f4c-79fd-49af-869a-41ac9617793e",
+                    "id": "81c24904-8791-4f5e-b459-28a00b4a9ab1",
                     "notation": "7",
                     "title": "die in einer Sprache/in anderen Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien für Sprachhandlungen in interkulturellen (Alltags-) Situationen in der Regel selbstständig nutzen."
                 },
                 {
-                    "id": "061154f4-0bc6-4933-9973-da0d341de51b",
+                    "id": "adc271b1-c7fd-4835-b2c5-d8e482440d45",
                     "notation": "8",
                     "title": "ihre zur Verfügung stehende interkulturelle Bewusstheit in Alltagskontexten in der Regel selbstständig reflektieren, um mit einer unerwarteten Situation adressaten-, situations- und zweckangemessen umgehen zu können."
                 }
@@ -420,32 +420,32 @@
             "description": "Sprachbewusstheit beruht auf Wissen über Struktur und Gebrauch der Fremdsprache und anderer Sprachen. In mündlichen und schriftlichen Kommunikationsformen zeigt sich Sprachbewusstheit in der Fähigkeit der Beteiligten, ihre Mitteilungsabsichten sprachlich korrekt und pragmatisch angemessen zu gestalten. Bei der Rezeption von Texten ist Sprachbewusstheit notwendig, um über den Sprachgebrauch nachzudenken, Vergleiche anzustellen und die so gewonnenen Erkenntnisse beim Entwickeln des Textverständnisses zu nutzen. In interaktiven und auf die Produktion von Texten ausgerichteten kommunikativen Situationen ermöglicht die Sprachbewusstheit die Reflexion des (eigenen) Sprachhandelns. Die reflexive Dimension der Kompetenz ist von fundamentaler Bedeutung für das selbstgesteuerte Fremdsprachenlernen und die Entwicklung individueller Mehrsprachigkeit.",
             "children": [
                 {
-                    "id": "c2f44e82-0d9f-4304-b36d-da2df55e4f22",
+                    "id": "2a3e14d9-0a34-45e6-8776-1ff940ae5a7d",
                     "notation": "1",
                     "title": "Hypothesen zu Regelmäßigkeiten des Gebrauchs sprachlicher Mittel formulieren."
                 },
                 {
-                    "id": "5ca642d1-cea0-4230-a76e-ceede50d0519",
+                    "id": "080fa762-0ffc-44df-baa5-0cd98ee3fdcf",
                     "notation": "2",
                     "title": "einige sozial und regional geprägte Varietäten der Fremdsprache wahrnehmen und reflektieren."
                 },
                 {
-                    "id": "47bbaeb2-a2b9-4f9f-8612-f79d08c66032",
+                    "id": "d9bc1570-7056-486c-a2dc-5f878aa825dc",
                     "notation": "3",
                     "title": "Mitteilungsabsichten in vertrauten mündlichen und schriftlichen Kommunikationsformen in der Regel selbständig situations-, adressaten- und zweckangemessen umsetzen."
                 },
                 {
-                    "id": "cbc03656-18b0-4618-9906-89686d95fb51",
+                    "id": "4667b31c-98d1-49ff-bd9f-613b54c45f4a",
                     "notation": "4",
                     "title": "sprachliche Fehler im Bereich vertrauter morphologisch-syntaktischer und syntaktischer Regelungen in der Regel selbständig erkennen und korrigieren."
                 },
                 {
-                    "id": "4e19bb7d-d701-4bc2-a883-5eb0bc80711c",
+                    "id": "2b263ba3-16ea-4974-a890-406f2944e338",
                     "notation": "5",
                     "title": "Gemeinsamkeiten, Unterschiede und Beziehungen zwischen Sprachen in der Regel selbständig erkennen und reflektieren."
                 },
                 {
-                    "id": "a601c252-8d98-4616-934d-ced6f17fee0b",
+                    "id": "de2b263c-5a0e-4cd5-a95b-31809d88ec05",
                     "notation": "6",
                     "title": "über die Erfordernisse einer kommunikativen Situation nachdenken und die so gewonnenen Erkenntnisse in der Regel selbständig in ihrem adressaten-, situations- und zweckangemessenen Sprachhandeln berücksichtigen."
                 }
@@ -457,37 +457,37 @@
             "description": "Sprachlernkompetenz beinhaltet die Fähigkeit und Bereitschaft, das eigene Sprachenlernen selbst zu steuern bzw. zu regulieren, wobei die Schülerinnen und Schüler sowohl auf ihr potenzielles mehrsprachiges Wissen wie auch auf individuelle Sprachlernerfahrungen zurückgreifen und somit z. B. Kenntnisse aus anderen Sprachen und erlernte Strategien reflektieren und für den Erwerb anderer Sprachen nutzen. Sprachlernkompetenz zeigt sich erstens in der Beobachtung und Evaluation der eigenen Sprachlernmotivation, -prozesse und -ergebnisse sowie zweitens in der Bereitschaft und Fähigkeit, begründete Konsequenzen daraus zu ziehen. Sie zeigt sich drittens im Verfügen über konkrete sprachbezogene Lernstrategien und Techniken des reflexiven Lernens. Sprachlernkompetenz ist eine prozessbezogene Kompetenz zur Förderung funktionaler kommunikativer Kompetenz, Text- und Medienkompetenz, interkultureller Kompetenz sowie plurilingualer Kompetenz.",
             "children": [
                 {
-                    "id": "50a38361-1c5d-4bdb-92bc-8546d53be067",
+                    "id": "c4dced17-3337-4674-989e-0811516d0fa6",
                     "notation": "1",
                     "title": "über die Erfordernisse einer kommunikativen Situation nachdenken und die so gewonnenen Erkenntnisse in der Regel selbständig in ihrem adressaten-, situations- und zweckangemessenen Sprachhandeln berücksichtigen."
                 },
                 {
-                    "id": "4834f561-ddf7-4be2-8ecd-4d7756dd9ef5",
+                    "id": "5a1f4e95-82f0-4b78-b068-f0b46f191241",
                     "notation": "2",
                     "title": "ihr Sprachlernverhalten und ihre Sprachlernprozesse (inklusive der genutzten Strategien) in der Regel selbstständig reflektieren und optimieren."
                 },
                 {
-                    "id": "36eee253-0eb1-48e7-9ecb-ddc5f34cf4e4",
+                    "id": "665377e1-7787-4b69-ae35-f38223dd3d3e",
                     "notation": "3",
                     "title": "die ihnen zur Verfügung stehenden sprachlichen Mittel in der Regel selbstständig reflektieren und diese durch den Einsatz von Strategien erweitern und sichern."
                 },
                 {
-                    "id": "ae723e8b-b1ab-43e5-b75a-267f74eb6f4f",
+                    "id": "61052404-3838-4bb7-8365-2e6570a9b9a9",
                     "notation": "4",
                     "title": "eigene rezeptive, produktive, interaktive und mittelnde Kompetenzen (inkl. des Verfügens über entsprechende sprachliche Mittel) in der Regel selbstständig selbst evaluieren und eigene Lernziele ggf. ändern und neu planen."
                 },
                 {
-                    "id": "62611d39-40c2-4cb3-b367-fd176f0629c5",
+                    "id": "b6a054fc-f16a-4f0c-bf1f-b0cf3639e85c",
                     "notation": "5",
                     "title": "sind sich ihrer Emotionen und Motivationen beim Fremdsprachenlernen bewusst und können diese in der Regel selbstständig regulieren."
                 },
                 {
-                    "id": "7835615c-0c4b-4222-a8bf-0febd7bf52ff",
+                    "id": "da0f10dd-6a0b-4fc4-9f68-90588b46edfe",
                     "notation": "6",
                     "title": "(digitale) Hilfsmittel zur Optimierung ihrer Sprachlernprozesse in der Regel selbstständig nutzen."
                 },
                 {
-                    "id": "f95e9b26-31f3-4d1d-8c7d-9332439acdb8",
+                    "id": "7ed4a9bc-41dc-4f4f-8c85-0886322f9d8e",
                     "notation": "7",
                     "title": "die in einer Sprache/anderen Sprachen verfügbaren Kenntnisse und Erfahrungen aus dem Erlernen anderer Sprachen zur Optimierung ihrer Sprachlernprozesse in der Regel selbstständig nutzen."
                 }
@@ -499,32 +499,32 @@
             "description": "Text- und Medienkompetenz umfasst rezeptive, produktive, interaktive und mittelnde Aktivitäten in der Auseinandersetzung mit kontinuierlichen und diskontinuierlichen Texten in ihren unterschiedlichen sprachlichen Repräsentationsformen (phonisch, graphisch, Mischformen) und medialen Erscheinungen. Text- und Medienkompetenz beinhaltet entsprechend auf der rezeptiven Ebene die Fähigkeit, Texte selbstständig, zielbezogen sowie in ihren historischen, sozialen und medialen Kontexten zu verstehen, und auf der produktiven Ebene die Fähigkeit, Texte zu analysieren und zu interpretieren. Text- und Medienkompetenz umfasst überdies die Fähigkeit, eigene Texte zu produzieren und dabei auf medienspezifisches Wissen über die Texterstellung, deren Bedingungen und Techniken sowie auf Wissen über die Wirkung von Texten und die ihrer medialen Gestaltung zurückzugreifen. Text- und Medienkompetenz ist eine komplexe, integrative Kompetenz, zu deren Vermittlung und zu deren Aneignung alle Schulfächer – und damit auch der Fremdsprachenunterricht – beitragen. Die literarisch-ästhetische Kompetenz erfährt im Zusammenhang mit dem Fremdsprachenunterricht eine besondere Bedeutung, die sich u.a. aus dem Auftrag des Fremdsprachen unterrichts ergibt, zur kulturellen Bildung beizutragen. Die sprachspezifische Ausprägung der Text- und Medienkompetenz ist u.a. abhängig vom jeweils erreichten Kompetenzniveau in der funktionalen kommunikativen Kompetenz in dieser Sprache. Text- und Medienkompetenz ist eng mit der Sprachbewusstheit und der digitalen Kompetenz in fremdsprachenspezifischen Anwendungskontexten verbunden.",
             "children": [
                 {
-                    "id": "6762c556-567c-4b41-b37a-c65789799428",
+                    "id": "e7c526fd-42c4-4dfc-8cd0-27ac1930de8f",
                     "notation": "1",
                     "title": "strukturell unkomplizierte (literarisch-ästhetische) Texte zu vertrauten Themen mithilfe sprachlichen, inhaltlichen sowie genre- und medienspezifischen Wissens aufgabenbezogen bzw. zweckgerichtet verstehen, analysieren, deuten und die gewonnenen Aussagen am Text belegen."
                 },
                 {
-                    "id": "ce34af0b-669e-4095-8b42-289804325cdd",
+                    "id": "1b41f91d-ad78-4b9c-8eee-531c875ad40f",
                     "notation": "2",
                     "title": "gängige (nicht-)sprachliche Gestaltungsmittel ihnen vertrauter Kommunikations- und Interaktionsformen in der Regel selbstständig erkennen und deuten."
                 },
                 {
-                    "id": "16042370-2789-480a-848e-a4a0a28f19da",
+                    "id": "769dcb39-655b-4353-94dc-203f3e6c8ea2",
                     "notation": "3",
                     "title": "gängige (nicht-)sprachliche Gestaltungsmittel ihnen vertrauter, auch digitaler Kommunikations- und Interaktionsformen in eigenen Texten aufgabenbezogen bzw. zweckgerichtet in der Regel selbstständig nutzen."
                 },
                 {
-                    "id": "1d1257d0-a68d-43f0-b4b1-b68b689a0d85",
+                    "id": "8616d034-176b-4502-875c-37d793e092dd",
                     "notation": "4",
                     "title": "strukturell unkomplizierte (literarisch-ästhetische) Texte zu vertrauten Themen aufgabenbezogen bzw. zweckgerichtet in ein anderes Genre überführen. Sie können z. B. allgemeine Trends, die in einfachen Diagrammen dargestellt sind, mündlich bzw. schriftlich beschreiben und interpretieren, obgleich ein begrenzter Wortschatz gelegentlich Formulierungsprobleme verursacht."
                 },
                 {
-                    "id": "3de6d799-54a2-46d3-b995-2f8cb5406115",
+                    "id": "5544b73d-980a-476f-91ea-d13dea088f4f",
                     "notation": "5",
                     "title": "ihr Erstverstehen auf der Grundlage von knappen Rückmeldungen in der Regel selbstständig kritisch reflektieren, relativieren und ggf. revidieren."
                 },
                 {
-                    "id": "0bf85f64-b1f0-4ea3-bdef-3c2d02941e84",
+                    "id": "e0ec2ce0-1d05-467c-9568-631aad30f0f3",
                     "notation": "6",
                     "title": "auf ihnen vertraute (digitale) Werkzeuge beim sprachlichen, inhaltlichen und textuellen Verstehen sowie beim Produzieren eigener Texte in der Regel selbstständig zurückgreifen."
                 }
@@ -536,50 +536,50 @@
             "description": "Die sprachlichen Mittel – Wortschatz, Grammatik, Aussprache, Prosodie und Orthographie – sind Kompetenz bildende, funktionale Bestandteile des sprachlichen Systems und der Kommunikation. In der Vermittlung und bei der Aneignung der funktionalen kommunikativen Kompetenz haben die sprachlichen Mittel allerdings grundsätzlich dienende Funktion, da die gelingende Kommunikation im Vordergrund steht. Die kommunikativen Ziele können – u.a. abhängig vom erreichten Kompetenzniveau und der Kooperationsbereitschaft der Kommunikationspartnerinnen und -partner – mit unterschiedlichen sprachlichen Mitteln erreicht werden. Bei der Auswahl der zu vermittelnden sprachlichen Mittel sollte daher von einer kommunikativen Progression ausgegangen werden, während die sprachstrukturelle Progression eine nachgeordnete, dienende Funktion hat. Die Vermittlung und die Aneignung von Wortschatz im Sinne komplexer lexiko-grammatischer Einheiten sind mit Blick auf die funktionale kommunikative Kompetenz zentral.",
             "children": [
                 {
-                    "id": "36616129-2a83-462d-a2e2-3320afc12bd7",
+                    "id": "8c822d91-482e-456f-9673-8a1d3b3e91ab",
                     "notation": "1",
                     "title": "Lexiko-Grammatik",
                     "description": "Die sprachlichen Mittel – Wortschatz, Grammatik, Aussprache, Prosodie und Orthographie – sind Kompetenz bildende, funktionale Bestandteile des sprachlichen Systems und der Kommunikation. In der Vermittlung und bei der Aneignung der funktionalen kommunikativen Kompetenz haben die sprachlichen Mittel allerdings grundsätzlich dienende Funktion, da die gelingende Kommunikation im Vordergrund steht. Die kommunikativen Ziele können – u.a. abhängig vom erreichten Kompetenzniveau und der Kooperationsbereitschaft der Kommunikationspartnerinnen und -partner – mit unterschiedlichen sprachlichen Mitteln erreicht werden. Bei der Auswahl der zu vermittelnden sprachlichen Mittel sollte daher von einer kommunikativen Progression ausgegangen werden, während die sprachstrukturelle Progression eine nachgeordnete, dienende Funktion hat. Die Vermittlung und die Aneignung von Wortschatz im Sinne komplexer lexiko-grammatischer Einheiten sind mit Blick auf die funktionale kommunikative Kompetenz zentral.",
                     "children": [
                         {
-                            "id": "4df67ef3-c0d2-4a3a-a3f6-bbfa1e7f17bc",
+                            "id": "23115aec-b416-4b0a-a3ab-063d48ef93aa",
                             "notation": "1.1",
                             "title": "sich zu vertrauten Themen (insbesondere solchen des eigenen Interessensbereichs) äußern, mitunter zögernd und mithilfe von Umschreibungen."
                         },
                         {
-                            "id": "aab71efb-20b8-4d88-8b85-fc435fdbe923",
+                            "id": "0ca65b98-43e1-416a-a4cf-e399e8828a98",
                             "notation": "1.2",
                             "title": "ein breites Spektrum einfacher sprachlicher Mittel flexibel einsetzen, um ihre Mitteilungsabsichten grundlegend zu realisieren, die wichtigsten Aspekte eines Gedankens oder eines Problems zu erklären und eigene Überlegungen zu Themen von allgemeinem Interesse auszudrücken."
                         },
                         {
-                            "id": "37d00670-da13-4f24-8fc6-a69ab9bff0ce",
+                            "id": "d2ca37b1-6da6-459e-b602-8dd03f1af71f",
                             "notation": "1.3",
                             "title": "ihre Ausdrucksweise auch weniger routinemäßigen, sogar schwierigen Situationen anpassen."
                         },
                         {
-                            "id": "ec65672f-95b1-4e46-ae0f-4c177c2f79ff",
+                            "id": "2e294b7d-e4ce-4804-a48b-041a60525588",
                             "notation": "1.4",
                             "title": "ein Repertoire von häufig gebrauchten Wendungen, Konstruktionen und Phrasen, die an eher vorhersehbare Situationen gebunden sind, hinreichend korrekt verwenden."
                         },
                         {
-                            "id": "33d911f6-0b17-4883-8114-6c0c08b7600c",
+                            "id": "08179db9-2a81-4aed-a3b1-d65d3700b0a0",
                             "notation": "1.5",
                             "title": "grammatische Strukturen in vertrauten Kommunikationssituationen hinreichend korrekt und sicher anwenden. Mitunter zeigen sich erkennbare Einflüssen anderer Sprachen, ohne dass dies jedoch das Verständnis beeinträchtigt."
                         },
                         {
-                            "id": "6570fe9e-3375-4e91-9a06-60a032667bbb",
+                            "id": "b6bdbf0c-1373-4bf3-a42a-42bd34840852",
                             "notation": "1.6",
                             "title": "die Orthographie und Zeichensetzung so exakt anwenden, dass die von ihnen produzierten zusammenhängenden Texte verständlich sind."
                         },
                         {
-                            "id": "1d0337f4-9190-4091-b03a-926bec54442e",
+                            "id": "82681e70-f790-44d3-b308-3d76db897d5e",
                             "notation": "1.7",
                             "title": "ihnen vertraute (digitale) Hilfsmittel situations- und zweckangemessen zur Sicherstellung weitgehender orthographischer Korrektheit in der Regel selbstständig nutzen."
                         }
                     ]
                 },
                 {
-                    "id": "9a092dea-4ef0-4dbf-bf06-01ce7562343e",
+                    "id": "363aebbf-d905-4402-831f-d27313e36b6f",
                     "notation": "2",
                     "title": "Aussprache und Prosodie",
                     "description": "Die Aussprache der Schülerinnen und Schüler ist im Allgemeinen durchgängig verständlich, auch wenn der Einfluss von anderen Sprachen, die sie sprechen, auf die Betonung, die Intonation und/oder den Rhythmus bemerkbar ist und obwohl sie wiederholt einzelne weniger vertraute Laute und Wörter falsch aussprechen."
