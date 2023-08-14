@@ -1,0 +1,80 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/06976c05-8f0a-4d26-bfce-2f68ba7aa3be> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Bachelorarbeit"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/264a8153-4e1c-4d92-824b-22ae85271d4f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:notation "1" ;
+    skos:prefLabel "keine"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/39c79d46-b769-4c03-934d-bdab83041300> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:notation "6" ;
+    skos:prefLabel "Habilitationsschrift"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/58e4f8c9-f971-457f-838e-f9c09b6847af> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:notation "8" ;
+    skos:prefLabel "Masterarbeit"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/94bf8599-befb-493e-ad1f-ffe8ab288a36> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:notation "7" ;
+    skos:prefLabel "Magisterarbeit"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/a3b69d77-5b51-4da1-a9bc-adaf0f7b0d75> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:notation "4" ;
+    skos:prefLabel "Doktorarbeit"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/b349245c-7685-4937-9845-772c41621822> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:notation "5" ;
+    skos:prefLabel "Forschungsprojekt"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/f1b2fd25-87f1-433b-95a7-8f6e3423a26b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Diplomarbeit"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Qualifikation"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/06976c05-8f0a-4d26-bfce-2f68ba7aa3be>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/264a8153-4e1c-4d92-824b-22ae85271d4f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/39c79d46-b769-4c03-934d-bdab83041300>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/58e4f8c9-f971-457f-838e-f9c09b6847af>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/94bf8599-befb-493e-ad1f-ffe8ab288a36>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/a3b69d77-5b51-4da1-a9bc-adaf0f7b0d75>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/b349245c-7685-4937-9845-772c41621822>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/f1b2fd25-87f1-433b-95a7-8f6e3423a26b> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/06976c05-8f0a-4d26-bfce-2f68ba7aa3be>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/264a8153-4e1c-4d92-824b-22ae85271d4f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/39c79d46-b769-4c03-934d-bdab83041300>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/58e4f8c9-f971-457f-838e-f9c09b6847af>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/94bf8599-befb-493e-ad1f-ffe8ab288a36>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/a3b69d77-5b51-4da1-a9bc-adaf0f7b0d75>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/b349245c-7685-4937-9845-772c41621822>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/f1b2fd25-87f1-433b-95a7-8f6e3423a26b> ;
+    skos:prefLabel "Qualifikation"@de .
+

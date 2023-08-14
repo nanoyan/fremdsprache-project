@@ -1,0 +1,54 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/35932db8-d6ed-46a5-b7ab-c09bcb259918> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> ;
+    skos:notation "5" ;
+    skos:prefLabel "5. Rechtschreibung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/503af91a-c30d-4fa3-ae9b-b8ceee4e478b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> ;
+    skos:notation "1" ;
+    skos:prefLabel "1. Sprechen und Zuhören"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/530a1e3f-2957-48f2-8b42-c2e4f67878ed> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> ;
+    skos:notation "3" ;
+    skos:prefLabel "3. Lesen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/9de83fc8-8242-4ed5-9549-9b3b1cdd3597> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> ;
+    skos:notation "4" ;
+    skos:prefLabel "4. Sprache und Sprachgebrauch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/e039602d-de99-4da5-bc49-cef09b7ff4d8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> ;
+    skos:notation "2" ;
+    skos:prefLabel "2. Schreiben"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Leitidee für Mathemtaik Primarstufe"@de ;
+    dct:title "IQB Item and Properties Database_Kompetenzbereich DeP"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/35932db8-d6ed-46a5-b7ab-c09bcb259918>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/503af91a-c30d-4fa3-ae9b-b8ceee4e478b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/530a1e3f-2957-48f2-8b42-c2e4f67878ed>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/9de83fc8-8242-4ed5-9549-9b3b1cdd3597>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/e039602d-de99-4da5-bc49-cef09b7ff4d8> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/35932db8-d6ed-46a5-b7ab-c09bcb259918>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/503af91a-c30d-4fa3-ae9b-b8ceee4e478b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/530a1e3f-2957-48f2-8b42-c2e4f67878ed>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/9de83fc8-8242-4ed5-9549-9b3b1cdd3597>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichdep/e039602d-de99-4da5-bc49-cef09b7ff4d8> ;
+    skos:prefLabel "Kompetenzbereich DeP"@de .
+

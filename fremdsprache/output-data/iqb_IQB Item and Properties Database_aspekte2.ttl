@@ -1,0 +1,35 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/992261d5-c795-4fc0-96cd-5a65962b7cd9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Adressatenbezug/Sachbezug"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/aa7367d5-4097-4255-b854-f15b08784047> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
+    skos:notation "1" ;
+    skos:prefLabel "Sprache/Fachsprache"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/be5f5f7d-8ea2-429d-8b9c-4af59ce2cdaa> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Darstellungsformen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Aspekte2"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/992261d5-c795-4fc0-96cd-5a65962b7cd9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/aa7367d5-4097-4255-b854-f15b08784047>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/be5f5f7d-8ea2-429d-8b9c-4af59ce2cdaa> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/992261d5-c795-4fc0-96cd-5a65962b7cd9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/aa7367d5-4097-4255-b854-f15b08784047>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/be5f5f7d-8ea2-429d-8b9c-4af59ce2cdaa> ;
+    skos:prefLabel "Aspekte2"@de .
+

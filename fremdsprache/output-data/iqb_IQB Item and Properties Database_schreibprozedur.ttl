@@ -1,0 +1,44 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/2746a7b7-61e3-4549-93ad-bb03671fef08> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
+    skos:notation "4" ;
+    skos:prefLabel "zusammenfassen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/643f6753-270f-4e7e-9695-2a6b4c49dc24> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
+    skos:notation "1" ;
+    skos:prefLabel "planen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/972f7b81-22be-4d6f-bfc8-a614f2b5e8ff> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
+    skos:notation "3" ;
+    skos:prefLabel "überarbeiten"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/fed8e4fc-a835-429c-8ad9-e094c5fd8f47> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
+    skos:notation "2" ;
+    skos:prefLabel "verfassen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Schreibprozedur"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/2746a7b7-61e3-4549-93ad-bb03671fef08>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/643f6753-270f-4e7e-9695-2a6b4c49dc24>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/972f7b81-22be-4d6f-bfc8-a614f2b5e8ff>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/fed8e4fc-a835-429c-8ad9-e094c5fd8f47> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/2746a7b7-61e3-4549-93ad-bb03671fef08>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/643f6753-270f-4e7e-9695-2a6b4c49dc24>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/972f7b81-22be-4d6f-bfc8-a614f2b5e8ff>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/fed8e4fc-a835-429c-8ad9-e094c5fd8f47> ;
+    skos:prefLabel "Schreibprozedur"@de .
+

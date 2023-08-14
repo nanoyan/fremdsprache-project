@@ -1,0 +1,71 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/69605d80-1e95-45bd-b82a-96a6c67e6d40> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Formatierung verändert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/7faa2b77-bfc9-45fd-80fb-0aeceaad194b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:notation "2" ;
+    skos:prefLabel "einzelne Worte geändert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/85c5ca9e-b18f-4225-a41e-4049767316ec> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:notation "4" ;
+    skos:prefLabel "gekürzt"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/8d4ec942-8f96-46a5-915f-a3f5657a7fd2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:notation "6" ;
+    skos:prefLabel "Struktur geändert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/d073040a-a162-429b-81c6-b3c49fc55860> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:notation "1" ;
+    skos:prefLabel "unverändert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/d1267846-b933-4f56-ab98-dfdf2c70d9e4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:notation "5" ;
+    skos:prefLabel "Inhalt verändert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/fef5d25a-ef80-4059-8b78-9117edf56457> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> ;
+    skos:notation "7" ;
+    skos:prefLabel "neu verfasst"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Authentizität"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/69605d80-1e95-45bd-b82a-96a6c67e6d40>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/7faa2b77-bfc9-45fd-80fb-0aeceaad194b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/85c5ca9e-b18f-4225-a41e-4049767316ec>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/8d4ec942-8f96-46a5-915f-a3f5657a7fd2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/d073040a-a162-429b-81c6-b3c49fc55860>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/d1267846-b933-4f56-ab98-dfdf2c70d9e4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/fef5d25a-ef80-4059-8b78-9117edf56457> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/69605d80-1e95-45bd-b82a-96a6c67e6d40>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/7faa2b77-bfc9-45fd-80fb-0aeceaad194b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/85c5ca9e-b18f-4225-a41e-4049767316ec>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/8d4ec942-8f96-46a5-915f-a3f5657a7fd2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/d073040a-a162-429b-81c6-b3c49fc55860>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/d1267846-b933-4f56-ab98-dfdf2c70d9e4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/authentizität/fef5d25a-ef80-4059-8b78-9117edf56457> ;
+    skos:prefLabel "Authentizität"@de .
+

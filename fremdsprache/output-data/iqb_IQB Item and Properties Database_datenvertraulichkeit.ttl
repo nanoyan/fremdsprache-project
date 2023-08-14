@@ -1,0 +1,44 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/2b46c219-64fe-42c0-a8d0-4c86a3f7676c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
+    skos:notation "1" ;
+    skos:prefLabel "Schule"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/649dbba1-4a71-40c1-a105-8508ead0c3a3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Bundesland"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/cb7574c2-7038-4deb-83ca-8fd6d28b7ed1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
+    skos:notation "4" ;
+    skos:prefLabel "Person"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/e5efb676-168a-4261-93f2-92ab23d3ac57> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Bezirk"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Datenvertraulichkeit"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/2b46c219-64fe-42c0-a8d0-4c86a3f7676c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/649dbba1-4a71-40c1-a105-8508ead0c3a3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/cb7574c2-7038-4deb-83ca-8fd6d28b7ed1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/e5efb676-168a-4261-93f2-92ab23d3ac57> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/2b46c219-64fe-42c0-a8d0-4c86a3f7676c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/649dbba1-4a71-40c1-a105-8508ead0c3a3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/cb7574c2-7038-4deb-83ca-8fd6d28b7ed1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/e5efb676-168a-4261-93f2-92ab23d3ac57> ;
+    skos:prefLabel "Datenvertraulichkeit"@de .
+

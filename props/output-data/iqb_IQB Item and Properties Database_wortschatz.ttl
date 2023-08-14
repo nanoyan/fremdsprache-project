@@ -1,0 +1,80 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/1ad607e2-da2c-4cd9-8fa0-dd7cfcf29c74> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:notation "3" ;
+    skos:prefLabel "unbekannte Wortfelder"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/5e211ba6-9418-4043-9c7b-f4b1ee97231c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:notation "8" ;
+    skos:prefLabel "idiomatische Wendungen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/a4680431-612f-43ba-b66e-715c5ebd1ccc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:notation "6" ;
+    skos:prefLabel "durchgängig einfach"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/ab7ebbea-b8d2-4bde-8b74-c440109c4aa7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:notation "4" ;
+    skos:prefLabel "durchgängig anspruchsvoll"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/b08355cb-ea16-46db-bb2a-44a03c5be54a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:notation "5" ;
+    skos:prefLabel "teilweise anspruchsvoll"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/b39aab47-41f5-4a40-8457-d1c95655b780> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:notation "1" ;
+    skos:prefLabel "bekannte Wortfelder"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/cfd9feec-2c8a-4de1-8356-61928fc16819> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:notation "2" ;
+    skos:prefLabel "wenig bekannte Wortfelder"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/d5e5fdd7-f53d-41b4-ad09-07fd4104855f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> ;
+    skos:notation "7" ;
+    skos:prefLabel "teilweise einfach"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Wortschatz"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/1ad607e2-da2c-4cd9-8fa0-dd7cfcf29c74>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/5e211ba6-9418-4043-9c7b-f4b1ee97231c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/a4680431-612f-43ba-b66e-715c5ebd1ccc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/ab7ebbea-b8d2-4bde-8b74-c440109c4aa7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/b08355cb-ea16-46db-bb2a-44a03c5be54a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/b39aab47-41f5-4a40-8457-d1c95655b780>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/cfd9feec-2c8a-4de1-8356-61928fc16819>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/d5e5fdd7-f53d-41b4-ad09-07fd4104855f> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/1ad607e2-da2c-4cd9-8fa0-dd7cfcf29c74>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/5e211ba6-9418-4043-9c7b-f4b1ee97231c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/a4680431-612f-43ba-b66e-715c5ebd1ccc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/ab7ebbea-b8d2-4bde-8b74-c440109c4aa7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/b08355cb-ea16-46db-bb2a-44a03c5be54a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/b39aab47-41f5-4a40-8457-d1c95655b780>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/cfd9feec-2c8a-4de1-8356-61928fc16819>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortschatz/d5e5fdd7-f53d-41b4-ad09-07fd4104855f> ;
+    skos:prefLabel "Wortschatz"@de .
+

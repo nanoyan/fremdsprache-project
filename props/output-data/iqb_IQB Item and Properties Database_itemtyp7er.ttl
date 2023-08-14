@@ -1,0 +1,80 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/4a19bb0f-23ad-4f09-a69b-64a317674781> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:notation "1" ;
+    skos:prefLabel "MC - Multiple Choice"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/5acfb74c-b834-4f38-935e-515e8492ec16> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:notation "8" ;
+    skos:prefLabel "KA4 - längere Antwort"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/60b47d0b-4ad5-4c25-816a-cea957f9b4d7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:notation "2" ;
+    skos:prefLabel "WF - Wahr/Falsch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/69a98871-ef73-4e49-bad4-0f81f58c4f3e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:notation "6" ;
+    skos:prefLabel "KA2 - eindeutige Kurzantwort"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/8f257b57-e606-4d3c-b055-451f5cd310ae> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:notation "3" ;
+    skos:prefLabel "MA - Markierungsaufgabe"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/94c0b51a-868c-48fb-ab98-1e541fba5d84> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:notation "7" ;
+    skos:prefLabel "KA3 - längere Kurzantwort (sinngemäß)"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/af90a2ae-f9b8-4b13-95f3-af38a68db514> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:notation "4" ;
+    skos:prefLabel "MA+ Markierungsaufg. + Kurzantwort"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/e4b5904a-9e55-4da3-9281-f6a0c3b33dc6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
+    skos:notation "5" ;
+    skos:prefLabel "ZO/UO - Zu-/Umordnung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Itemtyp 7er"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/4a19bb0f-23ad-4f09-a69b-64a317674781>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/5acfb74c-b834-4f38-935e-515e8492ec16>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/60b47d0b-4ad5-4c25-816a-cea957f9b4d7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/69a98871-ef73-4e49-bad4-0f81f58c4f3e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/8f257b57-e606-4d3c-b055-451f5cd310ae>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/94c0b51a-868c-48fb-ab98-1e541fba5d84>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/af90a2ae-f9b8-4b13-95f3-af38a68db514>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/e4b5904a-9e55-4da3-9281-f6a0c3b33dc6> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/4a19bb0f-23ad-4f09-a69b-64a317674781>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/5acfb74c-b834-4f38-935e-515e8492ec16>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/60b47d0b-4ad5-4c25-816a-cea957f9b4d7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/69a98871-ef73-4e49-bad4-0f81f58c4f3e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/8f257b57-e606-4d3c-b055-451f5cd310ae>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/94c0b51a-868c-48fb-ab98-1e541fba5d84>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/af90a2ae-f9b8-4b13-95f3-af38a68db514>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/e4b5904a-9e55-4da3-9281-f6a0c3b33dc6> ;
+    skos:prefLabel "Itemtyp 7er"@de .
+

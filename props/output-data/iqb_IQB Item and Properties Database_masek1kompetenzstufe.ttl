@@ -1,0 +1,62 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/6471c1d0-517d-46dd-9055-9feb28ba948f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> ;
+    skos:notation "3" ;
+    skos:prefLabel "2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/89c5dff8-5af6-4c67-8efc-0cf59d1da541> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> ;
+    skos:notation "1" ;
+    skos:prefLabel "1a"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/a1634007-8a3b-4972-ae9d-f20d580a1cf2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> ;
+    skos:notation "4" ;
+    skos:prefLabel "3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/c745498b-521a-413c-9577-0034889bc1b5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> ;
+    skos:notation "2" ;
+    skos:prefLabel "1b"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/ef640d6e-e52d-46f9-9468-6264aaf33e19> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> ;
+    skos:notation "5" ;
+    skos:prefLabel "4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/f7af6f23-ddb5-44b5-8050-1d6a6ef4e77d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> ;
+    skos:notation "6" ;
+    skos:prefLabel "5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_MaSek1 Kompetenzstufe"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/6471c1d0-517d-46dd-9055-9feb28ba948f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/89c5dff8-5af6-4c67-8efc-0cf59d1da541>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/a1634007-8a3b-4972-ae9d-f20d580a1cf2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/c745498b-521a-413c-9577-0034889bc1b5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/ef640d6e-e52d-46f9-9468-6264aaf33e19>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/f7af6f23-ddb5-44b5-8050-1d6a6ef4e77d> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/6471c1d0-517d-46dd-9055-9feb28ba948f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/89c5dff8-5af6-4c67-8efc-0cf59d1da541>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/a1634007-8a3b-4972-ae9d-f20d580a1cf2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/c745498b-521a-413c-9577-0034889bc1b5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/ef640d6e-e52d-46f9-9468-6264aaf33e19>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/masek1kompetenzstufe/f7af6f23-ddb5-44b5-8050-1d6a6ef4e77d> ;
+    skos:prefLabel "MaSek1 Kompetenzstufe"@de .
+

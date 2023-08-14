@@ -1,0 +1,125 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/00822175-600d-4f28-81be-f624a83a115a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "12" ;
+    skos:prefLabel "Thema/Kernaussage"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/1b19931a-1714-4c80-b760-b7a42aa7bd98> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "4" ;
+    skos:prefLabel "Handlungsverlauf"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/25d9c5a2-0613-41c6-9c58-6b9d02100ee7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Eigenschaften von Personen/Objekten"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/2fdefb70-a999-41ae-8a70-aae7405e63be> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "1" ;
+    skos:prefLabel "eigen-/fremdkulturelle Aspekte"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/4f0c5387-d1ad-4bc6-9ad3-2b9f4be2114c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "13" ;
+    skos:prefLabel "Ursachen/Folgen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/54aef9fd-8e46-420b-ba99-a7ed11fdf518> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "6" ;
+    skos:prefLabel "Hauptaussagen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/5ecbf882-6c3f-4ca8-a1f1-a6ec27506371> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "11" ;
+    skos:prefLabel "Textintentionen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/7a764375-07d6-40b4-96bc-f0a2c7909a10> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "9" ;
+    skos:prefLabel "spezifische Information"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/8d3e1bd1-629a-4bc2-9936-b72fd6346b66> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "8" ;
+    skos:prefLabel "Nebenaussagen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/ba171954-add9-4092-9332-96a14dbab834> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "10" ;
+    skos:prefLabel "stilistische Variationen/Textstrukturmerkmale"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/dd11275f-5eb8-43ab-863f-bfa550c2b8e9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "7" ;
+    skos:prefLabel "Meinungen/Haltungen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/e1536cae-6ba5-412d-b12f-3ebf329eff91> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Emotionen/Stimmungen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/f33b28fb-2c7c-4dd3-b6dd-4625bf145431> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> ;
+    skos:notation "5" ;
+    skos:prefLabel "Handlungsziele"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Kognitiver Fokus"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/00822175-600d-4f28-81be-f624a83a115a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/1b19931a-1714-4c80-b760-b7a42aa7bd98>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/25d9c5a2-0613-41c6-9c58-6b9d02100ee7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/2fdefb70-a999-41ae-8a70-aae7405e63be>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/4f0c5387-d1ad-4bc6-9ad3-2b9f4be2114c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/54aef9fd-8e46-420b-ba99-a7ed11fdf518>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/5ecbf882-6c3f-4ca8-a1f1-a6ec27506371>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/7a764375-07d6-40b4-96bc-f0a2c7909a10>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/8d3e1bd1-629a-4bc2-9936-b72fd6346b66>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/ba171954-add9-4092-9332-96a14dbab834>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/dd11275f-5eb8-43ab-863f-bfa550c2b8e9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/e1536cae-6ba5-412d-b12f-3ebf329eff91>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/f33b28fb-2c7c-4dd3-b6dd-4625bf145431> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/00822175-600d-4f28-81be-f624a83a115a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/1b19931a-1714-4c80-b760-b7a42aa7bd98>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/25d9c5a2-0613-41c6-9c58-6b9d02100ee7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/2fdefb70-a999-41ae-8a70-aae7405e63be>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/4f0c5387-d1ad-4bc6-9ad3-2b9f4be2114c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/54aef9fd-8e46-420b-ba99-a7ed11fdf518>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/5ecbf882-6c3f-4ca8-a1f1-a6ec27506371>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/7a764375-07d6-40b4-96bc-f0a2c7909a10>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/8d3e1bd1-629a-4bc2-9936-b72fd6346b66>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/ba171954-add9-4092-9332-96a14dbab834>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/dd11275f-5eb8-43ab-863f-bfa550c2b8e9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/e1536cae-6ba5-412d-b12f-3ebf329eff91>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverfokus/f33b28fb-2c7c-4dd3-b6dd-4625bf145431> ;
+    skos:prefLabel "Kognitiver Fokus"@de .
+

@@ -1,0 +1,36 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/4c8e122e-79c4-4733-937b-5f05e0fdf204> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/> ;
+    skos:notation "2" ;
+    skos:prefLabel "II"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/5f49f6a0-7f76-45d8-ac34-107ab5e9f187> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/> ;
+    skos:notation "1" ;
+    skos:prefLabel "I"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/f94b6f00-eb9f-4d84-93c5-baeb6b3e567b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/> ;
+    skos:notation "3" ;
+    skos:prefLabel "III"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Merkmalswerte I, II und III (ohne Beschreibung)"@de ;
+    dct:title "IQB Item and Properties Database_Anforderungsbereich DeP"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/4c8e122e-79c4-4733-937b-5f05e0fdf204>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/5f49f6a0-7f76-45d8-ac34-107ab5e9f187>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/f94b6f00-eb9f-4d84-93c5-baeb6b3e567b> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/4c8e122e-79c4-4733-937b-5f05e0fdf204>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/5f49f6a0-7f76-45d8-ac34-107ab5e9f187>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichdep/f94b6f00-eb9f-4d84-93c5-baeb6b3e567b> ;
+    skos:prefLabel "Anforderungsbereich DeP"@de .
+

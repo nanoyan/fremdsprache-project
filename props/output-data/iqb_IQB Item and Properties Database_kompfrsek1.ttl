@@ -1,0 +1,71 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/4291e2d2-89f5-4e3e-b0a8-a35bb033ff79> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:notation "3" ;
+    skos:prefLabel "comprendre les messages principeaux"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/4f9a4622-6b09-481c-9b83-91ebd7644dbb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:notation "2" ;
+    skos:prefLabel "comprendre des indications de direction/consigne"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/56b8f63f-b5cc-4422-bff7-8085e8de84c8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:notation "1" ;
+    skos:prefLabel "apparier des informations"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/849b7a0a-bc70-440f-ad1c-893772003348> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:notation "4" ;
+    skos:prefLabel "comprendre l'idée generale"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/b86dcac7-81d4-4c66-90cc-6890c886c974> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:notation "7" ;
+    skos:prefLabel "identifier une information spécifique"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/daf2f091-1e50-4c1f-bc27-2c340f822966> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:notation "6" ;
+    skos:prefLabel "faire des inférences simples"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/e2aeded8-97a5-40db-8038-aa1aaa2d7b5a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
+    skos:notation "5" ;
+    skos:prefLabel "déduire le sens d'un mot ou d'un group lexical"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_KompFrSek1"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/4291e2d2-89f5-4e3e-b0a8-a35bb033ff79>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/4f9a4622-6b09-481c-9b83-91ebd7644dbb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/56b8f63f-b5cc-4422-bff7-8085e8de84c8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/849b7a0a-bc70-440f-ad1c-893772003348>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/b86dcac7-81d4-4c66-90cc-6890c886c974>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/daf2f091-1e50-4c1f-bc27-2c340f822966>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/e2aeded8-97a5-40db-8038-aa1aaa2d7b5a> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/4291e2d2-89f5-4e3e-b0a8-a35bb033ff79>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/4f9a4622-6b09-481c-9b83-91ebd7644dbb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/56b8f63f-b5cc-4422-bff7-8085e8de84c8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/849b7a0a-bc70-440f-ad1c-893772003348>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/b86dcac7-81d4-4c66-90cc-6890c886c974>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/daf2f091-1e50-4c1f-bc27-2c340f822966>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/e2aeded8-97a5-40db-8038-aa1aaa2d7b5a> ;
+    skos:prefLabel "KompFrSek1"@de .
+

@@ -1,0 +1,35 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/55d38a80-e6fa-4bd1-913d-a88677fa376b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> ;
+    skos:notation "3" ;
+    skos:prefLabel "durchgängig abstrakt"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/8dca0be1-dd7d-48f5-be73-12455fc6374f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> ;
+    skos:notation "1" ;
+    skos:prefLabel "durchgängig konkret"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/dd0c9f64-c71b-4c1e-bfd0-efb91076e34c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> ;
+    skos:notation "2" ;
+    skos:prefLabel "einige abstrakte Elemente"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Text-Abstraktionsgrad"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/55d38a80-e6fa-4bd1-913d-a88677fa376b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/8dca0be1-dd7d-48f5-be73-12455fc6374f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/dd0c9f64-c71b-4c1e-bfd0-efb91076e34c> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/55d38a80-e6fa-4bd1-913d-a88677fa376b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/8dca0be1-dd7d-48f5-be73-12455fc6374f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/dd0c9f64-c71b-4c1e-bfd0-efb91076e34c> ;
+    skos:prefLabel "Text-Abstraktionsgrad"@de .
+

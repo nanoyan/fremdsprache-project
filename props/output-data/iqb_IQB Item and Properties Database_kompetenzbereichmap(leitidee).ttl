@@ -1,0 +1,54 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/57e1e831-4ddc-4cf5-b64b-c4f3c5bdcf4f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
+    skos:notation "2" ;
+    skos:prefLabel "2. Raum und Form"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/819d38f1-3e2c-40b8-a9ee-a3d0b0d7da14> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
+    skos:notation "1" ;
+    skos:prefLabel "1. Zahlen und Operationen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/84e39b31-ae76-4711-8ad3-89268972d109> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
+    skos:notation "5" ;
+    skos:prefLabel "5. Daten, Häufigkeit und Wahrscheinlichkeit"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/aa8f9cd4-3312-4fb1-acde-02e6afb7d267> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
+    skos:notation "4" ;
+    skos:prefLabel "4. Größen und Messen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/aab609b3-71b7-4603-a35b-8b571faa607c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
+    skos:notation "3" ;
+    skos:prefLabel "3. Muster und Strukturen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "3er: langsam, normal, schnell"@de ;
+    dct:title "IQB Item and Properties Database_Kompetenzbereich MaP (Leitidee)"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/57e1e831-4ddc-4cf5-b64b-c4f3c5bdcf4f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/819d38f1-3e2c-40b8-a9ee-a3d0b0d7da14>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/84e39b31-ae76-4711-8ad3-89268972d109>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/aa8f9cd4-3312-4fb1-acde-02e6afb7d267>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/aab609b3-71b7-4603-a35b-8b571faa607c> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/57e1e831-4ddc-4cf5-b64b-c4f3c5bdcf4f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/819d38f1-3e2c-40b8-a9ee-a3d0b0d7da14>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/84e39b31-ae76-4711-8ad3-89268972d109>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/aa8f9cd4-3312-4fb1-acde-02e6afb7d267>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/aab609b3-71b7-4603-a35b-8b571faa607c> ;
+    skos:prefLabel "Kompetenzbereich MaP (Leitidee)"@de .
+

@@ -1,0 +1,9 @@
+notation;title;description
+1;MC - Multiple Choice;
+2;WF - Wahr/Falsch;
+3;MA - Markierungsaufgabe;
+4;MA+ Markierungsaufg. + Kurzantwort;
+5;ZO/UO - Zu-/Umordnung;
+6;KA2 - eindeutige Kurzantwort;
+7;KA3 - längere Kurzantwort (sinngemäß);
+8;KA4 - längere Antwort;

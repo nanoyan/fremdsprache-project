@@ -1,0 +1,35 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/c3137639-ef9a-47e3-84ba-7c81e4fc079d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/> ;
+    skos:notation "1" ;
+    skos:prefLabel "Bew.Kriterien"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/ce180e65-72aa-46dc-a231-8ad3b0da29a6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Handlungsoptionen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/d1e11309-e0e1-4497-8ed0-81b84b68db2c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Reflexion"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Teilbereich2"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/c3137639-ef9a-47e3-84ba-7c81e4fc079d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/ce180e65-72aa-46dc-a231-8ad3b0da29a6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/d1e11309-e0e1-4497-8ed0-81b84b68db2c> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/c3137639-ef9a-47e3-84ba-7c81e4fc079d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/ce180e65-72aa-46dc-a231-8ad3b0da29a6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich2/d1e11309-e0e1-4497-8ed0-81b84b68db2c> ;
+    skos:prefLabel "Teilbereich2"@de .
+

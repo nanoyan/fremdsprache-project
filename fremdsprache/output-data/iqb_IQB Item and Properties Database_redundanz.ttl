@@ -1,0 +1,35 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/82c73a08-f90b-4a4a-a545-26af37dfc6e2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
+    skos:notation "3" ;
+    skos:prefLabel "viel"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/cca2a47d-90dc-4fda-9442-5afcce8465d1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
+    skos:notation "2" ;
+    skos:prefLabel "wenig"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/f79256a8-0e25-4b28-9764-b99260355ef7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> ;
+    skos:notation "1" ;
+    skos:prefLabel "keine"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Redundanz"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/82c73a08-f90b-4a4a-a545-26af37dfc6e2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/cca2a47d-90dc-4fda-9442-5afcce8465d1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/f79256a8-0e25-4b28-9764-b99260355ef7> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/82c73a08-f90b-4a4a-a545-26af37dfc6e2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/cca2a47d-90dc-4fda-9442-5afcce8465d1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redundanz/f79256a8-0e25-4b28-9764-b99260355ef7> ;
+    skos:prefLabel "Redundanz"@de .
+

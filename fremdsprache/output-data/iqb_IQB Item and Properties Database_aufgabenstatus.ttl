@@ -1,0 +1,80 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/06a70e4b-7def-4e7d-a6ac-021c7a32a35e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:notation "4" ;
+    skos:prefLabel "in Test verwendet (öffentlich)"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/31532e0c-624b-45e2-972b-68486d4c5bc5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:notation "3" ;
+    skos:prefLabel "pilotiert/normiert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/3778aae0-5bba-4674-9036-17cc4120b6a5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:notation "1" ;
+    skos:prefLabel "in Bearbeitung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/4a0fff95-1056-4d5e-b1e0-53b366c396c2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:notation "7" ;
+    skos:prefLabel "veröffentlicht"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/577835b4-9103-4ccc-b1f8-cb21b8f3c9b7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:notation "8" ;
+    skos:prefLabel "ausgeschlossen/verworfen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/6452cf3c-09e2-4f74-9307-fda4ae4f7a4d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:notation "2" ;
+    skos:prefLabel "fertig für Pilotierung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/b8bb2f5a-31b4-4030-8d43-ca9bec5b1850> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:notation "6" ;
+    skos:prefLabel "Ankeraufgabe"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/f1088ff7-5927-46ea-ba8b-4080339cfa48> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
+    skos:notation "5" ;
+    skos:prefLabel "in Test verwendet (nicht öffentlich)"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Aufgabenstatus"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/06a70e4b-7def-4e7d-a6ac-021c7a32a35e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/31532e0c-624b-45e2-972b-68486d4c5bc5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/3778aae0-5bba-4674-9036-17cc4120b6a5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/4a0fff95-1056-4d5e-b1e0-53b366c396c2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/577835b4-9103-4ccc-b1f8-cb21b8f3c9b7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/6452cf3c-09e2-4f74-9307-fda4ae4f7a4d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/b8bb2f5a-31b4-4030-8d43-ca9bec5b1850>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/f1088ff7-5927-46ea-ba8b-4080339cfa48> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/06a70e4b-7def-4e7d-a6ac-021c7a32a35e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/31532e0c-624b-45e2-972b-68486d4c5bc5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/3778aae0-5bba-4674-9036-17cc4120b6a5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/4a0fff95-1056-4d5e-b1e0-53b366c396c2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/577835b4-9103-4ccc-b1f8-cb21b8f3c9b7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/6452cf3c-09e2-4f74-9307-fda4ae4f7a4d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/b8bb2f5a-31b4-4030-8d43-ca9bec5b1850>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/f1088ff7-5927-46ea-ba8b-4080339cfa48> ;
+    skos:prefLabel "Aufgabenstatus"@de .
+

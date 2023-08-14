@@ -1,0 +1,54 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/39063071-0e2a-4db4-9e9b-d7c34c62b478> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
+    skos:notation "4" ;
+    skos:prefLabel "Lesen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/8e8380ed-28ca-4904-8897-063beee94f41> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
+    skos:notation "1" ;
+    skos:prefLabel "Zuhören"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/bdd27033-c5aa-4a3f-be3b-8b2f5ab19352> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Schreiben"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/d36f3d5e-7364-4e14-af3f-3b94717f7155> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
+    skos:notation "5" ;
+    skos:prefLabel "Sprachreflexion"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/eb0fa685-c8ec-4cc5-8da8-4d82f173698e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Orthografie"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "nicht domänenbezogen, sondern Mathematik Gesamtkompetenz"@de ;
+    dct:title "IQB Item and Properties Database_Kompetenzbereich De1"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/39063071-0e2a-4db4-9e9b-d7c34c62b478>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/8e8380ed-28ca-4904-8897-063beee94f41>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/bdd27033-c5aa-4a3f-be3b-8b2f5ab19352>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/d36f3d5e-7364-4e14-af3f-3b94717f7155>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/eb0fa685-c8ec-4cc5-8da8-4d82f173698e> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/39063071-0e2a-4db4-9e9b-d7c34c62b478>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/8e8380ed-28ca-4904-8897-063beee94f41>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/bdd27033-c5aa-4a3f-be3b-8b2f5ab19352>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/d36f3d5e-7364-4e14-af3f-3b94717f7155>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/eb0fa685-c8ec-4cc5-8da8-4d82f173698e> ;
+    skos:prefLabel "Kompetenzbereich De1"@de .
+

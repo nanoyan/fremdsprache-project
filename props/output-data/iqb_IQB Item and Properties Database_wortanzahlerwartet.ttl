@@ -1,0 +1,53 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/00bb59ec-61b1-4639-93b6-905a0819c701> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> ;
+    skos:notation "3" ;
+    skos:prefLabel "110-140"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/3c56dc80-6ed9-4bf0-8bbd-33722582ebf3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> ;
+    skos:notation "2" ;
+    skos:prefLabel "40-60"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/6ed11b4b-ea4b-41e8-ab41-86ed76d16a91> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> ;
+    skos:notation "5" ;
+    skos:prefLabel "300-350"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/cf47441b-2ce7-46bb-85f7-cb94b1fcae36> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> ;
+    skos:notation "4" ;
+    skos:prefLabel "200-250"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/d1ec6c6f-1f45-49ef-becd-ad220c5c8518> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> ;
+    skos:notation "1" ;
+    skos:prefLabel "20-30"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Wortanzahl erwartet"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/00bb59ec-61b1-4639-93b6-905a0819c701>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/3c56dc80-6ed9-4bf0-8bbd-33722582ebf3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/6ed11b4b-ea4b-41e8-ab41-86ed76d16a91>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/cf47441b-2ce7-46bb-85f7-cb94b1fcae36>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/d1ec6c6f-1f45-49ef-becd-ad220c5c8518> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/00bb59ec-61b1-4639-93b6-905a0819c701>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/3c56dc80-6ed9-4bf0-8bbd-33722582ebf3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/6ed11b4b-ea4b-41e8-ab41-86ed76d16a91>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/cf47441b-2ce7-46bb-85f7-cb94b1fcae36>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/wortanzahlerwartet/d1ec6c6f-1f45-49ef-becd-ad220c5c8518> ;
+    skos:prefLabel "Wortanzahl erwartet"@de .
+

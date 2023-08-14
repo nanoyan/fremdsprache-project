@@ -1,0 +1,80 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/1c953e18-be74-4abd-bb4a-9843e0af845e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:notation "3" ;
+    skos:prefLabel "occupational"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/32383025-488e-459a-bcc8-6bcd7a321dce> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:notation "2" ;
+    skos:prefLabel "personal"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/5d75a18b-7806-4a76-ac60-5eb447b1ed61> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:notation "1" ;
+    skos:prefLabel "public"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/6d18ee82-173c-4cd9-abcc-ec3b9d9d63c4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:notation "5" ;
+    skos:prefLabel "other"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/864d21c9-e726-43cb-b4d4-0a0fe5fad3d2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:notation "6" ;
+    skos:prefLabel "éducationnel"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/ae1f50f7-c88b-46c9-825a-9887ed55447b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:notation "4" ;
+    skos:prefLabel "educational"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/b986d162-f18e-4d3a-a565-774beedd8d38> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:notation "7" ;
+    skos:prefLabel "personnel"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/ffbb6a45-acac-4c3e-8aad-5c5cd7c727c1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> ;
+    skos:notation "8" ;
+    skos:prefLabel "professionnel"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Textdomäne"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/1c953e18-be74-4abd-bb4a-9843e0af845e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/32383025-488e-459a-bcc8-6bcd7a321dce>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/5d75a18b-7806-4a76-ac60-5eb447b1ed61>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/6d18ee82-173c-4cd9-abcc-ec3b9d9d63c4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/864d21c9-e726-43cb-b4d4-0a0fe5fad3d2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/ae1f50f7-c88b-46c9-825a-9887ed55447b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/b986d162-f18e-4d3a-a565-774beedd8d38>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/ffbb6a45-acac-4c3e-8aad-5c5cd7c727c1> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/1c953e18-be74-4abd-bb4a-9843e0af845e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/32383025-488e-459a-bcc8-6bcd7a321dce>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/5d75a18b-7806-4a76-ac60-5eb447b1ed61>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/6d18ee82-173c-4cd9-abcc-ec3b9d9d63c4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/864d21c9-e726-43cb-b4d4-0a0fe5fad3d2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/ae1f50f7-c88b-46c9-825a-9887ed55447b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/b986d162-f18e-4d3a-a565-774beedd8d38>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textdomäne/ffbb6a45-acac-4c3e-8aad-5c5cd7c727c1> ;
+    skos:prefLabel "Textdomäne"@de .
+

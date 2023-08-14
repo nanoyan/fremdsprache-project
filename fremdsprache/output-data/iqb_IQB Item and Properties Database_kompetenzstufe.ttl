@@ -1,0 +1,71 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/04f702ff-4fb5-4cc0-835c-56234da05d62> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Ib"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/66a7cb07-9188-4c5e-a517-ca3812b12b37> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:notation "5" ;
+    skos:prefLabel "III"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/9c412b71-a3d7-4398-a92c-bf206c6bc518> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:notation "6" ;
+    skos:prefLabel "IV"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/b22d4e5a-69dc-418a-9a5f-ba2e75dab2bd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Ia"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/cc5614c2-e051-4eea-b4bd-03e10089a3dd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:notation "4" ;
+    skos:prefLabel "II"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/ccbf29aa-4337-407e-bfaa-165b8721c688> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:notation "1" ;
+    skos:prefLabel "I"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/db226ce0-b8dc-4a9a-b332-a7ee93dedec3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> ;
+    skos:notation "7" ;
+    skos:prefLabel "V"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Kompetenzstufe"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/04f702ff-4fb5-4cc0-835c-56234da05d62>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/66a7cb07-9188-4c5e-a517-ca3812b12b37>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/9c412b71-a3d7-4398-a92c-bf206c6bc518>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/b22d4e5a-69dc-418a-9a5f-ba2e75dab2bd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/cc5614c2-e051-4eea-b4bd-03e10089a3dd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/ccbf29aa-4337-407e-bfaa-165b8721c688>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/db226ce0-b8dc-4a9a-b332-a7ee93dedec3> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/04f702ff-4fb5-4cc0-835c-56234da05d62>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/66a7cb07-9188-4c5e-a517-ca3812b12b37>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/9c412b71-a3d7-4398-a92c-bf206c6bc518>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/b22d4e5a-69dc-418a-9a5f-ba2e75dab2bd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/cc5614c2-e051-4eea-b4bd-03e10089a3dd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/ccbf29aa-4337-407e-bfaa-165b8721c688>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufe/db226ce0-b8dc-4a9a-b332-a7ee93dedec3> ;
+    skos:prefLabel "Kompetenzstufe"@de .
+

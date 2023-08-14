@@ -1,0 +1,35 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/443e06c9-1e14-4fc9-9c58-6a421529921d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Kooperation - Daten"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/4b9a636d-e5ae-417d-927d-9af90e573a21> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Kooperation - Items"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/e6f1c1b0-5006-402d-ae69-dbeef990b157> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> ;
+    skos:notation "1" ;
+    skos:prefLabel "Person"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Vertragsart"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/443e06c9-1e14-4fc9-9c58-6a421529921d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/4b9a636d-e5ae-417d-927d-9af90e573a21>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/e6f1c1b0-5006-402d-ae69-dbeef990b157> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/443e06c9-1e14-4fc9-9c58-6a421529921d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/4b9a636d-e5ae-417d-927d-9af90e573a21>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/e6f1c1b0-5006-402d-ae69-dbeef990b157> ;
+    skos:prefLabel "Vertragsart"@de .
+

@@ -1,0 +1,71 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/0d763df5-1657-461e-9bfc-7af6c7c0709b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:notation "6" ;
+    skos:prefLabel "hauptsächlich komplex"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/3029369b-52e8-4d4a-8bc4-693fcc6d09d3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:notation "4" ;
+    skos:prefLabel "eher abstrakt"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/30f11285-7603-46c2-bfec-ec7866e2d7da> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:notation "2" ;
+    skos:prefLabel "hauptsächlich frequent"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/3e5e8d86-58df-486e-8071-17fbcf03f871> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:notation "5" ;
+    skos:prefLabel "eher komplex"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/4b2c5a24-aa4e-4e05-9328-2d76b7e3cda5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:notation "3" ;
+    skos:prefLabel "wenig frequent"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/6ea19edc-8226-40a9-907b-e312d2da9211> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:notation "1" ;
+    skos:prefLabel "ausschließlich frequent"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/6f68431b-7bfc-4c08-b363-c24ddd41d946> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
+    skos:notation "7" ;
+    skos:prefLabel "komplex"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Vokabular"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/0d763df5-1657-461e-9bfc-7af6c7c0709b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/3029369b-52e8-4d4a-8bc4-693fcc6d09d3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/30f11285-7603-46c2-bfec-ec7866e2d7da>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/3e5e8d86-58df-486e-8071-17fbcf03f871>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/4b2c5a24-aa4e-4e05-9328-2d76b7e3cda5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/6ea19edc-8226-40a9-907b-e312d2da9211>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/6f68431b-7bfc-4c08-b363-c24ddd41d946> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/0d763df5-1657-461e-9bfc-7af6c7c0709b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/3029369b-52e8-4d4a-8bc4-693fcc6d09d3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/30f11285-7603-46c2-bfec-ec7866e2d7da>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/3e5e8d86-58df-486e-8071-17fbcf03f871>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/4b2c5a24-aa4e-4e05-9328-2d76b7e3cda5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/6ea19edc-8226-40a9-907b-e312d2da9211>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/6f68431b-7bfc-4c08-b363-c24ddd41d946> ;
+    skos:prefLabel "Vokabular"@de .
+

@@ -1,0 +1,386 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/032ab5ed-ed82-48ab-9208-be9aab8209ad> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "39" ;
+    skos:prefLabel "F3.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/058ea371-2889-407a-bacc-5371d42c1d73> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "5" ;
+    skos:prefLabel "E5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/06ab18f6-48cb-4545-9719-c71cfd559f03> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "2" ;
+    skos:prefLabel "E2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/099448b7-98cd-40ec-96a1-30fe3a09fa1a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "28" ;
+    skos:prefLabel "F1.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/1d27a439-9b7d-42aa-830c-fcfcb84a8f8c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "10" ;
+    skos:prefLabel "K2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/1e741d23-293f-4bae-8baf-c1883340f027> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "13" ;
+    skos:prefLabel "K5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/1fc0cea0-8625-4514-8a8a-58c76c39e355> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "21" ;
+    skos:prefLabel "B3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/23ee17cf-49df-4b57-8208-a10511140670> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "32" ;
+    skos:prefLabel "F2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/24aa704a-8e1e-4b4a-8811-ee769a3e16ec> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "14" ;
+    skos:prefLabel "K6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/3289a41a-93d7-430e-80a2-a10fecf85b8f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "12" ;
+    skos:prefLabel "K4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/4528fdba-123e-4a1b-87ad-f4e8cc305293> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "27" ;
+    skos:prefLabel "F1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/49fa26a7-01cf-48e7-91b2-a3bf2258fb56> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "22" ;
+    skos:prefLabel "B4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/4b00be68-87c6-403f-8920-2ae1d5a48f9a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "24" ;
+    skos:prefLabel "B6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/51596847-e72e-42d6-b335-db0991e57ad7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "25" ;
+    skos:prefLabel "F1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/56b99ee6-3317-4153-bff5-b5ffb330a7aa> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "33" ;
+    skos:prefLabel "F2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/5a48cf1b-5ea5-4f35-855b-f071e5bec9c6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "30" ;
+    skos:prefLabel "F1.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/5b16b192-b7be-4414-8390-3a74ddb52ad0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "1" ;
+    skos:prefLabel "E1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/6171448c-85bb-4b41-8238-f8bece45f612> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "6" ;
+    skos:prefLabel "E6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/74fa3e32-fefc-4a55-baf1-5f5cee742236> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "7" ;
+    skos:prefLabel "E7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/81450415-f9f2-40bf-bf77-c82b409484e2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "38" ;
+    skos:prefLabel "F3.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/82034ff2-230a-42cb-8d92-05fc067d1bd7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "41" ;
+    skos:prefLabel "F3.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/829ec4e7-54f4-445f-97c8-47e3c6730f07> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "20" ;
+    skos:prefLabel "B2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/8441be68-19c4-465b-a19b-89af26544be7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "40" ;
+    skos:prefLabel "F3.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/84946534-64fb-431f-bd02-3edf96ce27d9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "3" ;
+    skos:prefLabel "E3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/8573d39c-ed49-4bf7-a4b8-49001868958c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "19" ;
+    skos:prefLabel "B1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/89c6aaa3-262d-4cf4-b2c5-3821abac96d2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "11" ;
+    skos:prefLabel "K3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/8d07dc6a-7f4a-48d2-8d8e-37795e478366> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "18" ;
+    skos:prefLabel "K10"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/91db076f-d6b0-4b6e-8421-672464e436a1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "16" ;
+    skos:prefLabel "K8"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/95711831-450c-4dc1-9a3f-3349b54039bf> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "36" ;
+    skos:prefLabel "F3.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/a0676817-7ed7-468c-bd4b-75893f7f76f2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "23" ;
+    skos:prefLabel "B5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/ab3b4d8a-14c3-43dd-b80a-d1fb11b93c4a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "9" ;
+    skos:prefLabel "K1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/b1d386fc-7b2f-4223-a7f7-d1b411762fac> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "31" ;
+    skos:prefLabel "F2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/b24da796-3527-4acd-adf0-309649c044dd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "37" ;
+    skos:prefLabel "F3.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/b5554979-d638-4542-9c72-c69ca635813e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "8" ;
+    skos:prefLabel "E8"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/bbc8ac4d-4ded-4d62-bd14-bd8f50d126b6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "17" ;
+    skos:prefLabel "K9"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/bc842e60-5d17-401d-9aa8-e95a3ced0cc1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "29" ;
+    skos:prefLabel "F1.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/c6026c4e-0fc2-414b-a068-6a1ff1d4a2c1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "26" ;
+    skos:prefLabel "F1.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/c7059d5a-c429-4ff2-89b8-348e02fb96e2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "4" ;
+    skos:prefLabel "E4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/e0c4d54a-673a-4ca0-9d67-d14277c92646> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "42" ;
+    skos:prefLabel "F3.7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/e80b2bba-ac3f-496a-9177-def839f9f93d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "34" ;
+    skos:prefLabel "F2.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/eff46bd8-2266-4d8f-84ec-565e0e7da4e7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "15" ;
+    skos:prefLabel "K7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/f57cfe4b-4c90-44af-aa64-dfcf3738fdde> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> ;
+    skos:notation "35" ;
+    skos:prefLabel "F3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_KompChemie1"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/032ab5ed-ed82-48ab-9208-be9aab8209ad>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/058ea371-2889-407a-bacc-5371d42c1d73>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/06ab18f6-48cb-4545-9719-c71cfd559f03>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/099448b7-98cd-40ec-96a1-30fe3a09fa1a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/1d27a439-9b7d-42aa-830c-fcfcb84a8f8c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/1e741d23-293f-4bae-8baf-c1883340f027>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/1fc0cea0-8625-4514-8a8a-58c76c39e355>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/23ee17cf-49df-4b57-8208-a10511140670>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/24aa704a-8e1e-4b4a-8811-ee769a3e16ec>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/3289a41a-93d7-430e-80a2-a10fecf85b8f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/4528fdba-123e-4a1b-87ad-f4e8cc305293>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/49fa26a7-01cf-48e7-91b2-a3bf2258fb56>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/4b00be68-87c6-403f-8920-2ae1d5a48f9a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/51596847-e72e-42d6-b335-db0991e57ad7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/56b99ee6-3317-4153-bff5-b5ffb330a7aa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/5a48cf1b-5ea5-4f35-855b-f071e5bec9c6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/5b16b192-b7be-4414-8390-3a74ddb52ad0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/6171448c-85bb-4b41-8238-f8bece45f612>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/74fa3e32-fefc-4a55-baf1-5f5cee742236>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/81450415-f9f2-40bf-bf77-c82b409484e2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/82034ff2-230a-42cb-8d92-05fc067d1bd7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/829ec4e7-54f4-445f-97c8-47e3c6730f07>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/8441be68-19c4-465b-a19b-89af26544be7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/84946534-64fb-431f-bd02-3edf96ce27d9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/8573d39c-ed49-4bf7-a4b8-49001868958c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/89c6aaa3-262d-4cf4-b2c5-3821abac96d2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/8d07dc6a-7f4a-48d2-8d8e-37795e478366>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/91db076f-d6b0-4b6e-8421-672464e436a1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/95711831-450c-4dc1-9a3f-3349b54039bf>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/a0676817-7ed7-468c-bd4b-75893f7f76f2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/ab3b4d8a-14c3-43dd-b80a-d1fb11b93c4a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/b1d386fc-7b2f-4223-a7f7-d1b411762fac>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/b24da796-3527-4acd-adf0-309649c044dd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/b5554979-d638-4542-9c72-c69ca635813e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/bbc8ac4d-4ded-4d62-bd14-bd8f50d126b6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/bc842e60-5d17-401d-9aa8-e95a3ced0cc1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/c6026c4e-0fc2-414b-a068-6a1ff1d4a2c1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/c7059d5a-c429-4ff2-89b8-348e02fb96e2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/e0c4d54a-673a-4ca0-9d67-d14277c92646>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/e80b2bba-ac3f-496a-9177-def839f9f93d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/eff46bd8-2266-4d8f-84ec-565e0e7da4e7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/f57cfe4b-4c90-44af-aa64-dfcf3738fdde> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/032ab5ed-ed82-48ab-9208-be9aab8209ad>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/058ea371-2889-407a-bacc-5371d42c1d73>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/06ab18f6-48cb-4545-9719-c71cfd559f03>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/099448b7-98cd-40ec-96a1-30fe3a09fa1a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/1d27a439-9b7d-42aa-830c-fcfcb84a8f8c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/1e741d23-293f-4bae-8baf-c1883340f027>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/1fc0cea0-8625-4514-8a8a-58c76c39e355>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/23ee17cf-49df-4b57-8208-a10511140670>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/24aa704a-8e1e-4b4a-8811-ee769a3e16ec>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/3289a41a-93d7-430e-80a2-a10fecf85b8f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/4528fdba-123e-4a1b-87ad-f4e8cc305293>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/49fa26a7-01cf-48e7-91b2-a3bf2258fb56>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/4b00be68-87c6-403f-8920-2ae1d5a48f9a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/51596847-e72e-42d6-b335-db0991e57ad7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/56b99ee6-3317-4153-bff5-b5ffb330a7aa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/5a48cf1b-5ea5-4f35-855b-f071e5bec9c6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/5b16b192-b7be-4414-8390-3a74ddb52ad0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/6171448c-85bb-4b41-8238-f8bece45f612>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/74fa3e32-fefc-4a55-baf1-5f5cee742236>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/81450415-f9f2-40bf-bf77-c82b409484e2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/82034ff2-230a-42cb-8d92-05fc067d1bd7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/829ec4e7-54f4-445f-97c8-47e3c6730f07>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/8441be68-19c4-465b-a19b-89af26544be7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/84946534-64fb-431f-bd02-3edf96ce27d9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/8573d39c-ed49-4bf7-a4b8-49001868958c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/89c6aaa3-262d-4cf4-b2c5-3821abac96d2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/8d07dc6a-7f4a-48d2-8d8e-37795e478366>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/91db076f-d6b0-4b6e-8421-672464e436a1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/95711831-450c-4dc1-9a3f-3349b54039bf>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/a0676817-7ed7-468c-bd4b-75893f7f76f2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/ab3b4d8a-14c3-43dd-b80a-d1fb11b93c4a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/b1d386fc-7b2f-4223-a7f7-d1b411762fac>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/b24da796-3527-4acd-adf0-309649c044dd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/b5554979-d638-4542-9c72-c69ca635813e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/bbc8ac4d-4ded-4d62-bd14-bd8f50d126b6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/bc842e60-5d17-401d-9aa8-e95a3ced0cc1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/c6026c4e-0fc2-414b-a068-6a1ff1d4a2c1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/c7059d5a-c429-4ff2-89b8-348e02fb96e2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/e0c4d54a-673a-4ca0-9d67-d14277c92646>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/e80b2bba-ac3f-496a-9177-def839f9f93d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/eff46bd8-2266-4d8f-84ec-565e0e7da4e7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompchemie1/f57cfe4b-4c90-44af-aa64-dfcf3738fdde> ;
+    skos:prefLabel "KompChemie1"@de .
+

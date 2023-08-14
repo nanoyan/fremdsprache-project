@@ -1,0 +1,62 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/217728c2-c844-42a5-8e4d-89e00756a656> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
+    skos:notation "4" ;
+    skos:prefLabel "descriptive"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/753005b6-4f82-4868-95c7-3b635b57cea0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
+    skos:notation "2" ;
+    skos:prefLabel "instructive"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/96e53f66-346e-49ec-988a-7569b0ac7508> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
+    skos:notation "1" ;
+    skos:prefLabel "narrative"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/9d03d2b8-0a0c-4cc2-b705-a06864a915a2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
+    skos:notation "3" ;
+    skos:prefLabel "argumentative"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/a02cfa45-1b46-4df6-a668-8639b5ca865b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
+    skos:notation "6" ;
+    skos:prefLabel "phatic"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/d7a95e1c-aa50-41e0-91f0-6b4cbf9e4067> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
+    skos:notation "5" ;
+    skos:prefLabel "expository"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Redeart"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/217728c2-c844-42a5-8e4d-89e00756a656>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/753005b6-4f82-4868-95c7-3b635b57cea0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/96e53f66-346e-49ec-988a-7569b0ac7508>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/9d03d2b8-0a0c-4cc2-b705-a06864a915a2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/a02cfa45-1b46-4df6-a668-8639b5ca865b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/d7a95e1c-aa50-41e0-91f0-6b4cbf9e4067> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/217728c2-c844-42a5-8e4d-89e00756a656>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/753005b6-4f82-4868-95c7-3b635b57cea0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/96e53f66-346e-49ec-988a-7569b0ac7508>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/9d03d2b8-0a0c-4cc2-b705-a06864a915a2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/a02cfa45-1b46-4df6-a668-8639b5ca865b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/d7a95e1c-aa50-41e0-91f0-6b4cbf9e4067> ;
+    skos:prefLabel "Redeart"@de .
+

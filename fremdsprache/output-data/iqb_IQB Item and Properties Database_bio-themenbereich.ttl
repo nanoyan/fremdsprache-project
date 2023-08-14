@@ -1,0 +1,44 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/04519507-e1db-4e26-9929-93dc932de963> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Tierhaltung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/0a324654-2e81-4aa4-b6f4-adc750f66405> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
+    skos:notation "1" ;
+    skos:prefLabel "Ökologie und Nachhaltigkeit"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/382ca208-3eb2-4b6d-91f2-f92041c411dc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Gesundheit"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/9006a877-24a1-4329-a8dc-d51025ae338e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
+    skos:notation "4" ;
+    skos:prefLabel "Medizin-, Bio- und Gentechnik"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Bio-Themenbereich"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/04519507-e1db-4e26-9929-93dc932de963>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/0a324654-2e81-4aa4-b6f4-adc750f66405>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/382ca208-3eb2-4b6d-91f2-f92041c411dc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/9006a877-24a1-4329-a8dc-d51025ae338e> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/04519507-e1db-4e26-9929-93dc932de963>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/0a324654-2e81-4aa4-b6f4-adc750f66405>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/382ca208-3eb2-4b6d-91f2-f92041c411dc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/9006a877-24a1-4329-a8dc-d51025ae338e> ;
+    skos:prefLabel "Bio-Themenbereich"@de .
+

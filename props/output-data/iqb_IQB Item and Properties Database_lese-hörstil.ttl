@@ -1,0 +1,44 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/036d8bcf-2b34-46d4-ad29-5ba76394a290> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
+    skos:notation "3" ;
+    skos:prefLabel "inferierend"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/27bc33a3-0f8e-474d-99bd-b4e590c08011> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
+    skos:notation "1" ;
+    skos:prefLabel "selektiv"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/2a39812f-2143-44f1-a81d-cfcedc5a6da1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
+    skos:notation "2" ;
+    skos:prefLabel "detailliert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/780de291-d3ea-4b8d-867d-745168680026> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
+    skos:notation "4" ;
+    skos:prefLabel "global"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Lese-Hörstil"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/036d8bcf-2b34-46d4-ad29-5ba76394a290>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/27bc33a3-0f8e-474d-99bd-b4e590c08011>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/2a39812f-2143-44f1-a81d-cfcedc5a6da1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/780de291-d3ea-4b8d-867d-745168680026> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/036d8bcf-2b34-46d4-ad29-5ba76394a290>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/27bc33a3-0f8e-474d-99bd-b4e590c08011>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/2a39812f-2143-44f1-a81d-cfcedc5a6da1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/780de291-d3ea-4b8d-867d-745168680026> ;
+    skos:prefLabel "Lese-Hörstil"@de .
+

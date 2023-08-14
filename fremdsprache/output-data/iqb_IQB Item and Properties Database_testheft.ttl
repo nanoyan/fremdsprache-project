@@ -1,0 +1,71 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testheft/18790400-ae75-4393-8ad1-7b3dd6c4d85a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:notation "5" ;
+    skos:prefLabel "E-A"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testheft/4394421e-8f18-4714-a262-4f1f7fb2d4fd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:notation "4" ;
+    skos:prefLabel "E-nG"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testheft/4f2b12bc-6dda-4e47-9de7-ba80047bedfc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:notation "7" ;
+    skos:prefLabel "n.d."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testheft/650a33f1-9e93-4a77-8e57-0f161c3e2428> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:notation "1" ;
+    skos:prefLabel "A"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testheft/708d1bb5-ee41-4598-9b3a-51839dfcb15c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:notation "2" ;
+    skos:prefLabel "G"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testheft/898e11ee-6dfa-4fcb-9422-e800331f81c5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:notation "6" ;
+    skos:prefLabel "E-G"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testheft/a3184c21-5db0-4c29-9c83-bda7b18c2c0e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> ;
+    skos:notation "3" ;
+    skos:prefLabel "nG"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testheft/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Testheft"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/18790400-ae75-4393-8ad1-7b3dd6c4d85a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/4394421e-8f18-4714-a262-4f1f7fb2d4fd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/4f2b12bc-6dda-4e47-9de7-ba80047bedfc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/650a33f1-9e93-4a77-8e57-0f161c3e2428>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/708d1bb5-ee41-4598-9b3a-51839dfcb15c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/898e11ee-6dfa-4fcb-9422-e800331f81c5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/a3184c21-5db0-4c29-9c83-bda7b18c2c0e> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/18790400-ae75-4393-8ad1-7b3dd6c4d85a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/4394421e-8f18-4714-a262-4f1f7fb2d4fd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/4f2b12bc-6dda-4e47-9de7-ba80047bedfc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/650a33f1-9e93-4a77-8e57-0f161c3e2428>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/708d1bb5-ee41-4598-9b3a-51839dfcb15c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/898e11ee-6dfa-4fcb-9422-e800331f81c5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testheft/a3184c21-5db0-4c29-9c83-bda7b18c2c0e> ;
+    skos:prefLabel "Testheft"@de .
+

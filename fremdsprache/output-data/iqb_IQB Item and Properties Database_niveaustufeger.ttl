@@ -1,0 +1,62 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/307ad3ae-3b50-45d7-af5f-ae6661730e94> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> ;
+    skos:notation "1" ;
+    skos:prefLabel "A1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/4fd1cd3a-3086-4244-b4e2-25f2bd1906a9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> ;
+    skos:notation "6" ;
+    skos:prefLabel "C2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/6495eef9-29d8-4c86-8092-719d5bf7b8a4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> ;
+    skos:notation "2" ;
+    skos:prefLabel "A2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/6f8315a2-dcbf-486e-8b2c-ff0b898932c7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> ;
+    skos:notation "5" ;
+    skos:prefLabel "C1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/7dd6a6b2-491e-42a5-85c2-af452076f76d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> ;
+    skos:notation "4" ;
+    skos:prefLabel "B2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/af76d734-1f92-4646-8d95-ea4b41745b4a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> ;
+    skos:notation "3" ;
+    skos:prefLabel "B1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Niveaustufe GER"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/307ad3ae-3b50-45d7-af5f-ae6661730e94>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/4fd1cd3a-3086-4244-b4e2-25f2bd1906a9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/6495eef9-29d8-4c86-8092-719d5bf7b8a4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/6f8315a2-dcbf-486e-8b2c-ff0b898932c7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/7dd6a6b2-491e-42a5-85c2-af452076f76d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/af76d734-1f92-4646-8d95-ea4b41745b4a> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/307ad3ae-3b50-45d7-af5f-ae6661730e94>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/4fd1cd3a-3086-4244-b4e2-25f2bd1906a9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/6495eef9-29d8-4c86-8092-719d5bf7b8a4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/6f8315a2-dcbf-486e-8b2c-ff0b898932c7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/7dd6a6b2-491e-42a5-85c2-af452076f76d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/niveaustufeger/af76d734-1f92-4646-8d95-ea4b41745b4a> ;
+    skos:prefLabel "Niveaustufe GER"@de .
+

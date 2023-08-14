@@ -1,0 +1,53 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/215c1a25-5bd6-4bd1-9d54-bdc69fa7096f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
+    skos:notation "4" ;
+    skos:prefLabel "1+ - Mehrere Variablen und/oder Codes"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/5828fa61-19e7-4264-b329-51858e901e54> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
+    skos:notation "1" ;
+    skos:prefLabel "GA - Geschlossen Ankreuzen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/84b3c8a5-396e-4bf8-860e-70889340b577> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
+    skos:notation "5" ;
+    skos:prefLabel "PL - Produktive Leistung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/d2f47a27-cde3-4741-80de-f5f1f8c0fbba> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
+    skos:notation "3" ;
+    skos:prefLabel "0/1 - Einfach dichotom"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/f67fee77-fa63-4cc7-b259-034763cdf9d3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
+    skos:notation "2" ;
+    skos:prefLabel "GK - Geschlossen Kodieren"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Itemtyp 5er"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/215c1a25-5bd6-4bd1-9d54-bdc69fa7096f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/5828fa61-19e7-4264-b329-51858e901e54>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/84b3c8a5-396e-4bf8-860e-70889340b577>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/d2f47a27-cde3-4741-80de-f5f1f8c0fbba>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/f67fee77-fa63-4cc7-b259-034763cdf9d3> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/215c1a25-5bd6-4bd1-9d54-bdc69fa7096f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/5828fa61-19e7-4264-b329-51858e901e54>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/84b3c8a5-396e-4bf8-860e-70889340b577>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/d2f47a27-cde3-4741-80de-f5f1f8c0fbba>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/f67fee77-fa63-4cc7-b259-034763cdf9d3> ;
+    skos:prefLabel "Itemtyp 5er"@de .
+

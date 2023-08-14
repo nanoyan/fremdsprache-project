@@ -1,0 +1,837 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0128bb75-3246-467f-8df8-5a0d2528ff5b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "28" ;
+    skos:prefLabel "Formular"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/01305cd1-2974-47b0-95e8-6298bbbe2cba> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "57" ;
+    skos:prefLabel "Programm"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0225cc51-09c1-49e7-ad6a-cdd95dac7352> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "82" ;
+    skos:prefLabel "Werbetext"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0519b42e-73c3-4606-b484-bd4c976b976b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "1" ;
+    skos:prefLabel "Alltagserzählung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/05d4a1c2-076f-4739-bc49-10e96adda365> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "32" ;
+    skos:prefLabel "Grafik"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0b4abeb2-42aa-4f32-beb6-0ed3012f1622> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "31" ;
+    skos:prefLabel "Glosse"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0bef995d-e8e4-46a1-93d4-fa688acf540a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "91" ;
+    skos:prefLabel "Kommentar"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0c2833fb-f175-4e48-8dee-cd1b278a3a2c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "11" ;
+    skos:prefLabel "CD-Besprechung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/11a81d34-a44f-47b9-a3fe-88beeb44dcb1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "64" ;
+    skos:prefLabel "Schild"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/132a6052-3249-41b5-9976-c642f5414b3d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "80" ;
+    skos:prefLabel "Wegbeschreibung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/13b52080-2547-4674-bda2-0c67f3e6dee3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "90" ;
+    skos:prefLabel "Führung/Besichtigung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/14076d33-a7d6-49d1-b84b-fdc58eb5a6d4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "12" ;
+    skos:prefLabel "CD-Cover"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1820fc7b-4205-44d4-a2a1-94ac73e625dd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "50" ;
+    skos:prefLabel "Nachricht auf Anrufbeantworter"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/197cecbb-3b64-49da-b573-cdd7d0d682cc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "53" ;
+    skos:prefLabel "Packzettel"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1bca70bc-96cb-4001-bbb8-f47a816a6723> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "39" ;
+    skos:prefLabel "Kochrezept"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1d999e6f-1411-45be-bee6-b37ff639e2db> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "73" ;
+    skos:prefLabel "Telefonbucheintrag"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1e996a51-23b1-4c20-b666-77b9182d4ea0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "9" ;
+    skos:prefLabel "Broschüre"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1f44d79a-7686-45b2-b6e8-1c84c8222254> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Alltagsgespräch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/223a1d3d-6f7b-4eb9-a59d-abc2adf18f1f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "36" ;
+    skos:prefLabel "Jugendbuchauszug"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/2408ceec-2d21-4592-8930-b1d49e7923b0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "75" ;
+    skos:prefLabel "Tragödie"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/267b45b9-dc58-4cf4-abaa-122e83997844> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "15" ;
+    skos:prefLabel "Diagramm"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/27a00ff8-10be-42fa-a501-00a6b97fa367> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "92" ;
+    skos:prefLabel "Reportage"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/2b2f1e3a-188c-44df-be36-61c5e9e650ad> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "76" ;
+    skos:prefLabel "Unfallbericht"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/30b9df55-b654-44e7-b5cb-cdae53418b0c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "49" ;
+    skos:prefLabel "Mini-Saga"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/31b50265-b3f4-4511-8c06-e86157dce470> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "25" ;
+    skos:prefLabel "Fahrplan"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/361bb49e-6e8e-4f06-bf0d-84b48d823f67> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "61" ;
+    skos:prefLabel "Reisetagebuch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/388b3bfa-a492-41e4-bdc5-f33a1897445b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "69" ;
+    skos:prefLabel "Sportbericht"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/3a92a9b4-3824-4d27-8dd0-1e12ccdc5c4e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "10" ;
+    skos:prefLabel "Buchbesprechung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/3cd95872-0d96-4b61-b1bf-ce4f38670acc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "33" ;
+    skos:prefLabel "Homepage"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/42c8e613-c6ef-41fe-8aae-85e874785a40> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "60" ;
+    skos:prefLabel "Reisebericht"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/42fe6170-b887-4bb3-b75f-712e0dc486ab> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "89" ;
+    skos:prefLabel "Gespräch/Dialog"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/430a3acd-056d-40e5-88db-8ce8f4ce21b0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "77" ;
+    skos:prefLabel "Vertrag"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/4344ac73-d43d-4ad1-b8a0-7fd202a520e6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "21" ;
+    skos:prefLabel "E-Mail"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/59e05cba-dc80-4795-8866-4c12d0272d68> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "4" ;
+    skos:prefLabel "Audiotour"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/5f099ee7-67b9-48a1-9a63-3842ce7c3b32> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "62" ;
+    skos:prefLabel "Romanauszug"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/60688de1-c10e-46c8-a838-1ecde427eea0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "18" ;
+    skos:prefLabel "Durchsagen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/65cce232-9f60-48cc-b191-6a7b16ca52ce> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "20" ;
+    skos:prefLabel "Eintrittskarte"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/65f12b6c-ced8-4999-b9b8-1041df302e20> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "70" ;
+    skos:prefLabel "Sportkommentar"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/663ffd21-4c47-47c7-bdc2-07b5299559c0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "37" ;
+    skos:prefLabel "Karikatur"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/668c5315-103b-4b08-959e-1bf618878365> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "48" ;
+    skos:prefLabel "Meinungsumfrage"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/6c2e91d9-27e9-4195-9626-0722e1193f9e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "66" ;
+    skos:prefLabel "SMS"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/74d6504d-6c79-43f9-8eea-b2eb8ae567c1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "52" ;
+    skos:prefLabel "Notiz"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/74fbe68b-3d51-4419-a167-eaa79f816df0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "55" ;
+    skos:prefLabel "Poster"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/76c65d2a-1fca-4fa9-9575-45a316cc5aa7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "27" ;
+    skos:prefLabel "Flyer"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/7947ae08-6742-47db-9f8f-77da9801fb20> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "63" ;
+    skos:prefLabel "Sage"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/7f664f16-78ab-4ec4-9c05-e1963e4da50f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "26" ;
+    skos:prefLabel "Filmbesprechung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/82f0c03a-bb04-4869-ba94-de64ed06b939> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "83" ;
+    skos:prefLabel "Wetterbericht"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/858a61eb-c548-4e8f-b7b9-d53ff2f194a9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "54" ;
+    skos:prefLabel "persönlicher Brief"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/8800de3a-c426-457b-a67d-2cf62e9ce4f3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "34" ;
+    skos:prefLabel "Hörbuch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/89baddb1-e995-419c-a360-ed5f8271879c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "67" ;
+    skos:prefLabel "Speisekarte"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/8e98e3cf-7ab5-4205-8c54-6234db8e8588> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "74" ;
+    skos:prefLabel "Telefongespräch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/8fc74152-d57a-47c8-b2e6-2bad9afa17d5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "5" ;
+    skos:prefLabel "Aushang"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/93e809cb-3022-4f9c-b8d1-7a5cf991c3d8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "85" ;
+    skos:prefLabel "Anweisungen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/99d4ad1c-e2d0-4fa3-9b21-ba8b0ac7fe51> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "6" ;
+    skos:prefLabel "Bedienungsanleitung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/9aaf29da-45ac-47cd-a895-02865ab48ae1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "23" ;
+    skos:prefLabel "Etikett"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/9eaed3cf-9eba-4cf6-8a27-b346cc9b60d8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "22" ;
+    skos:prefLabel "Erklärung eines Phänomens"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/9efc2a57-47b4-4c69-8ad4-84cee1774b37> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "59" ;
+    skos:prefLabel "Rede"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/a2a59df5-a0d5-4e41-8a24-85437b127a54> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "17" ;
+    skos:prefLabel "Diskussion"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ab2e8963-9e28-41ec-9e92-691c75503450> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "29" ;
+    skos:prefLabel "Gedicht"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/bb09310a-1806-4031-8f67-e01720989b06> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "16" ;
+    skos:prefLabel "Dienstleistungsgespräch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/bbc38ba1-2c38-44a8-b7e4-fa526036c634> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "19" ;
+    skos:prefLabel "Einkaufszettel"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c2aca713-28c1-4e31-a21c-4242b1aed271> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "87" ;
+    skos:prefLabel "Nachrichten"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c2da469a-f0f8-4c2a-91dd-5969ff86ba8b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "78" ;
+    skos:prefLabel "Visitenkarte"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c4a95b3f-6b2f-425d-b19f-41dbca91c6e8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "81" ;
+    skos:prefLabel "Werbematerial"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c4b72ae5-443d-4b99-885c-3d81ad4f8b54> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "43" ;
+    skos:prefLabel "Leserbrief"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c71a8c7b-7aa4-4b43-995b-8907ad6de9e5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "86" ;
+    skos:prefLabel "Ansagen/Auskünfte/Durchsagen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c79fe905-03e9-49b7-8103-065712a17a9c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "8" ;
+    skos:prefLabel "Bestimmung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/cb35dba1-6860-4d97-ad2c-3eac1e9bc3fa> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "13" ;
+    skos:prefLabel "Comic"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/cc559ed7-7929-436c-b59f-84e7755eb88e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "40" ;
+    skos:prefLabel "Komödie"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/cd1472f8-f521-4d23-bf4e-bd7ef0181fcc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "35" ;
+    skos:prefLabel "Interview"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/cffcde44-ee5b-41d9-8868-69db557ba6f8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "44" ;
+    skos:prefLabel "Lexikoneintrag"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/d30fac92-c8ec-4a0d-8313-285ff2513492> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "56" ;
+    skos:prefLabel "Postkarte"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/d7aeb0d1-627e-4a18-967e-83b2902da47e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "88" ;
+    skos:prefLabel "Berichte"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/d7ce1f4b-cff3-45bb-905a-b3ea05d2fad8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "46" ;
+    skos:prefLabel "Liedtext"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/d8b4897b-2f5f-4e18-afd8-1bf363fb5739> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "38" ;
+    skos:prefLabel "Klappentext"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/da64fdf9-9a3f-4786-90d8-139e306bd971> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "72" ;
+    skos:prefLabel "Talk"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/de0d7503-0132-47bd-aed3-e8f0cd17da58> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "24" ;
+    skos:prefLabel "Fahrkarte"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ded33630-fda4-43cf-ab30-7891c4257dbd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "30" ;
+    skos:prefLabel "Geschäftsbrief"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e0bfdbe7-213b-4efc-a94c-bd9c510e2949> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "65" ;
+    skos:prefLabel "Sketch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e1590e5d-4723-4d82-8157-739bf63e00ac> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "51" ;
+    skos:prefLabel "Nachschlagewerk (Auszug)"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e36172a2-c224-45e0-9c09-fbdabd16d8b5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "47" ;
+    skos:prefLabel "Märchen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e78199ba-8296-4540-86d7-70c76b1c3e53> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "45" ;
+    skos:prefLabel "Lied"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e78fe1cb-b5c9-40c0-b801-619a89d24efa> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "71" ;
+    skos:prefLabel "Tagebucheintrag"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ea609ac5-5781-405e-aee9-d6a0b4231fb5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Anzeige"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ebd805b1-1abf-4b48-86d8-b6bd98d4e72e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "58" ;
+    skos:prefLabel "Programmheft"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ee086d7c-a96e-448c-bca2-2939aa29dbee> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "14" ;
+    skos:prefLabel "Debatte"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ee738dcb-a085-4b06-b0b1-40c4a29d03c2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "84" ;
+    skos:prefLabel "Zeitungsmeldung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/f172ab94-b75c-4d10-830f-1e0b240e014a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "7" ;
+    skos:prefLabel "Belehrung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/f79efe3f-1f80-4b5c-afa4-f4f03dacbecc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "41" ;
+    skos:prefLabel "Kurzgeschichte"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/fc7406b2-a49f-47d7-b2a0-2b736be926fe> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "68" ;
+    skos:prefLabel "Spielanleitung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/fd66f872-a4dd-4146-baae-06b6cdc34af9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "79" ;
+    skos:prefLabel "Vortrag"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/fe7344f7-7ae3-4fbe-8cee-dcf8e212da71> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> ;
+    skos:notation "42" ;
+    skos:prefLabel "Legende"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "auf einer 5er Skale wird die grundsätzliche Schwierigkeit einer Textvorgabe (Stimulus') eingeschätzt (sehr gering--> sehr hoch)"@de ;
+    dct:title "IQB Item and Properties Database_Textsorte"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0128bb75-3246-467f-8df8-5a0d2528ff5b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/01305cd1-2974-47b0-95e8-6298bbbe2cba>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0225cc51-09c1-49e7-ad6a-cdd95dac7352>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0519b42e-73c3-4606-b484-bd4c976b976b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/05d4a1c2-076f-4739-bc49-10e96adda365>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0b4abeb2-42aa-4f32-beb6-0ed3012f1622>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0bef995d-e8e4-46a1-93d4-fa688acf540a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0c2833fb-f175-4e48-8dee-cd1b278a3a2c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/11a81d34-a44f-47b9-a3fe-88beeb44dcb1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/132a6052-3249-41b5-9976-c642f5414b3d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/13b52080-2547-4674-bda2-0c67f3e6dee3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/14076d33-a7d6-49d1-b84b-fdc58eb5a6d4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1820fc7b-4205-44d4-a2a1-94ac73e625dd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/197cecbb-3b64-49da-b573-cdd7d0d682cc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1bca70bc-96cb-4001-bbb8-f47a816a6723>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1d999e6f-1411-45be-bee6-b37ff639e2db>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1e996a51-23b1-4c20-b666-77b9182d4ea0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1f44d79a-7686-45b2-b6e8-1c84c8222254>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/223a1d3d-6f7b-4eb9-a59d-abc2adf18f1f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/2408ceec-2d21-4592-8930-b1d49e7923b0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/267b45b9-dc58-4cf4-abaa-122e83997844>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/27a00ff8-10be-42fa-a501-00a6b97fa367>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/2b2f1e3a-188c-44df-be36-61c5e9e650ad>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/30b9df55-b654-44e7-b5cb-cdae53418b0c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/31b50265-b3f4-4511-8c06-e86157dce470>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/361bb49e-6e8e-4f06-bf0d-84b48d823f67>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/388b3bfa-a492-41e4-bdc5-f33a1897445b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/3a92a9b4-3824-4d27-8dd0-1e12ccdc5c4e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/3cd95872-0d96-4b61-b1bf-ce4f38670acc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/42c8e613-c6ef-41fe-8aae-85e874785a40>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/42fe6170-b887-4bb3-b75f-712e0dc486ab>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/430a3acd-056d-40e5-88db-8ce8f4ce21b0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/4344ac73-d43d-4ad1-b8a0-7fd202a520e6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/59e05cba-dc80-4795-8866-4c12d0272d68>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/5f099ee7-67b9-48a1-9a63-3842ce7c3b32>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/60688de1-c10e-46c8-a838-1ecde427eea0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/65cce232-9f60-48cc-b191-6a7b16ca52ce>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/65f12b6c-ced8-4999-b9b8-1041df302e20>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/663ffd21-4c47-47c7-bdc2-07b5299559c0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/668c5315-103b-4b08-959e-1bf618878365>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/6c2e91d9-27e9-4195-9626-0722e1193f9e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/74d6504d-6c79-43f9-8eea-b2eb8ae567c1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/74fbe68b-3d51-4419-a167-eaa79f816df0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/76c65d2a-1fca-4fa9-9575-45a316cc5aa7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/7947ae08-6742-47db-9f8f-77da9801fb20>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/7f664f16-78ab-4ec4-9c05-e1963e4da50f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/82f0c03a-bb04-4869-ba94-de64ed06b939>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/858a61eb-c548-4e8f-b7b9-d53ff2f194a9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/8800de3a-c426-457b-a67d-2cf62e9ce4f3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/89baddb1-e995-419c-a360-ed5f8271879c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/8e98e3cf-7ab5-4205-8c54-6234db8e8588>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/8fc74152-d57a-47c8-b2e6-2bad9afa17d5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/93e809cb-3022-4f9c-b8d1-7a5cf991c3d8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/99d4ad1c-e2d0-4fa3-9b21-ba8b0ac7fe51>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/9aaf29da-45ac-47cd-a895-02865ab48ae1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/9eaed3cf-9eba-4cf6-8a27-b346cc9b60d8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/9efc2a57-47b4-4c69-8ad4-84cee1774b37>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/a2a59df5-a0d5-4e41-8a24-85437b127a54>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ab2e8963-9e28-41ec-9e92-691c75503450>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/bb09310a-1806-4031-8f67-e01720989b06>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/bbc38ba1-2c38-44a8-b7e4-fa526036c634>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c2aca713-28c1-4e31-a21c-4242b1aed271>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c2da469a-f0f8-4c2a-91dd-5969ff86ba8b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c4a95b3f-6b2f-425d-b19f-41dbca91c6e8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c4b72ae5-443d-4b99-885c-3d81ad4f8b54>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c71a8c7b-7aa4-4b43-995b-8907ad6de9e5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c79fe905-03e9-49b7-8103-065712a17a9c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/cb35dba1-6860-4d97-ad2c-3eac1e9bc3fa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/cc559ed7-7929-436c-b59f-84e7755eb88e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/cd1472f8-f521-4d23-bf4e-bd7ef0181fcc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/cffcde44-ee5b-41d9-8868-69db557ba6f8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/d30fac92-c8ec-4a0d-8313-285ff2513492>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/d7aeb0d1-627e-4a18-967e-83b2902da47e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/d7ce1f4b-cff3-45bb-905a-b3ea05d2fad8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/d8b4897b-2f5f-4e18-afd8-1bf363fb5739>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/da64fdf9-9a3f-4786-90d8-139e306bd971>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/de0d7503-0132-47bd-aed3-e8f0cd17da58>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ded33630-fda4-43cf-ab30-7891c4257dbd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e0bfdbe7-213b-4efc-a94c-bd9c510e2949>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e1590e5d-4723-4d82-8157-739bf63e00ac>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e36172a2-c224-45e0-9c09-fbdabd16d8b5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e78199ba-8296-4540-86d7-70c76b1c3e53>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e78fe1cb-b5c9-40c0-b801-619a89d24efa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ea609ac5-5781-405e-aee9-d6a0b4231fb5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ebd805b1-1abf-4b48-86d8-b6bd98d4e72e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ee086d7c-a96e-448c-bca2-2939aa29dbee>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ee738dcb-a085-4b06-b0b1-40c4a29d03c2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/f172ab94-b75c-4d10-830f-1e0b240e014a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/f79efe3f-1f80-4b5c-afa4-f4f03dacbecc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/fc7406b2-a49f-47d7-b2a0-2b736be926fe>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/fd66f872-a4dd-4146-baae-06b6cdc34af9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/fe7344f7-7ae3-4fbe-8cee-dcf8e212da71> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0128bb75-3246-467f-8df8-5a0d2528ff5b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/01305cd1-2974-47b0-95e8-6298bbbe2cba>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0225cc51-09c1-49e7-ad6a-cdd95dac7352>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0519b42e-73c3-4606-b484-bd4c976b976b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/05d4a1c2-076f-4739-bc49-10e96adda365>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0b4abeb2-42aa-4f32-beb6-0ed3012f1622>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0bef995d-e8e4-46a1-93d4-fa688acf540a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/0c2833fb-f175-4e48-8dee-cd1b278a3a2c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/11a81d34-a44f-47b9-a3fe-88beeb44dcb1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/132a6052-3249-41b5-9976-c642f5414b3d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/13b52080-2547-4674-bda2-0c67f3e6dee3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/14076d33-a7d6-49d1-b84b-fdc58eb5a6d4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1820fc7b-4205-44d4-a2a1-94ac73e625dd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/197cecbb-3b64-49da-b573-cdd7d0d682cc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1bca70bc-96cb-4001-bbb8-f47a816a6723>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1d999e6f-1411-45be-bee6-b37ff639e2db>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1e996a51-23b1-4c20-b666-77b9182d4ea0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/1f44d79a-7686-45b2-b6e8-1c84c8222254>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/223a1d3d-6f7b-4eb9-a59d-abc2adf18f1f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/2408ceec-2d21-4592-8930-b1d49e7923b0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/267b45b9-dc58-4cf4-abaa-122e83997844>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/27a00ff8-10be-42fa-a501-00a6b97fa367>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/2b2f1e3a-188c-44df-be36-61c5e9e650ad>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/30b9df55-b654-44e7-b5cb-cdae53418b0c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/31b50265-b3f4-4511-8c06-e86157dce470>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/361bb49e-6e8e-4f06-bf0d-84b48d823f67>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/388b3bfa-a492-41e4-bdc5-f33a1897445b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/3a92a9b4-3824-4d27-8dd0-1e12ccdc5c4e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/3cd95872-0d96-4b61-b1bf-ce4f38670acc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/42c8e613-c6ef-41fe-8aae-85e874785a40>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/42fe6170-b887-4bb3-b75f-712e0dc486ab>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/430a3acd-056d-40e5-88db-8ce8f4ce21b0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/4344ac73-d43d-4ad1-b8a0-7fd202a520e6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/59e05cba-dc80-4795-8866-4c12d0272d68>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/5f099ee7-67b9-48a1-9a63-3842ce7c3b32>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/60688de1-c10e-46c8-a838-1ecde427eea0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/65cce232-9f60-48cc-b191-6a7b16ca52ce>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/65f12b6c-ced8-4999-b9b8-1041df302e20>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/663ffd21-4c47-47c7-bdc2-07b5299559c0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/668c5315-103b-4b08-959e-1bf618878365>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/6c2e91d9-27e9-4195-9626-0722e1193f9e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/74d6504d-6c79-43f9-8eea-b2eb8ae567c1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/74fbe68b-3d51-4419-a167-eaa79f816df0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/76c65d2a-1fca-4fa9-9575-45a316cc5aa7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/7947ae08-6742-47db-9f8f-77da9801fb20>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/7f664f16-78ab-4ec4-9c05-e1963e4da50f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/82f0c03a-bb04-4869-ba94-de64ed06b939>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/858a61eb-c548-4e8f-b7b9-d53ff2f194a9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/8800de3a-c426-457b-a67d-2cf62e9ce4f3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/89baddb1-e995-419c-a360-ed5f8271879c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/8e98e3cf-7ab5-4205-8c54-6234db8e8588>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/8fc74152-d57a-47c8-b2e6-2bad9afa17d5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/93e809cb-3022-4f9c-b8d1-7a5cf991c3d8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/99d4ad1c-e2d0-4fa3-9b21-ba8b0ac7fe51>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/9aaf29da-45ac-47cd-a895-02865ab48ae1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/9eaed3cf-9eba-4cf6-8a27-b346cc9b60d8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/9efc2a57-47b4-4c69-8ad4-84cee1774b37>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/a2a59df5-a0d5-4e41-8a24-85437b127a54>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ab2e8963-9e28-41ec-9e92-691c75503450>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/bb09310a-1806-4031-8f67-e01720989b06>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/bbc38ba1-2c38-44a8-b7e4-fa526036c634>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c2aca713-28c1-4e31-a21c-4242b1aed271>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c2da469a-f0f8-4c2a-91dd-5969ff86ba8b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c4a95b3f-6b2f-425d-b19f-41dbca91c6e8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c4b72ae5-443d-4b99-885c-3d81ad4f8b54>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c71a8c7b-7aa4-4b43-995b-8907ad6de9e5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/c79fe905-03e9-49b7-8103-065712a17a9c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/cb35dba1-6860-4d97-ad2c-3eac1e9bc3fa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/cc559ed7-7929-436c-b59f-84e7755eb88e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/cd1472f8-f521-4d23-bf4e-bd7ef0181fcc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/cffcde44-ee5b-41d9-8868-69db557ba6f8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/d30fac92-c8ec-4a0d-8313-285ff2513492>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/d7aeb0d1-627e-4a18-967e-83b2902da47e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/d7ce1f4b-cff3-45bb-905a-b3ea05d2fad8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/d8b4897b-2f5f-4e18-afd8-1bf363fb5739>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/da64fdf9-9a3f-4786-90d8-139e306bd971>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/de0d7503-0132-47bd-aed3-e8f0cd17da58>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ded33630-fda4-43cf-ab30-7891c4257dbd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e0bfdbe7-213b-4efc-a94c-bd9c510e2949>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e1590e5d-4723-4d82-8157-739bf63e00ac>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e36172a2-c224-45e0-9c09-fbdabd16d8b5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e78199ba-8296-4540-86d7-70c76b1c3e53>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/e78fe1cb-b5c9-40c0-b801-619a89d24efa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ea609ac5-5781-405e-aee9-d6a0b4231fb5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ebd805b1-1abf-4b48-86d8-b6bd98d4e72e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ee086d7c-a96e-448c-bca2-2939aa29dbee>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/ee738dcb-a085-4b06-b0b1-40c4a29d03c2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/f172ab94-b75c-4d10-830f-1e0b240e014a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/f79efe3f-1f80-4b5c-afa4-f4f03dacbecc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/fc7406b2-a49f-47d7-b2a0-2b736be926fe>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/fd66f872-a4dd-4146-baae-06b6cdc34af9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textsorte/fe7344f7-7ae3-4fbe-8cee-dcf8e212da71> ;
+    skos:prefLabel "Textsorte"@de .
+

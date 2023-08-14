@@ -1,0 +1,53 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/2ced15a0-7932-424b-aef5-8d48553d5a2f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> ;
+    skos:notation "5" ;
+    skos:prefLabel "V"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/46ca2ced-ca26-4987-9d85-5ab338a2fae1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> ;
+    skos:notation "4" ;
+    skos:prefLabel "IV"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/ceb49928-10e8-4e33-b71b-5a36c5b0ff81> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> ;
+    skos:notation "1" ;
+    skos:prefLabel "I"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/fa0309c8-a836-4fbd-81e3-7c50a4e38a12> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> ;
+    skos:notation "3" ;
+    skos:prefLabel "III"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/ff820368-dde5-451f-a987-ca9869317a78> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> ;
+    skos:notation "2" ;
+    skos:prefLabel "II"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Komplexität"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/2ced15a0-7932-424b-aef5-8d48553d5a2f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/46ca2ced-ca26-4987-9d85-5ab338a2fae1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/ceb49928-10e8-4e33-b71b-5a36c5b0ff81>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/fa0309c8-a836-4fbd-81e3-7c50a4e38a12>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/ff820368-dde5-451f-a987-ca9869317a78> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/2ced15a0-7932-424b-aef5-8d48553d5a2f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/46ca2ced-ca26-4987-9d85-5ab338a2fae1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/ceb49928-10e8-4e33-b71b-5a36c5b0ff81>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/fa0309c8-a836-4fbd-81e3-7c50a4e38a12>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/komplexität/ff820368-dde5-451f-a987-ca9869317a78> ;
+    skos:prefLabel "Komplexität"@de .
+

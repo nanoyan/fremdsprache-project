@@ -1,0 +1,1043 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/00226b83-f027-4985-be51-be34bd818d9c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "100" ;
+    skos:prefLabel "5.01L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/013dce95-0f0c-4551-b8fd-ed4d143969ac> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "42" ;
+    skos:prefLabel "2.05m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/01aef5b3-ca94-44f3-a845-0d196717d063> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "69" ;
+    skos:prefLabel "3.09m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/01b76c17-ab55-480b-b6bf-26e5cf3968f3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "102" ;
+    skos:prefLabel "5.03"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/06358176-a7f3-4cbc-8e6f-a97fa9f9ef29> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "35" ;
+    skos:prefLabel "2.03L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/073c5e80-e59f-4a81-92be-06fb9159ac7f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "64" ;
+    skos:prefLabel "3.07h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/091eed91-51c2-4ef1-93e9-c01de8d0c14f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "110" ;
+    skos:prefLabel "5.06h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/0a07e791-0784-4b98-aaf6-452bb53d79ee> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "104" ;
+    skos:prefLabel "5.04h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/0a8866c1-4409-4704-a90b-fd1ea5d1f16f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "96" ;
+    skos:prefLabel "4.12m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/0e030935-10a2-4017-91f6-15186850f7c0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "32" ;
+    skos:prefLabel "2.02L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/11c66659-916e-403c-98dc-d7fea7732561> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "67" ;
+    skos:prefLabel "3.08"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/11fa27de-7eb6-4414-91ff-5af49894f836> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "47" ;
+    skos:prefLabel "3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/12609946-ea70-4922-9fb2-7358cb88b366> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "84" ;
+    skos:prefLabel "4.05h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1437dadd-7370-4ee2-b057-192235bc5ece> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "91" ;
+    skos:prefLabel "4.08L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1468cbad-766b-4ffc-aa01-ff9b212d330d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "46" ;
+    skos:prefLabel "2.07m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/15bbd971-263d-4cf9-be4f-bd8264ba6ce5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "21" ;
+    skos:prefLabel "1.09h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/16b0ebbd-f731-4f9b-89da-a74c36636195> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "98" ;
+    skos:prefLabel "5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/19383676-73da-46f3-8f5c-3d329f15f7cc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "9" ;
+    skos:prefLabel "1.04"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1c990353-89de-4b1e-8a7d-5ea53a43e6cc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "1" ;
+    skos:prefLabel "1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1e18366d-6356-44b9-ba94-2d19e549a672> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "79" ;
+    skos:prefLabel "4.03L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1ec123c5-0622-4013-bc75-3a494ad1aaab> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "58" ;
+    skos:prefLabel "3.05h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1f31dc58-4581-474f-8b3d-0080037c1bf5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "31" ;
+    skos:prefLabel "2.02h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/210bbe99-023c-489f-9544-dc43ba01a7c7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "29" ;
+    skos:prefLabel "2.01"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/213aa552-e2fc-4898-bd5c-9998c2ed80ef> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "61" ;
+    skos:prefLabel "3.06h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/253ba678-90be-4352-886d-a9eca7aa6f27> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "74" ;
+    skos:prefLabel "4.01m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/2657f36c-2490-4566-95a9-580db8b7ff3f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "60" ;
+    skos:prefLabel "3.05m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/26737008-a1b4-4803-a46e-30cc074e3913> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "41" ;
+    skos:prefLabel "2.05L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/28357fac-b2f3-4d09-a7c8-c0dabf80b8e6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "6" ;
+    skos:prefLabel "1.03h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/2949497a-6d62-4543-9805-9146c724ddb3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "87" ;
+    skos:prefLabel "4.07h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/29e6c1a2-4470-44eb-8513-be9d7e9c0ab2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "108" ;
+    skos:prefLabel "5.05L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/2c0c535a-4f4d-4b93-8c73-1dfcc0a9647e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "115" ;
+    skos:prefLabel "5.07m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3194a628-15b6-4152-ba47-a606adb7f021> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "14" ;
+    skos:prefLabel "1.06h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/335d6a3d-7571-4dca-b3f9-2c64ad039161> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "5" ;
+    skos:prefLabel "1.02L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/33bc7eef-c2a9-4693-9d32-0eaf5b2dbf1f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "11" ;
+    skos:prefLabel "1.05h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/363fbb32-9cbe-4214-bc52-2ff2c0a3b7b7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "105" ;
+    skos:prefLabel "5.04L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/36d2ed8b-5db1-43e9-a101-e797ec6a631d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "85" ;
+    skos:prefLabel "4.05L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3b0411f4-9fbc-4716-a387-e27bb1f9c267> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "15" ;
+    skos:prefLabel "1.06L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3b1f58a4-cabe-4f0f-8c98-7936be11eb5b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "114" ;
+    skos:prefLabel "5.07L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3e029822-8aca-4dd5-9d27-10ee04b45c74> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "52" ;
+    skos:prefLabel "3.02L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3f917c59-5253-4b59-a100-2ac6fb33fedd> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "97" ;
+    skos:prefLabel "4.13m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4066e8ad-1297-432e-8411-8efb19f7591c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "48" ;
+    skos:prefLabel "3.01h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4337f633-89ff-425c-bdb0-f9b75197f583> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "71" ;
+    skos:prefLabel "4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4426a2d9-d98d-49b8-9ead-131c42ad56f4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "50" ;
+    skos:prefLabel "3.01m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/46b323e9-e293-44ce-825c-de2a1633ae0e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "53" ;
+    skos:prefLabel "3.03h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4b1c0119-ff8a-49c6-b563-5231fc830b64> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "25" ;
+    skos:prefLabel "1.10L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4e341435-ef53-4706-a5e2-7791d5e83b76> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "107" ;
+    skos:prefLabel "5.05h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/522d7e24-256d-49fc-a111-8710e283dacc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "88" ;
+    skos:prefLabel "4.07L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/5aca559e-3af0-40cd-90c6-62fc6fd5531f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "30" ;
+    skos:prefLabel "2.01L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/5b55f60b-b548-4ff7-b270-38395105037f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "57" ;
+    skos:prefLabel "3.04L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/60a37de9-59c9-4179-b619-7dc40f3ee926> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "65" ;
+    skos:prefLabel "3.07L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6129e94c-c2f2-4630-a636-35c4c6e894bf> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "81" ;
+    skos:prefLabel "4.04h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6191fe0f-28c6-40a7-9745-33d16153143e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "73" ;
+    skos:prefLabel "4.01L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/63279095-b94d-4c82-9c27-30e1d37d0fb1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "70" ;
+    skos:prefLabel "3.10m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/66fa4a83-3add-4b08-940b-892dca363ca5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "78" ;
+    skos:prefLabel "4.03h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6a3f7e2f-469c-4d04-873b-b4620bf0f63f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "95" ;
+    skos:prefLabel "4.11m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6b27417d-6547-49e5-8fda-ce72497091f6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "62" ;
+    skos:prefLabel "3.06L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6bf2cb21-7e40-49e7-a827-e8a62fda2cf6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "59" ;
+    skos:prefLabel "3.05L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6d43d66b-a0ca-412a-acef-f4921756c94a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "109" ;
+    skos:prefLabel "5.05m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6d91b986-c4bf-4d6d-a16f-34c86af71112> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "106" ;
+    skos:prefLabel "5.04m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/77141770-b775-425f-bbf9-eba76a6e26e2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "20" ;
+    skos:prefLabel "1.08L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/78168ff1-f04f-48e0-b4e8-9c263c448076> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "94" ;
+    skos:prefLabel "4.10m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/78791323-0ca8-4a41-a7dd-1658761c599a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "8" ;
+    skos:prefLabel "1.03m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/78ae6701-0079-4dc7-ac73-2d8c71f9e7ef> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "2" ;
+    skos:prefLabel "1.01"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/7b1a2a06-a041-4fa7-b4fa-605d4a65e849> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "10" ;
+    skos:prefLabel "1.04L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/7ef3f725-d689-4c0d-8b8b-3a29403c5cc9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "89" ;
+    skos:prefLabel "4.07m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/81b0a000-39e9-4718-8c94-f9eb3d197dd3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "3" ;
+    skos:prefLabel "1.01L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/8a9e8395-3015-4975-afc4-76f740a19a38> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "44" ;
+    skos:prefLabel "2.06L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/8adc6621-a087-472d-9afd-0030698f6458> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "56" ;
+    skos:prefLabel "3.04"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/96778d50-a7ba-4ac9-bb07-c57b83883f09> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "113" ;
+    skos:prefLabel "5.07h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/97c6a0b3-43ca-4e4a-b9ca-2b0c20e777f8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "7" ;
+    skos:prefLabel "1.03L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/97f89b2d-efcd-4b71-be50-2f49e125224f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "99" ;
+    skos:prefLabel "5.01"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/9f7d9a95-a91c-4da1-bd05-d95a45b40044> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "28" ;
+    skos:prefLabel "2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ace22902-eef2-452b-88fe-517310d8b0ee> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "34" ;
+    skos:prefLabel "2.03h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ace90b77-b7a4-4811-8cc4-3ed34ad0e7e2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "33" ;
+    skos:prefLabel "2.02m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/af0ac2a6-016d-43ff-9ba0-e72ade4721c5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "24" ;
+    skos:prefLabel "1.10h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b12e2558-d9bb-402e-9e82-d3374d2f8bda> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "54" ;
+    skos:prefLabel "3.03L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b1aea20e-a16c-4a98-8360-18563fdffcc3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "72" ;
+    skos:prefLabel "4.01h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b1be88ce-2463-46e1-9492-b1fbfcd80a9e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "68" ;
+    skos:prefLabel "3.08L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b204296b-0192-4746-9a80-1cace009a1c8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "112" ;
+    skos:prefLabel "5.06m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b35db745-5545-488f-9aca-075a2a4fba28> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "38" ;
+    skos:prefLabel "2.04L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b460f357-7d04-4c49-9ce7-f6145a71ceea> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "13" ;
+    skos:prefLabel "1.05m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b6bc4ae5-4369-432f-8fa0-e49c6853b32a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "12" ;
+    skos:prefLabel "1.05L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b8f06de9-5307-451e-a437-c44fd15ba69f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "16" ;
+    skos:prefLabel "1.06m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/bbda59af-dc45-4e7b-81c6-a3468bcada7c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "36" ;
+    skos:prefLabel "2.03m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/bc901890-db35-4045-b68a-37a6216fbf3d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "86" ;
+    skos:prefLabel "4.06m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/bcbff311-16d8-4599-a3ea-fee8009714fa> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "51" ;
+    skos:prefLabel "3.02"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/be2c4c14-9675-4dc8-921e-a8ef8bf92c80> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "49" ;
+    skos:prefLabel "3.01L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/be7a1e78-ba64-49ff-8e1c-cb3362eaba92> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "83" ;
+    skos:prefLabel "4.04m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/bf1f9dbc-73dc-485f-8bde-9e4d8e15c7b3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "23" ;
+    skos:prefLabel "1.09m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c11d9233-b2e0-45e9-a4f1-0af309774dbc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "75" ;
+    skos:prefLabel "4.02h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c12b0fac-2dba-4672-8160-ac6c06882a25> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "22" ;
+    skos:prefLabel "1.09L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c16796c2-c527-467d-8510-6898af6a561f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "37" ;
+    skos:prefLabel "2.04h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c2267b28-edb3-48c9-87d2-564549fd2ada> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "27" ;
+    skos:prefLabel "1.11m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c2bd8ff9-8dec-4637-a851-dc7bedf86c73> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "92" ;
+    skos:prefLabel "4.08m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c51f213a-bffa-403f-9b28-79bbaaa07972> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "40" ;
+    skos:prefLabel "2.05h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c541eec2-568c-4944-8e77-a5c2e9975b73> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "17" ;
+    skos:prefLabel "1.07"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c5efc285-8500-45cf-b056-414ae0c746fb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "82" ;
+    skos:prefLabel "4.04L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c632170b-5c53-41af-a2ec-9443fa61419c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "55" ;
+    skos:prefLabel "3.03m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c771fad1-ade5-42a4-831a-688efdbd84d4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "63" ;
+    skos:prefLabel "3.06m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/caabde94-d6ec-4ce7-9274-827a6ca0e284> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "80" ;
+    skos:prefLabel "4.03m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/cae4860e-65de-4caf-ac58-b3c4f0f3c68a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "76" ;
+    skos:prefLabel "4.02L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/d2935444-0b95-46d8-8c98-9a85c61741e1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "77" ;
+    skos:prefLabel "4.02m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/d3a12638-e7c2-4af8-b43a-0670362e75a6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "26" ;
+    skos:prefLabel "1.10m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/da466b4a-7da4-4864-a443-65e459fe13ea> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "19" ;
+    skos:prefLabel "1.08"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ddec14ff-a114-4bb2-a430-ced2ca67f7ae> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "103" ;
+    skos:prefLabel "5.03L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/e379021d-f76c-4a57-abf0-a35072250e2a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "111" ;
+    skos:prefLabel "5.06L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/e94273ad-a071-4633-adca-374947525080> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "39" ;
+    skos:prefLabel "2.04m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ebb8a1b7-242d-4ea5-bf76-14ec5659fe05> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "4" ;
+    skos:prefLabel "1.02"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ecca0261-caf4-4187-9e33-4652cd6bfa3d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "43" ;
+    skos:prefLabel "2.06h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ed0fa900-3cf6-4d03-8a7c-3662512a515a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "66" ;
+    skos:prefLabel "3.07m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/f2f66874-b8b3-403e-92f9-d9f2530347be> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "18" ;
+    skos:prefLabel "1.07L"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/f375d572-80e1-4be7-bf7d-cf9943ea45e7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "93" ;
+    skos:prefLabel "4.09m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/f8099a8a-de74-4139-9c98-a6b16f6836f0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "45" ;
+    skos:prefLabel "2.06m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ff6b6d75-87ef-4a71-997b-4e3b9bc2efc4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "90" ;
+    skos:prefLabel "4.08h"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ffc7cca0-aa2b-4627-8c34-463d8dfb90c6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> ;
+    skos:notation "101" ;
+    skos:prefLabel "5.02m"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Kompetenzen Ma1"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/00226b83-f027-4985-be51-be34bd818d9c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/013dce95-0f0c-4551-b8fd-ed4d143969ac>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/01aef5b3-ca94-44f3-a845-0d196717d063>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/01b76c17-ab55-480b-b6bf-26e5cf3968f3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/06358176-a7f3-4cbc-8e6f-a97fa9f9ef29>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/073c5e80-e59f-4a81-92be-06fb9159ac7f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/091eed91-51c2-4ef1-93e9-c01de8d0c14f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/0a07e791-0784-4b98-aaf6-452bb53d79ee>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/0a8866c1-4409-4704-a90b-fd1ea5d1f16f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/0e030935-10a2-4017-91f6-15186850f7c0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/11c66659-916e-403c-98dc-d7fea7732561>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/11fa27de-7eb6-4414-91ff-5af49894f836>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/12609946-ea70-4922-9fb2-7358cb88b366>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1437dadd-7370-4ee2-b057-192235bc5ece>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1468cbad-766b-4ffc-aa01-ff9b212d330d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/15bbd971-263d-4cf9-be4f-bd8264ba6ce5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/16b0ebbd-f731-4f9b-89da-a74c36636195>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/19383676-73da-46f3-8f5c-3d329f15f7cc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1c990353-89de-4b1e-8a7d-5ea53a43e6cc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1e18366d-6356-44b9-ba94-2d19e549a672>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1ec123c5-0622-4013-bc75-3a494ad1aaab>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1f31dc58-4581-474f-8b3d-0080037c1bf5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/210bbe99-023c-489f-9544-dc43ba01a7c7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/213aa552-e2fc-4898-bd5c-9998c2ed80ef>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/253ba678-90be-4352-886d-a9eca7aa6f27>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/2657f36c-2490-4566-95a9-580db8b7ff3f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/26737008-a1b4-4803-a46e-30cc074e3913>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/28357fac-b2f3-4d09-a7c8-c0dabf80b8e6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/2949497a-6d62-4543-9805-9146c724ddb3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/29e6c1a2-4470-44eb-8513-be9d7e9c0ab2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/2c0c535a-4f4d-4b93-8c73-1dfcc0a9647e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3194a628-15b6-4152-ba47-a606adb7f021>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/335d6a3d-7571-4dca-b3f9-2c64ad039161>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/33bc7eef-c2a9-4693-9d32-0eaf5b2dbf1f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/363fbb32-9cbe-4214-bc52-2ff2c0a3b7b7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/36d2ed8b-5db1-43e9-a101-e797ec6a631d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3b0411f4-9fbc-4716-a387-e27bb1f9c267>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3b1f58a4-cabe-4f0f-8c98-7936be11eb5b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3e029822-8aca-4dd5-9d27-10ee04b45c74>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3f917c59-5253-4b59-a100-2ac6fb33fedd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4066e8ad-1297-432e-8411-8efb19f7591c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4337f633-89ff-425c-bdb0-f9b75197f583>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4426a2d9-d98d-49b8-9ead-131c42ad56f4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/46b323e9-e293-44ce-825c-de2a1633ae0e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4b1c0119-ff8a-49c6-b563-5231fc830b64>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4e341435-ef53-4706-a5e2-7791d5e83b76>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/522d7e24-256d-49fc-a111-8710e283dacc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/5aca559e-3af0-40cd-90c6-62fc6fd5531f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/5b55f60b-b548-4ff7-b270-38395105037f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/60a37de9-59c9-4179-b619-7dc40f3ee926>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6129e94c-c2f2-4630-a636-35c4c6e894bf>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6191fe0f-28c6-40a7-9745-33d16153143e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/63279095-b94d-4c82-9c27-30e1d37d0fb1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/66fa4a83-3add-4b08-940b-892dca363ca5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6a3f7e2f-469c-4d04-873b-b4620bf0f63f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6b27417d-6547-49e5-8fda-ce72497091f6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6bf2cb21-7e40-49e7-a827-e8a62fda2cf6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6d43d66b-a0ca-412a-acef-f4921756c94a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6d91b986-c4bf-4d6d-a16f-34c86af71112>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/77141770-b775-425f-bbf9-eba76a6e26e2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/78168ff1-f04f-48e0-b4e8-9c263c448076>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/78791323-0ca8-4a41-a7dd-1658761c599a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/78ae6701-0079-4dc7-ac73-2d8c71f9e7ef>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/7b1a2a06-a041-4fa7-b4fa-605d4a65e849>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/7ef3f725-d689-4c0d-8b8b-3a29403c5cc9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/81b0a000-39e9-4718-8c94-f9eb3d197dd3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/8a9e8395-3015-4975-afc4-76f740a19a38>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/8adc6621-a087-472d-9afd-0030698f6458>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/96778d50-a7ba-4ac9-bb07-c57b83883f09>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/97c6a0b3-43ca-4e4a-b9ca-2b0c20e777f8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/97f89b2d-efcd-4b71-be50-2f49e125224f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/9f7d9a95-a91c-4da1-bd05-d95a45b40044>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ace22902-eef2-452b-88fe-517310d8b0ee>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ace90b77-b7a4-4811-8cc4-3ed34ad0e7e2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/af0ac2a6-016d-43ff-9ba0-e72ade4721c5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b12e2558-d9bb-402e-9e82-d3374d2f8bda>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b1aea20e-a16c-4a98-8360-18563fdffcc3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b1be88ce-2463-46e1-9492-b1fbfcd80a9e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b204296b-0192-4746-9a80-1cace009a1c8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b35db745-5545-488f-9aca-075a2a4fba28>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b460f357-7d04-4c49-9ce7-f6145a71ceea>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b6bc4ae5-4369-432f-8fa0-e49c6853b32a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b8f06de9-5307-451e-a437-c44fd15ba69f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/bbda59af-dc45-4e7b-81c6-a3468bcada7c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/bc901890-db35-4045-b68a-37a6216fbf3d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/bcbff311-16d8-4599-a3ea-fee8009714fa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/be2c4c14-9675-4dc8-921e-a8ef8bf92c80>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/be7a1e78-ba64-49ff-8e1c-cb3362eaba92>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/bf1f9dbc-73dc-485f-8bde-9e4d8e15c7b3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c11d9233-b2e0-45e9-a4f1-0af309774dbc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c12b0fac-2dba-4672-8160-ac6c06882a25>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c16796c2-c527-467d-8510-6898af6a561f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c2267b28-edb3-48c9-87d2-564549fd2ada>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c2bd8ff9-8dec-4637-a851-dc7bedf86c73>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c51f213a-bffa-403f-9b28-79bbaaa07972>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c541eec2-568c-4944-8e77-a5c2e9975b73>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c5efc285-8500-45cf-b056-414ae0c746fb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c632170b-5c53-41af-a2ec-9443fa61419c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c771fad1-ade5-42a4-831a-688efdbd84d4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/caabde94-d6ec-4ce7-9274-827a6ca0e284>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/cae4860e-65de-4caf-ac58-b3c4f0f3c68a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/d2935444-0b95-46d8-8c98-9a85c61741e1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/d3a12638-e7c2-4af8-b43a-0670362e75a6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/da466b4a-7da4-4864-a443-65e459fe13ea>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ddec14ff-a114-4bb2-a430-ced2ca67f7ae>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/e379021d-f76c-4a57-abf0-a35072250e2a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/e94273ad-a071-4633-adca-374947525080>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ebb8a1b7-242d-4ea5-bf76-14ec5659fe05>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ecca0261-caf4-4187-9e33-4652cd6bfa3d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ed0fa900-3cf6-4d03-8a7c-3662512a515a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/f2f66874-b8b3-403e-92f9-d9f2530347be>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/f375d572-80e1-4be7-bf7d-cf9943ea45e7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/f8099a8a-de74-4139-9c98-a6b16f6836f0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ff6b6d75-87ef-4a71-997b-4e3b9bc2efc4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ffc7cca0-aa2b-4627-8c34-463d8dfb90c6> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/00226b83-f027-4985-be51-be34bd818d9c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/013dce95-0f0c-4551-b8fd-ed4d143969ac>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/01aef5b3-ca94-44f3-a845-0d196717d063>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/01b76c17-ab55-480b-b6bf-26e5cf3968f3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/06358176-a7f3-4cbc-8e6f-a97fa9f9ef29>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/073c5e80-e59f-4a81-92be-06fb9159ac7f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/091eed91-51c2-4ef1-93e9-c01de8d0c14f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/0a07e791-0784-4b98-aaf6-452bb53d79ee>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/0a8866c1-4409-4704-a90b-fd1ea5d1f16f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/0e030935-10a2-4017-91f6-15186850f7c0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/11c66659-916e-403c-98dc-d7fea7732561>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/11fa27de-7eb6-4414-91ff-5af49894f836>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/12609946-ea70-4922-9fb2-7358cb88b366>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1437dadd-7370-4ee2-b057-192235bc5ece>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1468cbad-766b-4ffc-aa01-ff9b212d330d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/15bbd971-263d-4cf9-be4f-bd8264ba6ce5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/16b0ebbd-f731-4f9b-89da-a74c36636195>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/19383676-73da-46f3-8f5c-3d329f15f7cc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1c990353-89de-4b1e-8a7d-5ea53a43e6cc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1e18366d-6356-44b9-ba94-2d19e549a672>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1ec123c5-0622-4013-bc75-3a494ad1aaab>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/1f31dc58-4581-474f-8b3d-0080037c1bf5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/210bbe99-023c-489f-9544-dc43ba01a7c7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/213aa552-e2fc-4898-bd5c-9998c2ed80ef>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/253ba678-90be-4352-886d-a9eca7aa6f27>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/2657f36c-2490-4566-95a9-580db8b7ff3f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/26737008-a1b4-4803-a46e-30cc074e3913>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/28357fac-b2f3-4d09-a7c8-c0dabf80b8e6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/2949497a-6d62-4543-9805-9146c724ddb3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/29e6c1a2-4470-44eb-8513-be9d7e9c0ab2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/2c0c535a-4f4d-4b93-8c73-1dfcc0a9647e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3194a628-15b6-4152-ba47-a606adb7f021>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/335d6a3d-7571-4dca-b3f9-2c64ad039161>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/33bc7eef-c2a9-4693-9d32-0eaf5b2dbf1f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/363fbb32-9cbe-4214-bc52-2ff2c0a3b7b7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/36d2ed8b-5db1-43e9-a101-e797ec6a631d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3b0411f4-9fbc-4716-a387-e27bb1f9c267>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3b1f58a4-cabe-4f0f-8c98-7936be11eb5b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3e029822-8aca-4dd5-9d27-10ee04b45c74>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/3f917c59-5253-4b59-a100-2ac6fb33fedd>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4066e8ad-1297-432e-8411-8efb19f7591c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4337f633-89ff-425c-bdb0-f9b75197f583>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4426a2d9-d98d-49b8-9ead-131c42ad56f4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/46b323e9-e293-44ce-825c-de2a1633ae0e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4b1c0119-ff8a-49c6-b563-5231fc830b64>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/4e341435-ef53-4706-a5e2-7791d5e83b76>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/522d7e24-256d-49fc-a111-8710e283dacc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/5aca559e-3af0-40cd-90c6-62fc6fd5531f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/5b55f60b-b548-4ff7-b270-38395105037f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/60a37de9-59c9-4179-b619-7dc40f3ee926>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6129e94c-c2f2-4630-a636-35c4c6e894bf>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6191fe0f-28c6-40a7-9745-33d16153143e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/63279095-b94d-4c82-9c27-30e1d37d0fb1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/66fa4a83-3add-4b08-940b-892dca363ca5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6a3f7e2f-469c-4d04-873b-b4620bf0f63f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6b27417d-6547-49e5-8fda-ce72497091f6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6bf2cb21-7e40-49e7-a827-e8a62fda2cf6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6d43d66b-a0ca-412a-acef-f4921756c94a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/6d91b986-c4bf-4d6d-a16f-34c86af71112>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/77141770-b775-425f-bbf9-eba76a6e26e2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/78168ff1-f04f-48e0-b4e8-9c263c448076>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/78791323-0ca8-4a41-a7dd-1658761c599a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/78ae6701-0079-4dc7-ac73-2d8c71f9e7ef>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/7b1a2a06-a041-4fa7-b4fa-605d4a65e849>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/7ef3f725-d689-4c0d-8b8b-3a29403c5cc9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/81b0a000-39e9-4718-8c94-f9eb3d197dd3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/8a9e8395-3015-4975-afc4-76f740a19a38>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/8adc6621-a087-472d-9afd-0030698f6458>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/96778d50-a7ba-4ac9-bb07-c57b83883f09>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/97c6a0b3-43ca-4e4a-b9ca-2b0c20e777f8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/97f89b2d-efcd-4b71-be50-2f49e125224f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/9f7d9a95-a91c-4da1-bd05-d95a45b40044>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ace22902-eef2-452b-88fe-517310d8b0ee>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ace90b77-b7a4-4811-8cc4-3ed34ad0e7e2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/af0ac2a6-016d-43ff-9ba0-e72ade4721c5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b12e2558-d9bb-402e-9e82-d3374d2f8bda>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b1aea20e-a16c-4a98-8360-18563fdffcc3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b1be88ce-2463-46e1-9492-b1fbfcd80a9e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b204296b-0192-4746-9a80-1cace009a1c8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b35db745-5545-488f-9aca-075a2a4fba28>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b460f357-7d04-4c49-9ce7-f6145a71ceea>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b6bc4ae5-4369-432f-8fa0-e49c6853b32a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/b8f06de9-5307-451e-a437-c44fd15ba69f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/bbda59af-dc45-4e7b-81c6-a3468bcada7c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/bc901890-db35-4045-b68a-37a6216fbf3d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/bcbff311-16d8-4599-a3ea-fee8009714fa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/be2c4c14-9675-4dc8-921e-a8ef8bf92c80>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/be7a1e78-ba64-49ff-8e1c-cb3362eaba92>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/bf1f9dbc-73dc-485f-8bde-9e4d8e15c7b3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c11d9233-b2e0-45e9-a4f1-0af309774dbc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c12b0fac-2dba-4672-8160-ac6c06882a25>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c16796c2-c527-467d-8510-6898af6a561f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c2267b28-edb3-48c9-87d2-564549fd2ada>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c2bd8ff9-8dec-4637-a851-dc7bedf86c73>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c51f213a-bffa-403f-9b28-79bbaaa07972>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c541eec2-568c-4944-8e77-a5c2e9975b73>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c5efc285-8500-45cf-b056-414ae0c746fb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c632170b-5c53-41af-a2ec-9443fa61419c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/c771fad1-ade5-42a4-831a-688efdbd84d4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/caabde94-d6ec-4ce7-9274-827a6ca0e284>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/cae4860e-65de-4caf-ac58-b3c4f0f3c68a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/d2935444-0b95-46d8-8c98-9a85c61741e1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/d3a12638-e7c2-4af8-b43a-0670362e75a6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/da466b4a-7da4-4864-a443-65e459fe13ea>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ddec14ff-a114-4bb2-a430-ced2ca67f7ae>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/e379021d-f76c-4a57-abf0-a35072250e2a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/e94273ad-a071-4633-adca-374947525080>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ebb8a1b7-242d-4ea5-bf76-14ec5659fe05>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ecca0261-caf4-4187-9e33-4652cd6bfa3d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ed0fa900-3cf6-4d03-8a7c-3662512a515a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/f2f66874-b8b3-403e-92f9-d9f2530347be>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/f375d572-80e1-4be7-bf7d-cf9943ea45e7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/f8099a8a-de74-4139-9c98-a6b16f6836f0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ff6b6d75-87ef-4a71-997b-4e3b9bc2efc4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenma1/ffc7cca0-aa2b-4627-8c34-463d8dfb90c6> ;
+    skos:prefLabel "Kompetenzen Ma1"@de .
+

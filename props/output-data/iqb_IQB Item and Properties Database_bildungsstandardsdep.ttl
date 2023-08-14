@@ -1,0 +1,944 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/082f2159-040b-41b8-8a2a-a9a7d20ea5c0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "63" ;
+    skos:prefLabel "3.3.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/0bcfe888-4fcc-4fc4-aaaa-60d2fa680817> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "81" ;
+    skos:prefLabel "4.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/0db02ad0-e882-44ea-a206-73565d692076> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "46" ;
+    skos:prefLabel "2.5.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/131c882d-d115-4827-a27f-d917867a97dc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "3" ;
+    skos:prefLabel "1.1.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/13cb41b0-c7a1-43c5-b917-821ba0d39703> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "54" ;
+    skos:prefLabel "3.2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/197f1061-b47a-4999-92ef-cac928805698> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "20" ;
+    skos:prefLabel "1.5.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/1c739917-a152-45ff-8183-1758cc08854a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "5" ;
+    skos:prefLabel "1.1.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/1d0ef5c5-88b4-4a08-907e-634d3d589a7b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "76" ;
+    skos:prefLabel "3.4.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/1e0856ed-772c-446d-b5dd-6fea8938e7c3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "38" ;
+    skos:prefLabel "2.3.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/21b86a60-2946-4529-8225-6a1d8b19a95c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "77" ;
+    skos:prefLabel "3.4.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/22c2ba4d-9fd8-4155-b8ba-88806452d33e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "71" ;
+    skos:prefLabel "3.3.9"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2701dca1-62b9-4c2f-8f3a-1b2f2870c699> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "95" ;
+    skos:prefLabel "4.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2720fb4f-bb8d-404a-8dc3-3f623a418b79> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "22" ;
+    skos:prefLabel "1.5.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/272a82ad-780d-4060-a07a-5574231a9bb7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "90" ;
+    skos:prefLabel "4.2.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2796fe8a-2437-4005-a761-87809f540671> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "97" ;
+    skos:prefLabel "4.4.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2922451c-dc0e-470f-9d9b-a90544e007eb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "10" ;
+    skos:prefLabel "1.2.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2a275ea9-b75a-443c-a55c-525463806825> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "41" ;
+    skos:prefLabel "2.4.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2a6335f6-4ef5-4fd9-82ba-91630b7d3dc8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "103" ;
+    skos:prefLabel "5.1.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/324c9775-d3ac-43b5-a502-4e2bfcc21e9d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "35" ;
+    skos:prefLabel "2.2.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/326c653b-6ec1-44ba-b222-7f17e205cebe> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "39" ;
+    skos:prefLabel "2.3.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/327773f0-a20a-426e-add7-a12008288a79> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "51" ;
+    skos:prefLabel "3.1.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3277b220-6413-4918-9fde-be4a0bd95273> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "4" ;
+    skos:prefLabel "1.1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/35d80315-3b67-41fb-9b09-4bf762f2116e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "50" ;
+    skos:prefLabel "3.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/37f546e9-aa65-416d-ba09-0063ce4ed5e5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "40" ;
+    skos:prefLabel "2.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/38525977-29f6-4dba-a4e5-860df0715957> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "7" ;
+    skos:prefLabel "1.2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3d0a04c1-a551-407e-987c-bc71d4354958> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "8" ;
+    skos:prefLabel "1.2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3e8bb434-76d5-41d0-8897-6445f4552252> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "6" ;
+    skos:prefLabel "1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3ed091a4-b2b3-47f3-8656-03f207ab8760> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "93" ;
+    skos:prefLabel "4.3.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3fe5e777-4f94-419d-89fe-49fa9885eaae> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "12" ;
+    skos:prefLabel "1.3.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/41478eb9-5722-4282-a21c-84742d65365b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "84" ;
+    skos:prefLabel "4.1.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/41c4a080-70ec-4b8a-9876-e369e6bca64a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "26" ;
+    skos:prefLabel "2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/45b7c52d-335f-4b81-b76f-10e31c75e748> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "44" ;
+    skos:prefLabel "2.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/49000fa9-79d4-445d-951b-8dbd06c2b7b4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "67" ;
+    skos:prefLabel "3.3.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/4bd09fe3-979a-460a-a029-c5198497137a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "78" ;
+    skos:prefLabel "3.4.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/4d65dbd4-7bc1-4d4f-9176-16a71d56817b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "27" ;
+    skos:prefLabel "2.1.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/4e4c1844-a772-4fc2-9b1e-752b15128ae3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "69" ;
+    skos:prefLabel "3.3.7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/548532e8-cd6c-4cb8-b762-9105b32ce234> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "47" ;
+    skos:prefLabel "2.5.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/55c01259-7883-40a4-81f5-01a9edef1de2> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "29" ;
+    skos:prefLabel "2.1.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5ba14078-01ff-4ff4-920b-31c7c9caac7d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "59" ;
+    skos:prefLabel "3.2.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5d4a315b-dcc4-45b1-ae22-b0ea646abff0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "9" ;
+    skos:prefLabel "1.2.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5e5c595d-1c67-4016-864f-8c9afdd5fa1c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "100" ;
+    skos:prefLabel "5.1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5f073eaa-f922-4ad1-bef0-ea0ecaa54d74> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "55" ;
+    skos:prefLabel "3.2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5f2340bd-9386-41c9-91c1-1b8ef1f77191> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "32" ;
+    skos:prefLabel "2.2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/64c897ed-9099-4043-b873-f6c7a012ec28> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "80" ;
+    skos:prefLabel "4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/65d76d88-8668-44ee-9748-ccadeca4e3b9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "82" ;
+    skos:prefLabel "4.1.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/65e1d36c-c203-4eb9-bf59-3841c29ae3e9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "75" ;
+    skos:prefLabel "3.4.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6762ea54-6137-42c6-9ce4-e67658936709> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "87" ;
+    skos:prefLabel "4.2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6ba3cb5a-12b7-423b-a84e-6bd1b811aab3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "24" ;
+    skos:prefLabel "1.5.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6d0e69da-09fc-4088-b724-61dccaf5f8d4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "101" ;
+    skos:prefLabel "5.1.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6d146a5b-cae4-4fc7-9a37-b684c2d2db98> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "68" ;
+    skos:prefLabel "3.3.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6e87d110-f1d2-4a31-8b4c-77e720a2bf8a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "85" ;
+    skos:prefLabel "4.1.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/73f44160-7971-4891-b08c-cd7590fe7ee7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "49" ;
+    skos:prefLabel "3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/764fd02b-ea56-45e0-b335-87b2e46b3c91> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "17" ;
+    skos:prefLabel "1.4.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/767ecaa1-01a6-4a24-977a-15d10fc7ecfc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "45" ;
+    skos:prefLabel "2.5.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/76fe877d-50c4-4ec0-83ac-16ea2058dba4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "11" ;
+    skos:prefLabel "1.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/79b5b8b2-2b57-4628-91ea-81a8db77a157> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "21" ;
+    skos:prefLabel "1.5.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/7c63ae2b-52e0-4292-af0e-99c73aa919a6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "79" ;
+    skos:prefLabel "3.4.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/7dd421fc-b6dc-44d1-a2dd-5431a8f972f8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "30" ;
+    skos:prefLabel "2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8024bf64-89e2-49a1-8e29-d4e6f31ec804> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "1" ;
+    skos:prefLabel "1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8644c9d3-3ba3-4e71-9c46-d5de9f96f5e5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "56" ;
+    skos:prefLabel "3.2.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8a4ca389-e058-44b6-ae76-a8ff1b3388e8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "92" ;
+    skos:prefLabel "4.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8c9a972c-cfc1-41a2-90e4-37fb1e4811e8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "34" ;
+    skos:prefLabel "2.2.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8caf652e-a086-41bd-a6e4-dc95386b168f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "16" ;
+    skos:prefLabel "1.4.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/93016238-4965-4f8d-8987-0bd8965ba5cc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "42" ;
+    skos:prefLabel "2.4.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/945051f9-cafe-489b-a8f2-ecd26fc688dc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "72" ;
+    skos:prefLabel "3.3.10"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/9453e1a4-47bd-490b-be4a-cffe502462f0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "98" ;
+    skos:prefLabel "5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/9c6301d4-4d1d-49fb-abf2-165267076abc> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "14" ;
+    skos:prefLabel "1.3.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/9ceb0eda-e938-444f-bd04-f7f1a524ce35> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "102" ;
+    skos:prefLabel "5.1.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/a0ea92b8-7d36-44db-b862-128578eea020> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "2" ;
+    skos:prefLabel "1.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/a74bf9ab-b6e1-42a3-9e3f-5358e33895d5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "15" ;
+    skos:prefLabel "1.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/a7bdc6e0-8d43-4021-848e-d68953ae99f3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "33" ;
+    skos:prefLabel "2.2.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/a8199f3a-aa01-4d93-b762-6c23a8bcf125> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "70" ;
+    skos:prefLabel "3.3.8"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ac298479-864e-4f45-b70d-65d7eb5fc710> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "58" ;
+    skos:prefLabel "3.2.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ae4e72fa-3a8f-4ca7-8d62-3796a170a1e5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "65" ;
+    skos:prefLabel "3.3.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ae500b00-1a4f-4dfd-932e-0621083360f7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "28" ;
+    skos:prefLabel "2.1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ae5470b1-a359-40cc-b3ba-e9e31ab67f7a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "48" ;
+    skos:prefLabel "2.5.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/b25bd88d-0f59-4876-8786-9dfe39f4d99d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "104" ;
+    skos:prefLabel "5.1.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/b40fda37-83f0-4e67-b217-4d18bf7fc05b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "73" ;
+    skos:prefLabel "3.3.11"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/b4a23b72-c7ce-40dd-9143-542cdce0e4c8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "94" ;
+    skos:prefLabel "4.3.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/bc2b8ede-b754-40b7-ad3c-fd60c30480ab> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "64" ;
+    skos:prefLabel "3.3.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/bdc2ca09-39bf-446f-98f3-0874f3ac07a1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "43" ;
+    skos:prefLabel "2.4.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/be71e392-0457-4659-9332-f3f8761566c3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "23" ;
+    skos:prefLabel "1.5.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/c387d0ae-ca1b-4ef7-bf81-e662b0d8fb6d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "57" ;
+    skos:prefLabel "3.2.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/c4bfdc12-1dd1-4739-8eba-08ee3cba5b20> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "88" ;
+    skos:prefLabel "4.2.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/c7b31944-9089-4cc5-a2ec-23f41da190f1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "19" ;
+    skos:prefLabel "1.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ca98b3be-b9a2-414b-a597-7cd7b9bf354d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "66" ;
+    skos:prefLabel "3.3.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/cb0b0ce4-3e3e-421b-b1d4-6b4667737415> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "37" ;
+    skos:prefLabel "2.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/cbd3bb54-37d9-4b62-9623-7f28a61263af> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "18" ;
+    skos:prefLabel "1.4.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/cc1a0faa-36db-477a-b8ae-693f9cde8de8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "91" ;
+    skos:prefLabel "4.2.5"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/cc335164-eb81-4e14-8cbb-d1f75dd98d06> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "99" ;
+    skos:prefLabel "5.1.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ced580ac-aa23-4c2a-a1ef-a5390704ecda> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "61" ;
+    skos:prefLabel "3.2.8"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/d3dedaf7-370b-40a2-9655-6b1fd1099dbb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "83" ;
+    skos:prefLabel "4.1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/d527d832-6128-406f-85c4-3e45c4679d9c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "13" ;
+    skos:prefLabel "1.3.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/d80dc1ee-150e-4535-a6df-80e5f65d4a2c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "74" ;
+    skos:prefLabel "3.4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/d95e1f38-a4ce-4516-bfa1-8a4ffeccf5f8> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "25" ;
+    skos:prefLabel "2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/df40cc3c-17f4-4356-aba7-18f1ce2a883d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "89" ;
+    skos:prefLabel "4.2.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/df7c9e99-1648-4cff-8d0e-c26d8a8e258e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "31" ;
+    skos:prefLabel "2.2.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/dfd5e5cb-0619-4e48-b57b-3223d1ffdd2e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "53" ;
+    skos:prefLabel "3.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/e36b542b-bf0c-4b95-9eb4-5d9293a9421e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "96" ;
+    skos:prefLabel "4.4.1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/e3bafbd0-35c7-4343-b9be-55889efc69f3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "62" ;
+    skos:prefLabel "3.3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/e9f15317-89ae-48fd-9dbd-fbfe6bf29e7f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "36" ;
+    skos:prefLabel "2.2.6"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/f7d5df58-03e3-4822-9cf4-f2fc6a3aaaf7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "60" ;
+    skos:prefLabel "3.2.7"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/facd63fb-3023-4819-b72a-5efe94b98ae5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "86" ;
+    skos:prefLabel "4.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/fe418b9e-71bd-4a63-8bb7-38d8f713f2e7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> ;
+    skos:notation "52" ;
+    skos:prefLabel "3.1.2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Bildungsstandards DeP"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/082f2159-040b-41b8-8a2a-a9a7d20ea5c0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/0bcfe888-4fcc-4fc4-aaaa-60d2fa680817>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/0db02ad0-e882-44ea-a206-73565d692076>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/131c882d-d115-4827-a27f-d917867a97dc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/13cb41b0-c7a1-43c5-b917-821ba0d39703>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/197f1061-b47a-4999-92ef-cac928805698>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/1c739917-a152-45ff-8183-1758cc08854a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/1d0ef5c5-88b4-4a08-907e-634d3d589a7b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/1e0856ed-772c-446d-b5dd-6fea8938e7c3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/21b86a60-2946-4529-8225-6a1d8b19a95c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/22c2ba4d-9fd8-4155-b8ba-88806452d33e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2701dca1-62b9-4c2f-8f3a-1b2f2870c699>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2720fb4f-bb8d-404a-8dc3-3f623a418b79>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/272a82ad-780d-4060-a07a-5574231a9bb7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2796fe8a-2437-4005-a761-87809f540671>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2922451c-dc0e-470f-9d9b-a90544e007eb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2a275ea9-b75a-443c-a55c-525463806825>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2a6335f6-4ef5-4fd9-82ba-91630b7d3dc8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/324c9775-d3ac-43b5-a502-4e2bfcc21e9d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/326c653b-6ec1-44ba-b222-7f17e205cebe>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/327773f0-a20a-426e-add7-a12008288a79>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3277b220-6413-4918-9fde-be4a0bd95273>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/35d80315-3b67-41fb-9b09-4bf762f2116e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/37f546e9-aa65-416d-ba09-0063ce4ed5e5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/38525977-29f6-4dba-a4e5-860df0715957>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3d0a04c1-a551-407e-987c-bc71d4354958>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3e8bb434-76d5-41d0-8897-6445f4552252>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3ed091a4-b2b3-47f3-8656-03f207ab8760>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3fe5e777-4f94-419d-89fe-49fa9885eaae>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/41478eb9-5722-4282-a21c-84742d65365b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/41c4a080-70ec-4b8a-9876-e369e6bca64a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/45b7c52d-335f-4b81-b76f-10e31c75e748>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/49000fa9-79d4-445d-951b-8dbd06c2b7b4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/4bd09fe3-979a-460a-a029-c5198497137a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/4d65dbd4-7bc1-4d4f-9176-16a71d56817b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/4e4c1844-a772-4fc2-9b1e-752b15128ae3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/548532e8-cd6c-4cb8-b762-9105b32ce234>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/55c01259-7883-40a4-81f5-01a9edef1de2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5ba14078-01ff-4ff4-920b-31c7c9caac7d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5d4a315b-dcc4-45b1-ae22-b0ea646abff0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5e5c595d-1c67-4016-864f-8c9afdd5fa1c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5f073eaa-f922-4ad1-bef0-ea0ecaa54d74>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5f2340bd-9386-41c9-91c1-1b8ef1f77191>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/64c897ed-9099-4043-b873-f6c7a012ec28>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/65d76d88-8668-44ee-9748-ccadeca4e3b9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/65e1d36c-c203-4eb9-bf59-3841c29ae3e9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6762ea54-6137-42c6-9ce4-e67658936709>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6ba3cb5a-12b7-423b-a84e-6bd1b811aab3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6d0e69da-09fc-4088-b724-61dccaf5f8d4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6d146a5b-cae4-4fc7-9a37-b684c2d2db98>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6e87d110-f1d2-4a31-8b4c-77e720a2bf8a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/73f44160-7971-4891-b08c-cd7590fe7ee7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/764fd02b-ea56-45e0-b335-87b2e46b3c91>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/767ecaa1-01a6-4a24-977a-15d10fc7ecfc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/76fe877d-50c4-4ec0-83ac-16ea2058dba4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/79b5b8b2-2b57-4628-91ea-81a8db77a157>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/7c63ae2b-52e0-4292-af0e-99c73aa919a6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/7dd421fc-b6dc-44d1-a2dd-5431a8f972f8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8024bf64-89e2-49a1-8e29-d4e6f31ec804>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8644c9d3-3ba3-4e71-9c46-d5de9f96f5e5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8a4ca389-e058-44b6-ae76-a8ff1b3388e8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8c9a972c-cfc1-41a2-90e4-37fb1e4811e8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8caf652e-a086-41bd-a6e4-dc95386b168f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/93016238-4965-4f8d-8987-0bd8965ba5cc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/945051f9-cafe-489b-a8f2-ecd26fc688dc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/9453e1a4-47bd-490b-be4a-cffe502462f0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/9c6301d4-4d1d-49fb-abf2-165267076abc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/9ceb0eda-e938-444f-bd04-f7f1a524ce35>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/a0ea92b8-7d36-44db-b862-128578eea020>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/a74bf9ab-b6e1-42a3-9e3f-5358e33895d5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/a7bdc6e0-8d43-4021-848e-d68953ae99f3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/a8199f3a-aa01-4d93-b762-6c23a8bcf125>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ac298479-864e-4f45-b70d-65d7eb5fc710>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ae4e72fa-3a8f-4ca7-8d62-3796a170a1e5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ae500b00-1a4f-4dfd-932e-0621083360f7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ae5470b1-a359-40cc-b3ba-e9e31ab67f7a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/b25bd88d-0f59-4876-8786-9dfe39f4d99d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/b40fda37-83f0-4e67-b217-4d18bf7fc05b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/b4a23b72-c7ce-40dd-9143-542cdce0e4c8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/bc2b8ede-b754-40b7-ad3c-fd60c30480ab>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/bdc2ca09-39bf-446f-98f3-0874f3ac07a1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/be71e392-0457-4659-9332-f3f8761566c3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/c387d0ae-ca1b-4ef7-bf81-e662b0d8fb6d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/c4bfdc12-1dd1-4739-8eba-08ee3cba5b20>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/c7b31944-9089-4cc5-a2ec-23f41da190f1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ca98b3be-b9a2-414b-a597-7cd7b9bf354d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/cb0b0ce4-3e3e-421b-b1d4-6b4667737415>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/cbd3bb54-37d9-4b62-9623-7f28a61263af>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/cc1a0faa-36db-477a-b8ae-693f9cde8de8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/cc335164-eb81-4e14-8cbb-d1f75dd98d06>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ced580ac-aa23-4c2a-a1ef-a5390704ecda>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/d3dedaf7-370b-40a2-9655-6b1fd1099dbb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/d527d832-6128-406f-85c4-3e45c4679d9c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/d80dc1ee-150e-4535-a6df-80e5f65d4a2c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/d95e1f38-a4ce-4516-bfa1-8a4ffeccf5f8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/df40cc3c-17f4-4356-aba7-18f1ce2a883d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/df7c9e99-1648-4cff-8d0e-c26d8a8e258e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/dfd5e5cb-0619-4e48-b57b-3223d1ffdd2e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/e36b542b-bf0c-4b95-9eb4-5d9293a9421e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/e3bafbd0-35c7-4343-b9be-55889efc69f3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/e9f15317-89ae-48fd-9dbd-fbfe6bf29e7f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/f7d5df58-03e3-4822-9cf4-f2fc6a3aaaf7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/facd63fb-3023-4819-b72a-5efe94b98ae5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/fe418b9e-71bd-4a63-8bb7-38d8f713f2e7> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/082f2159-040b-41b8-8a2a-a9a7d20ea5c0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/0bcfe888-4fcc-4fc4-aaaa-60d2fa680817>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/0db02ad0-e882-44ea-a206-73565d692076>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/131c882d-d115-4827-a27f-d917867a97dc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/13cb41b0-c7a1-43c5-b917-821ba0d39703>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/197f1061-b47a-4999-92ef-cac928805698>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/1c739917-a152-45ff-8183-1758cc08854a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/1d0ef5c5-88b4-4a08-907e-634d3d589a7b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/1e0856ed-772c-446d-b5dd-6fea8938e7c3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/21b86a60-2946-4529-8225-6a1d8b19a95c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/22c2ba4d-9fd8-4155-b8ba-88806452d33e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2701dca1-62b9-4c2f-8f3a-1b2f2870c699>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2720fb4f-bb8d-404a-8dc3-3f623a418b79>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/272a82ad-780d-4060-a07a-5574231a9bb7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2796fe8a-2437-4005-a761-87809f540671>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2922451c-dc0e-470f-9d9b-a90544e007eb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2a275ea9-b75a-443c-a55c-525463806825>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/2a6335f6-4ef5-4fd9-82ba-91630b7d3dc8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/324c9775-d3ac-43b5-a502-4e2bfcc21e9d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/326c653b-6ec1-44ba-b222-7f17e205cebe>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/327773f0-a20a-426e-add7-a12008288a79>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3277b220-6413-4918-9fde-be4a0bd95273>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/35d80315-3b67-41fb-9b09-4bf762f2116e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/37f546e9-aa65-416d-ba09-0063ce4ed5e5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/38525977-29f6-4dba-a4e5-860df0715957>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3d0a04c1-a551-407e-987c-bc71d4354958>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3e8bb434-76d5-41d0-8897-6445f4552252>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3ed091a4-b2b3-47f3-8656-03f207ab8760>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/3fe5e777-4f94-419d-89fe-49fa9885eaae>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/41478eb9-5722-4282-a21c-84742d65365b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/41c4a080-70ec-4b8a-9876-e369e6bca64a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/45b7c52d-335f-4b81-b76f-10e31c75e748>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/49000fa9-79d4-445d-951b-8dbd06c2b7b4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/4bd09fe3-979a-460a-a029-c5198497137a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/4d65dbd4-7bc1-4d4f-9176-16a71d56817b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/4e4c1844-a772-4fc2-9b1e-752b15128ae3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/548532e8-cd6c-4cb8-b762-9105b32ce234>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/55c01259-7883-40a4-81f5-01a9edef1de2>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5ba14078-01ff-4ff4-920b-31c7c9caac7d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5d4a315b-dcc4-45b1-ae22-b0ea646abff0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5e5c595d-1c67-4016-864f-8c9afdd5fa1c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5f073eaa-f922-4ad1-bef0-ea0ecaa54d74>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/5f2340bd-9386-41c9-91c1-1b8ef1f77191>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/64c897ed-9099-4043-b873-f6c7a012ec28>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/65d76d88-8668-44ee-9748-ccadeca4e3b9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/65e1d36c-c203-4eb9-bf59-3841c29ae3e9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6762ea54-6137-42c6-9ce4-e67658936709>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6ba3cb5a-12b7-423b-a84e-6bd1b811aab3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6d0e69da-09fc-4088-b724-61dccaf5f8d4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6d146a5b-cae4-4fc7-9a37-b684c2d2db98>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/6e87d110-f1d2-4a31-8b4c-77e720a2bf8a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/73f44160-7971-4891-b08c-cd7590fe7ee7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/764fd02b-ea56-45e0-b335-87b2e46b3c91>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/767ecaa1-01a6-4a24-977a-15d10fc7ecfc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/76fe877d-50c4-4ec0-83ac-16ea2058dba4>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/79b5b8b2-2b57-4628-91ea-81a8db77a157>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/7c63ae2b-52e0-4292-af0e-99c73aa919a6>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/7dd421fc-b6dc-44d1-a2dd-5431a8f972f8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8024bf64-89e2-49a1-8e29-d4e6f31ec804>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8644c9d3-3ba3-4e71-9c46-d5de9f96f5e5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8a4ca389-e058-44b6-ae76-a8ff1b3388e8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8c9a972c-cfc1-41a2-90e4-37fb1e4811e8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/8caf652e-a086-41bd-a6e4-dc95386b168f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/93016238-4965-4f8d-8987-0bd8965ba5cc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/945051f9-cafe-489b-a8f2-ecd26fc688dc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/9453e1a4-47bd-490b-be4a-cffe502462f0>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/9c6301d4-4d1d-49fb-abf2-165267076abc>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/9ceb0eda-e938-444f-bd04-f7f1a524ce35>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/a0ea92b8-7d36-44db-b862-128578eea020>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/a74bf9ab-b6e1-42a3-9e3f-5358e33895d5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/a7bdc6e0-8d43-4021-848e-d68953ae99f3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/a8199f3a-aa01-4d93-b762-6c23a8bcf125>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ac298479-864e-4f45-b70d-65d7eb5fc710>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ae4e72fa-3a8f-4ca7-8d62-3796a170a1e5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ae500b00-1a4f-4dfd-932e-0621083360f7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ae5470b1-a359-40cc-b3ba-e9e31ab67f7a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/b25bd88d-0f59-4876-8786-9dfe39f4d99d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/b40fda37-83f0-4e67-b217-4d18bf7fc05b>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/b4a23b72-c7ce-40dd-9143-542cdce0e4c8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/bc2b8ede-b754-40b7-ad3c-fd60c30480ab>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/bdc2ca09-39bf-446f-98f3-0874f3ac07a1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/be71e392-0457-4659-9332-f3f8761566c3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/c387d0ae-ca1b-4ef7-bf81-e662b0d8fb6d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/c4bfdc12-1dd1-4739-8eba-08ee3cba5b20>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/c7b31944-9089-4cc5-a2ec-23f41da190f1>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ca98b3be-b9a2-414b-a597-7cd7b9bf354d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/cb0b0ce4-3e3e-421b-b1d4-6b4667737415>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/cbd3bb54-37d9-4b62-9623-7f28a61263af>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/cc1a0faa-36db-477a-b8ae-693f9cde8de8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/cc335164-eb81-4e14-8cbb-d1f75dd98d06>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/ced580ac-aa23-4c2a-a1ef-a5390704ecda>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/d3dedaf7-370b-40a2-9655-6b1fd1099dbb>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/d527d832-6128-406f-85c4-3e45c4679d9c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/d80dc1ee-150e-4535-a6df-80e5f65d4a2c>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/d95e1f38-a4ce-4516-bfa1-8a4ffeccf5f8>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/df40cc3c-17f4-4356-aba7-18f1ce2a883d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/df7c9e99-1648-4cff-8d0e-c26d8a8e258e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/dfd5e5cb-0619-4e48-b57b-3223d1ffdd2e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/e36b542b-bf0c-4b95-9eb4-5d9293a9421e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/e3bafbd0-35c7-4343-b9be-55889efc69f3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/e9f15317-89ae-48fd-9dbd-fbfe6bf29e7f>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/f7d5df58-03e3-4822-9cf4-f2fc6a3aaaf7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/facd63fb-3023-4819-b72a-5efe94b98ae5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsdep/fe418b9e-71bd-4a63-8bb7-38d8f713f2e7> ;
+    skos:prefLabel "Bildungsstandards DeP"@de .
+

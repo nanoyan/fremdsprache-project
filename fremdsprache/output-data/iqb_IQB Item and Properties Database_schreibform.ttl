@@ -1,0 +1,53 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/1af3c3ac-35ba-4d84-a9eb-8eec9e746c06> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:notation "2" ;
+    skos:prefLabel "berichten"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/2e36eb11-ddfb-420f-9281-0e8b470930b3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:notation "1" ;
+    skos:prefLabel "erzählen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/2ec24320-3aac-4361-baee-71bde01cf139> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:notation "4" ;
+    skos:prefLabel "argumentieren"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/7fb4a48a-e259-4b70-b427-525e17769de5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:notation "3" ;
+    skos:prefLabel "beschreiben"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/bdeb96a9-dbe6-4860-a2de-c50e02e46cdb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
+    skos:notation "5" ;
+    skos:prefLabel "Texte zus.fassen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Schreibform"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/1af3c3ac-35ba-4d84-a9eb-8eec9e746c06>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/2e36eb11-ddfb-420f-9281-0e8b470930b3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/2ec24320-3aac-4361-baee-71bde01cf139>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/7fb4a48a-e259-4b70-b427-525e17769de5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/bdeb96a9-dbe6-4860-a2de-c50e02e46cdb> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/1af3c3ac-35ba-4d84-a9eb-8eec9e746c06>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/2e36eb11-ddfb-420f-9281-0e8b470930b3>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/2ec24320-3aac-4361-baee-71bde01cf139>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/7fb4a48a-e259-4b70-b427-525e17769de5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/bdeb96a9-dbe6-4860-a2de-c50e02e46cdb> ;
+    skos:prefLabel "Schreibform"@de .
+

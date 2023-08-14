@@ -1,0 +1,54 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/0e3b6635-33fb-462d-a805-4192ddd46663> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
+    skos:notation "4" ;
+    skos:prefLabel "hoch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/3aab24d4-1fe6-4e70-80d0-034961103786> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
+    skos:notation "2" ;
+    skos:prefLabel "gering"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/43dce199-884b-4008-b59d-3cfab40f65d7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
+    skos:notation "3" ;
+    skos:prefLabel "mittel"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/9d00962c-10c7-4725-9d39-4a6d9a5af501> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
+    skos:notation "1" ;
+    skos:prefLabel "sehr gering"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/e0219342-4b77-4499-87f5-0892b7866d8d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
+    skos:notation "5" ;
+    skos:prefLabel "sehr hoch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Niveau-Definition nach dem Gemeinsamen Europäischen Referenzrahmen (A1..C2)"@de ;
+    dct:title "IQB Item and Properties Database_Textschwierigkeit"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/0e3b6635-33fb-462d-a805-4192ddd46663>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/3aab24d4-1fe6-4e70-80d0-034961103786>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/43dce199-884b-4008-b59d-3cfab40f65d7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/9d00962c-10c7-4725-9d39-4a6d9a5af501>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/e0219342-4b77-4499-87f5-0892b7866d8d> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/0e3b6635-33fb-462d-a805-4192ddd46663>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/3aab24d4-1fe6-4e70-80d0-034961103786>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/43dce199-884b-4008-b59d-3cfab40f65d7>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/9d00962c-10c7-4725-9d39-4a6d9a5af501>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/e0219342-4b77-4499-87f5-0892b7866d8d> ;
+    skos:prefLabel "Textschwierigkeit"@de .
+

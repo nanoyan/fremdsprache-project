@@ -1,0 +1,80 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/0726f8f5-981b-4a97-bc94-5195b1f85abe> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:notation "1" ;
+    skos:prefLabel "Klasse 3"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/089d623f-9139-49bd-8474-f1d8b76cf751> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:notation "6" ;
+    skos:prefLabel "Klasse 9 HSA"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/2a6d5be9-3478-429c-a88f-9e10ddd0ed9e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:notation "8" ;
+    skos:prefLabel "Klasse 9 Gymnasium"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/3532cb39-e703-47a4-ab77-fb87524d8196> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:notation "4" ;
+    skos:prefLabel "Klasse 8 MSA"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/365bb3ad-c072-4c0e-8fe5-8e404e3591aa> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:notation "5" ;
+    skos:prefLabel "Klasse 8 Gymnasium"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/6c0ff22b-e603-4b53-9728-81fbf77dd850> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:notation "7" ;
+    skos:prefLabel "Klasse 9 MSA"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/a8fdfb0d-a102-4550-b715-0bbf2616de07> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Klasse 8 HSA"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/e99d4503-252d-4c9e-aee8-f123ea715aa9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Klasse 4"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Testpersonen"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/0726f8f5-981b-4a97-bc94-5195b1f85abe>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/089d623f-9139-49bd-8474-f1d8b76cf751>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/2a6d5be9-3478-429c-a88f-9e10ddd0ed9e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/3532cb39-e703-47a4-ab77-fb87524d8196>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/365bb3ad-c072-4c0e-8fe5-8e404e3591aa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/6c0ff22b-e603-4b53-9728-81fbf77dd850>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/a8fdfb0d-a102-4550-b715-0bbf2616de07>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/e99d4503-252d-4c9e-aee8-f123ea715aa9> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/0726f8f5-981b-4a97-bc94-5195b1f85abe>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/089d623f-9139-49bd-8474-f1d8b76cf751>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/2a6d5be9-3478-429c-a88f-9e10ddd0ed9e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/3532cb39-e703-47a4-ab77-fb87524d8196>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/365bb3ad-c072-4c0e-8fe5-8e404e3591aa>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/6c0ff22b-e603-4b53-9728-81fbf77dd850>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/a8fdfb0d-a102-4550-b715-0bbf2616de07>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/testpersonen/e99d4503-252d-4c9e-aee8-f123ea715aa9> ;
+    skos:prefLabel "Testpersonen"@de .
+

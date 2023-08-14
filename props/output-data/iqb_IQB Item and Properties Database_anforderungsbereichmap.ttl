@@ -1,0 +1,36 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/30a4bf78-e54a-4692-abd7-671f40504f38> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> ;
+    skos:notation "3" ;
+    skos:prefLabel "III"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/66998044-eab0-4d5c-bd7b-9ea540e24df5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> ;
+    skos:notation "1" ;
+    skos:prefLabel "I"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/b1f2bb3b-af33-46cc-bb6a-232a1e88d96a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> ;
+    skos:notation "2" ;
+    skos:prefLabel "II"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Anforderungsbereich lt. Bildungsstandards für Deutsch Primarstufe"@de ;
+    dct:title "IQB Item and Properties Database_Anforderungsbereich MaP"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/30a4bf78-e54a-4692-abd7-671f40504f38>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/66998044-eab0-4d5c-bd7b-9ea540e24df5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/b1f2bb3b-af33-46cc-bb6a-232a1e88d96a> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/30a4bf78-e54a-4692-abd7-671f40504f38>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/66998044-eab0-4d5c-bd7b-9ea540e24df5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/b1f2bb3b-af33-46cc-bb6a-232a1e88d96a> ;
+    skos:prefLabel "Anforderungsbereich MaP"@de .
+

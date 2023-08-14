@@ -1,0 +1,36 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/140318a9-68c5-4e0e-8a8e-444af844003e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/> ;
+    skos:notation "1" ;
+    skos:prefLabel "I"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/640546f3-e316-4466-a452-16c032289c4d> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/> ;
+    skos:notation "2" ;
+    skos:prefLabel "II"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/ebb74e1b-7b0b-42a5-9dd0-e706b8deb27c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/> ;
+    skos:notation "3" ;
+    skos:prefLabel "III"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Textintention, Diskurstyp"@de ;
+    dct:title "IQB Item and Properties Database_Anforderungsbereich"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/140318a9-68c5-4e0e-8a8e-444af844003e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/640546f3-e316-4466-a452-16c032289c4d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/ebb74e1b-7b0b-42a5-9dd0-e706b8deb27c> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/140318a9-68c5-4e0e-8a8e-444af844003e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/640546f3-e316-4466-a452-16c032289c4d>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereich/ebb74e1b-7b0b-42a5-9dd0-e706b8deb27c> ;
+    skos:prefLabel "Anforderungsbereich"@de .
+

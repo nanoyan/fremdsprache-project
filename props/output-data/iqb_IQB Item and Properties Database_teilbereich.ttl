@@ -1,0 +1,98 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/02e820d3-edff-4517-b3b7-c5664851029e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:notation "1" ;
+    skos:prefLabel "Bio: System"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/142cc57d-f63d-4b1a-88d8-802c3fa59b62> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Bio: Struktur+F."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/71050f24-969c-445c-85d2-e42e3ee9c9e9> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Bio: Entwicklung"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/73285d09-d6a2-43a7-bcd5-af8d5f28ec88> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:notation "7" ;
+    skos:prefLabel "Ph: Materie"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/74d3a3c8-414c-431d-8786-a662ff0ce269> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:notation "9" ;
+    skos:prefLabel "Ph: System"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/74e0439a-a3f8-4526-a003-0461c459d045> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:notation "4" ;
+    skos:prefLabel "Ch: Stoff/Teilchen"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/78534f52-c963-4ea3-8c85-92b676938142> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:notation "8" ;
+    skos:prefLabel "Ph: Wechselw."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/a90d013b-4bff-47cd-b768-066d38b81ab5> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:notation "6" ;
+    skos:prefLabel "Ch: chemische R."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/b5dfee90-268e-44a6-8dff-c2ea5d8f49ff> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:notation "5" ;
+    skos:prefLabel "Ch: Struktur/Eig."@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/d8200638-1ee6-4855-b43a-2791e129edd4> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> ;
+    skos:notation "10" ;
+    skos:prefLabel "Ph: Energie"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "IQB Item and Properties Database_Teilbereich"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/02e820d3-edff-4517-b3b7-c5664851029e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/142cc57d-f63d-4b1a-88d8-802c3fa59b62>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/71050f24-969c-445c-85d2-e42e3ee9c9e9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/73285d09-d6a2-43a7-bcd5-af8d5f28ec88>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/74d3a3c8-414c-431d-8786-a662ff0ce269>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/74e0439a-a3f8-4526-a003-0461c459d045>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/78534f52-c963-4ea3-8c85-92b676938142>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/a90d013b-4bff-47cd-b768-066d38b81ab5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/b5dfee90-268e-44a6-8dff-c2ea5d8f49ff>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/d8200638-1ee6-4855-b43a-2791e129edd4> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/02e820d3-edff-4517-b3b7-c5664851029e>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/142cc57d-f63d-4b1a-88d8-802c3fa59b62>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/71050f24-969c-445c-85d2-e42e3ee9c9e9>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/73285d09-d6a2-43a7-bcd5-af8d5f28ec88>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/74d3a3c8-414c-431d-8786-a662ff0ce269>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/74e0439a-a3f8-4526-a003-0461c459d045>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/78534f52-c963-4ea3-8c85-92b676938142>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/a90d013b-4bff-47cd-b768-066d38b81ab5>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/b5dfee90-268e-44a6-8dff-c2ea5d8f49ff>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich/d8200638-1ee6-4855-b43a-2791e129edd4> ;
+    skos:prefLabel "Teilbereich"@de .
+

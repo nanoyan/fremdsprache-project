@@ -1,0 +1,27 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/2185f419-bb52-425f-b7d3-999ab06ee08a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> ;
+    skos:notation "2" ;
+    skos:prefLabel "SSI"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/b1637737-5ea8-41fa-a89d-1c53e126d89e> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> ;
+    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> ;
+    skos:notation "1" ;
+    skos:prefLabel "SI"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> .
+
+<https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Itemparameter auf der Logit-Metrik"@de ;
+    dct:title "IQB Item and Properties Database_Nawi Argumentieren"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/2185f419-bb52-425f-b7d3-999ab06ee08a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/b1637737-5ea8-41fa-a89d-1c53e126d89e> ;
+    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/2185f419-bb52-425f-b7d3-999ab06ee08a>,
+        <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/b1637737-5ea8-41fa-a89d-1c53e126d89e> ;
+    skos:prefLabel "Nawi Argumentieren"@de .
+

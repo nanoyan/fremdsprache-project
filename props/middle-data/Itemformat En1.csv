@@ -1,0 +1,13 @@
+notation;title;description
+1;gap-filling;;b9561cb0-783f-4580-abff-26e514dbaf84
+2;multiple choice;;e8385e40-1f36-451d-a05f-2ac2dce9b8d2
+3;multiple matching;;9350d846-ad00-4467-b766-8001ac0ac4ff
+4;note taking;;43c33d4f-23c3-4534-ae84-7f79b238f6f2
+5;sentence completion;;01667f6f-ea75-4bfa-a434-42cbda404d21
+6;sequencing;;27e3b9a1-bcdc-48f5-a48f-49f9ec4927aa
+7;short answer;;4a53d300-6951-49d7-914b-c1aafe21c6c8
+8;table completion;;ca3db7b8-9b65-49c4-8888-feae33044495
+9;true-false;;d8a2ed51-039e-4328-a43b-f058a84a786f
+10;true-false-justification;;2223a036-5dba-4872-8308-3c83e0fedac8
+11;true-false-line;;1a0768d4-29aa-4a69-8869-a6360d9e1b6e
+12;true-false-not given;;f7e45c8e-5b85-49ff-bb5d-13052733abcf
