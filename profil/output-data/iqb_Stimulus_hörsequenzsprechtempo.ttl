@@ -1,0 +1,35 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/254f5f9c-4251-4723-b53f-bfc624842c9c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/> ;
+    skos:notation "1" ;
+    skos:prefLabel "normal"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/> .
+
+<https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/3fd61107-dcc8-4866-9119-b57368ae1a92> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/> ;
+    skos:notation "2" ;
+    skos:prefLabel "langsam"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/> .
+
+<https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/1f34d785-359b-4feb-b0e2-074f0fb7c34b> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/> ;
+    skos:notation "3" ;
+    skos:prefLabel "schnell"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/> .
+
+<https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "Stimulus_Hörsequenz Sprechtempo"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/1f34d785-359b-4feb-b0e2-074f0fb7c34b>,
+        <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/254f5f9c-4251-4723-b53f-bfc624842c9c>,
+        <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/3fd61107-dcc8-4866-9119-b57368ae1a92> ;
+    skos:narrower <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/1f34d785-359b-4feb-b0e2-074f0fb7c34b>,
+        <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/254f5f9c-4251-4723-b53f-bfc624842c9c>,
+        <https://w3id.org/iqb/Stimulus/hörsequenzsprechtempo/3fd61107-dcc8-4866-9119-b57368ae1a92> ;
+    skos:prefLabel "Hörsequenz Sprechtempo"@de .
+

@@ -1,0 +1,63 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/Aufgabe/status/3c7b50d8-de63-4157-993c-b80c82966c74> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Aufgabe/status/> ;
+    skos:inScheme <https://w3id.org/iqb/Aufgabe/status/> ;
+    skos:notation "1" ;
+    skos:prefLabel "Entwurf"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Aufgabe/status/> .
+
+<https://w3id.org/iqb/Aufgabe/status/1a3730a5-c4b8-467e-bed8-76324520a2c0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Aufgabe/status/> ;
+    skos:inScheme <https://w3id.org/iqb/Aufgabe/status/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Präpilotiert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Aufgabe/status/> .
+
+<https://w3id.org/iqb/Aufgabe/status/97190220-9616-483e-a694-7ea7ebaab361> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Aufgabe/status/> ;
+    skos:inScheme <https://w3id.org/iqb/Aufgabe/status/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Pilotiert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Aufgabe/status/> .
+
+<https://w3id.org/iqb/Aufgabe/status/761d92be-56a9-4584-89eb-e9797b6480fb> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Aufgabe/status/> ;
+    skos:inScheme <https://w3id.org/iqb/Aufgabe/status/> ;
+    skos:notation "4" ;
+    skos:prefLabel "In Test eingesetzt"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Aufgabe/status/> .
+
+<https://w3id.org/iqb/Aufgabe/status/eca0725a-70fe-4465-9d6a-2e748977fdc1> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Aufgabe/status/> ;
+    skos:inScheme <https://w3id.org/iqb/Aufgabe/status/> ;
+    skos:notation "6" ;
+    skos:prefLabel "Ankeraufgabe"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Aufgabe/status/> .
+
+<https://w3id.org/iqb/Aufgabe/status/e09e8f97-00ab-4e56-9115-f642b9555a0a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Aufgabe/status/> ;
+    skos:inScheme <https://w3id.org/iqb/Aufgabe/status/> ;
+    skos:notation "7" ;
+    skos:prefLabel "veröffentlicht"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Aufgabe/status/> .
+
+<https://w3id.org/iqb/Aufgabe/status/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Markierung verschiedener Arbeitsstände bzw. Verwendungsperspektive"@de ;
+    dct:title "Aufgabe_Status"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/Aufgabe/status/1a3730a5-c4b8-467e-bed8-76324520a2c0>,
+        <https://w3id.org/iqb/Aufgabe/status/3c7b50d8-de63-4157-993c-b80c82966c74>,
+        <https://w3id.org/iqb/Aufgabe/status/761d92be-56a9-4584-89eb-e9797b6480fb>,
+        <https://w3id.org/iqb/Aufgabe/status/97190220-9616-483e-a694-7ea7ebaab361>,
+        <https://w3id.org/iqb/Aufgabe/status/e09e8f97-00ab-4e56-9115-f642b9555a0a>,
+        <https://w3id.org/iqb/Aufgabe/status/eca0725a-70fe-4465-9d6a-2e748977fdc1> ;
+    skos:narrower <https://w3id.org/iqb/Aufgabe/status/1a3730a5-c4b8-467e-bed8-76324520a2c0>,
+        <https://w3id.org/iqb/Aufgabe/status/3c7b50d8-de63-4157-993c-b80c82966c74>,
+        <https://w3id.org/iqb/Aufgabe/status/761d92be-56a9-4584-89eb-e9797b6480fb>,
+        <https://w3id.org/iqb/Aufgabe/status/97190220-9616-483e-a694-7ea7ebaab361>,
+        <https://w3id.org/iqb/Aufgabe/status/e09e8f97-00ab-4e56-9115-f642b9555a0a>,
+        <https://w3id.org/iqb/Aufgabe/status/eca0725a-70fe-4465-9d6a-2e748977fdc1> ;
+    skos:prefLabel "Status"@de .
+

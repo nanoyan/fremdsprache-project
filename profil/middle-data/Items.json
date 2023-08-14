@@ -1,0 +1,78 @@
+{
+    "id": "Items",
+    "title": "Items",
+    "children": [
+        {
+            "id": "itemformat",
+            "title": "Itemformat",
+            "children": [
+                {
+                    "id": "0aea902c-1300-4425-9821-fee1ecc1ead0",
+                    "notation": "1",
+                    "title": "Lückensatz/Lückentext",
+                    "description": "Ein Text enthält Lücken, in die geschrieben werden soll, z. B. Ergänzung von Wortenden, Attributen usw. "
+                },
+                {
+                    "id": "b8c8a8cb-293e-46d2-bda8-74c220ef22b9",
+                    "notation": "2",
+                    "title": "Zahlenpyramide",
+                    "description": "Zahlen werden in Abhängigkeit anderer Zahlen in Felder einer Pyramide eingetragen."
+                },
+                {
+                    "id": "f62b049a-7ee6-443a-82b6-4bcafd68c0da",
+                    "notation": "3",
+                    "title": "Korrigiere",
+                    "description": "Vorgegebene Falschschreibungen sollen erkannt und berichtigt werden."
+                },
+                {
+                    "id": "84025001-f390-4741-a9b7-d60e5be124e5",
+                    "notation": "4",
+                    "title": "Multiple Choice",
+                    "description": "Single Choice – mehrere Distraktoren und nur einen Attraktor"
+                },
+                {
+                    "id": "7732adca-fa06-46b6-a44d-b9664459944c",
+                    "notation": "5",
+                    "title": "Complexe Multiple Choice",
+                    "description": "in jeder Zeile sollen Sätze/Wörter/Wortgruppen/Bilder nach fest vorgegebenen Spaltenbezeichnungen bewertet werden, z.B. richtig/falsch, stimmt/stimmt nicht."
+                },
+                {
+                    "id": "a0ceda99-77fd-44ad-bdea-9e29c6e5fcb6",
+                    "notation": "6",
+                    "title": "Zuordnungsitems"
+                },
+                {
+                    "id": "a0df3db7-bc4f-409d-b50f-443d7bf02ef0",
+                    "notation": "7",
+                    "title": "Kurzantwort (Zahl, Wort, Wortgruppe, Rechnung …)"
+                },
+                {
+                    "id": "16bea0d5-2e63-4ad9-9881-de94ea9eebe9",
+                    "notation": "8",
+                    "title": "Erweiterte Antwort (Begründungen, Erklärungen …)"
+                }
+            ]
+        },
+        {
+            "id": "itemtyp",
+            "title": "Itemtyp",
+            "children": [
+                {
+                    "id": "ff5adfef-8c26-4e02-bc27-ce09bec5ac68",
+                    "notation": "1",
+                    "title": "geschlossen"
+                },
+                {
+                    "id": "4db2c405-4292-47d5-8b64-96e6c82b4a13",
+                    "notation": "2",
+                    "title": "Kurzantwort/halboffen"
+                },
+                {
+                    "id": "f6c9193c-7c3b-4900-b080-738c5430e8c0",
+                    "notation": "3",
+                    "title": "Offene Antwort"
+                }
+            ]
+        }
+    ]
+}

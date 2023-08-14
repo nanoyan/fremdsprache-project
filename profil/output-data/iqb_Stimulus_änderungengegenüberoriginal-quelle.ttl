@@ -1,0 +1,63 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/9442b015-8423-4f79-8880-990264a73319> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> ;
+    skos:notation "1" ;
+    skos:prefLabel "unverändert/authentisch"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> .
+
+<https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/2fc77080-2d06-457b-bf8d-e0b5c09b6063> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> ;
+    skos:notation "2" ;
+    skos:prefLabel "Inhalt verändert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> .
+
+<https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/24728afe-173b-48c8-aee6-90990ad1288c> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> ;
+    skos:notation "3" ;
+    skos:prefLabel "Formatierung verändert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> .
+
+<https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/d88694d0-e2b8-46dc-85cb-f4c3ae2ddc87> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> ;
+    skos:notation "4" ;
+    skos:prefLabel "einzelne Worte geändert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> .
+
+<https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/e12b2d5e-344b-4608-bc7e-0eaa994cb327> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> ;
+    skos:notation "5" ;
+    skos:prefLabel "gekürzt"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> .
+
+<https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/90db8497-7091-4188-8c54-c4db901e5c12> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> ;
+    skos:notation "6" ;
+    skos:prefLabel "Struktur geändert"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> .
+
+<https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:description "Zeigt an, inwieweit der übernommene Text verändert wurde. Dies ist wichtig für die Bearbeitung des Nutzungsrechtes, daher kommen die Kategorien aus dieser Perspektive"@de ;
+    dct:title "Stimulus_Änderungen gegenüber Original-Quelle"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/24728afe-173b-48c8-aee6-90990ad1288c>,
+        <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/2fc77080-2d06-457b-bf8d-e0b5c09b6063>,
+        <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/90db8497-7091-4188-8c54-c4db901e5c12>,
+        <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/9442b015-8423-4f79-8880-990264a73319>,
+        <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/d88694d0-e2b8-46dc-85cb-f4c3ae2ddc87>,
+        <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/e12b2d5e-344b-4608-bc7e-0eaa994cb327> ;
+    skos:narrower <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/24728afe-173b-48c8-aee6-90990ad1288c>,
+        <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/2fc77080-2d06-457b-bf8d-e0b5c09b6063>,
+        <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/90db8497-7091-4188-8c54-c4db901e5c12>,
+        <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/9442b015-8423-4f79-8880-990264a73319>,
+        <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/d88694d0-e2b8-46dc-85cb-f4c3ae2ddc87>,
+        <https://w3id.org/iqb/Stimulus/änderungengegenüberoriginal-quelle/e12b2d5e-344b-4608-bc7e-0eaa994cb327> ;
+    skos:prefLabel "Änderungen gegenüber Original-Quelle"@de .
+

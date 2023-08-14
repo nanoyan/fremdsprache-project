@@ -1,0 +1,44 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/4ec0274b-20fa-421d-b18a-e608efc964ae> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> ;
+    skos:notation "1" ;
+    skos:prefLabel "einmal"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> .
+
+<https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/9efb99a9-91ba-4e00-b34a-f614fa93fa33> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> ;
+    skos:notation "2" ;
+    skos:prefLabel "zweimal"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> .
+
+<https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/0b59f85c-9752-420a-b4bd-8e0a0936f5a0> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> ;
+    skos:notation "3" ;
+    skos:prefLabel "dreimal"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> .
+
+<https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/6401173d-19db-4675-8d5e-9112686615d7> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> ;
+    skos:notation "4" ;
+    skos:prefLabel "unbegrenzt"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> .
+
+<https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "Stimulus_Hörsequenz Anzahl vorspielen"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/0b59f85c-9752-420a-b4bd-8e0a0936f5a0>,
+        <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/4ec0274b-20fa-421d-b18a-e608efc964ae>,
+        <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/6401173d-19db-4675-8d5e-9112686615d7>,
+        <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/9efb99a9-91ba-4e00-b34a-f614fa93fa33> ;
+    skos:narrower <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/0b59f85c-9752-420a-b4bd-8e0a0936f5a0>,
+        <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/4ec0274b-20fa-421d-b18a-e608efc964ae>,
+        <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/6401173d-19db-4675-8d5e-9112686615d7>,
+        <https://w3id.org/iqb/Stimulus/hörsequenzanzahlvorspielen/9efb99a9-91ba-4e00-b34a-f614fa93fa33> ;
+    skos:prefLabel "Hörsequenz Anzahl vorspielen"@de .
+

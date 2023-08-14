@@ -1,0 +1,10 @@
+dateiname;url_id;main-title;title;description
+Aufgabe-Bildungsstandards Hauptdomäne.csv;Aufgabe;Aufgabe;Bildungsstandards Hauptdomäne;
+Aufgabe-Status.csv;Aufgabe;Aufgabe;Status;Markierung verschiedener Arbeitsstände bzw. Verwendungsperspektive
+Aufgabe-Zielgruppe avisierter Abschluss.csv;Aufgabe;Aufgabe;Zielgruppe avisierter Abschluss;Adressierte Testpopulation nach beabsichtigtem Bildungsabschluss;
+Items-Itemformat.csv;Items;Items;Itemformat;
+Items-Itemtyp.csv;Items;items;Itemtyp;
+Stimulus-Änderungen gegenüber Original-Quelle.csv;Stimulus;Stimulus;Änderungen gegenüber Original-Quelle;Zeigt an, inwieweit der übernommene Text verändert wurde. Dies ist wichtig für die Bearbeitung des Nutzungsrechtes, daher kommen die Kategorien aus dieser Perspektive;
+Stimulus-Hörsequenz Anzahl vorspielen.csv;Stimulus;Stimulus;Hörsequenz Anzahl vorspielen;
+Stimulus-Hörsequenz Sprechtempo.csv;Stimulus;Stimulus;Hörsequenz Sprechtempo;
+Stimulus-Schwierigkeit.csv;Stimulus;Stimulus;Schwierigkeit;

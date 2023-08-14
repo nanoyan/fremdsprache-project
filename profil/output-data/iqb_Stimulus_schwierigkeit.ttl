@@ -1,0 +1,62 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/iqb/Stimulus/schwierigkeit/042bb72e-214b-4b62-bafe-2de2009cb9f3> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/schwierigkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/schwierigkeit/> ;
+    skos:notation "1" ;
+    skos:prefLabel "A1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/schwierigkeit/> .
+
+<https://w3id.org/iqb/Stimulus/schwierigkeit/e3531945-c99a-42f6-9856-39429d0ebf9a> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/schwierigkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/schwierigkeit/> ;
+    skos:notation "2" ;
+    skos:prefLabel "A2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/schwierigkeit/> .
+
+<https://w3id.org/iqb/Stimulus/schwierigkeit/7a01f780-a973-4ce5-87ca-d35c45976a25> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/schwierigkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/schwierigkeit/> ;
+    skos:notation "3" ;
+    skos:prefLabel "B1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/schwierigkeit/> .
+
+<https://w3id.org/iqb/Stimulus/schwierigkeit/3298d1e4-8cc7-4bd5-ada4-c84f5c860c39> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/schwierigkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/schwierigkeit/> ;
+    skos:notation "4" ;
+    skos:prefLabel "B2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/schwierigkeit/> .
+
+<https://w3id.org/iqb/Stimulus/schwierigkeit/a1d193cd-9311-407e-a046-cfde2d0094b6> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/schwierigkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/schwierigkeit/> ;
+    skos:notation "5" ;
+    skos:prefLabel "C1"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/schwierigkeit/> .
+
+<https://w3id.org/iqb/Stimulus/schwierigkeit/ba69124b-841a-43c5-885c-ffce7e89106f> a skos:Concept ;
+    skos:broader <https://w3id.org/iqb/Stimulus/schwierigkeit/> ;
+    skos:inScheme <https://w3id.org/iqb/Stimulus/schwierigkeit/> ;
+    skos:notation "6" ;
+    skos:prefLabel "C2"@de ;
+    skos:topConceptOf <https://w3id.org/iqb/Stimulus/schwierigkeit/> .
+
+<https://w3id.org/iqb/Stimulus/schwierigkeit/> a skos:ConceptScheme ;
+    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dct:title "Stimulus_Schwierigkeit"@de ;
+    skos:hasTopConcept <https://w3id.org/iqb/Stimulus/schwierigkeit/042bb72e-214b-4b62-bafe-2de2009cb9f3>,
+        <https://w3id.org/iqb/Stimulus/schwierigkeit/3298d1e4-8cc7-4bd5-ada4-c84f5c860c39>,
+        <https://w3id.org/iqb/Stimulus/schwierigkeit/7a01f780-a973-4ce5-87ca-d35c45976a25>,
+        <https://w3id.org/iqb/Stimulus/schwierigkeit/a1d193cd-9311-407e-a046-cfde2d0094b6>,
+        <https://w3id.org/iqb/Stimulus/schwierigkeit/ba69124b-841a-43c5-885c-ffce7e89106f>,
+        <https://w3id.org/iqb/Stimulus/schwierigkeit/e3531945-c99a-42f6-9856-39429d0ebf9a> ;
+    skos:narrower <https://w3id.org/iqb/Stimulus/schwierigkeit/042bb72e-214b-4b62-bafe-2de2009cb9f3>,
+        <https://w3id.org/iqb/Stimulus/schwierigkeit/3298d1e4-8cc7-4bd5-ada4-c84f5c860c39>,
+        <https://w3id.org/iqb/Stimulus/schwierigkeit/7a01f780-a973-4ce5-87ca-d35c45976a25>,
+        <https://w3id.org/iqb/Stimulus/schwierigkeit/a1d193cd-9311-407e-a046-cfde2d0094b6>,
+        <https://w3id.org/iqb/Stimulus/schwierigkeit/ba69124b-841a-43c5-885c-ffce7e89106f>,
+        <https://w3id.org/iqb/Stimulus/schwierigkeit/e3531945-c99a-42f6-9856-39429d0ebf9a> ;
+    skos:prefLabel "Schwierigkeit"@de .
+
