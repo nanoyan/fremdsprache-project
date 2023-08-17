@@ -2,7 +2,7 @@
 
 from inout.readcsv import read_csv  
 from inout.createjson import read_data
-from inout.json2ttl2 import buildGraph
+from inout.json2ttl3 import buildGraph
 import glob
 import os.path
 import os

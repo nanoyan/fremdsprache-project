@@ -20,8 +20,7 @@ def buildGraph(input_file, output_folder):
 
     if("dimensions" in data):
         for dimension in data['dimensions']:
-            g = Graph()
-            base_url = URIRef("https://w3id.org/iqb/" + url_id + "/" + dimension['id']  + "/") 
+            g = Graph(base = "https://w3id.org/iqb/" + url_id + "/" + dimension['id']  + "/")
             g.add((base_url, RDF.type, SKOS.ConceptScheme))
             g.add((base_url, DCTERMS.creator, Literal("IQB - Institut zur Qualitätsentwicklung im Bildungswesen", lang="de")))
             title = data['title'] + '_' + dimension['title']
