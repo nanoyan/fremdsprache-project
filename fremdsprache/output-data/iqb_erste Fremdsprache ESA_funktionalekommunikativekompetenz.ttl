@@ -2,472 +2,405 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<b89f911f-56f1-494d-ae33-139542e62a86> a skos:Concept ;
-    skos:narrower <0a791995-b069-4561-93e4-439508315646>,
-        <0fa51693-4d72-43e5-856c-ab58550451f9>,
-        <19b83210-ce0a-4a20-b4ef-7bff141b7187>,
-        <2c2ade46-d674-4cab-95cc-b5a8d285dba5>,
-        <4210a9d3-b142-49c7-a2e9-29ab38bd34ae>,
-        <bd527371-8b4e-4eb8-a80b-94f79a0daa40>,
-        <cfb18007-12e6-4f1e-8b53-acec2acf4f12>,
-        <fbec7ca4-856e-4d97-b22e-fa8cbd48354d> ;
-    skos:notation "1" ;
+<f79251f3-3d9d-11ee-a6da-484d7ea9e46c> a skos:Concept ;
+    skos:narrower <f79251f4-3d9d-11ee-8ea3-484d7ea9e46c>,
+        <f79251f5-3d9d-11ee-8349-484d7ea9e46c>,
+        <f79251f6-3d9d-11ee-b087-484d7ea9e46c>,
+        <f79251f7-3d9d-11ee-9af7-484d7ea9e46c>,
+        <f79251f8-3d9d-11ee-b03d-484d7ea9e46c>,
+        <f79251f9-3d9d-11ee-bbbc-484d7ea9e46c>,
+        <f79251fa-3d9d-11ee-956d-484d7ea9e46c>,
+        <f79251fb-3d9d-11ee-a1a9-484d7ea9e46c> ;
     skos:prefLabel "1. Hörverstehen und audiovisuelles Verstehen"@de ;
     skos:topConceptOf <> .
 
-<0a791995-b069-4561-93e4-439508315646> a skos:Concept ;
-    skos:broader <b89f911f-56f1-494d-ae33-139542e62a86> ;
+<f79251f4-3d9d-11ee-8ea3-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251f3-3d9d-11ee-a6da-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.1" ;
     skos:prefLabel "1.1. in strukturell unkomplizierten Hörtexten zu vertrauten Themen das Thema erfassen und die Hauptaussagen und Einzelinformationen verstehen, wenn in deutlich artikulierter Standardsprache oder in einer vertrauten Varietät gesprochen wird."@de .
 
-<0fa51693-4d72-43e5-856c-ab58550451f9> a skos:Concept ;
-    skos:broader <b89f911f-56f1-494d-ae33-139542e62a86> ;
+<f79251f5-3d9d-11ee-8349-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251f3-3d9d-11ee-a6da-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.2" ;
     skos:prefLabel "1.2. auch in längeren Hörtexten Mitteilungen zu konkreten Themen verstehen."@de .
 
-<bd527371-8b4e-4eb8-a80b-94f79a0daa40> a skos:Concept ;
-    skos:broader <b89f911f-56f1-494d-ae33-139542e62a86> ;
+<f79251f6-3d9d-11ee-b087-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251f3-3d9d-11ee-a6da-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.3" ;
     skos:prefLabel "1.3. das Thema und die Hauptaussagen von längeren Gesprächen zwischen Anderen verstehen."@de .
 
-<2c2ade46-d674-4cab-95cc-b5a8d285dba5> a skos:Concept ;
-    skos:broader <b89f911f-56f1-494d-ae33-139542e62a86> ;
+<f79251f7-3d9d-11ee-9af7-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251f3-3d9d-11ee-a6da-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.4" ;
     skos:prefLabel "1.4. Vorträge und Präsentationen verstehen und dabei zwischen Hauptaussagen und unterstützenden Details unterscheiden, wenn die Thematik vertraut und die Darstellung unkompliziert und klar strukturiert ist."@de .
 
-<4210a9d3-b142-49c7-a2e9-29ab38bd34ae> a skos:Concept ;
-    skos:broader <b89f911f-56f1-494d-ae33-139542e62a86> ;
+<f79251f8-3d9d-11ee-b03d-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251f3-3d9d-11ee-a6da-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.5" ;
     skos:prefLabel "1.5. bei längeren Hörtexten und audiovisuellen Texten anhand des erfassten Themas Vorhersagen über den weiteren Inhalt treffen und diese während des Hörens anpassen."@de .
 
-<19b83210-ce0a-4a20-b4ef-7bff141b7187> a skos:Concept ;
-    skos:broader <b89f911f-56f1-494d-ae33-139542e62a86> ;
+<f79251f9-3d9d-11ee-bbbc-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251f3-3d9d-11ee-a6da-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.6" ;
     skos:prefLabel "1.6. das Thema und die Hauptaussagen in audiovisuellen Texten zu vertrauten Themen verstehen, wenn relativ langsam und deutlich gesprochen wird."@de .
 
-<cfb18007-12e6-4f1e-8b53-acec2acf4f12> a skos:Concept ;
-    skos:broader <b89f911f-56f1-494d-ae33-139542e62a86> ;
+<f79251fa-3d9d-11ee-956d-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251f3-3d9d-11ee-a6da-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.7" ;
     skos:prefLabel "1.7. in strukturell unkomplizierten, literarisch-ästhetischen Hörtexten und audiovisuellen Texten zentrale Themen, Ereignisse, Figuren sowie deren Verbindung zueinander erfassen und erschließen."@de .
 
-<fbec7ca4-856e-4d97-b22e-fa8cbd48354d> a skos:Concept ;
-    skos:broader <b89f911f-56f1-494d-ae33-139542e62a86> ;
+<f79251fb-3d9d-11ee-a1a9-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251f3-3d9d-11ee-a6da-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.8" ;
     skos:prefLabel "1.8. auf ihnen vertraute (digitale) Werkzeuge bei der Rezeption von Hörtexten und audiovisuellen Texten in der Regel selbstständig zurückgreifen."@de .
 
-<c14b89f2-5b2c-4cf4-805f-910c9ee3ccb3> a skos:Concept ;
-    skos:narrower <1e4fba10-4692-4c60-94e1-30fc96fddd2d>,
-        <2c86326a-237e-487d-a425-02ad723f543a>,
-        <68ecff75-c67d-41e7-bb4d-a4f8c50df639>,
-        <6d6080e3-543f-4b56-97d2-042294f3d669>,
-        <89d17ee1-2bae-4c71-bf7b-c89f7c81e20d>,
-        <926129d1-c041-4e08-90d4-f63e4e200239>,
-        <a987af7b-805d-4002-bc67-fc9bdc983c43>,
-        <b3b52e30-97e2-4579-bfcb-536958cf875a>,
-        <cd49e5bf-de64-4d24-bbb1-236cfdd3a870>,
-        <d5f911b5-c235-4c0d-8983-15bf65f3b4dd> ;
-    skos:notation "2" ;
+<f79251fc-3d9d-11ee-bb3d-484d7ea9e46c> a skos:Concept ;
+    skos:narrower <f79251fd-3d9d-11ee-a302-484d7ea9e46c>,
+        <f79251fe-3d9d-11ee-aebc-484d7ea9e46c>,
+        <f79251ff-3d9d-11ee-afeb-484d7ea9e46c>,
+        <f7925200-3d9d-11ee-9f71-484d7ea9e46c>,
+        <f7925201-3d9d-11ee-8eb9-484d7ea9e46c>,
+        <f7925202-3d9d-11ee-845a-484d7ea9e46c>,
+        <f7925203-3d9d-11ee-a338-484d7ea9e46c>,
+        <f7925204-3d9d-11ee-9bbc-484d7ea9e46c>,
+        <f7925205-3d9d-11ee-9c5e-484d7ea9e46c>,
+        <f7925206-3d9d-11ee-9c84-484d7ea9e46c> ;
     skos:prefLabel "2. Leseverstehen"@de ;
     skos:topConceptOf <> .
 
-<89d17ee1-2bae-4c71-bf7b-c89f7c81e20d> a skos:Concept ;
-    skos:broader <c14b89f2-5b2c-4cf4-805f-910c9ee3ccb3> ;
+<f79251fd-3d9d-11ee-a302-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251fc-3d9d-11ee-bb3d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "2.1" ;
     skos:prefLabel "2.1. strukturell unkomplizierte Korrespondenz zu vertrauten Themen einschließlich der verwendeten Umgangsformen verstehen."@de .
 
-<a987af7b-805d-4002-bc67-fc9bdc983c43> a skos:Concept ;
-    skos:broader <c14b89f2-5b2c-4cf4-805f-910c9ee3ccb3> ;
+<f79251fe-3d9d-11ee-aebc-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251fc-3d9d-11ee-bb3d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "2.2" ;
     skos:prefLabel "2.2. in strukturell unkomplizierten Gebrauchstexten wichtige Informationen auffinden und verstehen sowie zum Lösen einer Aufgabe Informationen aus verschiedenen Texten zusammentragen."@de .
 
-<cd49e5bf-de64-4d24-bbb1-236cfdd3a870> a skos:Concept ;
-    skos:broader <c14b89f2-5b2c-4cf4-805f-910c9ee3ccb3> ;
+<f79251ff-3d9d-11ee-afeb-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251fc-3d9d-11ee-bb3d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "2.3" ;
     skos:prefLabel "2.3. klar formulierte Anleitungen, Hinweise oder Vorschriften verstehen."@de .
 
-<1e4fba10-4692-4c60-94e1-30fc96fddd2d> a skos:Concept ;
-    skos:broader <c14b89f2-5b2c-4cf4-805f-910c9ee3ccb3> ;
+<f7925200-3d9d-11ee-9f71-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251fc-3d9d-11ee-bb3d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "2.4" ;
     skos:prefLabel "2.4. strukturell unkomplizierte Sachtexten zu vertrauten Themen verstehen und dabei die Hauptaussagen erkennen und Einzelinformationen erfassen."@de .
 
-<2c86326a-237e-487d-a425-02ad723f543a> a skos:Concept ;
-    skos:broader <c14b89f2-5b2c-4cf4-805f-910c9ee3ccb3> ;
+<f7925201-3d9d-11ee-8eb9-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251fc-3d9d-11ee-bb3d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "2.5" ;
     skos:prefLabel "2.5. in strukturell unkomplizierten literarisch-ästhetischen Texten zentrale Themen, Ereignisse, Figuren sowie deren Verbindung zueinander erfassen."@de .
 
-<68ecff75-c67d-41e7-bb4d-a4f8c50df639> a skos:Concept ;
-    skos:broader <c14b89f2-5b2c-4cf4-805f-910c9ee3ccb3> ;
+<f7925202-3d9d-11ee-845a-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251fc-3d9d-11ee-bb3d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "2.6" ;
     skos:prefLabel "2.6. das eigene emotionale Erleben eines strukturell unkomplizierten literarisch-ästhetischen Texts sowie die Eigenschaften und Gefühle einer literarischen Figur erfassen."@de .
 
-<6d6080e3-543f-4b56-97d2-042294f3d669> a skos:Concept ;
-    skos:broader <c14b89f2-5b2c-4cf4-805f-910c9ee3ccb3> ;
+<f7925203-3d9d-11ee-a338-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251fc-3d9d-11ee-bb3d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "2.7" ;
     skos:prefLabel "2.7. beim Lesen auf ihnen vertraute (digitale) Werkzeuge in der Regel selbstständig zurückgreifen."@de .
 
-<d5f911b5-c235-4c0d-8983-15bf65f3b4dd> a skos:Concept ;
-    skos:broader <c14b89f2-5b2c-4cf4-805f-910c9ee3ccb3> ;
+<f7925204-3d9d-11ee-9bbc-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251fc-3d9d-11ee-bb3d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "2.8" ;
     skos:prefLabel "2.8. die Bedeutung unbekannter Wörter in einem Text aus ihren Bestandteilen und dem Kontext ableiten."@de .
 
-<926129d1-c041-4e08-90d4-f63e4e200239> a skos:Concept ;
-    skos:broader <c14b89f2-5b2c-4cf4-805f-910c9ee3ccb3> ;
+<f7925205-3d9d-11ee-9c5e-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251fc-3d9d-11ee-bb3d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "2.9" ;
     skos:prefLabel "2.9. mit Hilfe von Hinweisen in Texten und der Aufgabe Vorhersagen über den weiteren Inhalt treffen und diese während des Lesens anpassen."@de .
 
-<b3b52e30-97e2-4579-bfcb-536958cf875a> a skos:Concept ;
-    skos:broader <c14b89f2-5b2c-4cf4-805f-910c9ee3ccb3> ;
+<f7925206-3d9d-11ee-9c84-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f79251fc-3d9d-11ee-bb3d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "2.10" ;
     skos:prefLabel "2.10. die in einer Sprache/weiteren Sprachen verfügbaren Kenntnisse und erlernten Strategien in der Regel selbstständig aktivieren, um zielsprachige Texte zu verstehen."@de .
 
-<916807f0-150a-4249-b4bf-17256c961272> a skos:Concept ;
-    skos:narrower <87979e0a-4d6c-48c0-a9d5-c191fdec8eca>,
-        <b5565112-034a-4486-ae24-eb9ad9069200> ;
-    skos:notation "3" ;
+<f7925207-3d9d-11ee-99f6-484d7ea9e46c> a skos:Concept ;
+    skos:narrower <f7925208-3d9d-11ee-95ba-484d7ea9e46c>,
+        <f7925214-3d9d-11ee-a16b-484d7ea9e46c> ;
     skos:prefLabel "3. Sprechen"@de ;
     skos:topConceptOf <> .
 
-<87979e0a-4d6c-48c0-a9d5-c191fdec8eca> a skos:Concept ;
-    skos:broader <916807f0-150a-4249-b4bf-17256c961272> ;
+<f7925208-3d9d-11ee-95ba-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925207-3d9d-11ee-99f6-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:narrower <10e7a059-40d6-4d22-a178-91ce4f77877c>,
-        <5f6c4b2d-df1d-4dc7-9487-08b758dabc03>,
-        <7404a715-af9e-4f6f-8326-48e60abc4652>,
-        <7c807231-28c3-42d9-a3a1-2c405b29d49e>,
-        <7d3f6895-4928-4481-bfa8-7e085eb33a54>,
-        <81e0d624-9c9a-4e82-a915-34cf0e9ac0df>,
-        <ae135a05-e376-4150-a441-299e60c9c5d5>,
-        <ea516cea-fb50-464c-bf44-4641e5e0116b>,
-        <f4ebe404-d33c-42fd-a43e-cb5a34d6a0b9>,
-        <f534e6d7-de35-45ea-bdd4-94149edfb55d>,
-        <fe513f6c-938a-473a-8c5e-4d5e6875f67c> ;
-    skos:notation "3.1" ;
+    skos:narrower <f7925209-3d9d-11ee-becf-484d7ea9e46c>,
+        <f792520a-3d9d-11ee-92ab-484d7ea9e46c>,
+        <f792520b-3d9d-11ee-9de6-484d7ea9e46c>,
+        <f792520c-3d9d-11ee-96bf-484d7ea9e46c>,
+        <f792520d-3d9d-11ee-b4f6-484d7ea9e46c>,
+        <f792520e-3d9d-11ee-943a-484d7ea9e46c>,
+        <f792520f-3d9d-11ee-b816-484d7ea9e46c>,
+        <f7925210-3d9d-11ee-8225-484d7ea9e46c>,
+        <f7925211-3d9d-11ee-90cc-484d7ea9e46c>,
+        <f7925212-3d9d-11ee-80cf-484d7ea9e46c>,
+        <f7925213-3d9d-11ee-95c6-484d7ea9e46c> ;
     skos:prefLabel "3.1. Mündliche Interaktion"@de .
 
-<fe513f6c-938a-473a-8c5e-4d5e6875f67c> a skos:Concept ;
-    skos:broader <87979e0a-4d6c-48c0-a9d5-c191fdec8eca> ;
+<f7925209-3d9d-11ee-becf-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925208-3d9d-11ee-95ba-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.1.1" ;
     skos:prefLabel "3.1.1. spontan und flüssig an Gesprächen zu vertrauten und gesellschaftlich relevanten Themen teilnehmen, persönliche Meinungen ausdrücken und Argumente austauschen über Themen, die vertraut sind."@de .
 
-<10e7a059-40d6-4d22-a178-91ce4f77877c> a skos:Concept ;
-    skos:broader <87979e0a-4d6c-48c0-a9d5-c191fdec8eca> ;
+<f792520a-3d9d-11ee-92ab-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925208-3d9d-11ee-95ba-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.1.2" ;
     skos:prefLabel "3.1.2. an mündlichen Interaktionsformen teilnehmen, die eine inhaltliche, sprachliche oder strategische Vorbereitung voraussetzen."@de .
 
-<f4ebe404-d33c-42fd-a43e-cb5a34d6a0b9> a skos:Concept ;
-    skos:broader <87979e0a-4d6c-48c0-a9d5-c191fdec8eca> ;
+<f792520b-3d9d-11ee-9de6-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925208-3d9d-11ee-95ba-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.1.3" ;
     skos:prefLabel "3.1.3. ein strukturell unkompliziertes Gespräch auch ohne Vorbereitung unter Berücksichtigung der wichtigsten Höflichkeitskonventionen spontan führen."@de .
 
-<5f6c4b2d-df1d-4dc7-9487-08b758dabc03> a skos:Concept ;
-    skos:broader <87979e0a-4d6c-48c0-a9d5-c191fdec8eca> ;
+<f792520c-3d9d-11ee-96bf-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925208-3d9d-11ee-95ba-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.1.4" ;
     skos:prefLabel "3.1.4. in einem Alltagsgespräch klar artikulierte Standardsprache verstehen, sie müssen aber manchmal um Wiederholung oder Klärung bestimmter Wörter und Wendungen bitten."@de .
 
-<f534e6d7-de35-45ea-bdd4-94149edfb55d> a skos:Concept ;
-    skos:broader <87979e0a-4d6c-48c0-a9d5-c191fdec8eca> ;
+<f792520d-3d9d-11ee-b4f6-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925208-3d9d-11ee-95ba-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.1.5" ;
     skos:prefLabel "3.1.5. an routinemäßigen formellen Diskussionen über vertraute Themen teilnehmen, sofern die Punkte in überwiegend einfacher Sprache vorgebracht und/oder wiederholt werden und Gelegenheit zur Klärung besteht."@de .
 
-<7d3f6895-4928-4481-bfa8-7e085eb33a54> a skos:Concept ;
-    skos:broader <87979e0a-4d6c-48c0-a9d5-c191fdec8eca> ;
+<f792520e-3d9d-11ee-943a-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925208-3d9d-11ee-95ba-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.1.6" ;
     skos:prefLabel "3.1.6. unkomplizierte Sachinformationen über vertraute Themen adressaten-, situations- und zweckangemessen weitergeben und Informationsfragen dazu detailliert beantworten."@de .
 
-<ea516cea-fb50-464c-bf44-4641e5e0116b> a skos:Concept ;
-    skos:broader <87979e0a-4d6c-48c0-a9d5-c191fdec8eca> ;
+<f792520f-3d9d-11ee-b816-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925208-3d9d-11ee-95ba-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.1.7" ;
     skos:prefLabel "3.1.7. (digitale) Hilfsmittel nutzen, um relativ einfache, aber ausführliche Gespräche mit persönlich bekannten Personen zu führen oder grundlegende Dienstleistungen zu erhalten."@de .
 
-<7404a715-af9e-4f6f-8326-48e60abc4652> a skos:Concept ;
-    skos:broader <87979e0a-4d6c-48c0-a9d5-c191fdec8eca> ;
+<f7925210-3d9d-11ee-8225-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925208-3d9d-11ee-95ba-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.1.8" ;
     skos:prefLabel "3.1.8. neue Ausdrücke und Kombinationen von Ausdrücken einüben und ausprobieren und um Rückmeldung dazu bitten."@de .
 
-<7c807231-28c3-42d9-a3a1-2c405b29d49e> a skos:Concept ;
-    skos:broader <87979e0a-4d6c-48c0-a9d5-c191fdec8eca> ;
+<f7925211-3d9d-11ee-90cc-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925208-3d9d-11ee-95ba-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.1.9" ;
     skos:prefLabel "3.1.9. sprachlich oder inhaltlich ähnliche Wörter verwenden, im Versuch ein fehlendes Wort zu paraphrasieren."@de .
 
-<81e0d624-9c9a-4e82-a915-34cf0e9ac0df> a skos:Concept ;
-    skos:broader <87979e0a-4d6c-48c0-a9d5-c191fdec8eca> ;
+<f7925212-3d9d-11ee-80cf-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925208-3d9d-11ee-95ba-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.1.10" ;
     skos:prefLabel "3.1.10. ein strukturell unkompliziertes Gespräch adressaten-, situations- und zweckangemessen beginnen, in Gang haltenund beenden."@de .
 
-<ae135a05-e376-4150-a441-299e60c9c5d5> a skos:Concept ;
-    skos:broader <87979e0a-4d6c-48c0-a9d5-c191fdec8eca> ;
+<f7925213-3d9d-11ee-95c6-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925208-3d9d-11ee-95ba-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.1.11" ;
     skos:prefLabel "3.1.11. die in einer Sprache/weiteren Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien in der Regel selbstständig für die spontane Alltagskommunikation in der Zielsprache nutzen."@de .
 
-<b5565112-034a-4486-ae24-eb9ad9069200> a skos:Concept ;
-    skos:broader <916807f0-150a-4249-b4bf-17256c961272> ;
+<f7925214-3d9d-11ee-a16b-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925207-3d9d-11ee-99f6-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:narrower <0af43b7d-0224-4e96-95d2-312361b8be72>,
-        <0e0ce35c-d0c3-4a80-804e-6d9982ce50ed>,
-        <18798ae4-3654-41f6-b926-cc3ea20e58c8>,
-        <3e0d94d0-af9e-4136-ac68-feb7c960564c>,
-        <6f498f2a-9f51-49bf-b24e-cff2a238040b>,
-        <b28b0125-9f56-4613-a667-daa718ec148c>,
-        <f357670d-2e5a-4f12-be97-94cb67ae836d> ;
-    skos:notation "3.2" ;
+    skos:narrower <f7925215-3d9d-11ee-91ac-484d7ea9e46c>,
+        <f7925216-3d9d-11ee-ad95-484d7ea9e46c>,
+        <f7925217-3d9d-11ee-91a2-484d7ea9e46c>,
+        <f7925218-3d9d-11ee-a394-484d7ea9e46c>,
+        <f7925219-3d9d-11ee-90db-484d7ea9e46c>,
+        <f792521a-3d9d-11ee-a3ee-484d7ea9e46c>,
+        <f792521b-3d9d-11ee-9950-484d7ea9e46c> ;
     skos:prefLabel "3.2. Mündliche Produktion"@de .
 
-<0af43b7d-0224-4e96-95d2-312361b8be72> a skos:Concept ;
-    skos:broader <b5565112-034a-4486-ae24-eb9ad9069200> ;
+<f7925215-3d9d-11ee-91ac-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925214-3d9d-11ee-a16b-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.2.1" ;
     skos:prefLabel "3.2.1. weitgehend flüssig strukturell unkomplizierte, aber zusammenhängende Beschreibungen und Darstellungen zu vertrauten Themen geben, wobei die einzelnen Punkte linear aneinandergereiht werden."@de .
 
-<0e0ce35c-d0c3-4a80-804e-6d9982ce50ed> a skos:Concept ;
-    skos:broader <b5565112-034a-4486-ae24-eb9ad9069200> ;
+<f7925216-3d9d-11ee-ad95-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925214-3d9d-11ee-a16b-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.2.2" ;
     skos:prefLabel "3.2.2. zu verschiedenen vertrauten Themen des eigenen Interessenbereichs strukturell unkomplizierte Beschreibungen oder Berichte geben."@de .
 
-<6f498f2a-9f51-49bf-b24e-cff2a238040b> a skos:Concept ;
-    skos:broader <b5565112-034a-4486-ae24-eb9ad9069200> ;
+<f7925217-3d9d-11ee-91a2-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925214-3d9d-11ee-a16b-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.2.3" ;
     skos:prefLabel "3.2.3. die Hauptaspekte einer Idee oder eines Problems hinreichend genau erklären."@de .
 
-<b28b0125-9f56-4613-a667-daa718ec148c> a skos:Concept ;
-    skos:broader <b5565112-034a-4486-ae24-eb9ad9069200> ;
+<f7925218-3d9d-11ee-a394-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925214-3d9d-11ee-a16b-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.2.4" ;
     skos:prefLabel "3.2.4. für Ansichten, Pläne oder Handlungen, kurze Begründungen oder Erklärungen geben."@de .
 
-<3e0d94d0-af9e-4136-ac68-feb7c960564c> a skos:Concept ;
-    skos:broader <b5565112-034a-4486-ae24-eb9ad9069200> ;
+<f7925219-3d9d-11ee-90db-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925214-3d9d-11ee-a16b-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.2.5" ;
     skos:prefLabel "3.2.5. vorbereitete Präsentationen zu vertrauten Themen in verschiedenen Kommunikationsformen so klar und präzise vortragen, dass man dieser meist mühelos folgen kann."@de .
 
-<f357670d-2e5a-4f12-be97-94cb67ae836d> a skos:Concept ;
-    skos:broader <b5565112-034a-4486-ae24-eb9ad9069200> ;
+<f792521a-3d9d-11ee-a3ee-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925214-3d9d-11ee-a16b-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.2.6" ;
     skos:prefLabel "3.2.6. (digitale) Hilfsmittel in der Regel selbstständig nutzen, um zusammenhängende mündliche Äußerungen zu vertrauten Themen zu verfassen."@de .
 
-<18798ae4-3654-41f6-b926-cc3ea20e58c8> a skos:Concept ;
-    skos:broader <b5565112-034a-4486-ae24-eb9ad9069200> ;
+<f792521b-3d9d-11ee-9950-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925214-3d9d-11ee-a16b-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "3.2.7" ;
     skos:prefLabel "3.2.7. ihre begrenzten Kompetenzen in den verschiedenen ihnen eventuell zur Verfügung stehenden Sprachen in der Regel selbstständig für zusammenhängende Beschreibungen und Berichte in der Zielsprache nutzen."@de .
 
-<c97dc600-de8d-47b8-8fa6-89287d16e8a1> a skos:Concept ;
-    skos:narrower <a4c8f1e1-f3c2-441b-9893-20497c6dd45b>,
-        <d56c1614-1504-4617-8072-7245c9e030fd> ;
-    skos:notation "4" ;
+<f792521c-3d9d-11ee-8617-484d7ea9e46c> a skos:Concept ;
+    skos:narrower <f792521d-3d9d-11ee-8fd4-484d7ea9e46c>,
+        <f7925229-3d9d-11ee-947c-484d7ea9e46c> ;
     skos:prefLabel "4. Schreiben"@de ;
     skos:topConceptOf <> .
 
-<a4c8f1e1-f3c2-441b-9893-20497c6dd45b> a skos:Concept ;
-    skos:broader <c97dc600-de8d-47b8-8fa6-89287d16e8a1> ;
+<f792521d-3d9d-11ee-8fd4-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521c-3d9d-11ee-8617-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:narrower <0b5eb06f-95b5-41c2-9cfd-fd87e224e2d8>,
-        <674e8888-9e16-4319-a1cb-4694442e2e18>,
-        <6995d26a-c2c2-4102-a277-c4a1d705295e>,
-        <85930823-92c0-4920-9820-ccebde6a9a1e>,
-        <9d7cc8e9-2d0c-4d6b-b246-d38581ca0d02>,
-        <a494a518-8bc6-45ea-9b22-04ba1f6296a1>,
-        <a955a83c-bfb6-4394-9ffe-70abf10ee739>,
-        <df4c9c70-38ae-4cde-bfd2-804ec2f93b60>,
-        <e7d3f7fd-dfcb-41ab-96b6-9162576499cf>,
-        <ea0525e8-6932-4043-8bbc-c6ca5599ee30>,
-        <edd441c0-2843-43e2-acc4-5978ab1fa4cb> ;
-    skos:notation "4.1" ;
+    skos:narrower <f792521e-3d9d-11ee-acf7-484d7ea9e46c>,
+        <f792521f-3d9d-11ee-b0d6-484d7ea9e46c>,
+        <f7925220-3d9d-11ee-b007-484d7ea9e46c>,
+        <f7925221-3d9d-11ee-ac68-484d7ea9e46c>,
+        <f7925222-3d9d-11ee-85ff-484d7ea9e46c>,
+        <f7925223-3d9d-11ee-830d-484d7ea9e46c>,
+        <f7925224-3d9d-11ee-bac8-484d7ea9e46c>,
+        <f7925225-3d9d-11ee-b7f0-484d7ea9e46c>,
+        <f7925226-3d9d-11ee-a2a2-484d7ea9e46c>,
+        <f7925227-3d9d-11ee-9abb-484d7ea9e46c>,
+        <f7925228-3d9d-11ee-86b5-484d7ea9e46c> ;
     skos:prefLabel "4.1. Schriftliche Interaktion"@de .
 
-<a955a83c-bfb6-4394-9ffe-70abf10ee739> a skos:Concept ;
-    skos:broader <a4c8f1e1-f3c2-441b-9893-20497c6dd45b> ;
+<f792521e-3d9d-11ee-acf7-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521d-3d9d-11ee-8fd4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.1.1" ;
     skos:prefLabel "4.1.1. adressaten-, situations- und zweckangemessen in einfachen Texten zu vertrauten Themen schriftlich interagieren."@de .
 
-<0b5eb06f-95b5-41c2-9cfd-fd87e224e2d8> a skos:Concept ;
-    skos:broader <a4c8f1e1-f3c2-441b-9893-20497c6dd45b> ;
+<f792521f-3d9d-11ee-b0d6-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521d-3d9d-11ee-8fd4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.1.2" ;
     skos:prefLabel "4.1.2. in persönlichen Korrespondenzen einfache Informationen von unmittelbarer Bedeutung geben oder erfragen und dabei deutlich machen, was sie für wichtig halten."@de .
 
-<df4c9c70-38ae-4cde-bfd2-804ec2f93b60> a skos:Concept ;
-    skos:broader <a4c8f1e1-f3c2-441b-9893-20497c6dd45b> ;
+<f7925220-3d9d-11ee-b007-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521d-3d9d-11ee-8fd4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.1.3" ;
     skos:prefLabel "4.1.3. persönliche Korrespondenzen verfassen und darin detailliert über Erfahrungen, Gefühle, Ereignisse, Meinungen berichten."@de .
 
-<edd441c0-2843-43e2-acc4-5978ab1fa4cb> a skos:Concept ;
-    skos:broader <a4c8f1e1-f3c2-441b-9893-20497c6dd45b> ;
+<f7925221-3d9d-11ee-ac68-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521d-3d9d-11ee-8fd4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.1.4" ;
     skos:prefLabel "4.1.4. adressaten-, situations- und zweckangemessen Notizen mit einfachen, unmittelbar relevanten Informationen formulieren."@de .
 
-<6995d26a-c2c2-4102-a277-c4a1d705295e> a skos:Concept ;
-    skos:broader <a4c8f1e1-f3c2-441b-9893-20497c6dd45b> ;
+<f7925222-3d9d-11ee-85ff-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521d-3d9d-11ee-8fd4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.1.5" ;
     skos:prefLabel "4.1.5. formelle Schreiben, die inhaltlich, sprachlich und formal korrekt gestaltet sein sollen, verfassen und bei Bedarf notwendige (digitale) Hilfen nutzen."@de .
 
-<85930823-92c0-4920-9820-ccebde6a9a1e> a skos:Concept ;
-    skos:broader <a4c8f1e1-f3c2-441b-9893-20497c6dd45b> ;
+<f7925223-3d9d-11ee-830d-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521d-3d9d-11ee-8fd4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.1.6" ;
     skos:prefLabel "4.1.6. Beitrag zu einer Online-Diskussion über ein vertrautes Thema formulieren und individuell und weitgehend detailliert auf die Kommentare anderer eingehen."@de .
 
-<9d7cc8e9-2d0c-4d6b-b246-d38581ca0d02> a skos:Concept ;
-    skos:broader <a4c8f1e1-f3c2-441b-9893-20497c6dd45b> ;
+<f7925224-3d9d-11ee-bac8-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521d-3d9d-11ee-8fd4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.1.7" ;
     skos:prefLabel "4.1.7. in der Regel selbständig erklären, warum bestimmte Teile oder Aspekte eines literarisch-ästhetischen Textes für sie von besonderem Interesse sind."@de .
 
-<ea0525e8-6932-4043-8bbc-c6ca5599ee30> a skos:Concept ;
-    skos:broader <a4c8f1e1-f3c2-441b-9893-20497c6dd45b> ;
+<f7925225-3d9d-11ee-b7f0-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521d-3d9d-11ee-8fd4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.1.8" ;
     skos:prefLabel "4.1.8. (digitale) Hilfsmittel in der Regel selbstständig nutzen, um in einfachen Texten schriftlich zu interagieren."@de .
 
-<674e8888-9e16-4319-a1cb-4694442e2e18> a skos:Concept ;
-    skos:broader <a4c8f1e1-f3c2-441b-9893-20497c6dd45b> ;
+<f7925226-3d9d-11ee-a2a2-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521d-3d9d-11ee-8fd4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.1.9" ;
     skos:prefLabel "4.1.9. sprachlich oder inhaltlich ähnliche Wörter verwenden, im Versuch ein fehlendes Wort zu paraphrasieren."@de .
 
-<e7d3f7fd-dfcb-41ab-96b6-9162576499cf> a skos:Concept ;
-    skos:broader <a4c8f1e1-f3c2-441b-9893-20497c6dd45b> ;
+<f7925227-3d9d-11ee-9abb-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521d-3d9d-11ee-8fd4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.1.10" ;
     skos:prefLabel "4.1.10. andere um Erklärung, mehr Details oder Wiederholung in digitalen Kommunikationsformen bitten."@de .
 
-<a494a518-8bc6-45ea-9b22-04ba1f6296a1> a skos:Concept ;
-    skos:broader <a4c8f1e1-f3c2-441b-9893-20497c6dd45b> ;
+<f7925228-3d9d-11ee-86b5-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521d-3d9d-11ee-8fd4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.1.11" ;
     skos:prefLabel "4.1.11. die in einer Sprache/weiteren Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien in der Regel selbstständig für schriftliche Interaktion in der Zielsprache nutzen."@de .
 
-<d56c1614-1504-4617-8072-7245c9e030fd> a skos:Concept ;
-    skos:broader <c97dc600-de8d-47b8-8fa6-89287d16e8a1> ;
+<f7925229-3d9d-11ee-947c-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f792521c-3d9d-11ee-8617-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:narrower <01445488-03c4-412c-a570-18b0a96e98fc>,
-        <04abdc76-0a81-4ba4-9b8d-1d269f801283>,
-        <095d8b75-64de-48c5-85a7-fe98873658b7>,
-        <b18b847e-266d-4b74-858f-bc056b8221ce>,
-        <d770ccf8-aed6-4bd4-a1f7-5689870ba8d7>,
-        <e3d38b56-ca3e-4563-beaf-7cace4442c2f> ;
-    skos:notation "4.2" ;
+    skos:narrower <f792522a-3d9d-11ee-8a4d-484d7ea9e46c>,
+        <f792522b-3d9d-11ee-96c9-484d7ea9e46c>,
+        <f792522c-3d9d-11ee-b71f-484d7ea9e46c>,
+        <f792522d-3d9d-11ee-a729-484d7ea9e46c>,
+        <f792522e-3d9d-11ee-b055-484d7ea9e46c>,
+        <f792522f-3d9d-11ee-88ea-484d7ea9e46c> ;
     skos:prefLabel "4.2. Schriftliche Produktion"@de .
 
-<04abdc76-0a81-4ba4-9b8d-1d269f801283> a skos:Concept ;
-    skos:broader <d56c1614-1504-4617-8072-7245c9e030fd> ;
+<f792522a-3d9d-11ee-8a4d-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925229-3d9d-11ee-947c-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.2.1" ;
     skos:prefLabel "4.2.1. strukturell unkomplizierte, zusammenhängende Texte zu vertrauten und gesellschaftlich relevanten Themen verfassen, wobei einzelne kürzere Teile in linearer Abfolge verbunden werden."@de .
 
-<b18b847e-266d-4b74-858f-bc056b8221ce> a skos:Concept ;
-    skos:broader <d56c1614-1504-4617-8072-7245c9e030fd> ;
+<f792522b-3d9d-11ee-96c9-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925229-3d9d-11ee-947c-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.2.2" ;
     skos:prefLabel "4.2.2. Beschreibungen eines realen oder fiktiven Ereignisses verfassen."@de .
 
-<095d8b75-64de-48c5-85a7-fe98873658b7> a skos:Concept ;
-    skos:broader <d56c1614-1504-4617-8072-7245c9e030fd> ;
+<f792522c-3d9d-11ee-b71f-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925229-3d9d-11ee-947c-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.2.3" ;
     skos:prefLabel "4.2.3. in einem üblichen Standardformat kurze Berichte verfassen, in denen Sachinformationen weitergegeben und Gründe für Handlungen angegeben werden."@de .
 
-<e3d38b56-ca3e-4563-beaf-7cace4442c2f> a skos:Concept ;
-    skos:broader <d56c1614-1504-4617-8072-7245c9e030fd> ;
+<f792522d-3d9d-11ee-a729-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925229-3d9d-11ee-947c-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.2.4" ;
     skos:prefLabel "4.2.4. (digitale) Hilfsmittel in der Regel selbstständig nutzen, um relativ einfache zusammenhängende Texte zu vertrauten Themen zu verfassen und zu revidieren/korrigieren."@de .
 
-<01445488-03c4-412c-a570-18b0a96e98fc> a skos:Concept ;
-    skos:broader <d56c1614-1504-4617-8072-7245c9e030fd> ;
+<f792522e-3d9d-11ee-b055-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925229-3d9d-11ee-947c-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.2.5" ;
     skos:prefLabel "4.2.5. das eigene Repertoire an sprachlichen Mitteln mit Hilfe (digitaler) Werkzeuge in der Regel selbstständig erweitern."@de .
 
-<d770ccf8-aed6-4bd4-a1f7-5689870ba8d7> a skos:Concept ;
-    skos:broader <d56c1614-1504-4617-8072-7245c9e030fd> ;
+<f792522f-3d9d-11ee-88ea-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925229-3d9d-11ee-947c-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "4.2.6" ;
     skos:prefLabel "4.2.6. die in einer Sprache/weiteren Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien in der Regel selbstständig für das Verfassen von zielsprachigen Texten nutzen."@de .
 
-<fec6d972-5e2c-4ee0-bbcc-82fb5797944f> a skos:Concept ;
-    skos:narrower <454605fa-6e38-41fb-b5d5-d28cfd996c04>,
-        <61dbea56-67aa-4ab0-9afa-6844876633ff>,
-        <66ab4ce8-61cb-49a3-ad04-0d9a01b6fd28>,
-        <d3407140-fbc6-4988-bc97-269efb4db5db>,
-        <f8495d8c-dd5a-4cb9-b2d7-a51da820aba4> ;
-    skos:notation "5" ;
+<f7925230-3d9d-11ee-8bc4-484d7ea9e46c> a skos:Concept ;
+    skos:narrower <f7925231-3d9d-11ee-83a1-484d7ea9e46c>,
+        <f7925232-3d9d-11ee-9566-484d7ea9e46c>,
+        <f7927a60-3d9d-11ee-92c0-484d7ea9e46c>,
+        <f7927a61-3d9d-11ee-bf04-484d7ea9e46c>,
+        <f7927a62-3d9d-11ee-a871-484d7ea9e46c> ;
     skos:prefLabel "5. Mediation / Sprachmittlung"@de ;
     skos:topConceptOf <> .
 
-<454605fa-6e38-41fb-b5d5-d28cfd996c04> a skos:Concept ;
-    skos:broader <fec6d972-5e2c-4ee0-bbcc-82fb5797944f> ;
+<f7925231-3d9d-11ee-83a1-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925230-3d9d-11ee-8bc4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "5.1" ;
     skos:prefLabel "5.1. in beide Richtungen zwischen Deutsch und der ersten Fremdsprache sprachlich und kulturell mündlich, schriftlich sowie im Wechsel der sprachlichen Repräsentationsformen auch längere Texte mitteln, wenn diese in strukturell unkomplizierter Sprache formuliert sind. Dabei sind ihnen die Kommunikations- und Interaktionsformen sowie die Themen vertraut."@de .
 
-<d3407140-fbc6-4988-bc97-269efb4db5db> a skos:Concept ;
-    skos:broader <fec6d972-5e2c-4ee0-bbcc-82fb5797944f> ;
+<f7925232-3d9d-11ee-9566-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925230-3d9d-11ee-8bc4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "5.2" ;
     skos:prefLabel "5.2. Interaktionen voranbringen, indem sie andere Menschen einladen, ihr Wissen, ihre eigenen Erfahrungen und Sichtweisen einzubringen."@de .
 
-<f8495d8c-dd5a-4cb9-b2d7-a51da820aba4> a skos:Concept ;
-    skos:broader <fec6d972-5e2c-4ee0-bbcc-82fb5797944f> ;
+<f7927a60-3d9d-11ee-92c0-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925230-3d9d-11ee-8bc4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "5.3" ;
     skos:prefLabel "5.3. einfache Gespräche für Menschen verschiedener Herkunft durch Sprachmittlung sicherstellen. Sie sind sich dabei der eventuellen herkunftsbedingten Unterschiede und Verständnisschwierigkeiten zwischen den Menschen bewusst."@de .
 
-<61dbea56-67aa-4ab0-9afa-6844876633ff> a skos:Concept ;
-    skos:broader <fec6d972-5e2c-4ee0-bbcc-82fb5797944f> ;
+<f7927a61-3d9d-11ee-bf04-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925230-3d9d-11ee-8bc4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "5.4" ;
     skos:prefLabel "5.4. in Sprachmittlungs- bzw. Mediationssituationen ihre Kompetenzen im eigenen Repertoire strategisch und zielführend in der Regel selbstständig nutzen."@de .
 
-<66ab4ce8-61cb-49a3-ad04-0d9a01b6fd28> a skos:Concept ;
-    skos:broader <fec6d972-5e2c-4ee0-bbcc-82fb5797944f> ;
+<f7927a62-3d9d-11ee-a871-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7925230-3d9d-11ee-8bc4-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "5.5" ;
     skos:prefLabel "5.5. strategisch und zielführend in Sprachmittlungs- bzw. Mediationssituationen auf personale und mediale (digitale) Hilfen in der Regel selbstständig zurückgreifen."@de .
 
 <> a skos:ConceptScheme ;
     dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
     dcterms:title "erste Fremdsprache ESA_Funktionale kommunikative Kompetenz"@de ;
-    skos:hasTopConcept <916807f0-150a-4249-b4bf-17256c961272>,
-        <b89f911f-56f1-494d-ae33-139542e62a86>,
-        <c14b89f2-5b2c-4cf4-805f-910c9ee3ccb3>,
-        <c97dc600-de8d-47b8-8fa6-89287d16e8a1>,
-        <fec6d972-5e2c-4ee0-bbcc-82fb5797944f> .
+    skos:hasTopConcept <f79251f3-3d9d-11ee-a6da-484d7ea9e46c>,
+        <f79251fc-3d9d-11ee-bb3d-484d7ea9e46c>,
+        <f7925207-3d9d-11ee-99f6-484d7ea9e46c>,
+        <f792521c-3d9d-11ee-8617-484d7ea9e46c>,
+        <f7925230-3d9d-11ee-8bc4-484d7ea9e46c> .
 

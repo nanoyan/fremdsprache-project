@@ -2,33 +2,27 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<3035c475-77ce-46fb-9feb-0488a21685fb> a skos:Concept ;
-    skos:notation "1" ;
+<f7aa9a00-3d9d-11ee-87db-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "1. Hypothesen zu Regelmäßigkeiten des Gebrauchs sprachlicher Mittel formulieren."@de ;
     skos:topConceptOf <> .
 
-<9d878292-3853-4b5f-81d6-fa90c1a1254e> a skos:Concept ;
-    skos:notation "2" ;
+<f7aa9a01-3d9d-11ee-8f42-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "2. einige sozial und regional geprägte Varietäten der Fremdsprache wahrnehmen und reflektieren."@de ;
     skos:topConceptOf <> .
 
-<4cb78d68-5a41-403c-9cb7-69407092606f> a skos:Concept ;
-    skos:notation "3" ;
+<f7aa9a02-3d9d-11ee-949f-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "3. Mitteilungsabsichten in vertrauten mündlichen und schriftlichen Kommunikationsformen in der Regel selbständig situations-, adressaten- und zweckangemessen umsetzen."@de ;
     skos:topConceptOf <> .
 
-<8872f80f-1a8b-4d2e-862f-0ea6a96636aa> a skos:Concept ;
-    skos:notation "4" ;
+<f7aa9a03-3d9d-11ee-96a4-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "4. sprachliche Fehler im Bereich vertrauter morphologisch-syntaktischer und syntaktischer Regelungen in der Regel selbständig erkennen und korrigieren."@de ;
     skos:topConceptOf <> .
 
-<c1647e9b-46cb-4532-9ca5-ec5f042a9136> a skos:Concept ;
-    skos:notation "5" ;
+<f7aa9a04-3d9d-11ee-a109-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "5. Gemeinsamkeiten, Unterschiede und Beziehungen zwischen Sprachen in der Regel selbständig erkennen und reflektieren."@de ;
     skos:topConceptOf <> .
 
-<379600ae-57a2-4b18-9c33-36240f3fbba7> a skos:Concept ;
-    skos:notation "6" ;
+<f7aa9a05-3d9d-11ee-9da5-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "6. über die Erfordernisse einer kommunikativen Situation nachdenken und die so gewonnenen Erkenntnisse in der Regel selbständig in ihrem adressaten-, situations- und zweckangemessenen Sprachhandeln berücksichtigen."@de ;
     skos:topConceptOf <> .
 
@@ -36,10 +30,10 @@
     dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
     dcterms:title "erste Fremdsprache MSA_Sprachbewusstheit"@de ;
-    skos:hasTopConcept <3035c475-77ce-46fb-9feb-0488a21685fb>,
-        <379600ae-57a2-4b18-9c33-36240f3fbba7>,
-        <4cb78d68-5a41-403c-9cb7-69407092606f>,
-        <8872f80f-1a8b-4d2e-862f-0ea6a96636aa>,
-        <9d878292-3853-4b5f-81d6-fa90c1a1254e>,
-        <c1647e9b-46cb-4532-9ca5-ec5f042a9136> .
+    skos:hasTopConcept <f7aa9a00-3d9d-11ee-87db-484d7ea9e46c>,
+        <f7aa9a01-3d9d-11ee-8f42-484d7ea9e46c>,
+        <f7aa9a02-3d9d-11ee-949f-484d7ea9e46c>,
+        <f7aa9a03-3d9d-11ee-96a4-484d7ea9e46c>,
+        <f7aa9a04-3d9d-11ee-a109-484d7ea9e46c>,
+        <f7aa9a05-3d9d-11ee-9da5-484d7ea9e46c> .
 

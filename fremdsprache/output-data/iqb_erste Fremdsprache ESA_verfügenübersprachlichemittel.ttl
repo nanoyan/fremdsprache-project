@@ -2,62 +2,53 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<e51b4a6a-535a-427c-ad2e-3fb9e3593d07> a skos:Concept ;
-    skos:narrower <27de06ca-0356-41d5-9a96-105fb505af06>,
-        <392b287f-294b-49fa-9284-0dd7fbaa0b39>,
-        <7994160e-8915-4813-8676-ba51ae9be109>,
-        <8d6f9efc-a951-434d-bf83-fec1fdccc1ab>,
-        <a7061e03-563e-40dc-b45a-2bf08e8cc0b6>,
-        <e388d28d-05fd-4d39-b660-d7eea7d1ebdf>,
-        <f5695630-2237-491d-a8a5-e524b5a2fd37> ;
-    skos:notation "1" ;
+<f7a1103f-3d9d-11ee-bc6d-484d7ea9e46c> a skos:Concept ;
+    skos:narrower <f7a11040-3d9d-11ee-835c-484d7ea9e46c>,
+        <f7a11041-3d9d-11ee-8e09-484d7ea9e46c>,
+        <f7a11042-3d9d-11ee-b088-484d7ea9e46c>,
+        <f7a11043-3d9d-11ee-b0c1-484d7ea9e46c>,
+        <f7a11044-3d9d-11ee-8f7b-484d7ea9e46c>,
+        <f7a11045-3d9d-11ee-99aa-484d7ea9e46c>,
+        <f7a11046-3d9d-11ee-a384-484d7ea9e46c> ;
     skos:prefLabel "1. Lexiko-Grammatik"@de ;
     skos:topConceptOf <> .
 
-<27de06ca-0356-41d5-9a96-105fb505af06> a skos:Concept ;
-    skos:broader <e51b4a6a-535a-427c-ad2e-3fb9e3593d07> ;
+<f7a11040-3d9d-11ee-835c-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7a1103f-3d9d-11ee-bc6d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.1" ;
     skos:prefLabel "1.1. sich zu vertrauten Themen (insbesondere solchen des eigenen Interessensbereichs) äußern, mitunter zögernd und mithilfe von Umschreibungen."@de .
 
-<392b287f-294b-49fa-9284-0dd7fbaa0b39> a skos:Concept ;
-    skos:broader <e51b4a6a-535a-427c-ad2e-3fb9e3593d07> ;
+<f7a11041-3d9d-11ee-8e09-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7a1103f-3d9d-11ee-bc6d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.2" ;
     skos:prefLabel "1.2. ein breites Spektrum einfacher sprachlicher Mittel flexibel einsetzen, um ihre Mitteilungsabsichten grundlegend zu realisieren, die wichtigsten Aspekte eines Gedankens oder eines Problems zu erklären und eigene Überlegungen zu Themen von allgemeinem Interesse auszudrücken."@de .
 
-<e388d28d-05fd-4d39-b660-d7eea7d1ebdf> a skos:Concept ;
-    skos:broader <e51b4a6a-535a-427c-ad2e-3fb9e3593d07> ;
+<f7a11042-3d9d-11ee-b088-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7a1103f-3d9d-11ee-bc6d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.3" ;
     skos:prefLabel "1.3. ihre Ausdrucksweise auch weniger routinemäßigen, sogar schwierigen Situationen anpassen."@de .
 
-<a7061e03-563e-40dc-b45a-2bf08e8cc0b6> a skos:Concept ;
-    skos:broader <e51b4a6a-535a-427c-ad2e-3fb9e3593d07> ;
+<f7a11043-3d9d-11ee-b0c1-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7a1103f-3d9d-11ee-bc6d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.4" ;
     skos:prefLabel "1.4. ein Repertoire von häufig gebrauchten Wendungen, Konstruktionen und Phrasen, die an eher vorhersehbare Situationen gebunden sind, hinreichend korrekt verwenden."@de .
 
-<7994160e-8915-4813-8676-ba51ae9be109> a skos:Concept ;
-    skos:broader <e51b4a6a-535a-427c-ad2e-3fb9e3593d07> ;
+<f7a11044-3d9d-11ee-8f7b-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7a1103f-3d9d-11ee-bc6d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.5" ;
     skos:prefLabel "1.5. grammatische Strukturen in vertrauten Kommunikationssituationen hinreichend korrekt und sicher anwenden. Mitunter zeigen sich erkennbare Einflüssen anderer Sprachen, ohne dass dies jedoch das Verständnis beeinträchtigt."@de .
 
-<f5695630-2237-491d-a8a5-e524b5a2fd37> a skos:Concept ;
-    skos:broader <e51b4a6a-535a-427c-ad2e-3fb9e3593d07> ;
+<f7a11045-3d9d-11ee-99aa-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7a1103f-3d9d-11ee-bc6d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.6" ;
     skos:prefLabel "1.6. die Orthographie und Zeichensetzung so exakt anwenden, dass die von ihnen produzierten zusammenhängenden Texte verständlich sind."@de .
 
-<8d6f9efc-a951-434d-bf83-fec1fdccc1ab> a skos:Concept ;
-    skos:broader <e51b4a6a-535a-427c-ad2e-3fb9e3593d07> ;
+<f7a11046-3d9d-11ee-a384-484d7ea9e46c> a skos:Concept ;
+    skos:broader <f7a1103f-3d9d-11ee-bc6d-484d7ea9e46c> ;
     skos:inScheme <> ;
-    skos:notation "1.7" ;
     skos:prefLabel "1.7. ihnen vertraute (digitale) Hilfsmittel situations- und zweckangemessen zur Sicherstellung weitgehender orthographischer Korrektheit in der Regel selbstständig nutzen."@de .
 
-<81f2c694-4323-4eb8-9ce0-fafc038a06ea> a skos:Concept ;
-    skos:notation "2" ;
+<f7a11047-3d9d-11ee-a44e-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "2. Aussprache und Prosodie"@de ;
     skos:topConceptOf <> .
 
@@ -65,6 +56,6 @@
     dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
     dcterms:title "erste Fremdsprache ESA_Verfügen über sprachliche Mittel"@de ;
-    skos:hasTopConcept <81f2c694-4323-4eb8-9ce0-fafc038a06ea>,
-        <e51b4a6a-535a-427c-ad2e-3fb9e3593d07> .
+    skos:hasTopConcept <f7a1103f-3d9d-11ee-bc6d-484d7ea9e46c>,
+        <f7a11047-3d9d-11ee-a44e-484d7ea9e46c> .
 

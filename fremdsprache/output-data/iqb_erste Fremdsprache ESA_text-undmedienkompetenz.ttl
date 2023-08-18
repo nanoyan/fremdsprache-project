@@ -2,33 +2,27 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<eb9d5834-804d-456e-8fab-724b05890779> a skos:Concept ;
-    skos:notation "1" ;
+<f79e4bfb-3d9d-11ee-bee4-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "1. strukturell unkomplizierte (literarisch-ästhetische) Texte zu vertrauten Themen mithilfe sprachlichen, inhaltlichen sowie genre- und medienspezifischen Wissens aufgabenbezogen bzw. zweckgerichtet verstehen, analysieren, deuten und die gewonnenen Aussagen am Text belegen."@de ;
     skos:topConceptOf <> .
 
-<fb688759-227c-478d-940c-e70714f837a1> a skos:Concept ;
-    skos:notation "2" ;
+<f79e4bfc-3d9d-11ee-8f45-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "2. gängige (nicht-)sprachliche Gestaltungsmittel ihnen vertrauter Kommunikations- und Interaktionsformen in der Regel selbstständig erkennen und deuten."@de ;
     skos:topConceptOf <> .
 
-<b4c0550d-5319-476f-9a5f-9e4758f7d8f8> a skos:Concept ;
-    skos:notation "3" ;
+<f79e4bfd-3d9d-11ee-8a96-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "3. gängige (nicht-)sprachliche Gestaltungsmittel ihnen vertrauter, auch digitaler Kommunikations- und Interaktionsformen in eigenen Texten aufgabenbezogen bzw. zweckgerichtet in der Regel selbstständig nutzen."@de ;
     skos:topConceptOf <> .
 
-<59bc5f7e-d3b6-4b3e-875f-f2bad87aec62> a skos:Concept ;
-    skos:notation "4" ;
+<f79e4bfe-3d9d-11ee-a61c-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "4. strukturell unkomplizierte (literarisch-ästhetische) Texte zu vertrauten Themen aufgabenbezogen bzw. zweckgerichtet in ein anderes Genre überführen. Sie können z. B. allgemeine Trends, die in einfachen Diagrammen dargestellt sind, mündlich bzw. schriftlich beschreiben und interpretieren, obgleich ein begrenzter Wortschatz gelegentlich Formulierungsprobleme verursacht."@de ;
     skos:topConceptOf <> .
 
-<88ea1e34-35f6-42bd-8128-b2602a559b44> a skos:Concept ;
-    skos:notation "5" ;
+<f79e4bff-3d9d-11ee-9f72-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "5. ihr Erstverstehen auf der Grundlage von knappen Rückmeldungen in der Regel selbstständig kritisch reflektieren, relativieren und ggf. revidieren."@de ;
     skos:topConceptOf <> .
 
-<5f5a886e-252e-4efb-80b5-87fda3da2eaa> a skos:Concept ;
-    skos:notation "6" ;
+<f79e4c00-3d9d-11ee-b1c3-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "6. auf ihnen vertraute (digitale) Werkzeuge beim sprachlichen, inhaltlichen und textuellen Verstehen sowie beim Produzieren eigener Texte in der Regel selbstständig zurückgreifen."@de ;
     skos:topConceptOf <> .
 
@@ -36,10 +30,10 @@
     dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
     dcterms:title "erste Fremdsprache ESA_Text- und Medienkompetenz"@de ;
-    skos:hasTopConcept <59bc5f7e-d3b6-4b3e-875f-f2bad87aec62>,
-        <5f5a886e-252e-4efb-80b5-87fda3da2eaa>,
-        <88ea1e34-35f6-42bd-8128-b2602a559b44>,
-        <b4c0550d-5319-476f-9a5f-9e4758f7d8f8>,
-        <eb9d5834-804d-456e-8fab-724b05890779>,
-        <fb688759-227c-478d-940c-e70714f837a1> .
+    skos:hasTopConcept <f79e4bfb-3d9d-11ee-bee4-484d7ea9e46c>,
+        <f79e4bfc-3d9d-11ee-8f45-484d7ea9e46c>,
+        <f79e4bfd-3d9d-11ee-8a96-484d7ea9e46c>,
+        <f79e4bfe-3d9d-11ee-a61c-484d7ea9e46c>,
+        <f79e4bff-3d9d-11ee-9f72-484d7ea9e46c>,
+        <f79e4c00-3d9d-11ee-b1c3-484d7ea9e46c> .
 

@@ -40,5 +40,5 @@ def add_w3id_csv(input_folder,middle_folder,row):
             if (len(row)==2):
                 row.append('')
             if (len(row)==3):
-                row.append(str(uuid.uuid4()))
+                row.append(str(uuid.uuid1()))
             writer.writerow(row)

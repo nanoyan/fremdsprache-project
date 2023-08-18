@@ -35,7 +35,7 @@ def buildGraph(input_file, output_folder):
                     cc_url = URIRef(cc['id'])
                     g.add((cc_url, RDF.type, SKOS.Concept))
                     g.add((cc_url, SKOS.prefLabel, Literal(cc['notation'] +". "+ cc['title'], lang="de")))
-                    g.add((cc_url, SKOS.notation, Literal(cc['notation'])))
+                    #g.add((cc_url, SKOS.notation, Literal(cc['notation'])))
                     # if "description" in cc:
                     #     g.add((cc_url, SKOS.definition, Literal(cc['description'], lang="de")))
                     # g.add((cc_url, SKOS.inScheme, base_url))
@@ -47,7 +47,7 @@ def buildGraph(input_file, output_folder):
                             ccc_url = URIRef(ccc['id'])
                             g.add((ccc_url, RDF.type, SKOS.Concept))
                             g.add((ccc_url, SKOS.prefLabel, Literal(ccc['notation'] +". "+ ccc['title'], lang="de")))
-                            g.add((ccc_url, SKOS.notation, Literal(ccc['notation'])))
+                            #g.add((ccc_url, SKOS.notation, Literal(ccc['notation'])))
                             #if "description" in ccc:
                             #    g.add((ccc_url, SKOS.definition, Literal(ccc['description'], lang="de")))
                             #g.add((ccc_url, SKOS.inScheme, base_url))
@@ -61,7 +61,7 @@ def buildGraph(input_file, output_folder):
                             #         g.add((cccc_url, SKOS.notation, Literal(cccc['notation'])))
                                     g.add((cccc_url, RDF.type, SKOS.Concept))
                                     g.add((cccc_url, SKOS.prefLabel, Literal(cccc['notation'] +". "+ cccc['title'], lang="de")))
-                                    g.add((cccc_url, SKOS.notation, Literal(cccc['notation'])))
+                            #        g.add((cccc_url, SKOS.notation, Literal(cccc['notation'])))
                                     g.add((cccc_url, SKOS.inScheme, base_url))
                                     g.add((cccc_url, SKOS.broader, ccc_url)) 
                                     g.add((ccc_url, SKOS.narrower, cccc_url))
@@ -77,9 +77,8 @@ def buildGraph(input_file, output_folder):
             serializer = OrderedTurtleSerializer(g)
             
             #print(type(serializer.topClasses[0]))
-
             serializer.sorters = {
-                ('/^[0-9]+(\.[0-9]+)*$/', lambda x: x),
+                ('.*?/[A-Za-z]+([0-9.]+)$', lambda x: float(x[0])),
                 ('.', lambda x: 0.0),  # default
             }
 
