@@ -2,27 +2,27 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<f7aa9a00-3d9d-11ee-87db-484d7ea9e46c> a skos:Concept ;
+<51df4038-3dc2-11ee-b145-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "1. Hypothesen zu Regelmäßigkeiten des Gebrauchs sprachlicher Mittel formulieren."@de ;
     skos:topConceptOf <> .
 
-<f7aa9a01-3d9d-11ee-8f42-484d7ea9e46c> a skos:Concept ;
+<51df4039-3dc2-11ee-ae48-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "2. einige sozial und regional geprägte Varietäten der Fremdsprache wahrnehmen und reflektieren."@de ;
     skos:topConceptOf <> .
 
-<f7aa9a02-3d9d-11ee-949f-484d7ea9e46c> a skos:Concept ;
+<51df403a-3dc2-11ee-9bd6-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "3. Mitteilungsabsichten in vertrauten mündlichen und schriftlichen Kommunikationsformen in der Regel selbständig situations-, adressaten- und zweckangemessen umsetzen."@de ;
     skos:topConceptOf <> .
 
-<f7aa9a03-3d9d-11ee-96a4-484d7ea9e46c> a skos:Concept ;
+<51df403b-3dc2-11ee-8123-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "4. sprachliche Fehler im Bereich vertrauter morphologisch-syntaktischer und syntaktischer Regelungen in der Regel selbständig erkennen und korrigieren."@de ;
     skos:topConceptOf <> .
 
-<f7aa9a04-3d9d-11ee-a109-484d7ea9e46c> a skos:Concept ;
+<51df403c-3dc2-11ee-b5b4-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "5. Gemeinsamkeiten, Unterschiede und Beziehungen zwischen Sprachen in der Regel selbständig erkennen und reflektieren."@de ;
     skos:topConceptOf <> .
 
-<f7aa9a05-3d9d-11ee-9da5-484d7ea9e46c> a skos:Concept ;
+<51df403d-3dc2-11ee-8301-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "6. über die Erfordernisse einer kommunikativen Situation nachdenken und die so gewonnenen Erkenntnisse in der Regel selbständig in ihrem adressaten-, situations- und zweckangemessenen Sprachhandeln berücksichtigen."@de ;
     skos:topConceptOf <> .
 
@@ -30,10 +30,10 @@
     dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
     dcterms:title "erste Fremdsprache MSA_Sprachbewusstheit"@de ;
-    skos:hasTopConcept <f7aa9a00-3d9d-11ee-87db-484d7ea9e46c>,
-        <f7aa9a01-3d9d-11ee-8f42-484d7ea9e46c>,
-        <f7aa9a02-3d9d-11ee-949f-484d7ea9e46c>,
-        <f7aa9a03-3d9d-11ee-96a4-484d7ea9e46c>,
-        <f7aa9a04-3d9d-11ee-a109-484d7ea9e46c>,
-        <f7aa9a05-3d9d-11ee-9da5-484d7ea9e46c> .
+    skos:hasTopConcept <51df4038-3dc2-11ee-b145-484d7ea9e46c>,
+        <51df4039-3dc2-11ee-ae48-484d7ea9e46c>,
+        <51df403a-3dc2-11ee-9bd6-484d7ea9e46c>,
+        <51df403b-3dc2-11ee-8123-484d7ea9e46c>,
+        <51df403c-3dc2-11ee-b5b4-484d7ea9e46c>,
+        <51df403d-3dc2-11ee-8301-484d7ea9e46c> .
 

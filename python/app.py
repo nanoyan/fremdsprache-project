@@ -7,7 +7,7 @@ import glob
 import os.path
 import os
 import sys
-
+import shutil
 
 # Reading the input data
 
@@ -26,8 +26,20 @@ print(data_folder)
 # Creating the data file structure 
 middle_folder = os.path.join(data_folder, "middle-data")
 output_folder = os.path.join(data_folder, "output-data")
+original_folder = os.path.join(data_folder, "original-data")
 if not os.path.exists(middle_folder):
+    shutil.copytree(data_folder, original_folder)
     os.makedirs(middle_folder)
+else:
+    pattern ="/*.csv"
+    files = glob.glob(middle_folder + pattern)
+    for f in files:
+        filename = os.path.basename(f)
+        print(filename)
+        #os.remove(os.path.join(data_folder,filename))
+        shutil.move(f,os.path.join(data_folder,filename))
+
+
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 

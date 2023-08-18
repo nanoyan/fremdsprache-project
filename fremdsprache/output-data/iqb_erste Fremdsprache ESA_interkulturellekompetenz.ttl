@@ -2,35 +2,35 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<f79600f2-3d9d-11ee-a017-484d7ea9e46c> a skos:Concept ;
+<51d2c847-3dc2-11ee-b95c-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "1. sich der Vielfalt der Sitten und Gebräuche, der Einstellungen, Werte und Überzeugungen verschiedener gesellschaftlicher (einschließlich der eigenen) Gruppen bewusst, können auf entsprechende Signale achten sowie entsprechend wertebezogen und kommunikativ handeln."@de ;
     skos:topConceptOf <> .
 
-<f79600f3-3d9d-11ee-ac25-484d7ea9e46c> a skos:Concept ;
+<51d2c848-3dc2-11ee-ac24-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "2. sich in interkulturellen Situationen der Ähnlichkeiten und Unterschiede von Konventionen (z.B. in Bezug auf Körperhaltung, Blickkontakt und Abstand zu anderen) bewusst und können angemessen damit umgehen."@de ;
     skos:topConceptOf <> .
 
-<f79600f4-3d9d-11ee-af40-484d7ea9e46c> a skos:Concept ;
+<51d2c849-3dc2-11ee-a544-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "3. in interkulturellen Situationen im Rahmen der ihnen zur Verfügung stehenden Mittel mit dem Kommunikationspartner sprachlich angemessen in Bezug auf Situation und Beteiligte agieren."@de ;
     skos:topConceptOf <> .
 
-<f79600f5-3d9d-11ee-8897-484d7ea9e46c> a skos:Concept ;
+<51d2c84a-3dc2-11ee-afd1-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "4. einen interkulturellen Austausch unterstützen, indem sie Offenheit, Interesse und Empathie durch Fragen und die Reaktion auf Fragen zeigen. Dabei sind sie sich der Tatsache bewusst, dass manche Themen und Fragen in den betroffenen Kulturen unterschiedlich wahrgenommen werden können."@de ;
     skos:topConceptOf <> .
 
-<f79600f6-3d9d-11ee-929d-484d7ea9e46c> a skos:Concept ;
+<51d2c84b-3dc2-11ee-94fe-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "5. (als kulturelle Mittler) die Parteien bei einer Meinungsverschiedenheit bitten, ihr Problem zu erläutern, und kurz darauf reagieren, vorausgesetzt es handelt sich um ein vertrautes Thema und die Beteiligten drücken sich deutlich aus."@de ;
     skos:topConceptOf <> .
 
-<f79600f7-3d9d-11ee-988c-484d7ea9e46c> a skos:Concept ;
+<51d2c84c-3dc2-11ee-8a2d-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "6. in einfachen Begriffen diskutieren, wie die kulturell bedingten Handlungen verschiedener gesellschaftlicher (einschließlich der eigenen) Gruppen unterschiedlich wahrgenommen werden können."@de ;
     skos:topConceptOf <> .
 
-<f79600f8-3d9d-11ee-a476-484d7ea9e46c> a skos:Concept ;
+<51d2c84d-3dc2-11ee-9b7c-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "7. die in einer Sprache/in anderen Sprachen verfügbaren Kenntnisse, Fertigkeiten und erlernten Strategien für Sprachhandlungen in interkulturellen (Alltags-) Situationen in der Regel selbstständig nutzen."@de ;
     skos:topConceptOf <> .
 
-<f79600f9-3d9d-11ee-a6fd-484d7ea9e46c> a skos:Concept ;
+<51d2c84e-3dc2-11ee-bd2f-484d7ea9e46c> a skos:Concept ;
     skos:prefLabel "8. ihre zur Verfügung stehende interkulturelle Bewusstheit in Alltagskontexten in der Regel selbstständig reflektieren, um mit einer unerwarteten Situation adressaten-, situations- und zweckangemessen umgehen zu können."@de ;
     skos:topConceptOf <> .
 
@@ -38,12 +38,12 @@
     dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
     dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
     dcterms:title "erste Fremdsprache ESA_Interkulturelle Kompetenz"@de ;
-    skos:hasTopConcept <f79600f2-3d9d-11ee-a017-484d7ea9e46c>,
-        <f79600f3-3d9d-11ee-ac25-484d7ea9e46c>,
-        <f79600f4-3d9d-11ee-af40-484d7ea9e46c>,
-        <f79600f5-3d9d-11ee-8897-484d7ea9e46c>,
-        <f79600f6-3d9d-11ee-929d-484d7ea9e46c>,
-        <f79600f7-3d9d-11ee-988c-484d7ea9e46c>,
-        <f79600f8-3d9d-11ee-a476-484d7ea9e46c>,
-        <f79600f9-3d9d-11ee-a6fd-484d7ea9e46c> .
+    skos:hasTopConcept <51d2c847-3dc2-11ee-b95c-484d7ea9e46c>,
+        <51d2c848-3dc2-11ee-ac24-484d7ea9e46c>,
+        <51d2c849-3dc2-11ee-a544-484d7ea9e46c>,
+        <51d2c84a-3dc2-11ee-afd1-484d7ea9e46c>,
+        <51d2c84b-3dc2-11ee-94fe-484d7ea9e46c>,
+        <51d2c84c-3dc2-11ee-8a2d-484d7ea9e46c>,
+        <51d2c84d-3dc2-11ee-9b7c-484d7ea9e46c>,
+        <51d2c84e-3dc2-11ee-bd2f-484d7ea9e46c> .
 
