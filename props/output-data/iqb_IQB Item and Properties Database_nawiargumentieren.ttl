@@ -1,27 +1,19 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/1319ea35-852a-4463-a39a-24547562bd16> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> ;
-    skos:notation "1" ;
-    skos:prefLabel "SI"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> .
+<a37583a9-4000-11ee-ad98-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. SI"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/72b79bb1-dc33-4a49-8c20-553cc619f68b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> ;
-    skos:notation "2" ;
-    skos:prefLabel "SSI"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> .
+<a37583aa-4000-11ee-94e3-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. SSI"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "Itemparameter auf der Logit-Metrik"@de ;
-    dct:title "IQB Item and Properties Database_Nawi Argumentieren"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/1319ea35-852a-4463-a39a-24547562bd16>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/72b79bb1-dc33-4a49-8c20-553cc619f68b> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/1319ea35-852a-4463-a39a-24547562bd16>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawiargumentieren/72b79bb1-dc33-4a49-8c20-553cc619f68b> ;
-    skos:prefLabel "Nawi Argumentieren"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Nawi Argumentieren"@de ;
+    skos:hasTopConcept <a37583a9-4000-11ee-ad98-484d7ea9e46c>,
+        <a37583aa-4000-11ee-94e3-484d7ea9e46c> .
 

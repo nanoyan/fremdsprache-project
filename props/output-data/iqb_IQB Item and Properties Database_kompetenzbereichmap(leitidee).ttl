@@ -1,54 +1,34 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/b8774bba-4913-4a41-bf61-c529bb70ebda> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
-    skos:notation "1" ;
-    skos:prefLabel "1. Zahlen und Operationen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> .
+<a357ab83-4000-11ee-8cbd-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. 1. Zahlen und Operationen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/1f2e4e7a-05ba-4174-8185-c79156b8a348> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
-    skos:notation "2" ;
-    skos:prefLabel "2. Raum und Form"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> .
+<a357ab84-4000-11ee-878f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. 2. Raum und Form"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/abf348c7-d824-47b6-985d-a7c8b997de7d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
-    skos:notation "3" ;
-    skos:prefLabel "3. Muster und Strukturen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> .
+<a357ab85-4000-11ee-be89-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. 3. Muster und Strukturen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/ffd1e0e2-54ad-43d8-8993-59cc8f214a07> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
-    skos:notation "4" ;
-    skos:prefLabel "4. Größen und Messen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> .
+<a357ab86-4000-11ee-8b29-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. 4. Größen und Messen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/8c49ac92-94f4-41b3-af24-5ed57a756175> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> ;
-    skos:notation "5" ;
-    skos:prefLabel "5. Daten, Häufigkeit und Wahrscheinlichkeit"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> .
+<a357ab87-4000-11ee-addd-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. 5. Daten, Häufigkeit und Wahrscheinlichkeit"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "3er: langsam, normal, schnell"@de ;
-    dct:title "IQB Item and Properties Database_Kompetenzbereich MaP (Leitidee)"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/1f2e4e7a-05ba-4174-8185-c79156b8a348>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/8c49ac92-94f4-41b3-af24-5ed57a756175>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/abf348c7-d824-47b6-985d-a7c8b997de7d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/b8774bba-4913-4a41-bf61-c529bb70ebda>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/ffd1e0e2-54ad-43d8-8993-59cc8f214a07> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/1f2e4e7a-05ba-4174-8185-c79156b8a348>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/8c49ac92-94f4-41b3-af24-5ed57a756175>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/abf348c7-d824-47b6-985d-a7c8b997de7d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/b8774bba-4913-4a41-bf61-c529bb70ebda>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichmap(leitidee)/ffd1e0e2-54ad-43d8-8993-59cc8f214a07> ;
-    skos:prefLabel "Kompetenzbereich MaP (Leitidee)"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Kompetenzbereich MaP (Leitidee)"@de ;
+    skos:hasTopConcept <a357ab83-4000-11ee-8cbd-484d7ea9e46c>,
+        <a357ab84-4000-11ee-878f-484d7ea9e46c>,
+        <a357ab85-4000-11ee-be89-484d7ea9e46c>,
+        <a357ab86-4000-11ee-8b29-484d7ea9e46c>,
+        <a357ab87-4000-11ee-addd-484d7ea9e46c> .
 

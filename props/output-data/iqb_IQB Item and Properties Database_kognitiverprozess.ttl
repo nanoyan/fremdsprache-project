@@ -1,71 +1,44 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/1707d77d-7650-4a6f-a11d-846ddd3b8d76> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:notation "1" ;
-    skos:prefLabel "erkennen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
+<a3480930-4000-11ee-861b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. erkennen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/0a4cbe43-cd74-4fc5-8045-32ed5ab79770> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:notation "2" ;
-    skos:prefLabel "erschließen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
+<a3480931-4000-11ee-bc39-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. erschließen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/53dc7cea-cf1f-4306-b4ba-2d798f4bfd11> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:notation "3" ;
-    skos:prefLabel "reproduzieren"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
+<a3480932-4000-11ee-8740-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. reproduzieren"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/c6cea626-1d3c-4af7-9e53-2712a42d1c1d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:notation "4" ;
-    skos:prefLabel "selegieren"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
+<a3480933-4000-11ee-9f93-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. selegieren"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/045c2b09-3cf3-4b1a-a446-ecc1ee81c182> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:notation "5" ;
-    skos:prefLabel "organisieren"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
+<a3480934-4000-11ee-a44e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. organisieren"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/2e0adb5d-f323-4bbb-9c78-1837f651dbce> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:notation "6" ;
-    skos:prefLabel "integrieren"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
+<a3480935-4000-11ee-8577-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. integrieren"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/475204ed-b19e-4f5a-bdca-1882ffa16cd6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> ;
-    skos:notation "7" ;
-    skos:prefLabel "bewerten"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> .
+<a3480936-4000-11ee-8225-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. bewerten"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Kognitiver Prozess"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/045c2b09-3cf3-4b1a-a446-ecc1ee81c182>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/0a4cbe43-cd74-4fc5-8045-32ed5ab79770>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/1707d77d-7650-4a6f-a11d-846ddd3b8d76>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/2e0adb5d-f323-4bbb-9c78-1837f651dbce>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/475204ed-b19e-4f5a-bdca-1882ffa16cd6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/53dc7cea-cf1f-4306-b4ba-2d798f4bfd11>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/c6cea626-1d3c-4af7-9e53-2712a42d1c1d> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/045c2b09-3cf3-4b1a-a446-ecc1ee81c182>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/0a4cbe43-cd74-4fc5-8045-32ed5ab79770>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/1707d77d-7650-4a6f-a11d-846ddd3b8d76>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/2e0adb5d-f323-4bbb-9c78-1837f651dbce>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/475204ed-b19e-4f5a-bdca-1882ffa16cd6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/53dc7cea-cf1f-4306-b4ba-2d798f4bfd11>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kognitiverprozess/c6cea626-1d3c-4af7-9e53-2712a42d1c1d> ;
-    skos:prefLabel "Kognitiver Prozess"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Kognitiver Prozess"@de ;
+    skos:hasTopConcept <a3480930-4000-11ee-861b-484d7ea9e46c>,
+        <a3480931-4000-11ee-bc39-484d7ea9e46c>,
+        <a3480932-4000-11ee-8740-484d7ea9e46c>,
+        <a3480933-4000-11ee-9f93-484d7ea9e46c>,
+        <a3480934-4000-11ee-a44e-484d7ea9e46c>,
+        <a3480935-4000-11ee-8577-484d7ea9e46c>,
+        <a3480936-4000-11ee-8225-484d7ea9e46c> .
 

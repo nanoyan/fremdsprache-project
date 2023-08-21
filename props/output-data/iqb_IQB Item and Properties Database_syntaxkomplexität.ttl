@@ -1,71 +1,44 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/ec436912-f0e2-484a-abd5-19d43816e98b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:notation "1" ;
-    skos:prefLabel "ausschließlich einfach"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> .
+<a34062e7-4000-11ee-b257-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. ausschließlich einfach"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/26100f43-e735-4085-843d-8cd1aeb320fc> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:notation "2" ;
-    skos:prefLabel "durchgängig einfach"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> .
+<a34062e8-4000-11ee-ae2d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. durchgängig einfach"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/c8c6cbb1-50da-4279-8e64-968404db35e4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:notation "3" ;
-    skos:prefLabel "durchgängig komplex"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> .
+<a34062e9-4000-11ee-948a-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. durchgängig komplex"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/832d8dc1-0861-4641-8b68-009d7a7204ea> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:notation "4" ;
-    skos:prefLabel "einige komplexe Elemente"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> .
+<a34062ea-4000-11ee-baab-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. einige komplexe Elemente"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/f104b6d9-d081-403f-9740-9ed640ceb968> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:notation "5" ;
-    skos:prefLabel "etwas komplex"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> .
+<a34062eb-4000-11ee-844c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. etwas komplex"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/1af44ac7-c145-4b94-8c53-289aaf6d8095> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:notation "6" ;
-    skos:prefLabel "hauptsächlich einfach"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> .
+<a34062ec-4000-11ee-83d7-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. hauptsächlich einfach"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/1679ae19-cc2e-48ac-a4fd-5a985852dc90> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> ;
-    skos:notation "7" ;
-    skos:prefLabel "sehr komplex"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> .
+<a34062ed-4000-11ee-9663-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. sehr komplex"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Syntaxkomplexität"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/1679ae19-cc2e-48ac-a4fd-5a985852dc90>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/1af44ac7-c145-4b94-8c53-289aaf6d8095>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/26100f43-e735-4085-843d-8cd1aeb320fc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/832d8dc1-0861-4641-8b68-009d7a7204ea>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/c8c6cbb1-50da-4279-8e64-968404db35e4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/ec436912-f0e2-484a-abd5-19d43816e98b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/f104b6d9-d081-403f-9740-9ed640ceb968> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/1679ae19-cc2e-48ac-a4fd-5a985852dc90>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/1af44ac7-c145-4b94-8c53-289aaf6d8095>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/26100f43-e735-4085-843d-8cd1aeb320fc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/832d8dc1-0861-4641-8b68-009d7a7204ea>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/c8c6cbb1-50da-4279-8e64-968404db35e4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/ec436912-f0e2-484a-abd5-19d43816e98b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/syntaxkomplexität/f104b6d9-d081-403f-9740-9ed640ceb968> ;
-    skos:prefLabel "Syntaxkomplexität"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Syntaxkomplexität"@de ;
+    skos:hasTopConcept <a34062e7-4000-11ee-b257-484d7ea9e46c>,
+        <a34062e8-4000-11ee-ae2d-484d7ea9e46c>,
+        <a34062e9-4000-11ee-948a-484d7ea9e46c>,
+        <a34062ea-4000-11ee-baab-484d7ea9e46c>,
+        <a34062eb-4000-11ee-844c-484d7ea9e46c>,
+        <a34062ec-4000-11ee-83d7-484d7ea9e46c>,
+        <a34062ed-4000-11ee-9663-484d7ea9e46c> .
 

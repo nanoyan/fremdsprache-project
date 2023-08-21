@@ -1,71 +1,44 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/191765ad-c7fd-4f3b-b41b-13ebaa16d1bd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:notation "1" ;
-    skos:prefLabel "apparier des informations"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+<a382c6e7-4000-11ee-9818-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. apparier des informations"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/8ee6ad1c-2ac5-49e0-8278-fa3962ade1bb> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:notation "2" ;
-    skos:prefLabel "comprendre des indications de direction/consigne"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+<a382c6e8-4000-11ee-846d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. comprendre des indications de direction/consigne"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/e494e54a-1a7b-4899-a811-be121292e6c4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:notation "3" ;
-    skos:prefLabel "comprendre les messages principeaux"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+<a382c6e9-4000-11ee-b055-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. comprendre les messages principeaux"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/d36c178d-f5c0-4f50-9e54-d9467c9af7cf> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:notation "4" ;
-    skos:prefLabel "comprendre l'idée generale"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+<a382c6ea-4000-11ee-b6e3-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. comprendre l'idée generale"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/ae820fab-c64b-4c2d-b6db-65bf1893d33a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:notation "5" ;
-    skos:prefLabel "déduire le sens d'un mot ou d'un group lexical"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+<a382c6eb-4000-11ee-ab56-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. déduire le sens d'un mot ou d'un group lexical"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/28a0a725-bb3b-45ae-9668-9c63ec586ef3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:notation "6" ;
-    skos:prefLabel "faire des inférences simples"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+<a382c6ec-4000-11ee-a8fa-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. faire des inférences simples"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/f12d6606-a8e4-4fac-9778-afad45ea4961> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> ;
-    skos:notation "7" ;
-    skos:prefLabel "identifier une information spécifique"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> .
+<a382c6ed-4000-11ee-a93e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. identifier une information spécifique"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_KompFrSek1"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/191765ad-c7fd-4f3b-b41b-13ebaa16d1bd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/28a0a725-bb3b-45ae-9668-9c63ec586ef3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/8ee6ad1c-2ac5-49e0-8278-fa3962ade1bb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/ae820fab-c64b-4c2d-b6db-65bf1893d33a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/d36c178d-f5c0-4f50-9e54-d9467c9af7cf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/e494e54a-1a7b-4899-a811-be121292e6c4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/f12d6606-a8e4-4fac-9778-afad45ea4961> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/191765ad-c7fd-4f3b-b41b-13ebaa16d1bd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/28a0a725-bb3b-45ae-9668-9c63ec586ef3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/8ee6ad1c-2ac5-49e0-8278-fa3962ade1bb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/ae820fab-c64b-4c2d-b6db-65bf1893d33a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/d36c178d-f5c0-4f50-9e54-d9467c9af7cf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/e494e54a-1a7b-4899-a811-be121292e6c4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompfrsek1/f12d6606-a8e4-4fac-9778-afad45ea4961> ;
-    skos:prefLabel "KompFrSek1"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_KompFrSek1"@de ;
+    skos:hasTopConcept <a382c6e7-4000-11ee-9818-484d7ea9e46c>,
+        <a382c6e8-4000-11ee-846d-484d7ea9e46c>,
+        <a382c6e9-4000-11ee-b055-484d7ea9e46c>,
+        <a382c6ea-4000-11ee-b6e3-484d7ea9e46c>,
+        <a382c6eb-4000-11ee-ab56-484d7ea9e46c>,
+        <a382c6ec-4000-11ee-a8fa-484d7ea9e46c>,
+        <a382c6ed-4000-11ee-a93e-484d7ea9e46c> .
 

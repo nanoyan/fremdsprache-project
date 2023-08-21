@@ -1,35 +1,24 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/682feb93-a85f-416c-b94d-4d2785490a92> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/> ;
-    skos:notation "1" ;
-    skos:prefLabel "diskontinuierlich"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/> .
+<a3609427-4000-11ee-92d3-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. diskontinuierlich"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/574f7a20-a44c-4835-9656-ca9108e98a7f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/> ;
-    skos:notation "2" ;
-    skos:prefLabel "kontinuierlich"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/> .
+<a3609428-4000-11ee-9bdc-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. kontinuierlich"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/b8f0a313-e408-4f05-b656-bd9894a1710e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/> ;
-    skos:notation "3" ;
-    skos:prefLabel "teilweise diskontinuierlich"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/> .
+<a3609429-4000-11ee-b93d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. teilweise diskontinuierlich"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Leserichtung"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/574f7a20-a44c-4835-9656-ca9108e98a7f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/682feb93-a85f-416c-b94d-4d2785490a92>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/b8f0a313-e408-4f05-b656-bd9894a1710e> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/574f7a20-a44c-4835-9656-ca9108e98a7f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/682feb93-a85f-416c-b94d-4d2785490a92>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/leserichtung/b8f0a313-e408-4f05-b656-bd9894a1710e> ;
-    skos:prefLabel "Leserichtung"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Leserichtung"@de ;
+    skos:hasTopConcept <a3609427-4000-11ee-92d3-484d7ea9e46c>,
+        <a3609428-4000-11ee-9bdc-484d7ea9e46c>,
+        <a3609429-4000-11ee-b93d-484d7ea9e46c> .
 

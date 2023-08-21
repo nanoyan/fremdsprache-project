@@ -1,161 +1,94 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/84fc7434-4baf-49c7-86ce-b775f04336c1> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Abbildungen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578a6-4000-11ee-b1a7-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Abbildungen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/b751d13d-fb28-4286-af58-b25a45af0be8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Überschriften"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578a7-4000-11ee-a50c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Überschriften"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/f6b61de3-e1eb-4607-b8e7-820cdfe0ec82> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Grafische Darstellung/Tabelle"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578a8-4000-11ee-b209-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Grafische Darstellung/Tabelle"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/10342e2e-9b83-4334-9da3-aafb32a72d38> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Gliederungspunkte"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578a9-4000-11ee-ab91-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Gliederungspunkte"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/9c46e647-417b-4f3e-807a-262272d47937> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Literarischer Text"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578aa-4000-11ee-aefa-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. Literarischer Text"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/1c912762-3bf8-4307-961d-a92a7a7fb8ef> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "6" ;
-    skos:prefLabel "Dramatischer Text"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578ab-4000-11ee-9a6e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. Dramatischer Text"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/176e065c-e87d-4901-a4ff-637f7b8fdef7> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "7" ;
-    skos:prefLabel "Lyrischer Text"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578ac-4000-11ee-8419-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. Lyrischer Text"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/5af11a59-abf3-49da-a9aa-4ceb901e5af4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "8" ;
-    skos:prefLabel "Prosaischer/erzählender Text"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578ad-4000-11ee-be85-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. Prosaischer/erzählender Text"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/cc107b53-9018-4fa2-bf76-f73a50194beb> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "9" ;
-    skos:prefLabel "Sachtext"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578ae-4000-11ee-ab1a-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "9. Sachtext"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/a601d173-4571-449e-8b02-fec01ef3553c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "10" ;
-    skos:prefLabel "Sachtext kontinuierlich"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578af-4000-11ee-97e6-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "10. Sachtext kontinuierlich"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/c2cc0ac8-e83f-4a84-ae3d-5ebd7b330a9c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "11" ;
-    skos:prefLabel "Sachtext tlw. diskontinuierlich"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578b0-4000-11ee-855d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "11. Sachtext tlw. diskontinuierlich"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/9a5a3c36-929f-4482-b448-cc1233ba3a6e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "12" ;
-    skos:prefLabel "Sachtext diskontinuierlich"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578b1-4000-11ee-a0b1-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "12. Sachtext diskontinuierlich"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/54017a1b-4ca3-440c-8211-3b589b17994a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "13" ;
-    skos:prefLabel "Audiosequenz: monologisch"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578b2-4000-11ee-b52c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "13. Audiosequenz: monologisch"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/1dfc11cd-c694-4598-8255-d0a57b7fceee> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "14" ;
-    skos:prefLabel "Audiosequenz: dialogisch"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578b3-4000-11ee-be31-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "14. Audiosequenz: dialogisch"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/701465fd-baaf-45a1-86f5-734c4be474e5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "15" ;
-    skos:prefLabel "Textauszug/-fragment"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578b4-4000-11ee-81b5-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "15. Textauszug/-fragment"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/431eec9c-b586-4c94-b456-11cf94c5b489> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "16" ;
-    skos:prefLabel "isoliertes Satzmaterial"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578b5-4000-11ee-9628-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "16. isoliertes Satzmaterial"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/bcd4ebfa-ad89-45d8-8fe0-65cb3576a270> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> ;
-    skos:notation "17" ;
-    skos:prefLabel "isoliertes Wortmaterial"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textform/> .
+<a35578b6-4000-11ee-988b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "17. isoliertes Wortmaterial"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textform/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Textform"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/textform/10342e2e-9b83-4334-9da3-aafb32a72d38>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/176e065c-e87d-4901-a4ff-637f7b8fdef7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/1c912762-3bf8-4307-961d-a92a7a7fb8ef>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/1dfc11cd-c694-4598-8255-d0a57b7fceee>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/431eec9c-b586-4c94-b456-11cf94c5b489>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/54017a1b-4ca3-440c-8211-3b589b17994a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/5af11a59-abf3-49da-a9aa-4ceb901e5af4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/701465fd-baaf-45a1-86f5-734c4be474e5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/84fc7434-4baf-49c7-86ce-b775f04336c1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/9a5a3c36-929f-4482-b448-cc1233ba3a6e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/9c46e647-417b-4f3e-807a-262272d47937>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/a601d173-4571-449e-8b02-fec01ef3553c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/b751d13d-fb28-4286-af58-b25a45af0be8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/bcd4ebfa-ad89-45d8-8fe0-65cb3576a270>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/c2cc0ac8-e83f-4a84-ae3d-5ebd7b330a9c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/cc107b53-9018-4fa2-bf76-f73a50194beb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/f6b61de3-e1eb-4607-b8e7-820cdfe0ec82> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/textform/10342e2e-9b83-4334-9da3-aafb32a72d38>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/176e065c-e87d-4901-a4ff-637f7b8fdef7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/1c912762-3bf8-4307-961d-a92a7a7fb8ef>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/1dfc11cd-c694-4598-8255-d0a57b7fceee>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/431eec9c-b586-4c94-b456-11cf94c5b489>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/54017a1b-4ca3-440c-8211-3b589b17994a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/5af11a59-abf3-49da-a9aa-4ceb901e5af4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/701465fd-baaf-45a1-86f5-734c4be474e5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/84fc7434-4baf-49c7-86ce-b775f04336c1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/9a5a3c36-929f-4482-b448-cc1233ba3a6e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/9c46e647-417b-4f3e-807a-262272d47937>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/a601d173-4571-449e-8b02-fec01ef3553c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/b751d13d-fb28-4286-af58-b25a45af0be8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/bcd4ebfa-ad89-45d8-8fe0-65cb3576a270>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/c2cc0ac8-e83f-4a84-ae3d-5ebd7b330a9c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/cc107b53-9018-4fa2-bf76-f73a50194beb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textform/f6b61de3-e1eb-4607-b8e7-820cdfe0ec82> ;
-    skos:prefLabel "Textform"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Textform"@de ;
+    skos:hasTopConcept <a35578a6-4000-11ee-b1a7-484d7ea9e46c>,
+        <a35578a7-4000-11ee-a50c-484d7ea9e46c>,
+        <a35578a8-4000-11ee-b209-484d7ea9e46c>,
+        <a35578a9-4000-11ee-ab91-484d7ea9e46c>,
+        <a35578aa-4000-11ee-aefa-484d7ea9e46c>,
+        <a35578ab-4000-11ee-9a6e-484d7ea9e46c>,
+        <a35578ac-4000-11ee-8419-484d7ea9e46c>,
+        <a35578ad-4000-11ee-be85-484d7ea9e46c>,
+        <a35578ae-4000-11ee-ab1a-484d7ea9e46c>,
+        <a35578af-4000-11ee-97e6-484d7ea9e46c>,
+        <a35578b0-4000-11ee-855d-484d7ea9e46c>,
+        <a35578b1-4000-11ee-a0b1-484d7ea9e46c>,
+        <a35578b2-4000-11ee-b52c-484d7ea9e46c>,
+        <a35578b3-4000-11ee-be31-484d7ea9e46c>,
+        <a35578b4-4000-11ee-81b5-484d7ea9e46c>,
+        <a35578b5-4000-11ee-9628-484d7ea9e46c>,
+        <a35578b6-4000-11ee-988b-484d7ea9e46c> .
 

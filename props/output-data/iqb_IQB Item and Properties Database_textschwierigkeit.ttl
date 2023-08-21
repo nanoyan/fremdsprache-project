@@ -1,54 +1,34 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/c7dcfc1a-31de-4027-9c67-7892e0dda0f6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
-    skos:notation "1" ;
-    skos:prefLabel "sehr gering"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> .
+<a342d812-4000-11ee-a11e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. sehr gering"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/561c835f-4ce7-4130-8c92-74583cb786ee> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
-    skos:notation "2" ;
-    skos:prefLabel "gering"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> .
+<a342d813-4000-11ee-a5e0-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. gering"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/5b5dc624-7164-4c7f-9530-a5488f80920c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
-    skos:notation "3" ;
-    skos:prefLabel "mittel"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> .
+<a342d814-4000-11ee-84ed-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. mittel"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/df2038eb-94ba-4fdc-8757-53d983ba893b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
-    skos:notation "4" ;
-    skos:prefLabel "hoch"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> .
+<a342d815-4000-11ee-8650-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. hoch"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/623d4d19-616f-4aae-b239-b5dc5be5fd4e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> ;
-    skos:notation "5" ;
-    skos:prefLabel "sehr hoch"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> .
+<a342d816-4000-11ee-a0a1-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. sehr hoch"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "Niveau-Definition nach dem Gemeinsamen Europäischen Referenzrahmen (A1..C2)"@de ;
-    dct:title "IQB Item and Properties Database_Textschwierigkeit"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/561c835f-4ce7-4130-8c92-74583cb786ee>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/5b5dc624-7164-4c7f-9530-a5488f80920c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/623d4d19-616f-4aae-b239-b5dc5be5fd4e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/c7dcfc1a-31de-4027-9c67-7892e0dda0f6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/df2038eb-94ba-4fdc-8757-53d983ba893b> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/561c835f-4ce7-4130-8c92-74583cb786ee>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/5b5dc624-7164-4c7f-9530-a5488f80920c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/623d4d19-616f-4aae-b239-b5dc5be5fd4e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/c7dcfc1a-31de-4027-9c67-7892e0dda0f6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textschwierigkeit/df2038eb-94ba-4fdc-8757-53d983ba893b> ;
-    skos:prefLabel "Textschwierigkeit"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Textschwierigkeit"@de ;
+    skos:hasTopConcept <a342d812-4000-11ee-a11e-484d7ea9e46c>,
+        <a342d813-4000-11ee-a5e0-484d7ea9e46c>,
+        <a342d814-4000-11ee-84ed-484d7ea9e46c>,
+        <a342d815-4000-11ee-8650-484d7ea9e46c>,
+        <a342d816-4000-11ee-a0a1-484d7ea9e46c> .
 

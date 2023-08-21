@@ -1,98 +1,59 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/87d06715-a73e-4796-b708-e02d9d4a1df5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Fragestellung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> .
+<a39c95df-4000-11ee-a7b8-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Fragestellung"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/8aff7c9b-5298-4882-bdb2-fd651081b8d2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Hypothese"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> .
+<a39c95e0-4000-11ee-9563-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Hypothese"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/01de8d34-5a1b-4352-975b-e671147e2070> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Untersuchungsdesign"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> .
+<a39c95e1-4000-11ee-90e1-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Untersuchungsdesign"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/98bc554a-5070-48b7-b4a2-ba81779f89d8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Datenauswertung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> .
+<a39c95e2-4000-11ee-b4fb-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Datenauswertung"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/15e5b887-f720-4374-bbb6-c3f544fcf9c0> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Funktionalität"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> .
+<a39c95e3-4000-11ee-ad9a-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. Funktionalität"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/35c18c51-aa22-45f6-93c6-127f432fb011> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:notation "6" ;
-    skos:prefLabel "Modellanwendung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> .
+<a39c95e4-4000-11ee-9827-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. Modellanwendung"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/35b8e01c-4762-4373-aae0-6f61dfe2f2fe> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:notation "7" ;
-    skos:prefLabel "Grenzen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> .
+<a39c95e5-4000-11ee-bc54-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. Grenzen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/5d5edaa2-6aaa-4489-8e8e-00cd76a27b0e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:notation "8" ;
-    skos:prefLabel "Eigenschaften nat.w. Wissens"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> .
+<a39c95e6-4000-11ee-9a49-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. Eigenschaften nat.w. Wissens"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/e71a14e6-38bf-4913-83eb-659e123284c5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:notation "9" ;
-    skos:prefLabel "Eigenschaften nat.w. Wissens"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> .
+<a39c95e7-4000-11ee-a880-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "9. Eigenschaften nat.w. Wissens"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/7059114e-22d7-41d3-bb0c-dead7fc2984b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> ;
-    skos:notation "10" ;
-    skos:prefLabel "Entwicklung nat.w. Wissens"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> .
+<a39c95e8-4000-11ee-852a-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "10. Entwicklung nat.w. Wissens"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Aspekt"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/01de8d34-5a1b-4352-975b-e671147e2070>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/15e5b887-f720-4374-bbb6-c3f544fcf9c0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/35b8e01c-4762-4373-aae0-6f61dfe2f2fe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/35c18c51-aa22-45f6-93c6-127f432fb011>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/5d5edaa2-6aaa-4489-8e8e-00cd76a27b0e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/7059114e-22d7-41d3-bb0c-dead7fc2984b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/87d06715-a73e-4796-b708-e02d9d4a1df5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/8aff7c9b-5298-4882-bdb2-fd651081b8d2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/98bc554a-5070-48b7-b4a2-ba81779f89d8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/e71a14e6-38bf-4913-83eb-659e123284c5> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/01de8d34-5a1b-4352-975b-e671147e2070>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/15e5b887-f720-4374-bbb6-c3f544fcf9c0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/35b8e01c-4762-4373-aae0-6f61dfe2f2fe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/35c18c51-aa22-45f6-93c6-127f432fb011>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/5d5edaa2-6aaa-4489-8e8e-00cd76a27b0e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/7059114e-22d7-41d3-bb0c-dead7fc2984b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/87d06715-a73e-4796-b708-e02d9d4a1df5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/8aff7c9b-5298-4882-bdb2-fd651081b8d2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/98bc554a-5070-48b7-b4a2-ba81779f89d8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekt/e71a14e6-38bf-4913-83eb-659e123284c5> ;
-    skos:prefLabel "Aspekt"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Aspekt"@de ;
+    skos:hasTopConcept <a39c95df-4000-11ee-a7b8-484d7ea9e46c>,
+        <a39c95e0-4000-11ee-9563-484d7ea9e46c>,
+        <a39c95e1-4000-11ee-90e1-484d7ea9e46c>,
+        <a39c95e2-4000-11ee-b4fb-484d7ea9e46c>,
+        <a39c95e3-4000-11ee-ad9a-484d7ea9e46c>,
+        <a39c95e4-4000-11ee-9827-484d7ea9e46c>,
+        <a39c95e5-4000-11ee-bc54-484d7ea9e46c>,
+        <a39c95e6-4000-11ee-9a49-484d7ea9e46c>,
+        <a39c95e7-4000-11ee-a880-484d7ea9e46c>,
+        <a39c95e8-4000-11ee-852a-484d7ea9e46c> .
 

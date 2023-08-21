@@ -1,80 +1,49 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/a7aef80c-0993-4643-8d6b-9b781ca074f1> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:notation "1" ;
-    skos:prefLabel "in Bearbeitung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+<a35fb92f-4000-11ee-afb8-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. in Bearbeitung"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/20b856d5-0436-4269-ba1e-cb3539c5f8de> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:notation "2" ;
-    skos:prefLabel "fertig für Pilotierung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+<a35fb930-4000-11ee-8367-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. fertig für Pilotierung"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/87c7cbbc-9ec8-4368-beab-ee08a794eb74> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:notation "3" ;
-    skos:prefLabel "pilotiert/normiert"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+<a35fb931-4000-11ee-9571-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. pilotiert/normiert"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/f60e8f9c-1e65-4748-8ffd-f0cc856505f3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:notation "4" ;
-    skos:prefLabel "in Test verwendet (öffentlich)"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+<a35fb932-4000-11ee-b5a6-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. in Test verwendet (öffentlich)"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/1bb020b2-874e-41c5-842e-7d4aadc86f57> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:notation "5" ;
-    skos:prefLabel "in Test verwendet (nicht öffentlich)"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+<a35fb933-4000-11ee-83b7-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. in Test verwendet (nicht öffentlich)"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/30015f9b-133b-4964-b779-a9daf20c066e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:notation "6" ;
-    skos:prefLabel "Ankeraufgabe"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+<a35fb934-4000-11ee-9571-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. Ankeraufgabe"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/4671045a-931c-42d5-b339-b10157197a21> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:notation "7" ;
-    skos:prefLabel "veröffentlicht"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+<a35fb935-4000-11ee-a1b1-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. veröffentlicht"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/105ff97a-5e68-4a37-b72d-fe5ebaad045b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> ;
-    skos:notation "8" ;
-    skos:prefLabel "ausgeschlossen/verworfen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> .
+<a35fb936-4000-11ee-a657-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. ausgeschlossen/verworfen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Aufgabenstatus"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/105ff97a-5e68-4a37-b72d-fe5ebaad045b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/1bb020b2-874e-41c5-842e-7d4aadc86f57>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/20b856d5-0436-4269-ba1e-cb3539c5f8de>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/30015f9b-133b-4964-b779-a9daf20c066e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/4671045a-931c-42d5-b339-b10157197a21>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/87c7cbbc-9ec8-4368-beab-ee08a794eb74>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/a7aef80c-0993-4643-8d6b-9b781ca074f1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/f60e8f9c-1e65-4748-8ffd-f0cc856505f3> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/105ff97a-5e68-4a37-b72d-fe5ebaad045b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/1bb020b2-874e-41c5-842e-7d4aadc86f57>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/20b856d5-0436-4269-ba1e-cb3539c5f8de>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/30015f9b-133b-4964-b779-a9daf20c066e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/4671045a-931c-42d5-b339-b10157197a21>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/87c7cbbc-9ec8-4368-beab-ee08a794eb74>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/a7aef80c-0993-4643-8d6b-9b781ca074f1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aufgabenstatus/f60e8f9c-1e65-4748-8ffd-f0cc856505f3> ;
-    skos:prefLabel "Aufgabenstatus"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Aufgabenstatus"@de ;
+    skos:hasTopConcept <a35fb92f-4000-11ee-afb8-484d7ea9e46c>,
+        <a35fb930-4000-11ee-8367-484d7ea9e46c>,
+        <a35fb931-4000-11ee-9571-484d7ea9e46c>,
+        <a35fb932-4000-11ee-b5a6-484d7ea9e46c>,
+        <a35fb933-4000-11ee-83b7-484d7ea9e46c>,
+        <a35fb934-4000-11ee-9571-484d7ea9e46c>,
+        <a35fb935-4000-11ee-a1b1-484d7ea9e46c>,
+        <a35fb936-4000-11ee-a657-484d7ea9e46c> .
 

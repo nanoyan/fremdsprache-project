@@ -1,35 +1,24 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/26b32697-6f21-4436-aa90-43ce68da1373> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
-    skos:notation "1" ;
-    skos:prefLabel "gering"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> .
+<a397e893-4000-11ee-8dc8-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. gering"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/67150b62-5153-4dc2-a6a7-04ce5bb68070> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
-    skos:notation "2" ;
-    skos:prefLabel "mittel"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> .
+<a397e894-4000-11ee-b94b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. mittel"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/7d376285-1a35-4b48-82fc-fd5091853e6d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> ;
-    skos:notation "3" ;
-    skos:prefLabel "hoch"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> .
+<a397e895-4000-11ee-89cc-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. hoch"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Verlässlichkeit Logit"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/26b32697-6f21-4436-aa90-43ce68da1373>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/67150b62-5153-4dc2-a6a7-04ce5bb68070>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/7d376285-1a35-4b48-82fc-fd5091853e6d> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/26b32697-6f21-4436-aa90-43ce68da1373>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/67150b62-5153-4dc2-a6a7-04ce5bb68070>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/verlässlichkeitlogit/7d376285-1a35-4b48-82fc-fd5091853e6d> ;
-    skos:prefLabel "Verlässlichkeit Logit"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Verlässlichkeit Logit"@de ;
+    skos:hasTopConcept <a397e893-4000-11ee-8dc8-484d7ea9e46c>,
+        <a397e894-4000-11ee-b94b-484d7ea9e46c>,
+        <a397e895-4000-11ee-89cc-484d7ea9e46c> .
 

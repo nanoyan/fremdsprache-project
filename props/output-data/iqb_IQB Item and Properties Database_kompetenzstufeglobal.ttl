@@ -1,72 +1,44 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/07a69f5e-c9e2-496d-886b-5d4f6c9a63b3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:notation "1" ;
-    skos:prefLabel "I"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> .
+<a39a2bfd-4000-11ee-87b0-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. I"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/0b9b36fc-e5f6-4d3b-b2b2-11afb9d1d3f4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Ia"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> .
+<a39a2bfe-4000-11ee-ae69-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Ia"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/59e5f741-6878-4dcc-9990-6e8f32f1de22> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Ib"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> .
+<a39a2bff-4000-11ee-a0ac-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Ib"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/bfd8d5f3-182d-49de-8225-57ae5cbfd25a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:notation "4" ;
-    skos:prefLabel "II"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> .
+<a39a2c00-4000-11ee-98db-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. II"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/0ff42b63-6b69-4fc3-a94e-570d33f473dd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:notation "5" ;
-    skos:prefLabel "III"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> .
+<a39a2c01-4000-11ee-9960-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. III"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/497f58be-fc96-43f7-9ff1-90c6ead74a10> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:notation "6" ;
-    skos:prefLabel "IV"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> .
+<a39a2c02-4000-11ee-8ab4-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. IV"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/0731913b-11f8-4728-af7f-b2c6a8ffcae6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> ;
-    skos:notation "7" ;
-    skos:prefLabel "V"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> .
+<a39a2c03-4000-11ee-a233-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. V"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "GER erweitert, also A1.1, A1.2 usw."@de ;
-    dct:title "IQB Item and Properties Database_Kompetenzstufe Global"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/0731913b-11f8-4728-af7f-b2c6a8ffcae6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/07a69f5e-c9e2-496d-886b-5d4f6c9a63b3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/0b9b36fc-e5f6-4d3b-b2b2-11afb9d1d3f4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/0ff42b63-6b69-4fc3-a94e-570d33f473dd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/497f58be-fc96-43f7-9ff1-90c6ead74a10>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/59e5f741-6878-4dcc-9990-6e8f32f1de22>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/bfd8d5f3-182d-49de-8225-57ae5cbfd25a> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/0731913b-11f8-4728-af7f-b2c6a8ffcae6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/07a69f5e-c9e2-496d-886b-5d4f6c9a63b3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/0b9b36fc-e5f6-4d3b-b2b2-11afb9d1d3f4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/0ff42b63-6b69-4fc3-a94e-570d33f473dd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/497f58be-fc96-43f7-9ff1-90c6ead74a10>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/59e5f741-6878-4dcc-9990-6e8f32f1de22>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzstufeglobal/bfd8d5f3-182d-49de-8225-57ae5cbfd25a> ;
-    skos:prefLabel "Kompetenzstufe Global"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Kompetenzstufe Global"@de ;
+    skos:hasTopConcept <a39a2bfd-4000-11ee-87b0-484d7ea9e46c>,
+        <a39a2bfe-4000-11ee-ae69-484d7ea9e46c>,
+        <a39a2bff-4000-11ee-a0ac-484d7ea9e46c>,
+        <a39a2c00-4000-11ee-98db-484d7ea9e46c>,
+        <a39a2c01-4000-11ee-9960-484d7ea9e46c>,
+        <a39a2c02-4000-11ee-8ab4-484d7ea9e46c>,
+        <a39a2c03-4000-11ee-a233-484d7ea9e46c> .
 

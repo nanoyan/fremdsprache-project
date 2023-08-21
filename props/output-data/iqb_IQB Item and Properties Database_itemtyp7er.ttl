@@ -1,80 +1,49 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/3b9b7a8a-b150-42b1-905b-cf0d37727d38> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:notation "1" ;
-    skos:prefLabel "MC - Multiple Choice"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+<a346fd55-4000-11ee-89b9-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. MC - Multiple Choice"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/8e46af97-b948-4bf6-98e0-944d0eb01b69> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:notation "2" ;
-    skos:prefLabel "WF - Wahr/Falsch"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+<a346fd56-4000-11ee-8f54-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. WF - Wahr/Falsch"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/8d96c7fd-06da-47df-8bf0-9afd563ba37d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:notation "3" ;
-    skos:prefLabel "MA - Markierungsaufgabe"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+<a346fd57-4000-11ee-a1be-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. MA - Markierungsaufgabe"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/ec9857b8-09d9-44c9-92fa-27683018808b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:notation "4" ;
-    skos:prefLabel "MA+ Markierungsaufg. + Kurzantwort"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+<a346fd58-4000-11ee-b9c2-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. MA+ Markierungsaufg. + Kurzantwort"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/8fc80cf1-2e30-42ab-a3f1-451e01754fc0> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:notation "5" ;
-    skos:prefLabel "ZO/UO - Zu-/Umordnung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+<a346fd59-4000-11ee-ac2d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. ZO/UO - Zu-/Umordnung"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/a9770c7f-d045-4402-a3bb-8e7bd62b275c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:notation "6" ;
-    skos:prefLabel "KA2 - eindeutige Kurzantwort"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+<a346fd5a-4000-11ee-b81d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. KA2 - eindeutige Kurzantwort"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/02feb37a-7842-4881-86a5-bd7c47ae8964> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:notation "7" ;
-    skos:prefLabel "KA3 - längere Kurzantwort (sinngemäß)"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+<a346fd5b-4000-11ee-9945-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. KA3 - längere Kurzantwort (sinngemäß)"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/05ff29b3-50f6-43a4-97bb-d90d272c4b59> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> ;
-    skos:notation "8" ;
-    skos:prefLabel "KA4 - längere Antwort"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> .
+<a346fd5c-4000-11ee-b87f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. KA4 - längere Antwort"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Itemtyp 7er"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/02feb37a-7842-4881-86a5-bd7c47ae8964>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/05ff29b3-50f6-43a4-97bb-d90d272c4b59>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/3b9b7a8a-b150-42b1-905b-cf0d37727d38>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/8d96c7fd-06da-47df-8bf0-9afd563ba37d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/8e46af97-b948-4bf6-98e0-944d0eb01b69>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/8fc80cf1-2e30-42ab-a3f1-451e01754fc0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/a9770c7f-d045-4402-a3bb-8e7bd62b275c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/ec9857b8-09d9-44c9-92fa-27683018808b> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/02feb37a-7842-4881-86a5-bd7c47ae8964>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/05ff29b3-50f6-43a4-97bb-d90d272c4b59>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/3b9b7a8a-b150-42b1-905b-cf0d37727d38>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/8d96c7fd-06da-47df-8bf0-9afd563ba37d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/8e46af97-b948-4bf6-98e0-944d0eb01b69>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/8fc80cf1-2e30-42ab-a3f1-451e01754fc0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/a9770c7f-d045-4402-a3bb-8e7bd62b275c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp7er/ec9857b8-09d9-44c9-92fa-27683018808b> ;
-    skos:prefLabel "Itemtyp 7er"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Itemtyp 7er"@de ;
+    skos:hasTopConcept <a346fd55-4000-11ee-89b9-484d7ea9e46c>,
+        <a346fd56-4000-11ee-8f54-484d7ea9e46c>,
+        <a346fd57-4000-11ee-a1be-484d7ea9e46c>,
+        <a346fd58-4000-11ee-b9c2-484d7ea9e46c>,
+        <a346fd59-4000-11ee-ac2d-484d7ea9e46c>,
+        <a346fd5a-4000-11ee-b81d-484d7ea9e46c>,
+        <a346fd5b-4000-11ee-9945-484d7ea9e46c>,
+        <a346fd5c-4000-11ee-b87f-484d7ea9e46c> .
 

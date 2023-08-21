@@ -1,251 +1,144 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/5ec2136b-21ae-431c-961e-c2571dd15734> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "1" ;
-    skos:prefLabel "to appeal"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a57c-4000-11ee-bd1b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. to appeal"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/3f6641c7-05c7-4246-a8ba-7d24ea11d6b4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "2" ;
-    skos:prefLabel "to attract interest"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a57d-4000-11ee-86c2-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. to attract interest"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/c4150911-48b3-42b8-8021-0b6b37999c65> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "3" ;
-    skos:prefLabel "to comment"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a57e-4000-11ee-bc6c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. to comment"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/c95f0473-ed88-4203-b7a1-bbfb4f513a96> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "4" ;
-    skos:prefLabel "to describe"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a57f-4000-11ee-accd-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. to describe"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/43d92553-149e-459c-bb09-3fc099513bbe> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "5" ;
-    skos:prefLabel "to evaluate"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a580-4000-11ee-84fc-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. to evaluate"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/0b90516a-10a8-433a-bdc6-9f9490708f0a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "6" ;
-    skos:prefLabel "to excuse"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a581-4000-11ee-b269-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. to excuse"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/200f2596-c630-4650-8054-1f444e3e5449> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "7" ;
-    skos:prefLabel "to explain"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a582-4000-11ee-b08d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. to explain"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/fdc34397-18ef-4506-91b4-6e378b127704> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "8" ;
-    skos:prefLabel "to express experiences/feelings"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a583-4000-11ee-9e39-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. to express experiences/feelings"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/ce92f066-b222-4135-82a3-1bd8fffcc2b0> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "9" ;
-    skos:prefLabel "to express opinions/viewpoints/preferences"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a584-4000-11ee-bb7d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "9. to express opinions/viewpoints/preferences"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/9021b7fa-b7df-47af-9dd1-d82d1c32b5bd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "10" ;
-    skos:prefLabel "to give advice/ask for advice"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a585-4000-11ee-a674-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "10. to give advice/ask for advice"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/269b2afe-ad46-4661-a64a-a800eac1d4c7> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "11" ;
-    skos:prefLabel "to give arguments"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a586-4000-11ee-affb-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "11. to give arguments"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/354a9618-e4ce-4a09-9957-80e9226f0068> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "12" ;
-    skos:prefLabel "to give directions"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a587-4000-11ee-b93c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "12. to give directions"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/e6f9796c-49d2-4854-8e65-e673968aed78> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "13" ;
-    skos:prefLabel "to inform/to ask for information"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a588-4000-11ee-8958-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "13. to inform/to ask for information"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/95839aad-98fc-4c95-b640-12397fc7c915> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "14" ;
-    skos:prefLabel "to instruct"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a589-4000-11ee-b7ef-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "14. to instruct"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/d006daa8-ad70-49c7-aa18-3048f5f58ef8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "15" ;
-    skos:prefLabel "to invite"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a58a-4000-11ee-8636-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "15. to invite"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/c49b3758-18bb-444e-bb89-55cf3e12a7e9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "16" ;
-    skos:prefLabel "to make arrangements"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a58b-4000-11ee-8763-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "16. to make arrangements"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/7a6134e0-b601-4af2-8c73-28d358c02204> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "17" ;
-    skos:prefLabel "to persuade/convince"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a58c-4000-11ee-a6a8-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "17. to persuade/convince"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/21dc3020-0b9f-47c6-9ec0-8bed07b5af3c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "18" ;
-    skos:prefLabel "to provide support"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a58d-4000-11ee-8176-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "18. to provide support"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/ee7021dc-0d21-4802-bbb0-335cf623fef6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "19" ;
-    skos:prefLabel "to state advantages/disadvantages"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a58e-4000-11ee-a8bf-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "19. to state advantages/disadvantages"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/e48ce25f-c234-4e91-bd5b-9ec66e7549df> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "20" ;
-    skos:prefLabel "to summarize"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a58f-4000-11ee-8408-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "20. to summarize"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/58d8bd3d-5937-4773-ade1-42dadc717ac7> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "21" ;
-    skos:prefLabel "to tell a story"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a590-4000-11ee-8a28-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "21. to tell a story"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/37a54ad3-86af-41b4-8d3f-2914694abb7f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "22" ;
-    skos:prefLabel "to thank/apologize"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a591-4000-11ee-b3b2-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "22. to thank/apologize"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/5b3a8047-c206-4037-8fbc-5ed3b31a821c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "23" ;
-    skos:prefLabel "instruktiv"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a592-4000-11ee-81f4-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "23. instruktiv"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/05808021-523e-4c17-a649-5ea3969bea41> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "24" ;
-    skos:prefLabel "deskriptiv"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a593-4000-11ee-9777-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "24. deskriptiv"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/2732771d-6bae-443f-855e-1529bd59960a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "25" ;
-    skos:prefLabel "expositorisch"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a594-4000-11ee-a6b0-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "25. expositorisch"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/8a6df891-d16c-4d04-905b-d84f08e9e12f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "26" ;
-    skos:prefLabel "argumentativ"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a595-4000-11ee-be55-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "26. argumentativ"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/400e26d4-1fb2-4ecf-8753-96b7f8afdb2c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> ;
-    skos:notation "27" ;
-    skos:prefLabel "narrativ"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> .
+<a381a596-4000-11ee-bbde-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "27. narrativ"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Funktion Sprachen"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/05808021-523e-4c17-a649-5ea3969bea41>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/0b90516a-10a8-433a-bdc6-9f9490708f0a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/200f2596-c630-4650-8054-1f444e3e5449>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/21dc3020-0b9f-47c6-9ec0-8bed07b5af3c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/269b2afe-ad46-4661-a64a-a800eac1d4c7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/2732771d-6bae-443f-855e-1529bd59960a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/354a9618-e4ce-4a09-9957-80e9226f0068>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/37a54ad3-86af-41b4-8d3f-2914694abb7f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/3f6641c7-05c7-4246-a8ba-7d24ea11d6b4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/400e26d4-1fb2-4ecf-8753-96b7f8afdb2c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/43d92553-149e-459c-bb09-3fc099513bbe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/58d8bd3d-5937-4773-ade1-42dadc717ac7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/5b3a8047-c206-4037-8fbc-5ed3b31a821c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/5ec2136b-21ae-431c-961e-c2571dd15734>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/7a6134e0-b601-4af2-8c73-28d358c02204>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/8a6df891-d16c-4d04-905b-d84f08e9e12f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/9021b7fa-b7df-47af-9dd1-d82d1c32b5bd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/95839aad-98fc-4c95-b640-12397fc7c915>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/c4150911-48b3-42b8-8021-0b6b37999c65>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/c49b3758-18bb-444e-bb89-55cf3e12a7e9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/c95f0473-ed88-4203-b7a1-bbfb4f513a96>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/ce92f066-b222-4135-82a3-1bd8fffcc2b0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/d006daa8-ad70-49c7-aa18-3048f5f58ef8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/e48ce25f-c234-4e91-bd5b-9ec66e7549df>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/e6f9796c-49d2-4854-8e65-e673968aed78>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/ee7021dc-0d21-4802-bbb0-335cf623fef6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/fdc34397-18ef-4506-91b4-6e378b127704> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/05808021-523e-4c17-a649-5ea3969bea41>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/0b90516a-10a8-433a-bdc6-9f9490708f0a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/200f2596-c630-4650-8054-1f444e3e5449>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/21dc3020-0b9f-47c6-9ec0-8bed07b5af3c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/269b2afe-ad46-4661-a64a-a800eac1d4c7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/2732771d-6bae-443f-855e-1529bd59960a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/354a9618-e4ce-4a09-9957-80e9226f0068>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/37a54ad3-86af-41b4-8d3f-2914694abb7f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/3f6641c7-05c7-4246-a8ba-7d24ea11d6b4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/400e26d4-1fb2-4ecf-8753-96b7f8afdb2c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/43d92553-149e-459c-bb09-3fc099513bbe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/58d8bd3d-5937-4773-ade1-42dadc717ac7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/5b3a8047-c206-4037-8fbc-5ed3b31a821c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/5ec2136b-21ae-431c-961e-c2571dd15734>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/7a6134e0-b601-4af2-8c73-28d358c02204>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/8a6df891-d16c-4d04-905b-d84f08e9e12f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/9021b7fa-b7df-47af-9dd1-d82d1c32b5bd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/95839aad-98fc-4c95-b640-12397fc7c915>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/c4150911-48b3-42b8-8021-0b6b37999c65>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/c49b3758-18bb-444e-bb89-55cf3e12a7e9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/c95f0473-ed88-4203-b7a1-bbfb4f513a96>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/ce92f066-b222-4135-82a3-1bd8fffcc2b0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/d006daa8-ad70-49c7-aa18-3048f5f58ef8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/e48ce25f-c234-4e91-bd5b-9ec66e7549df>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/e6f9796c-49d2-4854-8e65-e673968aed78>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/ee7021dc-0d21-4802-bbb0-335cf623fef6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/funktionsprachen/fdc34397-18ef-4506-91b4-6e378b127704> ;
-    skos:prefLabel "Funktion Sprachen"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Funktion Sprachen"@de ;
+    skos:hasTopConcept <a381a57c-4000-11ee-bd1b-484d7ea9e46c>,
+        <a381a57d-4000-11ee-86c2-484d7ea9e46c>,
+        <a381a57e-4000-11ee-bc6c-484d7ea9e46c>,
+        <a381a57f-4000-11ee-accd-484d7ea9e46c>,
+        <a381a580-4000-11ee-84fc-484d7ea9e46c>,
+        <a381a581-4000-11ee-b269-484d7ea9e46c>,
+        <a381a582-4000-11ee-b08d-484d7ea9e46c>,
+        <a381a583-4000-11ee-9e39-484d7ea9e46c>,
+        <a381a584-4000-11ee-bb7d-484d7ea9e46c>,
+        <a381a585-4000-11ee-a674-484d7ea9e46c>,
+        <a381a586-4000-11ee-affb-484d7ea9e46c>,
+        <a381a587-4000-11ee-b93c-484d7ea9e46c>,
+        <a381a588-4000-11ee-8958-484d7ea9e46c>,
+        <a381a589-4000-11ee-b7ef-484d7ea9e46c>,
+        <a381a58a-4000-11ee-8636-484d7ea9e46c>,
+        <a381a58b-4000-11ee-8763-484d7ea9e46c>,
+        <a381a58c-4000-11ee-a6a8-484d7ea9e46c>,
+        <a381a58d-4000-11ee-8176-484d7ea9e46c>,
+        <a381a58e-4000-11ee-a8bf-484d7ea9e46c>,
+        <a381a58f-4000-11ee-8408-484d7ea9e46c>,
+        <a381a590-4000-11ee-8a28-484d7ea9e46c>,
+        <a381a591-4000-11ee-b3b2-484d7ea9e46c>,
+        <a381a592-4000-11ee-81f4-484d7ea9e46c>,
+        <a381a593-4000-11ee-9777-484d7ea9e46c>,
+        <a381a594-4000-11ee-a6b0-484d7ea9e46c>,
+        <a381a595-4000-11ee-be55-484d7ea9e46c>,
+        <a381a596-4000-11ee-bbde-484d7ea9e46c> .
 

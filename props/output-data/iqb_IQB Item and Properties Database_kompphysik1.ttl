@@ -1,242 +1,139 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/1c19532d-32cb-41b7-a327-5cba7d712526> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "1" ;
-    skos:prefLabel "E1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e5a-4000-11ee-8003-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. E1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/aa2033d4-5438-4726-bc66-290236e83380> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "2" ;
-    skos:prefLabel "E2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e5b-4000-11ee-acb2-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. E2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/b9d5ddb1-c733-410f-acde-4161389879cb> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "3" ;
-    skos:prefLabel "E3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e5c-4000-11ee-878b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. E3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/b2ccb392-b633-4967-b26b-ab5cee294543> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "4" ;
-    skos:prefLabel "E4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e5d-4000-11ee-9003-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. E4"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/a27dabf7-e5bc-4307-9180-d7aa87b23bdd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "5" ;
-    skos:prefLabel "E5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e5e-4000-11ee-b23b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. E5"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/0fd580ea-82be-4964-bd14-ea2a7ea48a98> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "6" ;
-    skos:prefLabel "E6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e5f-4000-11ee-bd93-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. E6"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/21aed7e1-6599-4daf-9c8a-5b1a959e4eae> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "7" ;
-    skos:prefLabel "E7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e60-4000-11ee-8728-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. E7"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/eaa3c172-6bef-41db-9f66-431b97f3e023> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "8" ;
-    skos:prefLabel "E8"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e61-4000-11ee-8d2f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. E8"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/0a5a9d00-4419-43f3-9f62-3225daac6528> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "9" ;
-    skos:prefLabel "E9"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e62-4000-11ee-b83b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "9. E9"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/f2fd261e-d562-430b-bb7b-7e6a20094c68> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "10" ;
-    skos:prefLabel "E10"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e63-4000-11ee-ac25-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "10. E10"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/c4ad33b5-1e3a-4edd-a084-5917efdcf00d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "11" ;
-    skos:prefLabel "K1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e64-4000-11ee-b67d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "11. K1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/48b6b716-f091-4382-99a0-10d4487011e4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "12" ;
-    skos:prefLabel "K2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e65-4000-11ee-87a5-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "12. K2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/de43efa1-04bc-4809-9731-57294cceaec5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "13" ;
-    skos:prefLabel "K3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e66-4000-11ee-bfc1-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "13. K3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/32b96cb2-4dc6-4f9e-8832-ef8882d463d4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "14" ;
-    skos:prefLabel "K4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e67-4000-11ee-bc69-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "14. K4"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/a411282e-3462-419e-bce3-c22ca795c533> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "15" ;
-    skos:prefLabel "K5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e68-4000-11ee-a1b9-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "15. K5"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/1e9f23b1-13d0-4188-a2fa-02772490e97c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "16" ;
-    skos:prefLabel "K6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e69-4000-11ee-98d1-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "16. K6"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/f96c974c-8b06-4a0b-95ac-0848b7bc1b77> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "17" ;
-    skos:prefLabel "K7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e6a-4000-11ee-829e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "17. K7"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/0fb335e8-a640-4dd4-bedc-8b150f809c5c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "18" ;
-    skos:prefLabel "B1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e6b-4000-11ee-a33f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "18. B1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/8a38fabb-633f-4bb5-91c0-10651c52177c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "19" ;
-    skos:prefLabel "B2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e6c-4000-11ee-9b90-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "19. B2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/6bba6e23-56e5-42ca-ac12-414143e88355> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "20" ;
-    skos:prefLabel "B3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e6d-4000-11ee-b582-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "20. B3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/b6d1145a-ee4f-4cd5-bce8-a6a97171b5c1> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "21" ;
-    skos:prefLabel "B4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e6e-4000-11ee-8070-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "21. B4"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/667c50a8-41e7-46e0-8b09-cbdf7c80256f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "22" ;
-    skos:prefLabel "F1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e6f-4000-11ee-a5ae-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "22. F1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/7f866479-6283-4469-8dcb-140940deea82> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "23" ;
-    skos:prefLabel "F2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e70-4000-11ee-920f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "23. F2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/6a61fcf6-de0e-4e79-93a6-180e9088890f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "24" ;
-    skos:prefLabel "F3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e71-4000-11ee-9951-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "24. F3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/692559a2-bcca-4a47-b19d-879e264bf2da> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "25" ;
-    skos:prefLabel "F4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e72-4000-11ee-8024-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "25. F4"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/c7f8692e-e3f3-4097-be56-d554d747f769> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> ;
-    skos:notation "26" ;
-    skos:prefLabel "F5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> .
+<a3749e73-4000-11ee-9888-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "26. F5"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_KompPhysik1"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/0a5a9d00-4419-43f3-9f62-3225daac6528>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/0fb335e8-a640-4dd4-bedc-8b150f809c5c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/0fd580ea-82be-4964-bd14-ea2a7ea48a98>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/1c19532d-32cb-41b7-a327-5cba7d712526>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/1e9f23b1-13d0-4188-a2fa-02772490e97c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/21aed7e1-6599-4daf-9c8a-5b1a959e4eae>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/32b96cb2-4dc6-4f9e-8832-ef8882d463d4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/48b6b716-f091-4382-99a0-10d4487011e4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/667c50a8-41e7-46e0-8b09-cbdf7c80256f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/692559a2-bcca-4a47-b19d-879e264bf2da>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/6a61fcf6-de0e-4e79-93a6-180e9088890f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/6bba6e23-56e5-42ca-ac12-414143e88355>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/7f866479-6283-4469-8dcb-140940deea82>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/8a38fabb-633f-4bb5-91c0-10651c52177c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/a27dabf7-e5bc-4307-9180-d7aa87b23bdd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/a411282e-3462-419e-bce3-c22ca795c533>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/aa2033d4-5438-4726-bc66-290236e83380>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/b2ccb392-b633-4967-b26b-ab5cee294543>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/b6d1145a-ee4f-4cd5-bce8-a6a97171b5c1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/b9d5ddb1-c733-410f-acde-4161389879cb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/c4ad33b5-1e3a-4edd-a084-5917efdcf00d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/c7f8692e-e3f3-4097-be56-d554d747f769>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/de43efa1-04bc-4809-9731-57294cceaec5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/eaa3c172-6bef-41db-9f66-431b97f3e023>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/f2fd261e-d562-430b-bb7b-7e6a20094c68>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/f96c974c-8b06-4a0b-95ac-0848b7bc1b77> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/0a5a9d00-4419-43f3-9f62-3225daac6528>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/0fb335e8-a640-4dd4-bedc-8b150f809c5c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/0fd580ea-82be-4964-bd14-ea2a7ea48a98>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/1c19532d-32cb-41b7-a327-5cba7d712526>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/1e9f23b1-13d0-4188-a2fa-02772490e97c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/21aed7e1-6599-4daf-9c8a-5b1a959e4eae>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/32b96cb2-4dc6-4f9e-8832-ef8882d463d4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/48b6b716-f091-4382-99a0-10d4487011e4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/667c50a8-41e7-46e0-8b09-cbdf7c80256f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/692559a2-bcca-4a47-b19d-879e264bf2da>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/6a61fcf6-de0e-4e79-93a6-180e9088890f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/6bba6e23-56e5-42ca-ac12-414143e88355>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/7f866479-6283-4469-8dcb-140940deea82>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/8a38fabb-633f-4bb5-91c0-10651c52177c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/a27dabf7-e5bc-4307-9180-d7aa87b23bdd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/a411282e-3462-419e-bce3-c22ca795c533>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/aa2033d4-5438-4726-bc66-290236e83380>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/b2ccb392-b633-4967-b26b-ab5cee294543>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/b6d1145a-ee4f-4cd5-bce8-a6a97171b5c1>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/b9d5ddb1-c733-410f-acde-4161389879cb>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/c4ad33b5-1e3a-4edd-a084-5917efdcf00d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/c7f8692e-e3f3-4097-be56-d554d747f769>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/de43efa1-04bc-4809-9731-57294cceaec5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/eaa3c172-6bef-41db-9f66-431b97f3e023>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/f2fd261e-d562-430b-bb7b-7e6a20094c68>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompphysik1/f96c974c-8b06-4a0b-95ac-0848b7bc1b77> ;
-    skos:prefLabel "KompPhysik1"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_KompPhysik1"@de ;
+    skos:hasTopConcept <a3749e5a-4000-11ee-8003-484d7ea9e46c>,
+        <a3749e5b-4000-11ee-acb2-484d7ea9e46c>,
+        <a3749e5c-4000-11ee-878b-484d7ea9e46c>,
+        <a3749e5d-4000-11ee-9003-484d7ea9e46c>,
+        <a3749e5e-4000-11ee-b23b-484d7ea9e46c>,
+        <a3749e5f-4000-11ee-bd93-484d7ea9e46c>,
+        <a3749e60-4000-11ee-8728-484d7ea9e46c>,
+        <a3749e61-4000-11ee-8d2f-484d7ea9e46c>,
+        <a3749e62-4000-11ee-b83b-484d7ea9e46c>,
+        <a3749e63-4000-11ee-ac25-484d7ea9e46c>,
+        <a3749e64-4000-11ee-b67d-484d7ea9e46c>,
+        <a3749e65-4000-11ee-87a5-484d7ea9e46c>,
+        <a3749e66-4000-11ee-bfc1-484d7ea9e46c>,
+        <a3749e67-4000-11ee-bc69-484d7ea9e46c>,
+        <a3749e68-4000-11ee-a1b9-484d7ea9e46c>,
+        <a3749e69-4000-11ee-98d1-484d7ea9e46c>,
+        <a3749e6a-4000-11ee-829e-484d7ea9e46c>,
+        <a3749e6b-4000-11ee-a33f-484d7ea9e46c>,
+        <a3749e6c-4000-11ee-9b90-484d7ea9e46c>,
+        <a3749e6d-4000-11ee-b582-484d7ea9e46c>,
+        <a3749e6e-4000-11ee-8070-484d7ea9e46c>,
+        <a3749e6f-4000-11ee-a5ae-484d7ea9e46c>,
+        <a3749e70-4000-11ee-920f-484d7ea9e46c>,
+        <a3749e71-4000-11ee-9951-484d7ea9e46c>,
+        <a3749e72-4000-11ee-8024-484d7ea9e46c>,
+        <a3749e73-4000-11ee-9888-484d7ea9e46c> .
 

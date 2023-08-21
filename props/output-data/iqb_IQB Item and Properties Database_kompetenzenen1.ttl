@@ -1,143 +1,84 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/d3e06b4e-878b-4e7d-835a-ea6f300e1256> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "1" ;
-    skos:prefLabel "R-1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef1e-4000-11ee-9b24-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. R-1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/0f4ad358-c631-4d99-8c48-4816eeea3552> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "2" ;
-    skos:prefLabel "R-2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef1f-4000-11ee-ad59-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. R-2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/8d2a096a-d809-40ef-a07c-5b34fe5526b5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "3" ;
-    skos:prefLabel "R-3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef20-4000-11ee-989f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. R-3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/0b294402-7c3d-462a-bdd3-97f09be86773> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "4" ;
-    skos:prefLabel "R-4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef21-4000-11ee-b1a9-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. R-4"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/0c6e87ad-c968-41bd-8496-3f8865d6a640> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "5" ;
-    skos:prefLabel "R-5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef22-4000-11ee-ad2e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. R-5"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/708d0585-c6a7-4be9-b41d-6b0a44643d78> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "6" ;
-    skos:prefLabel "R-6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef23-4000-11ee-9f61-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. R-6"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/9b4d3515-32fa-471b-a3a0-a9d41bcd056c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "7" ;
-    skos:prefLabel "R-7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef24-4000-11ee-a7c0-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. R-7"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/0c459f92-fbcd-468d-97ca-5c240292a9b2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "8" ;
-    skos:prefLabel "L-1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef25-4000-11ee-b6f6-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. L-1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/581955a4-b6a7-434f-a83d-8cfa15b81483> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "9" ;
-    skos:prefLabel "L-2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef26-4000-11ee-85b4-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "9. L-2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/f0d3020a-9447-47e2-a945-7dd92bd5f684> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "10" ;
-    skos:prefLabel "L-3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef27-4000-11ee-bf00-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "10. L-3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/c8b8fc60-f516-4b83-8a80-839a35f2059a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "11" ;
-    skos:prefLabel "L-4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef28-4000-11ee-a7cb-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "11. L-4"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/687fe316-2b89-44f3-b8a7-9f020de846ec> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "12" ;
-    skos:prefLabel "L-5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef29-4000-11ee-bf66-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "12. L-5"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/91c49b17-a15c-4e63-bb81-937e61f21551> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "13" ;
-    skos:prefLabel "L-6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef2a-4000-11ee-bf82-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "13. L-6"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/9cf00f20-4b6e-4f69-969f-3c352436aa51> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "14" ;
-    skos:prefLabel "L-7"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef2b-4000-11ee-926d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "14. L-7"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/a93ebda2-61ba-4317-ae21-58d49be94786> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> ;
-    skos:notation "15" ;
-    skos:prefLabel "L-8"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> .
+<a38cef2c-4000-11ee-a373-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "15. L-8"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Kompetenzen En1"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/0b294402-7c3d-462a-bdd3-97f09be86773>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/0c459f92-fbcd-468d-97ca-5c240292a9b2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/0c6e87ad-c968-41bd-8496-3f8865d6a640>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/0f4ad358-c631-4d99-8c48-4816eeea3552>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/581955a4-b6a7-434f-a83d-8cfa15b81483>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/687fe316-2b89-44f3-b8a7-9f020de846ec>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/708d0585-c6a7-4be9-b41d-6b0a44643d78>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/8d2a096a-d809-40ef-a07c-5b34fe5526b5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/91c49b17-a15c-4e63-bb81-937e61f21551>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/9b4d3515-32fa-471b-a3a0-a9d41bcd056c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/9cf00f20-4b6e-4f69-969f-3c352436aa51>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/a93ebda2-61ba-4317-ae21-58d49be94786>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/c8b8fc60-f516-4b83-8a80-839a35f2059a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/d3e06b4e-878b-4e7d-835a-ea6f300e1256>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/f0d3020a-9447-47e2-a945-7dd92bd5f684> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/0b294402-7c3d-462a-bdd3-97f09be86773>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/0c459f92-fbcd-468d-97ca-5c240292a9b2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/0c6e87ad-c968-41bd-8496-3f8865d6a640>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/0f4ad358-c631-4d99-8c48-4816eeea3552>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/581955a4-b6a7-434f-a83d-8cfa15b81483>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/687fe316-2b89-44f3-b8a7-9f020de846ec>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/708d0585-c6a7-4be9-b41d-6b0a44643d78>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/8d2a096a-d809-40ef-a07c-5b34fe5526b5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/91c49b17-a15c-4e63-bb81-937e61f21551>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/9b4d3515-32fa-471b-a3a0-a9d41bcd056c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/9cf00f20-4b6e-4f69-969f-3c352436aa51>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/a93ebda2-61ba-4317-ae21-58d49be94786>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/c8b8fc60-f516-4b83-8a80-839a35f2059a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/d3e06b4e-878b-4e7d-835a-ea6f300e1256>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzenen1/f0d3020a-9447-47e2-a945-7dd92bd5f684> ;
-    skos:prefLabel "Kompetenzen En1"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Kompetenzen En1"@de ;
+    skos:hasTopConcept <a38cef1e-4000-11ee-9b24-484d7ea9e46c>,
+        <a38cef1f-4000-11ee-ad59-484d7ea9e46c>,
+        <a38cef20-4000-11ee-989f-484d7ea9e46c>,
+        <a38cef21-4000-11ee-b1a9-484d7ea9e46c>,
+        <a38cef22-4000-11ee-ad2e-484d7ea9e46c>,
+        <a38cef23-4000-11ee-9f61-484d7ea9e46c>,
+        <a38cef24-4000-11ee-a7c0-484d7ea9e46c>,
+        <a38cef25-4000-11ee-b6f6-484d7ea9e46c>,
+        <a38cef26-4000-11ee-85b4-484d7ea9e46c>,
+        <a38cef27-4000-11ee-bf00-484d7ea9e46c>,
+        <a38cef28-4000-11ee-a7cb-484d7ea9e46c>,
+        <a38cef29-4000-11ee-bf66-484d7ea9e46c>,
+        <a38cef2a-4000-11ee-bf82-484d7ea9e46c>,
+        <a38cef2b-4000-11ee-926d-484d7ea9e46c>,
+        <a38cef2c-4000-11ee-a373-484d7ea9e46c> .
 

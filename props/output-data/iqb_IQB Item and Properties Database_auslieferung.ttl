@@ -1,45 +1,29 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/89cbfa43-c23e-48ba-a779-5e02a56948a3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
-    skos:notation "1" ;
-    skos:prefLabel "CD"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> .
+<a37b02b5-4000-11ee-9da5-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. CD"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/a300fc1a-d471-4781-98ce-8795fb0c87ea> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Gastrechnen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> .
+<a37b02b6-4000-11ee-ac46-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Gastrechnen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/912bf3ec-0e46-4512-bc28-bff3fefc3b32> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Fernrechnen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> .
+<a37b02b7-4000-11ee-9d8e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Fernrechnen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/02f4e56a-c1fb-4c42-899e-243ac0bd5cb3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> ;
-    skos:notation "4" ;
-    skos:prefLabel "keine (Daten liegen vor)"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> .
+<a37b02b8-4000-11ee-8fa5-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. keine (Daten liegen vor)"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "beschreibt, inwiefern Daten besonderen Vertraulichkeitsanforderungen unterliegen"@de ;
-    dct:title "IQB Item and Properties Database_Auslieferung"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/02f4e56a-c1fb-4c42-899e-243ac0bd5cb3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/89cbfa43-c23e-48ba-a779-5e02a56948a3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/912bf3ec-0e46-4512-bc28-bff3fefc3b32>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/a300fc1a-d471-4781-98ce-8795fb0c87ea> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/02f4e56a-c1fb-4c42-899e-243ac0bd5cb3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/89cbfa43-c23e-48ba-a779-5e02a56948a3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/912bf3ec-0e46-4512-bc28-bff3fefc3b32>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/auslieferung/a300fc1a-d471-4781-98ce-8795fb0c87ea> ;
-    skos:prefLabel "Auslieferung"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Auslieferung"@de ;
+    skos:hasTopConcept <a37b02b5-4000-11ee-9da5-484d7ea9e46c>,
+        <a37b02b6-4000-11ee-ac46-484d7ea9e46c>,
+        <a37b02b7-4000-11ee-9d8e-484d7ea9e46c>,
+        <a37b02b8-4000-11ee-8fa5-484d7ea9e46c> .
 

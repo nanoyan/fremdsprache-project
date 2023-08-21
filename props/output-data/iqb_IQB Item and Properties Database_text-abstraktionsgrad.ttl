@@ -1,35 +1,24 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/c315e3c8-5abd-4043-a93b-e95afacee911> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> ;
-    skos:notation "1" ;
-    skos:prefLabel "durchgängig konkret"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> .
+<a33bef2b-4000-11ee-9207-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. durchgängig konkret"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/a2af7358-2c49-49bc-8e9f-9eb04678a036> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> ;
-    skos:notation "2" ;
-    skos:prefLabel "einige abstrakte Elemente"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> .
+<a33bef2c-4000-11ee-8542-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. einige abstrakte Elemente"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/2b1b5bef-7a0a-4db7-a9e1-247895517f5a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> ;
-    skos:notation "3" ;
-    skos:prefLabel "durchgängig abstrakt"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> .
+<a33bef2d-4000-11ee-947b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. durchgängig abstrakt"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Text-Abstraktionsgrad"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/2b1b5bef-7a0a-4db7-a9e1-247895517f5a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/a2af7358-2c49-49bc-8e9f-9eb04678a036>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/c315e3c8-5abd-4043-a93b-e95afacee911> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/2b1b5bef-7a0a-4db7-a9e1-247895517f5a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/a2af7358-2c49-49bc-8e9f-9eb04678a036>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/text-abstraktionsgrad/c315e3c8-5abd-4043-a93b-e95afacee911> ;
-    skos:prefLabel "Text-Abstraktionsgrad"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Text-Abstraktionsgrad"@de ;
+    skos:hasTopConcept <a33bef2b-4000-11ee-9207-484d7ea9e46c>,
+        <a33bef2c-4000-11ee-8542-484d7ea9e46c>,
+        <a33bef2d-4000-11ee-947b-484d7ea9e46c> .
 

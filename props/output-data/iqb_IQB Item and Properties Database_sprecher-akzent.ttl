@@ -1,116 +1,69 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/0999eb9e-53ab-4786-9bab-ebb88bdbd2fd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:notation "1" ;
-    skos:prefLabel "native British"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+<a380d0af-4000-11ee-bbd0-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. native British"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/5f7923c9-fa09-4cd6-b3e6-f14878f6984a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:notation "2" ;
-    skos:prefLabel "native American"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+<a380d0b0-4000-11ee-a247-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. native American"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/52e45349-008f-45f5-97c8-6929e3ba25d7> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:notation "3" ;
-    skos:prefLabel "native Irish"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+<a380d0b1-4000-11ee-9b3c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. native Irish"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/948a6ee1-f9a8-4150-886b-aa8f443c807f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:notation "4" ;
-    skos:prefLabel "native Australian"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+<a380d0b2-4000-11ee-b02f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. native Australian"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/7ab85a0d-da0a-4551-8568-9fa9ad80b4c9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:notation "5" ;
-    skos:prefLabel "other native"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+<a380d0b3-4000-11ee-bba9-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. other native"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/8788a34d-ae1c-41bc-bb4d-84c9f9679003> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:notation "6" ;
-    skos:prefLabel "non-native"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+<a380d0b4-4000-11ee-9a67-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. non-native"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/2aa6605d-abae-468e-a22a-160b9959a2fe> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:notation "7" ;
-    skos:prefLabel "native"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+<a380d0b5-4000-11ee-9ddb-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. native"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/41386ea4-f5a7-438b-b4d9-a910e9f51735> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:notation "8" ;
-    skos:prefLabel "african"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+<a380d0b6-4000-11ee-8cf7-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. african"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/02e3fc9f-2c4b-44be-b581-41244d1364fe> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:notation "9" ;
-    skos:prefLabel "native Indian"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+<a380d0b7-4000-11ee-aa51-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "9. native Indian"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/4ac65e86-a0a6-49eb-a0a4-9d0e233c04c5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:notation "10" ;
-    skos:prefLabel "european"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+<a380d0b8-4000-11ee-aba5-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "10. european"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/f12b734c-6f24-4877-8f45-0c672ad14028> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:notation "11" ;
-    skos:prefLabel "canadian"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+<a380d0b9-4000-11ee-9b0d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "11. canadian"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/3099108c-bc4c-44a9-80d6-c33859d10c9b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> ;
-    skos:notation "12" ;
-    skos:prefLabel "overseas"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> .
+<a380d0ba-4000-11ee-997b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "12. overseas"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Sprecher-Akzent"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/02e3fc9f-2c4b-44be-b581-41244d1364fe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/0999eb9e-53ab-4786-9bab-ebb88bdbd2fd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/2aa6605d-abae-468e-a22a-160b9959a2fe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/3099108c-bc4c-44a9-80d6-c33859d10c9b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/41386ea4-f5a7-438b-b4d9-a910e9f51735>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/4ac65e86-a0a6-49eb-a0a4-9d0e233c04c5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/52e45349-008f-45f5-97c8-6929e3ba25d7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/5f7923c9-fa09-4cd6-b3e6-f14878f6984a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/7ab85a0d-da0a-4551-8568-9fa9ad80b4c9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/8788a34d-ae1c-41bc-bb4d-84c9f9679003>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/948a6ee1-f9a8-4150-886b-aa8f443c807f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/f12b734c-6f24-4877-8f45-0c672ad14028> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/02e3fc9f-2c4b-44be-b581-41244d1364fe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/0999eb9e-53ab-4786-9bab-ebb88bdbd2fd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/2aa6605d-abae-468e-a22a-160b9959a2fe>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/3099108c-bc4c-44a9-80d6-c33859d10c9b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/41386ea4-f5a7-438b-b4d9-a910e9f51735>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/4ac65e86-a0a6-49eb-a0a4-9d0e233c04c5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/52e45349-008f-45f5-97c8-6929e3ba25d7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/5f7923c9-fa09-4cd6-b3e6-f14878f6984a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/7ab85a0d-da0a-4551-8568-9fa9ad80b4c9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/8788a34d-ae1c-41bc-bb4d-84c9f9679003>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/948a6ee1-f9a8-4150-886b-aa8f443c807f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/sprecher-akzent/f12b734c-6f24-4877-8f45-0c672ad14028> ;
-    skos:prefLabel "Sprecher-Akzent"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Sprecher-Akzent"@de ;
+    skos:hasTopConcept <a380d0af-4000-11ee-bbd0-484d7ea9e46c>,
+        <a380d0b0-4000-11ee-a247-484d7ea9e46c>,
+        <a380d0b1-4000-11ee-9b3c-484d7ea9e46c>,
+        <a380d0b2-4000-11ee-b02f-484d7ea9e46c>,
+        <a380d0b3-4000-11ee-bba9-484d7ea9e46c>,
+        <a380d0b4-4000-11ee-9a67-484d7ea9e46c>,
+        <a380d0b5-4000-11ee-9ddb-484d7ea9e46c>,
+        <a380d0b6-4000-11ee-8cf7-484d7ea9e46c>,
+        <a380d0b7-4000-11ee-aa51-484d7ea9e46c>,
+        <a380d0b8-4000-11ee-aba5-484d7ea9e46c>,
+        <a380d0b9-4000-11ee-9b0d-484d7ea9e46c>,
+        <a380d0ba-4000-11ee-997b-484d7ea9e46c> .
 

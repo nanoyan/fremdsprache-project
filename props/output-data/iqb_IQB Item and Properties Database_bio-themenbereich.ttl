@@ -1,44 +1,29 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/ab8f0d25-78a5-4ebd-8838-18f1b2b8fd61> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Ökologie und Nachhaltigkeit"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> .
+<a3702caa-4000-11ee-b95c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Ökologie und Nachhaltigkeit"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/53d9c05c-9b07-43c8-bf07-8ee655596103> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Tierhaltung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> .
+<a3702cab-4000-11ee-800b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Tierhaltung"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/444dca20-6ea8-4173-bd7a-ce82a9c209e5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Gesundheit"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> .
+<a3702cac-4000-11ee-828c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Gesundheit"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/90f0a924-0f24-4457-905b-7d3f7c78cf6e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Medizin-, Bio- und Gentechnik"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> .
+<a3702cad-4000-11ee-b942-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Medizin-, Bio- und Gentechnik"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Bio-Themenbereich"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/444dca20-6ea8-4173-bd7a-ce82a9c209e5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/53d9c05c-9b07-43c8-bf07-8ee655596103>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/90f0a924-0f24-4457-905b-7d3f7c78cf6e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/ab8f0d25-78a5-4ebd-8838-18f1b2b8fd61> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/444dca20-6ea8-4173-bd7a-ce82a9c209e5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/53d9c05c-9b07-43c8-bf07-8ee655596103>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/90f0a924-0f24-4457-905b-7d3f7c78cf6e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bio-themenbereich/ab8f0d25-78a5-4ebd-8838-18f1b2b8fd61> ;
-    skos:prefLabel "Bio-Themenbereich"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Bio-Themenbereich"@de ;
+    skos:hasTopConcept <a3702caa-4000-11ee-b95c-484d7ea9e46c>,
+        <a3702cab-4000-11ee-800b-484d7ea9e46c>,
+        <a3702cac-4000-11ee-828c-484d7ea9e46c>,
+        <a3702cad-4000-11ee-b942-484d7ea9e46c> .
 

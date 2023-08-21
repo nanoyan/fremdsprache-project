@@ -1,71 +1,44 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/1fa001d4-5381-43b5-8f1c-056bcd022fb3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:notation "1" ;
-    skos:prefLabel "ausschließlich frequent"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+<a33ef61c-4000-11ee-8ae4-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. ausschließlich frequent"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/629a4a64-6dc6-41c9-a978-74c003740844> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:notation "2" ;
-    skos:prefLabel "hauptsächlich frequent"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+<a33ef61d-4000-11ee-8aed-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. hauptsächlich frequent"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/5a9a89db-1d3f-48cf-8e92-d61381985102> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:notation "3" ;
-    skos:prefLabel "wenig frequent"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+<a33ef61e-4000-11ee-a6e3-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. wenig frequent"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/12aecd38-137e-4903-95ac-0e35b270fdac> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:notation "4" ;
-    skos:prefLabel "eher abstrakt"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+<a33ef61f-4000-11ee-ba1f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. eher abstrakt"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/33fac8d1-b3ce-4b96-9d8e-32bb676c8aa2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:notation "5" ;
-    skos:prefLabel "eher komplex"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+<a33ef620-4000-11ee-8595-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. eher komplex"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/d4a5c912-08ac-4380-a4e5-496df3644fa6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:notation "6" ;
-    skos:prefLabel "hauptsächlich komplex"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+<a33ef621-4000-11ee-ac02-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. hauptsächlich komplex"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/1229ec41-a43e-4d77-9ba7-6295ca40faf2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> ;
-    skos:notation "7" ;
-    skos:prefLabel "komplex"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> .
+<a33ef622-4000-11ee-8725-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. komplex"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Vokabular"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/1229ec41-a43e-4d77-9ba7-6295ca40faf2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/12aecd38-137e-4903-95ac-0e35b270fdac>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/1fa001d4-5381-43b5-8f1c-056bcd022fb3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/33fac8d1-b3ce-4b96-9d8e-32bb676c8aa2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/5a9a89db-1d3f-48cf-8e92-d61381985102>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/629a4a64-6dc6-41c9-a978-74c003740844>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/d4a5c912-08ac-4380-a4e5-496df3644fa6> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/1229ec41-a43e-4d77-9ba7-6295ca40faf2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/12aecd38-137e-4903-95ac-0e35b270fdac>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/1fa001d4-5381-43b5-8f1c-056bcd022fb3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/33fac8d1-b3ce-4b96-9d8e-32bb676c8aa2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/5a9a89db-1d3f-48cf-8e92-d61381985102>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/629a4a64-6dc6-41c9-a978-74c003740844>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vokabular/d4a5c912-08ac-4380-a4e5-496df3644fa6> ;
-    skos:prefLabel "Vokabular"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Vokabular"@de ;
+    skos:hasTopConcept <a33ef61c-4000-11ee-8ae4-484d7ea9e46c>,
+        <a33ef61d-4000-11ee-8aed-484d7ea9e46c>,
+        <a33ef61e-4000-11ee-a6e3-484d7ea9e46c>,
+        <a33ef61f-4000-11ee-ba1f-484d7ea9e46c>,
+        <a33ef620-4000-11ee-8595-484d7ea9e46c>,
+        <a33ef621-4000-11ee-ac02-484d7ea9e46c>,
+        <a33ef622-4000-11ee-8725-484d7ea9e46c> .
 

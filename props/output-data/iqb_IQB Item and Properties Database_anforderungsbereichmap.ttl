@@ -1,36 +1,24 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/27a04392-b657-4714-9d3c-d555f5e973ee> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> ;
-    skos:notation "1" ;
-    skos:prefLabel "I"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> .
+<a3368883-4000-11ee-aff1-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. I"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/f950e348-1faf-4d0d-b736-906991a53f38> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> ;
-    skos:notation "2" ;
-    skos:prefLabel "II"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> .
+<a3368884-4000-11ee-ae24-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. II"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/5be3886d-35d1-4022-8ecb-c4772943cc40> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> ;
-    skos:notation "3" ;
-    skos:prefLabel "III"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> .
+<a3368885-4000-11ee-a254-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. III"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "Anforderungsbereich lt. Bildungsstandards für Deutsch Primarstufe"@de ;
-    dct:title "IQB Item and Properties Database_Anforderungsbereich MaP"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/27a04392-b657-4714-9d3c-d555f5e973ee>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/5be3886d-35d1-4022-8ecb-c4772943cc40>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/f950e348-1faf-4d0d-b736-906991a53f38> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/27a04392-b657-4714-9d3c-d555f5e973ee>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/5be3886d-35d1-4022-8ecb-c4772943cc40>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/anforderungsbereichmap/f950e348-1faf-4d0d-b736-906991a53f38> ;
-    skos:prefLabel "Anforderungsbereich MaP"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Anforderungsbereich MaP"@de ;
+    skos:hasTopConcept <a3368883-4000-11ee-aff1-484d7ea9e46c>,
+        <a3368884-4000-11ee-ae24-484d7ea9e46c>,
+        <a3368885-4000-11ee-a254-484d7ea9e46c> .
 

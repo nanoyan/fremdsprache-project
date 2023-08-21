@@ -1,117 +1,69 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/398e3715-73fe-467e-b267-c509d0f0ce5d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:notation "1" ;
-    skos:prefLabel "gap-filling"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+<a390d01a-4000-11ee-995d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. gap-filling"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/2bfc4bff-c301-443d-8601-ebcd667c1e75> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:notation "2" ;
-    skos:prefLabel "multiple choice"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+<a390d01b-4000-11ee-8ae1-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. multiple choice"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/0402caff-7053-44f1-9264-a6cdebd3130b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:notation "3" ;
-    skos:prefLabel "multiple matching"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+<a390d01c-4000-11ee-89cb-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. multiple matching"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/9f9ccd83-8f05-4bda-8bb6-dd1ebd2446f6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:notation "4" ;
-    skos:prefLabel "note taking"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+<a390d01d-4000-11ee-b176-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. note taking"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/933599af-cdab-4f1f-8afa-6c616a05f0d2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:notation "5" ;
-    skos:prefLabel "sentence completion"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+<a390d01e-4000-11ee-97ba-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. sentence completion"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/0d8b7b17-0e09-42c5-9498-8a3a30ce5f1c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:notation "6" ;
-    skos:prefLabel "sequencing"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+<a390d01f-4000-11ee-be61-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. sequencing"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/0c8a265a-d29c-4558-8c1c-ff3d10fa4dc8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:notation "7" ;
-    skos:prefLabel "short answer"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+<a390d020-4000-11ee-a23e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. short answer"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/62858f1c-29bf-4032-b7cd-b33c899c38e4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:notation "8" ;
-    skos:prefLabel "table completion"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+<a390d021-4000-11ee-a089-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. table completion"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/c253fd4e-e80a-4b0d-91b1-cd82c1dbdfe5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:notation "9" ;
-    skos:prefLabel "true-false"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+<a390d022-4000-11ee-a549-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "9. true-false"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/058fa6f7-f54a-44d9-b5fb-d5e2c2bd4201> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:notation "10" ;
-    skos:prefLabel "true-false-justification"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+<a390d023-4000-11ee-9d62-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "10. true-false-justification"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/cfb94618-4962-45b8-9df1-43e5f188b6a9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:notation "11" ;
-    skos:prefLabel "true-false-line"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+<a390d024-4000-11ee-9424-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "11. true-false-line"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/f2d513c4-ed03-4071-9eb2-c63583066a76> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> ;
-    skos:notation "12" ;
-    skos:prefLabel "true-false-not given"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> .
+<a390d025-4000-11ee-83e8-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "12. true-false-not given"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "Titel des Forschungsprojektes"@de ;
-    dct:title "IQB Item and Properties Database_Itemformat En1"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/0402caff-7053-44f1-9264-a6cdebd3130b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/058fa6f7-f54a-44d9-b5fb-d5e2c2bd4201>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/0c8a265a-d29c-4558-8c1c-ff3d10fa4dc8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/0d8b7b17-0e09-42c5-9498-8a3a30ce5f1c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/2bfc4bff-c301-443d-8601-ebcd667c1e75>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/398e3715-73fe-467e-b267-c509d0f0ce5d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/62858f1c-29bf-4032-b7cd-b33c899c38e4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/933599af-cdab-4f1f-8afa-6c616a05f0d2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/9f9ccd83-8f05-4bda-8bb6-dd1ebd2446f6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/c253fd4e-e80a-4b0d-91b1-cd82c1dbdfe5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/cfb94618-4962-45b8-9df1-43e5f188b6a9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/f2d513c4-ed03-4071-9eb2-c63583066a76> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/0402caff-7053-44f1-9264-a6cdebd3130b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/058fa6f7-f54a-44d9-b5fb-d5e2c2bd4201>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/0c8a265a-d29c-4558-8c1c-ff3d10fa4dc8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/0d8b7b17-0e09-42c5-9498-8a3a30ce5f1c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/2bfc4bff-c301-443d-8601-ebcd667c1e75>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/398e3715-73fe-467e-b267-c509d0f0ce5d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/62858f1c-29bf-4032-b7cd-b33c899c38e4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/933599af-cdab-4f1f-8afa-6c616a05f0d2>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/9f9ccd83-8f05-4bda-8bb6-dd1ebd2446f6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/c253fd4e-e80a-4b0d-91b1-cd82c1dbdfe5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/cfb94618-4962-45b8-9df1-43e5f188b6a9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemformaten1/f2d513c4-ed03-4071-9eb2-c63583066a76> ;
-    skos:prefLabel "Itemformat En1"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Itemformat En1"@de ;
+    skos:hasTopConcept <a390d01a-4000-11ee-995d-484d7ea9e46c>,
+        <a390d01b-4000-11ee-8ae1-484d7ea9e46c>,
+        <a390d01c-4000-11ee-89cb-484d7ea9e46c>,
+        <a390d01d-4000-11ee-b176-484d7ea9e46c>,
+        <a390d01e-4000-11ee-97ba-484d7ea9e46c>,
+        <a390d01f-4000-11ee-be61-484d7ea9e46c>,
+        <a390d020-4000-11ee-a23e-484d7ea9e46c>,
+        <a390d021-4000-11ee-a089-484d7ea9e46c>,
+        <a390d022-4000-11ee-a549-484d7ea9e46c>,
+        <a390d023-4000-11ee-9d62-484d7ea9e46c>,
+        <a390d024-4000-11ee-9424-484d7ea9e46c>,
+        <a390d025-4000-11ee-83e8-484d7ea9e46c> .
 

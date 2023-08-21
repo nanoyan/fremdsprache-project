@@ -1,35 +1,24 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/3e44df4b-5766-4b11-9462-9a2d719ff775> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
-    skos:notation "1" ;
-    skos:prefLabel "geschlossen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> .
+<a3463015-4000-11ee-b0cd-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. geschlossen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/9c55bbae-f1a9-40e8-9cae-843476d895e6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
-    skos:notation "2" ;
-    skos:prefLabel "halboffen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> .
+<a3463016-4000-11ee-9fd3-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. halboffen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/12beea1f-a5b8-48e1-a71a-c41e4307ba10> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> ;
-    skos:notation "3" ;
-    skos:prefLabel "offen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> .
+<a3463017-4000-11ee-970d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. offen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Itemtyp 3er"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/12beea1f-a5b8-48e1-a71a-c41e4307ba10>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/3e44df4b-5766-4b11-9462-9a2d719ff775>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/9c55bbae-f1a9-40e8-9cae-843476d895e6> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/12beea1f-a5b8-48e1-a71a-c41e4307ba10>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/3e44df4b-5766-4b11-9462-9a2d719ff775>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp3er/9c55bbae-f1a9-40e8-9cae-843476d895e6> ;
-    skos:prefLabel "Itemtyp 3er"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Itemtyp 3er"@de ;
+    skos:hasTopConcept <a3463015-4000-11ee-b0cd-484d7ea9e46c>,
+        <a3463016-4000-11ee-9fd3-484d7ea9e46c>,
+        <a3463017-4000-11ee-970d-484d7ea9e46c> .
 

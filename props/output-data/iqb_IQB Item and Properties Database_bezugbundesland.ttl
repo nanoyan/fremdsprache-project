@@ -1,162 +1,94 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/b8bb0198-78b5-4936-bf8e-c01fd2e58564> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "1" ;
-    skos:prefLabel "BW"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2c2-4000-11ee-868a-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. BW"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/9fa5d8d5-25d5-4b52-9eb9-f8498f926c42> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "2" ;
-    skos:prefLabel "BY"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2c3-4000-11ee-8a84-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. BY"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/c532c010-f5a5-46ca-bd05-e3516c2d1bfb> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "3" ;
-    skos:prefLabel "BE"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2c4-4000-11ee-aeab-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. BE"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/9ba7d376-ffc1-4339-97a5-c019349e8c80> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "4" ;
-    skos:prefLabel "BB"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2c5-4000-11ee-89dd-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. BB"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/01a1f96d-70a2-4945-a92c-7ad9938830fa> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "5" ;
-    skos:prefLabel "HB"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2c6-4000-11ee-91b1-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. HB"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/b3549298-3f1c-4095-8a25-9c22daa8e184> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "6" ;
-    skos:prefLabel "HH"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2c7-4000-11ee-8ba2-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. HH"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/93c184e9-c14a-4895-b1a6-1bd396f0ef9d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "7" ;
-    skos:prefLabel "HE"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2c8-4000-11ee-9d83-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. HE"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/1e7911ee-cc55-43b4-a13f-11399d28cf96> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "8" ;
-    skos:prefLabel "MV"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2c9-4000-11ee-98ab-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. MV"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/88a6bcc4-d2be-416c-ae23-46b7daa117ac> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "9" ;
-    skos:prefLabel "NI"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2ca-4000-11ee-a580-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "9. NI"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/3e6e66e1-fd93-4a48-b2ba-f58810f2d006> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "10" ;
-    skos:prefLabel "NW"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2cb-4000-11ee-9697-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "10. NW"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/1afd2ac7-5b80-48fb-8937-6553cc872abd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "11" ;
-    skos:prefLabel "RP"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2cc-4000-11ee-9889-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "11. RP"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/789bb790-ef44-45f7-b521-ae10b084c0d7> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "12" ;
-    skos:prefLabel "SL"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2cd-4000-11ee-8ac4-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "12. SL"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/264af192-f72d-4c55-81d0-0713eef39f6f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "13" ;
-    skos:prefLabel "SN"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2ce-4000-11ee-bc66-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "13. SN"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/3fda2b1a-e01f-4669-8cc4-cc6070e7246f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "14" ;
-    skos:prefLabel "ST"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2cf-4000-11ee-93b8-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "14. ST"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/9fde50fc-0a91-49ff-b453-812be4c9dcff> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "15" ;
-    skos:prefLabel "SH"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2d0-4000-11ee-b661-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "15. SH"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/79b2f301-be6f-497c-b6c5-9fe961413b3e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "16" ;
-    skos:prefLabel "TH"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2d1-4000-11ee-ba2c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "16. TH"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/b5f13fcb-85c3-4ed3-be9b-065c60c41277> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> ;
-    skos:notation "17" ;
-    skos:prefLabel "EU"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> .
+<a379d2d2-4000-11ee-9cdd-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "17. EU"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "Form der Auslieferung der Daten"@de ;
-    dct:title "IQB Item and Properties Database_Bezug Bundesland"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/01a1f96d-70a2-4945-a92c-7ad9938830fa>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/1afd2ac7-5b80-48fb-8937-6553cc872abd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/1e7911ee-cc55-43b4-a13f-11399d28cf96>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/264af192-f72d-4c55-81d0-0713eef39f6f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/3e6e66e1-fd93-4a48-b2ba-f58810f2d006>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/3fda2b1a-e01f-4669-8cc4-cc6070e7246f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/789bb790-ef44-45f7-b521-ae10b084c0d7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/79b2f301-be6f-497c-b6c5-9fe961413b3e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/88a6bcc4-d2be-416c-ae23-46b7daa117ac>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/93c184e9-c14a-4895-b1a6-1bd396f0ef9d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/9ba7d376-ffc1-4339-97a5-c019349e8c80>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/9fa5d8d5-25d5-4b52-9eb9-f8498f926c42>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/9fde50fc-0a91-49ff-b453-812be4c9dcff>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/b3549298-3f1c-4095-8a25-9c22daa8e184>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/b5f13fcb-85c3-4ed3-be9b-065c60c41277>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/b8bb0198-78b5-4936-bf8e-c01fd2e58564>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/c532c010-f5a5-46ca-bd05-e3516c2d1bfb> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/01a1f96d-70a2-4945-a92c-7ad9938830fa>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/1afd2ac7-5b80-48fb-8937-6553cc872abd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/1e7911ee-cc55-43b4-a13f-11399d28cf96>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/264af192-f72d-4c55-81d0-0713eef39f6f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/3e6e66e1-fd93-4a48-b2ba-f58810f2d006>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/3fda2b1a-e01f-4669-8cc4-cc6070e7246f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/789bb790-ef44-45f7-b521-ae10b084c0d7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/79b2f301-be6f-497c-b6c5-9fe961413b3e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/88a6bcc4-d2be-416c-ae23-46b7daa117ac>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/93c184e9-c14a-4895-b1a6-1bd396f0ef9d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/9ba7d376-ffc1-4339-97a5-c019349e8c80>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/9fa5d8d5-25d5-4b52-9eb9-f8498f926c42>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/9fde50fc-0a91-49ff-b453-812be4c9dcff>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/b3549298-3f1c-4095-8a25-9c22daa8e184>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/b5f13fcb-85c3-4ed3-be9b-065c60c41277>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/b8bb0198-78b5-4936-bf8e-c01fd2e58564>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bezugbundesland/c532c010-f5a5-46ca-bd05-e3516c2d1bfb> ;
-    skos:prefLabel "Bezug Bundesland"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Bezug Bundesland"@de ;
+    skos:hasTopConcept <a379d2c2-4000-11ee-868a-484d7ea9e46c>,
+        <a379d2c3-4000-11ee-8a84-484d7ea9e46c>,
+        <a379d2c4-4000-11ee-aeab-484d7ea9e46c>,
+        <a379d2c5-4000-11ee-89dd-484d7ea9e46c>,
+        <a379d2c6-4000-11ee-91b1-484d7ea9e46c>,
+        <a379d2c7-4000-11ee-8ba2-484d7ea9e46c>,
+        <a379d2c8-4000-11ee-9d83-484d7ea9e46c>,
+        <a379d2c9-4000-11ee-98ab-484d7ea9e46c>,
+        <a379d2ca-4000-11ee-a580-484d7ea9e46c>,
+        <a379d2cb-4000-11ee-9697-484d7ea9e46c>,
+        <a379d2cc-4000-11ee-9889-484d7ea9e46c>,
+        <a379d2cd-4000-11ee-8ac4-484d7ea9e46c>,
+        <a379d2ce-4000-11ee-bc66-484d7ea9e46c>,
+        <a379d2cf-4000-11ee-93b8-484d7ea9e46c>,
+        <a379d2d0-4000-11ee-b661-484d7ea9e46c>,
+        <a379d2d1-4000-11ee-ba2c-484d7ea9e46c>,
+        <a379d2d2-4000-11ee-9cdd-484d7ea9e46c> .
 

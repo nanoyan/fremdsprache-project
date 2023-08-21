@@ -1,44 +1,29 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/7a866ba4-014b-40f5-bf89-acf888af5f27> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
-    skos:notation "1" ;
-    skos:prefLabel "planen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> .
+<a389ccad-4000-11ee-8b3b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. planen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/499eb180-2f2f-4007-b32d-6bd843644762> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
-    skos:notation "2" ;
-    skos:prefLabel "verfassen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> .
+<a389ccae-4000-11ee-9701-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. verfassen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/e32a0918-68b3-4705-97b4-41b32e3567d4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
-    skos:notation "3" ;
-    skos:prefLabel "überarbeiten"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> .
+<a389ccaf-4000-11ee-8230-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. überarbeiten"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/11c56a60-f7fc-4a1d-83c0-c08f27069092> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> ;
-    skos:notation "4" ;
-    skos:prefLabel "zusammenfassen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> .
+<a389ccb0-4000-11ee-b09a-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. zusammenfassen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Schreibprozedur"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/11c56a60-f7fc-4a1d-83c0-c08f27069092>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/499eb180-2f2f-4007-b32d-6bd843644762>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/7a866ba4-014b-40f5-bf89-acf888af5f27>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/e32a0918-68b3-4705-97b4-41b32e3567d4> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/11c56a60-f7fc-4a1d-83c0-c08f27069092>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/499eb180-2f2f-4007-b32d-6bd843644762>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/7a866ba4-014b-40f5-bf89-acf888af5f27>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibprozedur/e32a0918-68b3-4705-97b4-41b32e3567d4> ;
-    skos:prefLabel "Schreibprozedur"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Schreibprozedur"@de ;
+    skos:hasTopConcept <a389ccad-4000-11ee-8b3b-484d7ea9e46c>,
+        <a389ccae-4000-11ee-9701-484d7ea9e46c>,
+        <a389ccaf-4000-11ee-8230-484d7ea9e46c>,
+        <a389ccb0-4000-11ee-b09a-484d7ea9e46c> .
 

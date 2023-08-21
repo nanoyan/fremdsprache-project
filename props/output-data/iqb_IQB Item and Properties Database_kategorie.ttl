@@ -1,62 +1,39 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/537f97a9-8935-405d-9147-623710ee397d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Audio Monolog"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> .
+<a37e062f-4000-11ee-b759-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Audio Monolog"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/c0bdb005-a9c0-46f1-900a-efb1906b28b5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Audio Dialog"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> .
+<a37e0630-4000-11ee-8dfa-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Audio Dialog"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/ed4817fc-bed4-4c56-8020-f40cb6907219> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Text Monolog"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> .
+<a37e0631-4000-11ee-b6be-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Text Monolog"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/64ca02af-44d1-4e16-ba1c-aa203f8bd577> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Text Dialog"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> .
+<a37e0632-4000-11ee-a6ce-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Text Dialog"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/ad6794ca-2526-4cdd-8cdf-f638e2f8996f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Grafik"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> .
+<a37e0633-4000-11ee-b1b1-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. Grafik"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/21791dda-32d9-4ab3-997d-7bbb1ebbbe3c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> ;
-    skos:notation "6" ;
-    skos:prefLabel "Diagramm und Tabelle"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> .
+<a37e0634-4000-11ee-b641-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. Diagramm und Tabelle"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Kategorie"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/21791dda-32d9-4ab3-997d-7bbb1ebbbe3c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/537f97a9-8935-405d-9147-623710ee397d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/64ca02af-44d1-4e16-ba1c-aa203f8bd577>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/ad6794ca-2526-4cdd-8cdf-f638e2f8996f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/c0bdb005-a9c0-46f1-900a-efb1906b28b5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/ed4817fc-bed4-4c56-8020-f40cb6907219> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/21791dda-32d9-4ab3-997d-7bbb1ebbbe3c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/537f97a9-8935-405d-9147-623710ee397d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/64ca02af-44d1-4e16-ba1c-aa203f8bd577>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/ad6794ca-2526-4cdd-8cdf-f638e2f8996f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/c0bdb005-a9c0-46f1-900a-efb1906b28b5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kategorie/ed4817fc-bed4-4c56-8020-f40cb6907219> ;
-    skos:prefLabel "Kategorie"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Kategorie"@de ;
+    skos:hasTopConcept <a37e062f-4000-11ee-b759-484d7ea9e46c>,
+        <a37e0630-4000-11ee-8dfa-484d7ea9e46c>,
+        <a37e0631-4000-11ee-b6be-484d7ea9e46c>,
+        <a37e0632-4000-11ee-a6ce-484d7ea9e46c>,
+        <a37e0633-4000-11ee-b1b1-484d7ea9e46c>,
+        <a37e0634-4000-11ee-b641-484d7ea9e46c> .
 

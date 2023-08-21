@@ -1,80 +1,49 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/14878e99-99e3-49c2-ac0d-b57b1f055d08> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:notation "1" ;
-    skos:prefLabel "keine"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+<a386d199-4000-11ee-9cad-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. keine"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/6cc146ef-90ff-4a04-bf64-15ed6aeb46c0> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Bachelorarbeit"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+<a386d19a-4000-11ee-a5d6-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Bachelorarbeit"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/c9905243-96cf-4a2e-a394-e5b881dcf50d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Diplomarbeit"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+<a386d19b-4000-11ee-83ae-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Diplomarbeit"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/d355eb21-9d4c-450d-afe2-694791c2f47e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Doktorarbeit"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+<a386d19c-4000-11ee-a448-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Doktorarbeit"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/dbb2cd34-5e3a-4955-a577-b4eea15a8f39> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Forschungsprojekt"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+<a386d19d-4000-11ee-8bec-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. Forschungsprojekt"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/84907232-2053-4c44-b50b-7b72ef4ecbdf> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:notation "6" ;
-    skos:prefLabel "Habilitationsschrift"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+<a386d19e-4000-11ee-992b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. Habilitationsschrift"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/81669f57-c6b9-4a4b-8b4f-1160d24a9f8d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:notation "7" ;
-    skos:prefLabel "Magisterarbeit"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+<a386d19f-4000-11ee-94da-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. Magisterarbeit"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/64fbfd55-7536-4f9b-a383-bc6ceb2d2413> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> ;
-    skos:notation "8" ;
-    skos:prefLabel "Masterarbeit"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> .
+<a386d1a0-4000-11ee-b947-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. Masterarbeit"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Qualifikation"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/14878e99-99e3-49c2-ac0d-b57b1f055d08>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/64fbfd55-7536-4f9b-a383-bc6ceb2d2413>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/6cc146ef-90ff-4a04-bf64-15ed6aeb46c0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/81669f57-c6b9-4a4b-8b4f-1160d24a9f8d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/84907232-2053-4c44-b50b-7b72ef4ecbdf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/c9905243-96cf-4a2e-a394-e5b881dcf50d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/d355eb21-9d4c-450d-afe2-694791c2f47e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/dbb2cd34-5e3a-4955-a577-b4eea15a8f39> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/14878e99-99e3-49c2-ac0d-b57b1f055d08>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/64fbfd55-7536-4f9b-a383-bc6ceb2d2413>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/6cc146ef-90ff-4a04-bf64-15ed6aeb46c0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/81669f57-c6b9-4a4b-8b4f-1160d24a9f8d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/84907232-2053-4c44-b50b-7b72ef4ecbdf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/c9905243-96cf-4a2e-a394-e5b881dcf50d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/d355eb21-9d4c-450d-afe2-694791c2f47e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/qualifikation/dbb2cd34-5e3a-4955-a577-b4eea15a8f39> ;
-    skos:prefLabel "Qualifikation"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Qualifikation"@de ;
+    skos:hasTopConcept <a386d199-4000-11ee-9cad-484d7ea9e46c>,
+        <a386d19a-4000-11ee-a5d6-484d7ea9e46c>,
+        <a386d19b-4000-11ee-83ae-484d7ea9e46c>,
+        <a386d19c-4000-11ee-a448-484d7ea9e46c>,
+        <a386d19d-4000-11ee-8bec-484d7ea9e46c>,
+        <a386d19e-4000-11ee-992b-484d7ea9e46c>,
+        <a386d19f-4000-11ee-94da-484d7ea9e46c>,
+        <a386d1a0-4000-11ee-b947-484d7ea9e46c> .
 

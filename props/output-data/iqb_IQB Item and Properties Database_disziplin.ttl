@@ -1,81 +1,49 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/9a52ffca-9d51-4024-a9a0-d5c28e345476> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Bildungswissenschaften"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> .
+<a3849c4a-4000-11ee-9fcb-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Bildungswissenschaften"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/85b437f6-1839-4b53-b68b-56033bd89a32> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Empirische Bildungsforschung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> .
+<a3849c4b-4000-11ee-a208-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Empirische Bildungsforschung"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/f88d7e18-887d-4fbc-aef5-c850e21a3d6b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Erziehungswissenschaften"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> .
+<a3849c4c-4000-11ee-97bd-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Erziehungswissenschaften"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/e9bee3f7-a3d4-4e59-8bbc-f7935d85fa32> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Politikwissenschaften"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> .
+<a3849c4d-4000-11ee-bbb5-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Politikwissenschaften"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/f5357fd7-4ca8-4648-8fe8-75f844cc3a8a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Psychologie"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> .
+<a3849c4e-4000-11ee-bc9a-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. Psychologie"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/dec7d273-f6ee-4152-8a05-a6c58eae3a51> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:notation "6" ;
-    skos:prefLabel "Sozialwissenschaften"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> .
+<a3849c4f-4000-11ee-9c69-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. Sozialwissenschaften"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/5fcd0e9c-3d01-4af3-ad70-1198f522be79> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:notation "7" ;
-    skos:prefLabel "Soziologie"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> .
+<a3849c50-4000-11ee-b4ee-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. Soziologie"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/b9d98b08-99e6-42a3-82c6-5b49c7750638> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> ;
-    skos:notation "8" ;
-    skos:prefLabel "Wirtschaftswissenschaften"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> .
+<a3849c51-4000-11ee-8393-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. Wirtschaftswissenschaften"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "Stellung innerhalb der Institution"@de ;
-    dct:title "IQB Item and Properties Database_Disziplin"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/5fcd0e9c-3d01-4af3-ad70-1198f522be79>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/85b437f6-1839-4b53-b68b-56033bd89a32>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/9a52ffca-9d51-4024-a9a0-d5c28e345476>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/b9d98b08-99e6-42a3-82c6-5b49c7750638>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/dec7d273-f6ee-4152-8a05-a6c58eae3a51>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/e9bee3f7-a3d4-4e59-8bbc-f7935d85fa32>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/f5357fd7-4ca8-4648-8fe8-75f844cc3a8a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/f88d7e18-887d-4fbc-aef5-c850e21a3d6b> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/5fcd0e9c-3d01-4af3-ad70-1198f522be79>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/85b437f6-1839-4b53-b68b-56033bd89a32>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/9a52ffca-9d51-4024-a9a0-d5c28e345476>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/b9d98b08-99e6-42a3-82c6-5b49c7750638>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/dec7d273-f6ee-4152-8a05-a6c58eae3a51>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/e9bee3f7-a3d4-4e59-8bbc-f7935d85fa32>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/f5357fd7-4ca8-4648-8fe8-75f844cc3a8a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/disziplin/f88d7e18-887d-4fbc-aef5-c850e21a3d6b> ;
-    skos:prefLabel "Disziplin"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Disziplin"@de ;
+    skos:hasTopConcept <a3849c4a-4000-11ee-9fcb-484d7ea9e46c>,
+        <a3849c4b-4000-11ee-a208-484d7ea9e46c>,
+        <a3849c4c-4000-11ee-97bd-484d7ea9e46c>,
+        <a3849c4d-4000-11ee-bbb5-484d7ea9e46c>,
+        <a3849c4e-4000-11ee-bc9a-484d7ea9e46c>,
+        <a3849c4f-4000-11ee-9c69-484d7ea9e46c>,
+        <a3849c50-4000-11ee-b4ee-484d7ea9e46c>,
+        <a3849c51-4000-11ee-8393-484d7ea9e46c> .
 

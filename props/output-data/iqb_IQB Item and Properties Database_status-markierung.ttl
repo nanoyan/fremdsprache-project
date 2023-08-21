@@ -1,63 +1,39 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/8c5b829f-1545-4ca6-be69-e8d856349c56> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Aachen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> .
+<a383a6de-4000-11ee-a8b3-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Aachen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/442987de-1329-488a-b686-5592388d3c76> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Berlin"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> .
+<a383a6df-4000-11ee-86ab-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Berlin"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/d0758751-5433-4902-b5d9-b2e8569bf787> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Cottbus"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> .
+<a383a6e0-4000-11ee-9084-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Cottbus"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/fe93b67a-16cf-4a40-af2e-d24224f777dd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Dessau"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> .
+<a383a6e1-4000-11ee-8f49-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Dessau"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/349aa29b-4a0d-4026-8f3a-f8d85094ab16> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Erfurt"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> .
+<a383a6e2-4000-11ee-9c8c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. Erfurt"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/70652ff4-d342-428d-a7a4-2af4553f239f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> ;
-    skos:notation "6" ;
-    skos:prefLabel "Friesack"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> .
+<a383a6e3-4000-11ee-accf-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. Friesack"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "Forschungsbereich, dem die Person zuzuordnen ist"@de ;
-    dct:title "IQB Item and Properties Database_Status-Markierung"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/349aa29b-4a0d-4026-8f3a-f8d85094ab16>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/442987de-1329-488a-b686-5592388d3c76>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/70652ff4-d342-428d-a7a4-2af4553f239f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/8c5b829f-1545-4ca6-be69-e8d856349c56>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/d0758751-5433-4902-b5d9-b2e8569bf787>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/fe93b67a-16cf-4a40-af2e-d24224f777dd> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/349aa29b-4a0d-4026-8f3a-f8d85094ab16>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/442987de-1329-488a-b686-5592388d3c76>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/70652ff4-d342-428d-a7a4-2af4553f239f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/8c5b829f-1545-4ca6-be69-e8d856349c56>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/d0758751-5433-4902-b5d9-b2e8569bf787>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/status-markierung/fe93b67a-16cf-4a40-af2e-d24224f777dd> ;
-    skos:prefLabel "Status-Markierung"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Status-Markierung"@de ;
+    skos:hasTopConcept <a383a6de-4000-11ee-a8b3-484d7ea9e46c>,
+        <a383a6df-4000-11ee-86ab-484d7ea9e46c>,
+        <a383a6e0-4000-11ee-9084-484d7ea9e46c>,
+        <a383a6e1-4000-11ee-8f49-484d7ea9e46c>,
+        <a383a6e2-4000-11ee-9c8c-484d7ea9e46c>,
+        <a383a6e3-4000-11ee-accf-484d7ea9e46c> .
 

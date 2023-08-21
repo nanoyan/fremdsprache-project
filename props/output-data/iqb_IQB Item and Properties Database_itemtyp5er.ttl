@@ -1,53 +1,34 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/012318ac-b60c-4a3b-853c-0c52c254f412> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
-    skos:notation "1" ;
-    skos:prefLabel "GA - Geschlossen Ankreuzen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> .
+<a344f7c5-4000-11ee-8759-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. GA - Geschlossen Ankreuzen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/6acddffb-10d4-4ac0-bf62-2d057251c4b8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
-    skos:notation "2" ;
-    skos:prefLabel "GK - Geschlossen Kodieren"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> .
+<a344f7c6-4000-11ee-9547-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. GK - Geschlossen Kodieren"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/34619e0e-df8b-4e30-9e76-15bc6058cd0e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
-    skos:notation "3" ;
-    skos:prefLabel "0/1 - Einfach dichotom"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> .
+<a344f7c7-4000-11ee-976a-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. 0/1 - Einfach dichotom"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/390a621e-f4ac-453c-b28b-334d4a968121> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
-    skos:notation "4" ;
-    skos:prefLabel "1+ - Mehrere Variablen und/oder Codes"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> .
+<a344f7c8-4000-11ee-ab36-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. 1+ - Mehrere Variablen und/oder Codes"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/1e74ed27-9bd7-4c77-8998-1eb231c54c09> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> ;
-    skos:notation "5" ;
-    skos:prefLabel "PL - Produktive Leistung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> .
+<a344f7c9-4000-11ee-bacc-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. PL - Produktive Leistung"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Itemtyp 5er"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/012318ac-b60c-4a3b-853c-0c52c254f412>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/1e74ed27-9bd7-4c77-8998-1eb231c54c09>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/34619e0e-df8b-4e30-9e76-15bc6058cd0e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/390a621e-f4ac-453c-b28b-334d4a968121>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/6acddffb-10d4-4ac0-bf62-2d057251c4b8> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/012318ac-b60c-4a3b-853c-0c52c254f412>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/1e74ed27-9bd7-4c77-8998-1eb231c54c09>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/34619e0e-df8b-4e30-9e76-15bc6058cd0e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/390a621e-f4ac-453c-b28b-334d4a968121>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/itemtyp5er/6acddffb-10d4-4ac0-bf62-2d057251c4b8> ;
-    skos:prefLabel "Itemtyp 5er"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Itemtyp 5er"@de ;
+    skos:hasTopConcept <a344f7c5-4000-11ee-8759-484d7ea9e46c>,
+        <a344f7c6-4000-11ee-9547-484d7ea9e46c>,
+        <a344f7c7-4000-11ee-976a-484d7ea9e46c>,
+        <a344f7c8-4000-11ee-ab36-484d7ea9e46c>,
+        <a344f7c9-4000-11ee-bacc-484d7ea9e46c> .
 

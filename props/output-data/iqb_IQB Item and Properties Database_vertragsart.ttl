@@ -1,35 +1,24 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/4dd37e49-9f07-4011-af2e-cee33a5a750b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Person"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> .
+<a38be25d-4000-11ee-b351-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Person"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/7ffc2cdd-99e8-4dfa-b43f-be48ae300a65> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Kooperation - Daten"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> .
+<a38be25e-4000-11ee-aa12-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Kooperation - Daten"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/c75e4e0b-c749-485e-8293-294021b53dc7> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Kooperation - Items"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> .
+<a38be25f-4000-11ee-b80e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Kooperation - Items"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Vertragsart"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/4dd37e49-9f07-4011-af2e-cee33a5a750b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/7ffc2cdd-99e8-4dfa-b43f-be48ae300a65>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/c75e4e0b-c749-485e-8293-294021b53dc7> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/4dd37e49-9f07-4011-af2e-cee33a5a750b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/7ffc2cdd-99e8-4dfa-b43f-be48ae300a65>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/vertragsart/c75e4e0b-c749-485e-8293-294021b53dc7> ;
-    skos:prefLabel "Vertragsart"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Vertragsart"@de ;
+    skos:hasTopConcept <a38be25d-4000-11ee-b351-484d7ea9e46c>,
+        <a38be25e-4000-11ee-aa12-484d7ea9e46c>,
+        <a38be25f-4000-11ee-b80e-484d7ea9e46c> .
 

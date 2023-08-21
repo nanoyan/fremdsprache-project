@@ -1,26 +1,19 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/6c48dfc4-e967-4480-8139-82df205a7813> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/> ;
-    skos:notation "1" ;
-    skos:prefLabel "mündlich konzipierter Text"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/> .
+<a38ad97e-4000-11ee-9562-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. mündlich konzipierter Text"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/2965f5c4-d07c-4acf-a7bb-bdb5e3228cc4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/> ;
-    skos:notation "2" ;
-    skos:prefLabel "schriftlich konzipierter Text"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/> .
+<a38ad97f-4000-11ee-af25-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. schriftlich konzipierter Text"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Textentstehung"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/2965f5c4-d07c-4acf-a7bb-bdb5e3228cc4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/6c48dfc4-e967-4480-8139-82df205a7813> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/2965f5c4-d07c-4acf-a7bb-bdb5e3228cc4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textentstehung/6c48dfc4-e967-4480-8139-82df205a7813> ;
-    skos:prefLabel "Textentstehung"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Textentstehung"@de ;
+    skos:hasTopConcept <a38ad97e-4000-11ee-9562-484d7ea9e46c>,
+        <a38ad97f-4000-11ee-af25-484d7ea9e46c> .
 

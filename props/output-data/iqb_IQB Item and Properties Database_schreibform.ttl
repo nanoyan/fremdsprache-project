@@ -1,53 +1,34 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/b0c3865d-ddec-4db7-8206-d5386308a924> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:notation "1" ;
-    skos:prefLabel "erzählen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+<a388f43e-4000-11ee-a4be-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. erzählen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/a03a62f7-14cb-45b3-8695-9e4d5792eee9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:notation "2" ;
-    skos:prefLabel "berichten"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+<a388f43f-4000-11ee-b88c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. berichten"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/0a0b6c82-af3b-4f8b-8bd6-86cbf3baecd8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:notation "3" ;
-    skos:prefLabel "beschreiben"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+<a388f440-4000-11ee-9c13-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. beschreiben"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/d43af5c6-febc-474d-8a66-2010213457cd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:notation "4" ;
-    skos:prefLabel "argumentieren"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+<a388f441-4000-11ee-882a-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. argumentieren"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/37bc183d-9b83-4826-9418-b7262f9ff1d0> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Texte zus.fassen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> .
+<a388f442-4000-11ee-bb21-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. Texte zus.fassen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Schreibform"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/0a0b6c82-af3b-4f8b-8bd6-86cbf3baecd8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/37bc183d-9b83-4826-9418-b7262f9ff1d0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/a03a62f7-14cb-45b3-8695-9e4d5792eee9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/b0c3865d-ddec-4db7-8206-d5386308a924>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/d43af5c6-febc-474d-8a66-2010213457cd> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/0a0b6c82-af3b-4f8b-8bd6-86cbf3baecd8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/37bc183d-9b83-4826-9418-b7262f9ff1d0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/a03a62f7-14cb-45b3-8695-9e4d5792eee9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/b0c3865d-ddec-4db7-8206-d5386308a924>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/schreibform/d43af5c6-febc-474d-8a66-2010213457cd> ;
-    skos:prefLabel "Schreibform"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Schreibform"@de ;
+    skos:hasTopConcept <a388f43e-4000-11ee-a4be-484d7ea9e46c>,
+        <a388f43f-4000-11ee-b88c-484d7ea9e46c>,
+        <a388f440-4000-11ee-9c13-484d7ea9e46c>,
+        <a388f441-4000-11ee-882a-484d7ea9e46c>,
+        <a388f442-4000-11ee-bb21-484d7ea9e46c> .
 

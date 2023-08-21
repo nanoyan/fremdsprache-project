@@ -1,44 +1,29 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/500f5af7-b369-4bd1-b6aa-501cfe6d902d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Fachwissen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> .
+<a378c2d5-4000-11ee-8371-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Fachwissen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/d0bc5f54-4c08-4d70-a461-692f622658f2> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Erkenntnisgewinnung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> .
+<a378c2d6-4000-11ee-875f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Erkenntnisgewinnung"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/54f038fc-49ef-47b8-8ddf-dae722746152> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Bewertung"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> .
+<a378c2d7-4000-11ee-827f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Bewertung"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/93b12e6c-d754-49b0-b0b0-820da5d2ca8d> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Kommunikation"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> .
+<a378c2d8-4000-11ee-913b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Kommunikation"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Nawi-Kompetenzbereich"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/500f5af7-b369-4bd1-b6aa-501cfe6d902d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/54f038fc-49ef-47b8-8ddf-dae722746152>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/93b12e6c-d754-49b0-b0b0-820da5d2ca8d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/d0bc5f54-4c08-4d70-a461-692f622658f2> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/500f5af7-b369-4bd1-b6aa-501cfe6d902d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/54f038fc-49ef-47b8-8ddf-dae722746152>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/93b12e6c-d754-49b0-b0b0-820da5d2ca8d>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/nawi-kompetenzbereich/d0bc5f54-4c08-4d70-a461-692f622658f2> ;
-    skos:prefLabel "Nawi-Kompetenzbereich"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Nawi-Kompetenzbereich"@de ;
+    skos:hasTopConcept <a378c2d5-4000-11ee-8371-484d7ea9e46c>,
+        <a378c2d6-4000-11ee-875f-484d7ea9e46c>,
+        <a378c2d7-4000-11ee-827f-484d7ea9e46c>,
+        <a378c2d8-4000-11ee-913b-484d7ea9e46c> .
 

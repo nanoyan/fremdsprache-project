@@ -1,35 +1,24 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/f4383537-4ead-4b88-9e3e-aebeb74c63dd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Erschließen von Informationen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> .
+<a377a94e-4000-11ee-9c44-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Erschließen von Informationen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/074e9494-761f-4784-9eec-4764a9d5033f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Weitergeben von Informationen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> .
+<a377a94f-4000-11ee-a270-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Weitergeben von Informationen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/dc937507-c94d-4eeb-b678-fb149117819e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Argumentieren"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> .
+<a377a950-4000-11ee-b297-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Argumentieren"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Teilbereich3"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/074e9494-761f-4784-9eec-4764a9d5033f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/dc937507-c94d-4eeb-b678-fb149117819e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/f4383537-4ead-4b88-9e3e-aebeb74c63dd> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/074e9494-761f-4784-9eec-4764a9d5033f>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/dc937507-c94d-4eeb-b678-fb149117819e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/teilbereich3/f4383537-4ead-4b88-9e3e-aebeb74c63dd> ;
-    skos:prefLabel "Teilbereich3"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Teilbereich3"@de ;
+    skos:hasTopConcept <a377a94e-4000-11ee-9c44-484d7ea9e46c>,
+        <a377a94f-4000-11ee-a270-484d7ea9e46c>,
+        <a377a950-4000-11ee-b297-484d7ea9e46c> .
 

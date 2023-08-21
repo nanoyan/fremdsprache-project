@@ -1,44 +1,29 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/01677bc5-de54-4796-8db5-61cbcb900516> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Leseverstehen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> .
+<a35ca4b7-4000-11ee-a9ec-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Leseverstehen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/8459807a-feb5-41c2-81d7-21445ebf94df> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Hörverstehen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> .
+<a35ca4b8-4000-11ee-9772-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Hörverstehen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/3e54d8ca-d7c0-4e48-83bc-ee170db00cdd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Schreiben"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> .
+<a35ca4b9-4000-11ee-9996-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Schreiben"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/ede41fc7-ab2a-442a-bfdf-8d622876184b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Hörsehverstehen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> .
+<a35ca4ba-4000-11ee-af74-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Hörsehverstehen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Kompetenzbereich Fremdsprachen"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/01677bc5-de54-4796-8db5-61cbcb900516>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/3e54d8ca-d7c0-4e48-83bc-ee170db00cdd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/8459807a-feb5-41c2-81d7-21445ebf94df>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/ede41fc7-ab2a-442a-bfdf-8d622876184b> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/01677bc5-de54-4796-8db5-61cbcb900516>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/3e54d8ca-d7c0-4e48-83bc-ee170db00cdd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/8459807a-feb5-41c2-81d7-21445ebf94df>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichfremdsprachen/ede41fc7-ab2a-442a-bfdf-8d622876184b> ;
-    skos:prefLabel "Kompetenzbereich Fremdsprachen"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Kompetenzbereich Fremdsprachen"@de ;
+    skos:hasTopConcept <a35ca4b7-4000-11ee-a9ec-484d7ea9e46c>,
+        <a35ca4b8-4000-11ee-9772-484d7ea9e46c>,
+        <a35ca4b9-4000-11ee-9996-484d7ea9e46c>,
+        <a35ca4ba-4000-11ee-af74-484d7ea9e46c> .
 

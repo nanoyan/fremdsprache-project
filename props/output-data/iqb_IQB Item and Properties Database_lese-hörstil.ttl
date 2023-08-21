@@ -1,44 +1,29 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/ae9c931f-2c5c-4b4a-88d2-ef0a16e2e303> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
-    skos:notation "1" ;
-    skos:prefLabel "selektiv"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> .
+<a394dcd3-4000-11ee-b70b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. selektiv"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/2e8435ad-33f7-41ee-82ce-bb9141031883> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
-    skos:notation "2" ;
-    skos:prefLabel "detailliert"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> .
+<a39503c5-4000-11ee-858e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. detailliert"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/dc9bc00f-da38-4f95-a4f0-8ac39fcbcc68> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
-    skos:notation "3" ;
-    skos:prefLabel "inferierend"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> .
+<a39503c6-4000-11ee-a424-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. inferierend"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/a401cb6e-7417-4873-8a2e-64829966bfea> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> ;
-    skos:notation "4" ;
-    skos:prefLabel "global"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> .
+<a39503c7-4000-11ee-a7bf-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. global"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Lese-Hörstil"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/2e8435ad-33f7-41ee-82ce-bb9141031883>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/a401cb6e-7417-4873-8a2e-64829966bfea>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/ae9c931f-2c5c-4b4a-88d2-ef0a16e2e303>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/dc9bc00f-da38-4f95-a4f0-8ac39fcbcc68> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/2e8435ad-33f7-41ee-82ce-bb9141031883>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/a401cb6e-7417-4873-8a2e-64829966bfea>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/ae9c931f-2c5c-4b4a-88d2-ef0a16e2e303>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/lese-hörstil/dc9bc00f-da38-4f95-a4f0-8ac39fcbcc68> ;
-    skos:prefLabel "Lese-Hörstil"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Lese-Hörstil"@de ;
+    skos:hasTopConcept <a394dcd3-4000-11ee-b70b-484d7ea9e46c>,
+        <a39503c5-4000-11ee-858e-484d7ea9e46c>,
+        <a39503c6-4000-11ee-a424-484d7ea9e46c>,
+        <a39503c7-4000-11ee-a7bf-484d7ea9e46c> .
 

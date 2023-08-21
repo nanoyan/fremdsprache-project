@@ -1,54 +1,34 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/01820488-ad5d-4c20-a6ab-7275498dfdbd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Zuhören"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> .
+<a399209e-4000-11ee-bf89-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Zuhören"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/174e37c2-b02a-4e2a-b2f2-29db8be94f77> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Schreiben"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> .
+<a399209f-4000-11ee-b563-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Schreiben"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/baf83aae-7c37-403c-a2fd-1b009cb5950c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Orthografie"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> .
+<a39920a0-4000-11ee-b82d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Orthografie"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/6d5dc80a-e4b6-4b25-95d9-0f1ae37c1c07> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Lesen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> .
+<a39920a1-4000-11ee-a439-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Lesen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/f24b606e-b0d5-4ddf-9e4c-be66e671020f> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Sprachreflexion"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> .
+<a39920a2-4000-11ee-a7fc-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. Sprachreflexion"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "nicht domänenbezogen, sondern Mathematik Gesamtkompetenz"@de ;
-    dct:title "IQB Item and Properties Database_Kompetenzbereich De1"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/01820488-ad5d-4c20-a6ab-7275498dfdbd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/174e37c2-b02a-4e2a-b2f2-29db8be94f77>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/6d5dc80a-e4b6-4b25-95d9-0f1ae37c1c07>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/baf83aae-7c37-403c-a2fd-1b009cb5950c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/f24b606e-b0d5-4ddf-9e4c-be66e671020f> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/01820488-ad5d-4c20-a6ab-7275498dfdbd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/174e37c2-b02a-4e2a-b2f2-29db8be94f77>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/6d5dc80a-e4b6-4b25-95d9-0f1ae37c1c07>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/baf83aae-7c37-403c-a2fd-1b009cb5950c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichde1/f24b606e-b0d5-4ddf-9e4c-be66e671020f> ;
-    skos:prefLabel "Kompetenzbereich De1"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Kompetenzbereich De1"@de ;
+    skos:hasTopConcept <a399209e-4000-11ee-bf89-484d7ea9e46c>,
+        <a399209f-4000-11ee-b563-484d7ea9e46c>,
+        <a39920a0-4000-11ee-b82d-484d7ea9e46c>,
+        <a39920a1-4000-11ee-a439-484d7ea9e46c>,
+        <a39920a2-4000-11ee-a7fc-484d7ea9e46c> .
 

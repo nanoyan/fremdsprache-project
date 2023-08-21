@@ -1,54 +1,34 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/9b170f4e-2542-4e71-ad37-711c695a9fa4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Zahl (L1)"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> .
+<a3526b80-4000-11ee-ad9f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Zahl (L1)"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/fb197c98-a400-4a22-a05c-95af07e54037> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Messen (L2)"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> .
+<a3526b81-4000-11ee-89b2-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Messen (L2)"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/0d3717ff-8095-4b86-9ce4-c1be7bbf9b01> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Raum und Form (L3)"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> .
+<a3526b82-4000-11ee-a7fe-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Raum und Form (L3)"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/9d518a9f-f1b1-4dce-b472-795f163e0af7> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Funktionaler Zusammenhang (L4)"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> .
+<a3526b83-4000-11ee-b72a-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Funktionaler Zusammenhang (L4)"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/7dfea574-6b5e-4294-87f6-04e6fe424744> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Daten und Zufall (L5)"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> .
+<a3526b84-4000-11ee-93c8-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. Daten und Zufall (L5)"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "sekundäre Leitidee"@de ;
-    dct:title "IQB Item and Properties Database_Kompetenzbereich Ma1 (Leitidee)"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/0d3717ff-8095-4b86-9ce4-c1be7bbf9b01>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/7dfea574-6b5e-4294-87f6-04e6fe424744>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/9b170f4e-2542-4e71-ad37-711c695a9fa4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/9d518a9f-f1b1-4dce-b472-795f163e0af7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/fb197c98-a400-4a22-a05c-95af07e54037> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/0d3717ff-8095-4b86-9ce4-c1be7bbf9b01>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/7dfea574-6b5e-4294-87f6-04e6fe424744>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/9b170f4e-2542-4e71-ad37-711c695a9fa4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/9d518a9f-f1b1-4dce-b472-795f163e0af7>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/kompetenzbereichma1(leitidee)/fb197c98-a400-4a22-a05c-95af07e54037> ;
-    skos:prefLabel "Kompetenzbereich Ma1 (Leitidee)"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Kompetenzbereich Ma1 (Leitidee)"@de ;
+    skos:hasTopConcept <a3526b80-4000-11ee-ad9f-484d7ea9e46c>,
+        <a3526b81-4000-11ee-89b2-484d7ea9e46c>,
+        <a3526b82-4000-11ee-a7fe-484d7ea9e46c>,
+        <a3526b83-4000-11ee-b72a-484d7ea9e46c>,
+        <a3526b84-4000-11ee-93c8-484d7ea9e46c> .
 

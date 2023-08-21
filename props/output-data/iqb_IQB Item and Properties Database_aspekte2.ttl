@@ -1,35 +1,24 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/1df21af5-f80d-4b10-a05c-99caf5a44072> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Sprache/Fachsprache"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> .
+<a36f2db1-4000-11ee-96f4-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Sprache/Fachsprache"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/40bb2c04-c3e3-4edb-9c07-08d8e9c79088> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Darstellungsformen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> .
+<a36f2db2-4000-11ee-975e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Darstellungsformen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/0982c8f4-3c02-4471-87c9-2614eb443979> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Adressatenbezug/Sachbezug"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> .
+<a36f2db3-4000-11ee-a7b0-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Adressatenbezug/Sachbezug"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Aspekte2"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/0982c8f4-3c02-4471-87c9-2614eb443979>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/1df21af5-f80d-4b10-a05c-99caf5a44072>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/40bb2c04-c3e3-4edb-9c07-08d8e9c79088> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/0982c8f4-3c02-4471-87c9-2614eb443979>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/1df21af5-f80d-4b10-a05c-99caf5a44072>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/aspekte2/40bb2c04-c3e3-4edb-9c07-08d8e9c79088> ;
-    skos:prefLabel "Aspekte2"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Aspekte2"@de ;
+    skos:hasTopConcept <a36f2db1-4000-11ee-96f4-484d7ea9e46c>,
+        <a36f2db2-4000-11ee-975e-484d7ea9e46c>,
+        <a36f2db3-4000-11ee-a7b0-484d7ea9e46c> .
 

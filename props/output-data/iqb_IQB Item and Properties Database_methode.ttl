@@ -1,44 +1,29 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/methode/c6b035b6-7f0b-4977-8ab3-82695738f7d8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Beobachten"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> .
+<a39da2a5-4000-11ee-9e76-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Beobachten"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/methode/be660f13-6403-4918-a835-6381f85cd791> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Vergleichen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> .
+<a39da2a6-4000-11ee-8609-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Vergleichen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/methode/06ce0e6c-343f-44a9-9ec8-2050d345d526> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Ordnen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> .
+<a39da2a7-4000-11ee-9af7-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Ordnen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/methode/d71a5633-b62b-4bff-afbe-e557d1c598c3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Experimentieren"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/methode/> .
+<a39da2a8-4000-11ee-91d7-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Experimentieren"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/methode/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Methode"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/methode/06ce0e6c-343f-44a9-9ec8-2050d345d526>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/methode/be660f13-6403-4918-a835-6381f85cd791>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/methode/c6b035b6-7f0b-4977-8ab3-82695738f7d8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/methode/d71a5633-b62b-4bff-afbe-e557d1c598c3> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/methode/06ce0e6c-343f-44a9-9ec8-2050d345d526>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/methode/be660f13-6403-4918-a835-6381f85cd791>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/methode/c6b035b6-7f0b-4977-8ab3-82695738f7d8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/methode/d71a5633-b62b-4bff-afbe-e557d1c598c3> ;
-    skos:prefLabel "Methode"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Methode"@de ;
+    skos:hasTopConcept <a39da2a5-4000-11ee-9e76-484d7ea9e46c>,
+        <a39da2a6-4000-11ee-8609-484d7ea9e46c>,
+        <a39da2a7-4000-11ee-9af7-484d7ea9e46c>,
+        <a39da2a8-4000-11ee-91d7-484d7ea9e46c> .
 

@@ -1,116 +1,69 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/09356e86-1b66-42e9-bbb1-f97ea6dc1fec> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Brief"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+<a361b5ed-4000-11ee-ae4e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Brief"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/4432f3e1-0b34-4b54-8fbb-4fe0a1907a56> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Broschüre/Flyer"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+<a361b5ee-4000-11ee-aecc-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Broschüre/Flyer"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/9e87552e-2791-4bbb-9d36-d8a4b7426fe3> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Fabel"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+<a361b5ef-4000-11ee-b70f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Fabel"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/7ce2ffad-57e2-440e-8b8a-31367546d4f5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Fahrplan"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+<a361b5f0-4000-11ee-94fa-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Fahrplan"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/4e0b4418-4341-44ea-9419-64056f77ad04> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:notation "5" ;
-    skos:prefLabel "Interview"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+<a361b5f1-4000-11ee-b361-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. Interview"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/d64032d9-f2e5-45e2-bd22-47458f0e7ed6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:notation "6" ;
-    skos:prefLabel "Karte"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+<a361b5f2-4000-11ee-a681-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. Karte"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/973c7a6c-b55e-48f2-80dc-5f2059d4aecd> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:notation "7" ;
-    skos:prefLabel "Kurzgeschichte"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+<a361b5f3-4000-11ee-9684-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. Kurzgeschichte"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/deb7c6ab-e837-4caa-9eee-4caa4721fa76> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:notation "8" ;
-    skos:prefLabel "Lexikon/Sachbuchtext"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+<a361b5f4-4000-11ee-9d13-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. Lexikon/Sachbuchtext"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/43619ac5-6c9f-4d6f-999d-ce506d04673c> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:notation "9" ;
-    skos:prefLabel "Märchen"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+<a361b5f5-4000-11ee-a5b2-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "9. Märchen"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/cf6eb4af-ac16-4ee5-9291-d8284f1fb25b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:notation "10" ;
-    skos:prefLabel "Phantastische Geschichte"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+<a361b5f6-4000-11ee-8fb8-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "10. Phantastische Geschichte"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/80007b55-4a95-4f67-b353-e7450dbae8cc> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:notation "11" ;
-    skos:prefLabel "Wissenssendung (Radio)"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+<a361b5f7-4000-11ee-b9ab-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "11. Wissenssendung (Radio)"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/1ceed3d2-9242-4a82-b760-deb2c8ae201b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> ;
-    skos:notation "12" ;
-    skos:prefLabel "sonstige"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> .
+<a361b5f8-4000-11ee-b53a-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "12. sonstige"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Textprototyp"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/09356e86-1b66-42e9-bbb1-f97ea6dc1fec>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/1ceed3d2-9242-4a82-b760-deb2c8ae201b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/43619ac5-6c9f-4d6f-999d-ce506d04673c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/4432f3e1-0b34-4b54-8fbb-4fe0a1907a56>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/4e0b4418-4341-44ea-9419-64056f77ad04>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/7ce2ffad-57e2-440e-8b8a-31367546d4f5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/80007b55-4a95-4f67-b353-e7450dbae8cc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/973c7a6c-b55e-48f2-80dc-5f2059d4aecd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/9e87552e-2791-4bbb-9d36-d8a4b7426fe3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/cf6eb4af-ac16-4ee5-9291-d8284f1fb25b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/d64032d9-f2e5-45e2-bd22-47458f0e7ed6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/deb7c6ab-e837-4caa-9eee-4caa4721fa76> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/09356e86-1b66-42e9-bbb1-f97ea6dc1fec>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/1ceed3d2-9242-4a82-b760-deb2c8ae201b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/43619ac5-6c9f-4d6f-999d-ce506d04673c>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/4432f3e1-0b34-4b54-8fbb-4fe0a1907a56>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/4e0b4418-4341-44ea-9419-64056f77ad04>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/7ce2ffad-57e2-440e-8b8a-31367546d4f5>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/80007b55-4a95-4f67-b353-e7450dbae8cc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/973c7a6c-b55e-48f2-80dc-5f2059d4aecd>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/9e87552e-2791-4bbb-9d36-d8a4b7426fe3>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/cf6eb4af-ac16-4ee5-9291-d8284f1fb25b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/d64032d9-f2e5-45e2-bd22-47458f0e7ed6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/textprototyp/deb7c6ab-e837-4caa-9eee-4caa4721fa76> ;
-    skos:prefLabel "Textprototyp"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Textprototyp"@de ;
+    skos:hasTopConcept <a361b5ed-4000-11ee-ae4e-484d7ea9e46c>,
+        <a361b5ee-4000-11ee-aecc-484d7ea9e46c>,
+        <a361b5ef-4000-11ee-b70f-484d7ea9e46c>,
+        <a361b5f0-4000-11ee-94fa-484d7ea9e46c>,
+        <a361b5f1-4000-11ee-b361-484d7ea9e46c>,
+        <a361b5f2-4000-11ee-a681-484d7ea9e46c>,
+        <a361b5f3-4000-11ee-9684-484d7ea9e46c>,
+        <a361b5f4-4000-11ee-9d13-484d7ea9e46c>,
+        <a361b5f5-4000-11ee-a5b2-484d7ea9e46c>,
+        <a361b5f6-4000-11ee-8fb8-484d7ea9e46c>,
+        <a361b5f7-4000-11ee-b9ab-484d7ea9e46c>,
+        <a361b5f8-4000-11ee-b53a-484d7ea9e46c> .
 

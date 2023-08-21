@@ -1,62 +1,39 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/d71be512-a569-4127-af9e-5ba6c6b30145> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
-    skos:notation "1" ;
-    skos:prefLabel "narrative"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+<a37fe5cb-4000-11ee-b14c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. narrative"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/ecf95495-4d5b-4148-8a7d-b2db5588c347> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
-    skos:notation "2" ;
-    skos:prefLabel "instructive"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+<a37fe5cc-4000-11ee-8fa6-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. instructive"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/f4d4719d-bc2c-4a20-811e-99a5d2aba6ee> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
-    skos:notation "3" ;
-    skos:prefLabel "argumentative"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+<a37fe5cd-4000-11ee-a9f2-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. argumentative"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/86a1971c-c5c7-42d0-a167-4d2fc3aef793> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
-    skos:notation "4" ;
-    skos:prefLabel "descriptive"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+<a37fe5ce-4000-11ee-83e8-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. descriptive"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/af4e0c6c-139e-4da4-8732-3a0ca41a9f91> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
-    skos:notation "5" ;
-    skos:prefLabel "expository"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+<a37fe5cf-4000-11ee-9b19-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. expository"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/985ccc36-8f59-499e-bbd1-cb216b858486> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> ;
-    skos:notation "6" ;
-    skos:prefLabel "phatic"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> .
+<a37fe5d0-4000-11ee-a7d5-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. phatic"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/redeart/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Redeart"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/86a1971c-c5c7-42d0-a167-4d2fc3aef793>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/985ccc36-8f59-499e-bbd1-cb216b858486>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/af4e0c6c-139e-4da4-8732-3a0ca41a9f91>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/d71be512-a569-4127-af9e-5ba6c6b30145>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/ecf95495-4d5b-4148-8a7d-b2db5588c347>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/f4d4719d-bc2c-4a20-811e-99a5d2aba6ee> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/86a1971c-c5c7-42d0-a167-4d2fc3aef793>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/985ccc36-8f59-499e-bbd1-cb216b858486>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/af4e0c6c-139e-4da4-8732-3a0ca41a9f91>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/d71be512-a569-4127-af9e-5ba6c6b30145>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/ecf95495-4d5b-4148-8a7d-b2db5588c347>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/redeart/f4d4719d-bc2c-4a20-811e-99a5d2aba6ee> ;
-    skos:prefLabel "Redeart"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Redeart"@de ;
+    skos:hasTopConcept <a37fe5cb-4000-11ee-b14c-484d7ea9e46c>,
+        <a37fe5cc-4000-11ee-8fa6-484d7ea9e46c>,
+        <a37fe5cd-4000-11ee-a9f2-484d7ea9e46c>,
+        <a37fe5ce-4000-11ee-83e8-484d7ea9e46c>,
+        <a37fe5cf-4000-11ee-9b19-484d7ea9e46c>,
+        <a37fe5d0-4000-11ee-a7d5-484d7ea9e46c> .
 

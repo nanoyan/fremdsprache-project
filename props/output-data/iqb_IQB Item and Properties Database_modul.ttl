@@ -1,36 +1,24 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/modul/73f478f6-67b6-4d70-ad02-60084e3f1d75> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
-    skos:notation "1" ;
-    skos:prefLabel "A"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> .
+<a3a1d194-4000-11ee-99e5-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. A"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/modul/a6ab86a1-6cf4-4445-a165-5ac0dbedfcef> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
-    skos:notation "2" ;
-    skos:prefLabel "B"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> .
+<a3a1d195-4000-11ee-ade0-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. B"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/modul/29326fa5-53eb-4d62-a6b6-fa801d8d39b0> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> ;
-    skos:notation "3" ;
-    skos:prefLabel "C"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/modul/> .
+<a3a1d196-4000-11ee-8b69-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. C"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/modul/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:description "Verwendbarkeit der Aufgabe im Rahmen VERA"@de ;
-    dct:title "IQB Item and Properties Database_Modul"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/modul/29326fa5-53eb-4d62-a6b6-fa801d8d39b0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/modul/73f478f6-67b6-4d70-ad02-60084e3f1d75>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/modul/a6ab86a1-6cf4-4445-a165-5ac0dbedfcef> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/modul/29326fa5-53eb-4d62-a6b6-fa801d8d39b0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/modul/73f478f6-67b6-4d70-ad02-60084e3f1d75>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/modul/a6ab86a1-6cf4-4445-a165-5ac0dbedfcef> ;
-    skos:prefLabel "Modul"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Modul"@de ;
+    skos:hasTopConcept <a3a1d194-4000-11ee-99e5-484d7ea9e46c>,
+        <a3a1d195-4000-11ee-ade0-484d7ea9e46c>,
+        <a3a1d196-4000-11ee-8b69-484d7ea9e46c> .
 

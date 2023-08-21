@@ -1,62 +1,39 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/aba3cb8b-56c5-4ef1-bc1e-c0dc16ebe182> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> ;
-    skos:notation "1" ;
-    skos:prefLabel "K1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> .
+<a387e3e5-4000-11ee-b0f7-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. K1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/0687f35b-6154-4220-9057-4498309b1366> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> ;
-    skos:notation "2" ;
-    skos:prefLabel "K2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> .
+<a387e3e6-4000-11ee-b0a7-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. K2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/6a4193f2-66ed-4b1d-a6c6-08b46dc744d8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> ;
-    skos:notation "3" ;
-    skos:prefLabel "K3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> .
+<a387e3e7-4000-11ee-9095-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. K3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/8387432f-cc21-4158-9c6f-e2f0a2640fc9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> ;
-    skos:notation "4" ;
-    skos:prefLabel "K4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> .
+<a387e3e8-4000-11ee-8e9c-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. K4"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/ece9becd-d1e1-4da8-9a6b-38c686b20cbc> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> ;
-    skos:notation "5" ;
-    skos:prefLabel "K5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> .
+<a387e3e9-4000-11ee-89dd-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. K5"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/cbf1237a-eca9-4695-a7be-1b98f8b0ff5e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> ;
-    skos:notation "6" ;
-    skos:prefLabel "K6"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> .
+<a387e3ea-4000-11ee-80ef-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. K6"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Bildungsstandards Ma1 allgemeine"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/0687f35b-6154-4220-9057-4498309b1366>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/6a4193f2-66ed-4b1d-a6c6-08b46dc744d8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/8387432f-cc21-4158-9c6f-e2f0a2640fc9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/aba3cb8b-56c5-4ef1-bc1e-c0dc16ebe182>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/cbf1237a-eca9-4695-a7be-1b98f8b0ff5e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/ece9becd-d1e1-4da8-9a6b-38c686b20cbc> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/0687f35b-6154-4220-9057-4498309b1366>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/6a4193f2-66ed-4b1d-a6c6-08b46dc744d8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/8387432f-cc21-4158-9c6f-e2f0a2640fc9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/aba3cb8b-56c5-4ef1-bc1e-c0dc16ebe182>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/cbf1237a-eca9-4695-a7be-1b98f8b0ff5e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsma1allgemeine/ece9becd-d1e1-4da8-9a6b-38c686b20cbc> ;
-    skos:prefLabel "Bildungsstandards Ma1 allgemeine"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Bildungsstandards Ma1 allgemeine"@de ;
+    skos:hasTopConcept <a387e3e5-4000-11ee-b0f7-484d7ea9e46c>,
+        <a387e3e6-4000-11ee-b0a7-484d7ea9e46c>,
+        <a387e3e7-4000-11ee-9095-484d7ea9e46c>,
+        <a387e3e8-4000-11ee-8e9c-484d7ea9e46c>,
+        <a387e3e9-4000-11ee-89dd-484d7ea9e46c>,
+        <a387e3ea-4000-11ee-80ef-484d7ea9e46c> .
 

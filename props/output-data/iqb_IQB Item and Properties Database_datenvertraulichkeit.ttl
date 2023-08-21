@@ -1,44 +1,29 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/f53b789a-4a49-4368-bde8-e5980dfc0ccf> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
-    skos:notation "1" ;
-    skos:prefLabel "Schule"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
+<a37c0438-4000-11ee-98eb-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. Schule"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/52ab80a7-2d85-43dd-97d9-d0ea28d4aedf> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
-    skos:notation "2" ;
-    skos:prefLabel "Bezirk"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
+<a37c0439-4000-11ee-bbe6-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. Bezirk"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/22c16c65-40a8-41e3-a09b-98318aab9c02> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
-    skos:notation "3" ;
-    skos:prefLabel "Bundesland"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
+<a37c043a-4000-11ee-9cfb-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. Bundesland"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/7eb6c62c-a299-402b-b30e-f9011d8b845a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> ;
-    skos:notation "4" ;
-    skos:prefLabel "Person"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> .
+<a37c043b-4000-11ee-822f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. Person"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Datenvertraulichkeit"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/22c16c65-40a8-41e3-a09b-98318aab9c02>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/52ab80a7-2d85-43dd-97d9-d0ea28d4aedf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/7eb6c62c-a299-402b-b30e-f9011d8b845a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/f53b789a-4a49-4368-bde8-e5980dfc0ccf> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/22c16c65-40a8-41e3-a09b-98318aab9c02>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/52ab80a7-2d85-43dd-97d9-d0ea28d4aedf>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/7eb6c62c-a299-402b-b30e-f9011d8b845a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/datenvertraulichkeit/f53b789a-4a49-4368-bde8-e5980dfc0ccf> ;
-    skos:prefLabel "Datenvertraulichkeit"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Datenvertraulichkeit"@de ;
+    skos:hasTopConcept <a37c0438-4000-11ee-98eb-484d7ea9e46c>,
+        <a37c0439-4000-11ee-bbe6-484d7ea9e46c>,
+        <a37c043a-4000-11ee-9cfb-484d7ea9e46c>,
+        <a37c043b-4000-11ee-822f-484d7ea9e46c> .
 

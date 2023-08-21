@@ -1,197 +1,114 @@
-@prefix dct: <http://purl.org/dc/terms/> .
+@base <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/2d766700-947b-4a37-a0fd-3ad4a4296b22> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "1" ;
-    skos:prefLabel "0"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d1f-4000-11ee-8ecc-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "1. 0"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/9f711d57-96a3-42d4-bcbe-d3bcc1a5236e> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "2" ;
-    skos:prefLabel "1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d20-4000-11ee-a3fb-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "2. 1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/88af21a4-1cf9-4a48-b83a-f15d973a193a> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "3" ;
-    skos:prefLabel "1.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d21-4000-11ee-af0d-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "3. 1.1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/b316edf1-bfa0-4774-830d-16da67580f2b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "4" ;
-    skos:prefLabel "1.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d22-4000-11ee-86bf-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "4. 1.2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/856bb811-2110-4950-96d2-c04980c5dd19> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "5" ;
-    skos:prefLabel "1.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d23-4000-11ee-831b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "5. 1.3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/2ec9e7e4-9cd9-411b-bc50-2e573269bf78> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "6" ;
-    skos:prefLabel "2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d24-4000-11ee-a1e1-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "6. 2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/bd67e34a-0e74-4d45-871d-7560ee4eaaf9> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "7" ;
-    skos:prefLabel "2.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d25-4000-11ee-9d96-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "7. 2.1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/c66beecc-3fb9-47ee-8520-809a99162fd6> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "8" ;
-    skos:prefLabel "2.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d26-4000-11ee-8e82-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "8. 2.2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/28bc3a1b-b837-4975-95e9-c5c6c1785867> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "9" ;
-    skos:prefLabel "2.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d27-4000-11ee-818e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "9. 2.3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/132c56b0-9000-4376-9af5-eca690d3e2d4> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "10" ;
-    skos:prefLabel "3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d28-4000-11ee-84cb-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "10. 3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/15aa71f2-4609-4d8d-a505-ecb07c762031> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "11" ;
-    skos:prefLabel "3.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d29-4000-11ee-ac76-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "11. 3.1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/769e065a-faa7-435e-b5dd-c4ab4d17a736> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "12" ;
-    skos:prefLabel "3.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d2a-4000-11ee-b503-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "12. 3.2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/e14e603a-fd9e-4012-9aa3-8d79b2ea29b5> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "13" ;
-    skos:prefLabel "3.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d2b-4000-11ee-982b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "13. 3.3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/6363df96-2119-4f71-9d9d-97711de48ae8> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "14" ;
-    skos:prefLabel "4"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d2c-4000-11ee-83db-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "14. 4"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/476ec95d-9d1d-4f52-b3c9-e9f7665049f0> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "15" ;
-    skos:prefLabel "4.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d2d-4000-11ee-aa95-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "15. 4.1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/55316a0a-051a-49f0-b888-f667754a535b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "16" ;
-    skos:prefLabel "4.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d2e-4000-11ee-b662-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "16. 4.2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/710d6694-964f-4cd6-bf29-6d5b8ef15abc> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "17" ;
-    skos:prefLabel "4.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d2f-4000-11ee-875f-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "17. 4.3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/47be9c56-782e-4147-911a-aa472642b75b> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "18" ;
-    skos:prefLabel "5"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d30-4000-11ee-86fd-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "18. 5"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/bc36ca50-854e-4f4b-848f-3cfc374db228> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "19" ;
-    skos:prefLabel "5.1"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d31-4000-11ee-893e-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "19. 5.1"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/8f50c10c-c9d2-4719-9d0f-0c9d93e7d474> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "20" ;
-    skos:prefLabel "5.2"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d32-4000-11ee-b082-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "20. 5.2"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/0bb77cd1-0dc6-4199-bb2b-0109ecfe7751> a skos:Concept ;
-    skos:broader <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:inScheme <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> ;
-    skos:notation "21" ;
-    skos:prefLabel "5.3"@de ;
-    skos:topConceptOf <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> .
+<a34e5d33-4000-11ee-850b-484d7ea9e46c> a skos:Concept ;
+    skos:prefLabel "21. 5.3"@de ;
+    skos:topConceptOf <> .
 
-<https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/> a skos:ConceptScheme ;
-    dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
-    dct:title "IQB Item and Properties Database_Bildungsstandards MaP allgemeine"@de ;
-    skos:hasTopConcept <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/0bb77cd1-0dc6-4199-bb2b-0109ecfe7751>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/132c56b0-9000-4376-9af5-eca690d3e2d4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/15aa71f2-4609-4d8d-a505-ecb07c762031>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/28bc3a1b-b837-4975-95e9-c5c6c1785867>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/2d766700-947b-4a37-a0fd-3ad4a4296b22>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/2ec9e7e4-9cd9-411b-bc50-2e573269bf78>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/476ec95d-9d1d-4f52-b3c9-e9f7665049f0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/47be9c56-782e-4147-911a-aa472642b75b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/55316a0a-051a-49f0-b888-f667754a535b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/6363df96-2119-4f71-9d9d-97711de48ae8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/710d6694-964f-4cd6-bf29-6d5b8ef15abc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/769e065a-faa7-435e-b5dd-c4ab4d17a736>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/856bb811-2110-4950-96d2-c04980c5dd19>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/88af21a4-1cf9-4a48-b83a-f15d973a193a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/8f50c10c-c9d2-4719-9d0f-0c9d93e7d474>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/9f711d57-96a3-42d4-bcbe-d3bcc1a5236e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/b316edf1-bfa0-4774-830d-16da67580f2b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/bc36ca50-854e-4f4b-848f-3cfc374db228>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/bd67e34a-0e74-4d45-871d-7560ee4eaaf9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/c66beecc-3fb9-47ee-8520-809a99162fd6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/e14e603a-fd9e-4012-9aa3-8d79b2ea29b5> ;
-    skos:narrower <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/0bb77cd1-0dc6-4199-bb2b-0109ecfe7751>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/132c56b0-9000-4376-9af5-eca690d3e2d4>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/15aa71f2-4609-4d8d-a505-ecb07c762031>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/28bc3a1b-b837-4975-95e9-c5c6c1785867>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/2d766700-947b-4a37-a0fd-3ad4a4296b22>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/2ec9e7e4-9cd9-411b-bc50-2e573269bf78>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/476ec95d-9d1d-4f52-b3c9-e9f7665049f0>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/47be9c56-782e-4147-911a-aa472642b75b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/55316a0a-051a-49f0-b888-f667754a535b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/6363df96-2119-4f71-9d9d-97711de48ae8>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/710d6694-964f-4cd6-bf29-6d5b8ef15abc>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/769e065a-faa7-435e-b5dd-c4ab4d17a736>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/856bb811-2110-4950-96d2-c04980c5dd19>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/88af21a4-1cf9-4a48-b83a-f15d973a193a>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/8f50c10c-c9d2-4719-9d0f-0c9d93e7d474>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/9f711d57-96a3-42d4-bcbe-d3bcc1a5236e>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/b316edf1-bfa0-4774-830d-16da67580f2b>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/bc36ca50-854e-4f4b-848f-3cfc374db228>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/bd67e34a-0e74-4d45-871d-7560ee4eaaf9>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/c66beecc-3fb9-47ee-8520-809a99162fd6>,
-        <https://w3id.org/iqb/IQB-ItemDBPProps/bildungsstandardsmapallgemeine/e14e603a-fd9e-4012-9aa3-8d79b2ea29b5> ;
-    skos:prefLabel "Bildungsstandards MaP allgemeine"@de .
+<> a skos:ConceptScheme ;
+    dcterms:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de ;
+    dcterms:source "https://www.kmk.org/fileadmin/Dateien/veroeffentlichungen_beschluesse/2023/2023_06_22-Bista-ESA-MSA-ErsteFremdsprache.pdf"@de ;
+    dcterms:title "IQB Item and Properties Database_Bildungsstandards MaP allgemeine"@de ;
+    skos:hasTopConcept <a34e5d1f-4000-11ee-8ecc-484d7ea9e46c>,
+        <a34e5d20-4000-11ee-a3fb-484d7ea9e46c>,
+        <a34e5d21-4000-11ee-af0d-484d7ea9e46c>,
+        <a34e5d22-4000-11ee-86bf-484d7ea9e46c>,
+        <a34e5d23-4000-11ee-831b-484d7ea9e46c>,
+        <a34e5d24-4000-11ee-a1e1-484d7ea9e46c>,
+        <a34e5d25-4000-11ee-9d96-484d7ea9e46c>,
+        <a34e5d26-4000-11ee-8e82-484d7ea9e46c>,
+        <a34e5d27-4000-11ee-818e-484d7ea9e46c>,
+        <a34e5d28-4000-11ee-84cb-484d7ea9e46c>,
+        <a34e5d29-4000-11ee-ac76-484d7ea9e46c>,
+        <a34e5d2a-4000-11ee-b503-484d7ea9e46c>,
+        <a34e5d2b-4000-11ee-982b-484d7ea9e46c>,
+        <a34e5d2c-4000-11ee-83db-484d7ea9e46c>,
+        <a34e5d2d-4000-11ee-aa95-484d7ea9e46c>,
+        <a34e5d2e-4000-11ee-b662-484d7ea9e46c>,
+        <a34e5d2f-4000-11ee-875f-484d7ea9e46c>,
+        <a34e5d30-4000-11ee-86fd-484d7ea9e46c>,
+        <a34e5d31-4000-11ee-893e-484d7ea9e46c>,
+        <a34e5d32-4000-11ee-b082-484d7ea9e46c>,
+        <a34e5d33-4000-11ee-850b-484d7ea9e46c> .
 
