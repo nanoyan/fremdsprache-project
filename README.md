@@ -1,21 +1,22 @@
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/nanoyan/%20%20%20%20fremdsprache-project)
 
 # fremdsprache-project
-## Structure
-We have two main code folders; python and typescript. And we have a number of data folder, for example, fremdsprache, props.
-Each data folder contains; the entry data in csv format, and can have two subfolder; middle-folder, and output-folder.
+## Struktur
+Wir haben zwei Hauptcodeordner; python und typescript. Und wir haben eine Reihe von Datenordnern, zum Beispiel fremdsprache, props. 
 
-## How to use it
-Schritte um ein neue Vocabular zu bauen. Jede Hauptdateiordner hat csv utf-8 durch Trennzeichen getrennt steuerdatei.csv, welche hat die folgende Struktur:
+Jeder Datenordner enthält; die Eintragsdaten im CSV-Format, dass wir gerade arbeiten und können drei Unterordner haben; original-data, middle-data und output-data.
+
+## Wie es zu benutzen ist
+Schritte zum Aufbau eines neuen Vokabular. Jeder Hauptdateiordner verfügt über durch Trennzeichen getrennt UTF-8 steuerdatei.csv, die die folgende Struktur hat:
 
 ```bash
 dateiname;url_id;main-title;title;description
 esa-funktionale.csv;bista23FrESA;erste Fremdsprache ESA;Funktionale kommunikative Kompetenz;Bis zum Mittleren ...
 esa-interkulturelle.csv;bista23FrESA;erste Fremdsprache ESA;Interkulturelle Kompetenz;Interkulturelle Kompetenz ...
-
 ```
+
 Es ist sein wichtig in jede Zeile 4 Trennzeichen zu haben.
-Und jede Zeile von steuerdatei hinweise ein csv, z.B. esa-funktionale.csv
+Und jede Zeile von steuerdatei hinweise ein csv, das ein VoKabular darstellt, z.B. esa-funktionale.csv. 
 
 ```bash
 notation;title;description
@@ -26,14 +27,12 @@ notation;title;description
 2.1;strukturell unkomplizierte Korrespondenz zu vertrauten Themen ...
 2.2;in strukturell unkomplizierten Gebrauchstexten wichtige Informationen ...
 2.3;klar formulierte Anleitungen, Hinweise oder Vorschriften verstehen.
-
 ```
-Als wir sehen erst Zeile endet ohne ; weil ein description habe, aber die rest endet mit ;.
-
-Um JSON und ttl zu generieren mit python, sollte die 
+Um JSON und TTL mit Python zu erstellen, sollte man den relativen Pfad zur Steuerdatei.csv angeben.
 ```bash
 python3 app.py ../fremdsprache/steuerdatei.csv
 ```
+Und dann würden die 3 Unterordner; original-data, middle-data und output-data erstellen.
 
        
 
