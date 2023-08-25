@@ -1,9 +1,0 @@
-notation;title;description
-1;Lückensatz/Lückentext;Ein Text enthält Lücken, in die geschrieben werden soll, z. B. Ergänzung von Wortenden, Attributen usw. 
-2;Zahlenpyramide;Zahlen werden in Abhängigkeit anderer Zahlen in Felder einer Pyramide eingetragen.
-3;Korrigiere;Vorgegebene Falschschreibungen sollen erkannt und berichtigt werden.
-4;Multiple Choice;Single Choice – mehrere Distraktoren und nur einen Attraktor
-5;Complexe Multiple Choice;in jeder Zeile sollen Sätze/Wörter/Wortgruppen/Bilder nach fest vorgegebenen Spaltenbezeichnungen bewertet werden, z.B. richtig/falsch, stimmt/stimmt nicht.
-6;Zuordnungsitems
-7;Kurzantwort (Zahl, Wort, Wortgruppe, Rechnung …)
-8;Erweiterte Antwort (Begründungen, Erklärungen …)

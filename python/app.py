@@ -15,7 +15,7 @@ if len(sys.argv) > 1 and str(sys.argv[1]) == "help":
     exit("Please add one input json file to the command line")
 
 if len(sys.argv) == 0:
-    data_folder = os.path.join("..", "data")
+    data_folder = os.path.join("..","data")
     data_csv = "steuerdatei.csv"
 else:
     head, tail = os.path.split(sys.argv[1])

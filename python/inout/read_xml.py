@@ -6,14 +6,13 @@ import shutil
 
 
 def read_xml():
-    input_file = os.path.join("..", "..", "Alte Item-DatenBank", "DBPProps.csv")
-    output_folder = os.path.join("..", "..", "Alte Item-DatenBank")
-    output_file = os.path.join("..", "..", "Alte Item-DatenBank", "outputDBPProps.csv")
+    input_file = os.path.join("..", "..","..", "Alte Item-DatenBank", "DBPProps.csv")
+    output_folder = os.path.join("..", "..","..", "Alte Item-DatenBank")
+    output_file = os.path.join("..", "..","..", "Alte Item-DatenBank", "outputDBPProps.csv")
      
     with open(input_file, mode='r', encoding='utf-8') as fin, \
          open(output_file, mode ='w', newline='', encoding='utf-8') as fout:
         reader = csv.reader(fin, delimiter=";")
-
         writer = csv.writer(fout, delimiter=";")
         writer.writerow(['dateiname','url_id','main-title','main-description','title','description'])
         next(reader)
@@ -43,13 +42,17 @@ def read_xml():
                 filename = os.path.join(output_folder, row2[0])
                 with open(filename, mode = 'w', newline='', encoding='utf-8') as fout:
                     writer = csv.writer(fout, delimiter = ";" )
-                    writer.writerow(['notation','title','description'])
+                    writer.writerow(['notation','title','description','id'])
                     inc_counter = 1
                     while (counter>0):
                         line = next(reader)
-                        writer.writerow([inc_counter, line[13],''])
+                        if (not line[11]):
+                            writer.writerow(['None', line[13],])
+                        else:
+                            writer.writerow([line[13], line[11],])
                         counter -= 1
                         inc_counter +=1
             else:
                 next(reader)
                                
+read_xml()

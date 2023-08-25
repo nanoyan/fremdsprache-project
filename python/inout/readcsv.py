@@ -29,6 +29,7 @@ def add_w3id_csv(input_folder,middle_folder,row):
 
     input_file = os.path.join(input_folder, file_name)
     middle_file = os.path.join(middle_folder, file_name)
+    counter = 1
 
     with open(input_file, mode='r', encoding='utf-8') as fin, \
          open(middle_file, mode ='w', newline='', encoding='utf-8') as fout:
@@ -40,5 +41,7 @@ def add_w3id_csv(input_folder,middle_folder,row):
             if (len(row)==2):
                 row.append('')
             if (len(row)==3):
-                row.append(str(uuid.uuid1()))
+                counter +=1 
+                padded_num ="".join(["0"] * (3 - len(str(counter)))) + str(counter)
+                row.append(padded_num)
             writer.writerow(row)

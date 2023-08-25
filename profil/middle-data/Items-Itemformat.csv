@@ -1,9 +1,0 @@
-notation;title;description
-1;Lückensatz/Lückentext;Ein Text enthält Lücken, in die geschrieben werden soll, z. B. Ergänzung von Wortenden, Attributen usw. ;0aea902c-1300-4425-9821-fee1ecc1ead0
-2;Zahlenpyramide;Zahlen werden in Abhängigkeit anderer Zahlen in Felder einer Pyramide eingetragen.;b8c8a8cb-293e-46d2-bda8-74c220ef22b9
-3;Korrigiere;Vorgegebene Falschschreibungen sollen erkannt und berichtigt werden.;f62b049a-7ee6-443a-82b6-4bcafd68c0da
-4;Multiple Choice;Single Choice – mehrere Distraktoren und nur einen Attraktor;84025001-f390-4741-a9b7-d60e5be124e5
-5;Complexe Multiple Choice;in jeder Zeile sollen Sätze/Wörter/Wortgruppen/Bilder nach fest vorgegebenen Spaltenbezeichnungen bewertet werden, z.B. richtig/falsch, stimmt/stimmt nicht.;7732adca-fa06-46b6-a44d-b9664459944c
-6;Zuordnungsitems;;a0ceda99-77fd-44ad-bdea-9e29c6e5fcb6
-7;Kurzantwort (Zahl, Wort, Wortgruppe, Rechnung …);;a0df3db7-bc4f-409d-b50f-443d7bf02ef0
-8;Erweiterte Antwort (Begründungen, Erklärungen …);;16bea0d5-2e63-4ad9-9881-de94ea9eebe9
